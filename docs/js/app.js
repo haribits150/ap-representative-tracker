@@ -3,7 +3,8 @@ let DATA = {mps: []};
 let DIST = {districts: []};
 let AFF = {mps: []};
 let GEO = null;
-let LANG = localStorage.getItem('aprt-lang') || 'en';
+let LANG = localStorage.getItem('aprt-lang') ||
+  (((typeof navigator !== 'undefined') && (navigator.language || '').toLowerCase().indexOf('te') === 0) ? 'te' : 'en');
 const t = k => STRINGS[LANG][k] ?? STRINGS.en[k] ?? k;
 
 const slugify = s => (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
@@ -93,19 +94,21 @@ function viewDashboard(){
   const n = mps.length;
   const aAtt = avgOf('attendance_pct','legislative');
   const aQ = avgOf('questions_asked','legislative');
-  const aU = avgOf('utilization_pct','funds');
+  const aAlloc = avgOf('entitlement_inr','funds');
   const nAtt = mps.filter(mp=>M(mp.legislative,'attendance_pct').value!=null).length;
   const nQ = mps.filter(mp=>M(mp.legislative,'questions_asked').value!=null).length;
-  const nU = mps.filter(mp=>M(mp.funds,'utilization_pct').value!=null).length;
+  const nA = mps.filter(mp=>M(mp.funds,'entitlement_inr').value!=null).length;
   return `
-  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p></div>
+  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p>
+    <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
+    <p style="margin:4px 0 0"><a href="#/districts">${t('browse_districts')}</a></p>
+  </div>
   <div class="stats">
     <div class="stat"><div class="num">${n}</div><div class="lbl">${t('mps_tracked')}</div><div class="sub">${t('as_of')} ${esc(DATA.collected_at||'—')}</div></div>
     <div class="stat"><div class="num">${fmtPct(aAtt)}</div><div class="lbl">${t('avg_attendance')}</div><div class="sub">${t('of_mps')(nAtt)}</div></div>
     <div class="stat"><div class="num">${aQ==null?'—':Math.round(aQ)}</div><div class="lbl">${t('avg_questions')}</div><div class="sub">${t('of_mps')(nQ)}</div></div>
-    <div class="stat"><div class="num">${fmtPct(aU)}</div><div class="lbl">${t('avg_mplads')}</div><div class="sub">${t('of_mps')(nU)}</div></div>
+    <div class="stat"><div class="num">${fmtINR(aAlloc)}</div><div class="lbl">${t('avg_mplads_alloc')}</div><div class="sub">${t('of_mps')(nA)}</div></div>
   </div>
-  <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
   <div class="mp-grid" id="grid">
     ${mps.map(mp=>`
       <a class="mp-card" data-name="${esc(mp.name)} ${esc(mp.constituency)}" href="#/mp/${slugOf(mp)}">
@@ -130,16 +133,20 @@ function viewProfile(slug){
   const L=mp.legislative||{}, F=mp.funds||{}, D=mp.disclosure||{}, E=mp.election||{};
   const vc = verifiedCount(mp);
   const lastV = mp.meta && mp.meta.last_verified;
+  const apAvg = (k,g,f)=>{ const a=avgOf(k,g); return a==null ? '' : `${t('ap_avg')}: ${f(a)}`; };
+  const waText = encodeURIComponent(
+    `${mp.name} (${mp.constituency})\n${t('m_attendance')}: ${fmtPct(M(L,'attendance_pct').value)} | ${t('m_questions')}: ${fmtN(M(L,'questions_asked').value)} | ${t('m_mplads')}: ${fmtINR(M(F,'entitlement_inr').value)}\n${t('tagline')}\nhttps://haribits150.github.io/ap-representative-tracker/#/mp/${slugOf(mp)}`);
   return `
   <p><a href="#/">${t('back')}</a></p>
   <div class="profile-head">
     <h1>${esc(mp.name)}<span class="badge">${esc(mp.party||'')}</span></h1>
     <p class="sub">${esc(mp.constituency)} · ${t('m_constituency')==='నియోజకవర్గం'?'లోక్‌సభ':'Lok Sabha'} · ${t('last_verified')}: ${esc(lastV||'—')} · ${vc.ok}/${vc.total} ${t('fields_verified')}</p>
+    <p><a class="share-btn" href="https://wa.me/?text=${waText}" target="_blank" rel="noopener">${t('share_whatsapp')}</a></p>
     <div class="kpis">
-      ${kpi(fmtPct(M(L,'attendance_pct').value), t('m_attendance'))}
-      ${kpi(fmtN(M(L,'questions_asked').value), t('m_questions'))}
-      ${kpi(fmtN(M(L,'debates_participated').value), t('m_debates'))}
-      ${kpi(fmtPct(M(F,'utilization_pct').value), t('m_mplads'))}
+      ${kpi(fmtPct(M(L,'attendance_pct').value), t('m_attendance'), apAvg('attendance_pct','legislative',fmtPct))}
+      ${kpi(fmtN(M(L,'questions_asked').value), t('m_questions'), apAvg('questions_asked','legislative',v=>fmtN(Math.round(v))))}
+      ${kpi(fmtN(M(L,'debates_participated').value), t('m_debates'), apAvg('debates_participated','legislative',v=>fmtN(Math.round(v))))}
+      ${kpi(fmtINR(M(F,'entitlement_inr').value), t('m_mplads_alloc'))}
       ${kpi(fmtPct(M(D,'asset_growth_pct').value), t('m_assets'))}
     </div>
   </div>
@@ -310,9 +317,10 @@ function viewDistrict(slug){
   const info = distInfo(d);
   const mps = districtMPs(d);
   const inds = info.indicators || {};
-  const irow = (label, m) => {
+  const irow = (label, m, fmt) => {
+    const f = fmt || fmtN;
     if(!m || m.value==null) return `<tr><th>${label}</th><td><span class="pending">${t('data_pending')}</span></td></tr>`;
-    return `<tr><th>${label}</th><td>${fmtN(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
+    return `<tr><th>${label}</th><td>${f(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
   };
   return `
   <p><a href="#/districts">${t('back')}</a></p>
@@ -341,7 +349,11 @@ function viewDistrict(slug){
       ${irow('MGNREGA person-days', inds.mgnrega_persondays_fy25)}
       ${irow('PMAY-G houses completed', inds.pmayg_houses_completed)}
       ${irow('Jal Jeevan tap connections', inds.jjm_tap_connections)}
+      ${irow('Per-capita income', inds.per_capita_income_inr, fmtINR)}
+      ${irow('Crime rate per lakh (2022) †', inds.crime_rate_per_lakh)}
+      ${irow('Crimes against women per lakh (2022) †', inds.crimes_against_women_per_lakh)}
     </table>
+    <div class="area-note">† Crime rates computed by this project: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</div>
   </section>`;
 }
 
@@ -355,7 +367,7 @@ function viewMethodology(){
     <h2>నియమాలు</h2>
     <p>ప్రతి సంఖ్యకు మూలం లింక్ తప్పనిసరి. వ్యక్తులపై విశేషణాలు నిషిద్ధం — "తక్కువ హాజరు" కాదు, "హాజరు 43%, సభ సగటు 78%" అని మాత్రమే. అన్ని పార్టీలకు ఒకే లేఅవుట్. ర్యాంకింగ్‌లు లేవు.</p>
     <h2>పరిమితులు</h2>
-    <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు.</p>
+    <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు. జిల్లా నేరాల రేట్లు ఈ ప్రాజెక్ట్ లెక్కించినవి: NCRB 2022 జిల్లా సంఘటనలు ÷ 2011 జనాభా లెక్కల జిల్లా జనాభా × 100,000 (NCRB రేట్లను రాష్ట్ర/నగర స్థాయిలో మాత్రమే ప్రచురిస్తుంది).</p>
     <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
     <p>myneta.info అభ్యర్థుల వారీగా ADR తీవ్ర/సాధారణ విభజనను ప్రచురించదు — కాబట్టి తీవ్రత అనేది ADR ప్రచురించిన "తీవ్రమైన క్రిమినల్ కేసులు" ప్రమాణాల యాంత్రిక అనువర్తనం: 5+ సంవత్సరాల శిక్ష పడే నేరాలు; ఎన్నికల నేరాలు; అవినీతి/పన్ను ఎగవేత; SC/ST అత్యాచారాల నిరోధక చట్టం నేరాలు; హత్య, హత్యాయత్నం, అత్యాచారం, కిడ్నాప్ వంటి తీవ్ర వర్గాలు. మిగతావన్నీ — ఆందోళన కేసులు, ట్రాఫిక్ ఉల్లంఘనలు, చిన్న గాయాలు, చిన్న జరిమానాలు — సాధారణంగా లెక్క. ప్రతి అభియోగానికి ఆధారం పేర్కొనబడుతుంది. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు.</p>`
   : `
@@ -364,7 +376,7 @@ function viewMethodology(){
     <h2>Rules</h2>
     <p>Every number carries a source link — no exceptions. No adjectives about people: never "low attendance", always "attendance 43% vs. house average 78%". Identical layout for every party. No leaderboards, no verdicts.</p>
     <h2>Limits</h2>
-    <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS allocation figures are 18th-Lok-Sabha cumulative as-on-date from the eSAKSHI portal (not FY-wise); per-MP expenditure and works counts are not published on the public dashboard.</p>
+    <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS allocation figures are 18th-Lok-Sabha cumulative as-on-date from the eSAKSHI portal (not FY-wise); per-MP expenditure and works counts are not published on the public dashboard. District crime rates are project-computed: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</p>
     <h2>Criminal cases: serious vs non-serious</h2>
     <p>myneta.info does not publish ADR's own per-candidate serious/non-serious split, so severity is a mechanical application of ADR's published "serious criminal cases" criteria to the sections listed in each affidavit: offences punishable with 5+ years; electoral offences (e.g. IPC 171E/171H); corruption and tax-evasion offences; SC/ST (Prevention of Atrocities) Act offences; and heinous categories (murder, attempt to murder, rape, kidnapping, dacoity). Everything else — protest and public-order cases, traffic violations, simple hurt, minor statutory fines — counts as non-serious. Each charge carries its basis; borderline calls are flagged. Declared cases are pending matters, not convictions.</p>
     <h2>Corrections</h2>
