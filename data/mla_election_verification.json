@@ -1,0 +1,1282 @@
+{
+ "verification_date": "2026-10-16",
+ "method": "Every 2024 Andhra Pradesh Assembly result was checked against the official Election Commission of India result pages, archived on web.archive.org (the live ECI site no longer hosts the June 2024 pages). Canonical archived-ECI URL pattern: https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01{N}.htm (N = AC number, no zero padding). Each loaded page was checked for the ECI 'Last Updated at 08:55 am On 05/06/2024' final-data stamp; margins recomputed as winner votes minus runner-up votes. Vote share tolerance 0.05pp; margin must match exactly. Name variants (transliteration, initials, aliases) accepted as the same person where party and constituency agree.",
+ "summary": {
+  "total_constituencies": 175,
+  "match": 147,
+  "corrected": 7,
+  "unverifiable": 21,
+  "pending_retry": 0,
+  "retry_completed": true
+ },
+ "entries": [
+  {
+   "ac_no": 1,
+   "constituency": "Ichchapuram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS011.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 2,
+   "constituency": "Palasa",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS012.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 3,
+   "constituency": "Tekkali",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS013.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 4,
+   "constituency": "Pathapatnam",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS014.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 5,
+   "constituency": "Srikakulam",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS015.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 6,
+   "constituency": "Amadalavalasa",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS016.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 7,
+   "constituency": "Etcherla",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS017.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 8,
+   "constituency": "Narasannapeta",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS018.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 9,
+   "constituency": "Rajam (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS019.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 10,
+   "constituency": "Palakonda (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0110.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 11,
+   "constituency": "Kurupam (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0111.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 12,
+   "constituency": "Parvathipuram (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0112.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 13,
+   "constituency": "Salur (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0113.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 14,
+   "constituency": "Bobbili",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0114.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 15,
+   "constituency": "Cheepurupalli",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0115.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 16,
+   "constituency": "Gajapathinagaram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0116.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 17,
+   "constituency": "Nellimarla",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0117.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 18,
+   "constituency": "Vizianagaram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0118.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 19,
+   "constituency": "Srungavarapukota",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0119.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 20,
+   "constituency": "Bhimili",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0120.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 21,
+   "constituency": "Visakhapatnam East",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0121.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 22,
+   "constituency": "Visakhapatnam South",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0122.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 23,
+   "constituency": "Visakhapatnam North",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0123.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 24,
+   "constituency": "Visakhapatnam West",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0124.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 25,
+   "constituency": "Gajuwaka",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0125.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 26,
+   "constituency": "Chodavaram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0126.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 27,
+   "constituency": "Madugula",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0127.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 28,
+   "constituency": "Araku Valley (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0128.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 29,
+   "constituency": "Paderu (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0129.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 30,
+   "constituency": "Anakapalle",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0130.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 31,
+   "constituency": "Pendurthi",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0131.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 32,
+   "constituency": "Elamanchili",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0132.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 33,
+   "constituency": "Payakaraopet (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0133.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 34,
+   "constituency": "Narsipatnam",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0134.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 35,
+   "constituency": "Tuni",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0135.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 36,
+   "constituency": "Prathipadu (Kakinada)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0136.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 37,
+   "constituency": "Pithapuram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0137.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 38,
+   "constituency": "Kakinada Rural",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0138.htm",
+   "note": "Official ECI page showed different figures than the site's earlier data; site data now matches the official page (confirmed by independent double-check 2026-10-16).",
+   "eci_winner": "PANTAM VENKATESWARA RAO (PANTAM NANAJI)",
+   "eci_party": "Janasena Party",
+   "eci_vote_share_pct": 65.11,
+   "eci_margin_votes": 72040,
+   "eci_winner_votes": 134414,
+   "eci_runner_up": "KURASALA KANNA BABU",
+   "eci_runner_up_votes": 62374
+  },
+  {
+   "ac_no": 39,
+   "constituency": "Peddapuram",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/20251106203738/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0139.htm",
+   "note": "Official ECI page showed different figures than the site's earlier data; site data now matches the official page (confirmed by independent double-check 2026-10-16).",
+   "eci_winner": "CHINA RAJAPPA NIMMAKAYALA",
+   "eci_party": "Telugu Desam",
+   "eci_vote_share_pct": 59.09,
+   "eci_margin_votes": 40451,
+   "eci_winner_votes": 105685,
+   "eci_runner_up": "DAVULURI DORABABU",
+   "eci_runner_up_votes": 65234
+  },
+  {
+   "ac_no": 40,
+   "constituency": "Anaparthy",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0140.htm",
+   "note": "Official ECI page showed different figures than the site's earlier data; site data now matches the official page (confirmed by independent double-check 2026-10-16).",
+   "eci_winner": "RAMAKRISHNA REDDY NALLAMILLI",
+   "eci_party": "Bharatiya Janata Party",
+   "eci_vote_share_pct": 53.73,
+   "eci_margin_votes": 20850,
+   "eci_winner_votes": 105720,
+   "eci_runner_up": "DOCTOR.SATHI SURYANARAYANA REDDY",
+   "eci_runner_up_votes": 84870
+  },
+  {
+   "ac_no": 41,
+   "constituency": "Kakinada City",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0141.htm",
+   "note": "Official ECI page showed different figures than the site's earlier data; site data now matches the official page (confirmed by independent double-check 2026-10-16).",
+   "eci_winner": "VANAMADI VENKATESWARA RAO @ KONDABABU",
+   "eci_party": "Telugu Desam",
+   "eci_vote_share_pct": 63.78,
+   "eci_margin_votes": 56572,
+   "eci_winner_votes": 113014,
+   "eci_runner_up": "DWARAMPUDI CHANDRASEKHARA REDDY",
+   "eci_runner_up_votes": 56442
+  },
+  {
+   "ac_no": 42,
+   "constituency": "Ramachandrapuram",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0142.htm",
+   "note": "Official ECI page showed different figures than the site's earlier data; site data now matches the official page (confirmed by independent double-check 2026-10-16).",
+   "eci_winner": "VASAMSETTI. SUBASH",
+   "eci_party": "Telugu Desam",
+   "eci_vote_share_pct": 55.68,
+   "eci_margin_votes": 26291,
+   "eci_winner_votes": 97652,
+   "eci_runner_up": "PILLI SURYA PRAKASH",
+   "eci_runner_up_votes": 71361
+  },
+  {
+   "ac_no": 43,
+   "constituency": "Mummidivaram",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 44,
+   "constituency": "Amalapuram (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203552/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0144.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 45,
+   "constituency": "Razole (SC)",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 46,
+   "constituency": "Gannavaram (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204125/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0146.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 47,
+   "constituency": "Kothapeta",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203459/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0147.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 48,
+   "constituency": "Mandapeta",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203939/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0148.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 49,
+   "constituency": "Rajanagaram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204217/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0149.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 50,
+   "constituency": "Rajahmundry City",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203832/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0150.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 51,
+   "constituency": "Rajahmundry Rural",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203317/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0151.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 52,
+   "constituency": "Jaggampeta",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251007034959/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0152.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 53,
+   "constituency": "Rampachodavaram (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203957/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0153.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 54,
+   "constituency": "Kovvur (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203642/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0154.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 55,
+   "constituency": "Nidadavole",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20241216181941/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0155.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 56,
+   "constituency": "Achanta",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20240619143141/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0156.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 57,
+   "constituency": "Palakollu",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/20251106203652/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0157.htm",
+   "note": "Official ECI page differed; site data corrected 2026-10-16 per consolidated retry reading.",
+   "eci_winner": "DR.NIMMALA RAMANAIDU",
+   "eci_winner_votes": 113114,
+   "eci_vote_share_pct": 69.3,
+   "eci_runner_up": "GUDALA SRI HARI GOPALA RAO (GUDALA GOPI)",
+   "eci_runner_up_votes": 45169,
+   "eci_margin_votes": 67945
+  },
+  {
+   "ac_no": 58,
+   "constituency": "Narasapuram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204151/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0158.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 59,
+   "constituency": "Bhimavaram",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 60,
+   "constituency": "Undi",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203735/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0160.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 61,
+   "constituency": "Tanuku",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0161.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 62,
+   "constituency": "Tadepalligudem",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0162.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 63,
+   "constituency": "Unguturu",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0163.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 64,
+   "constituency": "Denduluru",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0164.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 65,
+   "constituency": "Eluru",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0165.htm",
+   "note": "Official ECI page read 2026-10-16: vote share and margin match exactly. Winner appears as 'RADHA KRISHNAYYA BADETI' on the ECI page vs 'Badeti Chanti' in records — formal-name/popular-alias variant, same person; no numerical correction."
+  },
+  {
+   "ac_no": 66,
+   "constituency": "Gopalapuram (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0166.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 67,
+   "constituency": "Polavaram (ST)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0167.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 68,
+   "constituency": "Chintalapudi (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0168.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 69,
+   "constituency": "Tiruvuru (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0169.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 70,
+   "constituency": "Nuzvid",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0170.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 71,
+   "constituency": "Gannavaram (Krishna)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0171.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 72,
+   "constituency": "Gudivada",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0172.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 73,
+   "constituency": "Kaikalur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204040/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0173.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 74,
+   "constituency": "Pedana",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 75,
+   "constituency": "Machilipatnam",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 76,
+   "constituency": "Avanigadda",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0176.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 77,
+   "constituency": "Pamarru (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0177.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 78,
+   "constituency": "Penamaluru",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0178.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 79,
+   "constituency": "Vijayawada West",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0179.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 80,
+   "constituency": "Vijayawada Central",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0180.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 81,
+   "constituency": "Vijayawada East",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0181.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 82,
+   "constituency": "Mylavaram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0182.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 83,
+   "constituency": "Nandigama (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0183.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 84,
+   "constituency": "Jaggayyapeta",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0184.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 85,
+   "constituency": "Pedakurapadu",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0185.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 86,
+   "constituency": "Tadikonda (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0186.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 87,
+   "constituency": "Mangalagiri",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0187.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 88,
+   "constituency": "Ponnuru",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 89,
+   "constituency": "Vemuru (SC)",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 90,
+   "constituency": "Repalle",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203715/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0190.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 91,
+   "constituency": "Tenali",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0191.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 92,
+   "constituency": "Bapatla",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0192.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 93,
+   "constituency": "Prathipadu (Guntur) (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0193.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 94,
+   "constituency": "Guntur West",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0194.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 95,
+   "constituency": "Guntur East",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0195.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 96,
+   "constituency": "Chilakaluripet",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0196.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 97,
+   "constituency": "Narasaraopet",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0197.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 98,
+   "constituency": "Sattenapalle",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0198.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 99,
+   "constituency": "Vinukonda",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203327/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0199.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 100,
+   "constituency": "Gurajala",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01100.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 101,
+   "constituency": "Macherla",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01101.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 102,
+   "constituency": "Yerragondapalem (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01102.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 103,
+   "constituency": "Darsi",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01103.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 104,
+   "constituency": "Parchur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01104.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 105,
+   "constituency": "Addanki",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01105.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 106,
+   "constituency": "Chirala",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01106.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 107,
+   "constituency": "Santhanuthalapadu (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01107.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 108,
+   "constituency": "Ongole",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01108.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 109,
+   "constituency": "Kandukur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01109.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 110,
+   "constituency": "Kondapi (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01110.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 111,
+   "constituency": "Markapuram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01111.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 112,
+   "constituency": "Giddalur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01112.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 113,
+   "constituency": "Kanigiri",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01113.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 114,
+   "constituency": "Kavali",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01114.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 115,
+   "constituency": "Atmakur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01115.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 116,
+   "constituency": "Kovur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01116.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 117,
+   "constituency": "Nellore City",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01117.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 118,
+   "constituency": "Nellore Rural",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01118.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 119,
+   "constituency": "Sarvepalli",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01119.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 120,
+   "constituency": "Gudur (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203402/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01120.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 121,
+   "constituency": "Sullurpeta (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01121.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 122,
+   "constituency": "Venkatagiri",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01122.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 123,
+   "constituency": "Udayagiri",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01123.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 124,
+   "constituency": "Badvel (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01124.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 125,
+   "constituency": "Rajampet",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01125.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 126,
+   "constituency": "Kadapa",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01126.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 127,
+   "constituency": "Kodur (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01127.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 128,
+   "constituency": "Rayachoti",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01128.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 129,
+   "constituency": "Pulivendla",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01129.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 130,
+   "constituency": "Kamalapuram",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01130.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 131,
+   "constituency": "Jammalamadugu",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204054/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01131.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 132,
+   "constituency": "Proddatur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01132.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 133,
+   "constituency": "Mydukur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01133.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 134,
+   "constituency": "Allagadda",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 135,
+   "constituency": "Srisailam",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203906/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01135.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 136,
+   "constituency": "Nandikotkur (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204004/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01136.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 137,
+   "constituency": "Kurnool",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203609/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01137.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 138,
+   "constituency": "Panyam",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203645/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01138.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 139,
+   "constituency": "Nandyal",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203901/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01139.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 140,
+   "constituency": "Banaganapalle",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203923/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01140.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 141,
+   "constituency": "Dhone",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203432/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01141.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 142,
+   "constituency": "Pattikonda",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 143,
+   "constituency": "Kodumur (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203912/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01143.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 144,
+   "constituency": "Yemmiganur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203908/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01144.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 145,
+   "constituency": "Mantralayam",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 146,
+   "constituency": "Adoni",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (Wayback availability API, both URL forms) (consolidated retry 2026-10-16)."
+  },
+  {
+   "ac_no": 147,
+   "constituency": "Alur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204014/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01147.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 148,
+   "constituency": "Rayadurg",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203306/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01148.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 149,
+   "constituency": "Uravakonda",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203613/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01149.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 150,
+   "constituency": "Guntakal",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203532/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01150.htm",
+   "note": "Official ECI page read in consolidated retry 2026-10-16; values match site data."
+  },
+  {
+   "ac_no": 151,
+   "constituency": "Tadipatri",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (availability API; arquivo.pt also none) (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 152,
+   "constituency": "Singanamala (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203548/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01152.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 153,
+   "constituency": "Anantapur Urban",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203540/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01153.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data. Name note: shortened form of Daggupati Venkateswara Prasad, same person/party."
+  },
+  {
+   "ac_no": 154,
+   "constituency": "Kalyandurg",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203501/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01154.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 155,
+   "constituency": "Raptadu",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 156,
+   "constituency": "Madakasira (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106203405/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01156.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data."
+  },
+  {
+   "ac_no": 157,
+   "constituency": "Hindupur",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 158,
+   "constituency": "Penukonda",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 159,
+   "constituency": "Puttaparthi",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 160,
+   "constituency": "Dharmavaram",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 161,
+   "constituency": "Kadiri",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 162,
+   "constituency": "Thamballapalle",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 163,
+   "constituency": "Pileru",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 164,
+   "constituency": "Madanapalle",
+   "status": "UNVERIFIABLE",
+   "source": null,
+   "note": "UNVERIFIABLE: no archived snapshot exists at any date (checked 2026-10-16)."
+  },
+  {
+   "ac_no": 165,
+   "constituency": "Punganur",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/20251106204009/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01165.htm",
+   "note": "Official ECI page read 2026-10-16; winner, vote share and margin match site data. Name note: initial expanded on ECI page vs P. Ramachandra Reddy."
+  },
+  {
+   "ac_no": 166,
+   "constituency": "Chandragiri",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01166.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 167,
+   "constituency": "Tirupati",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01167.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 168,
+   "constituency": "Srikalahasti",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01168.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 169,
+   "constituency": "Sathyavedu (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01169.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 170,
+   "constituency": "Nagari",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01170.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 171,
+   "constituency": "Gangadhara Nellore (SC)",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01171.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 172,
+   "constituency": "Chittoor",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01172.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 173,
+   "constituency": "Puthalapattu (SC)",
+   "status": "CORRECTED",
+   "source": "https://web.archive.org/web/20241203090759/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01173.htm",
+   "note": "Official ECI page shows vote share 52.37% (margin 15,634 confirmed); site's earlier 50.99% corrected 2026-10-16. Winner-name spelling on ECI page is an initials/full-name variant of the same person.",
+   "eci_vote_share_pct": 52.37,
+   "eci_margin_votes": 15634
+  },
+  {
+   "ac_no": 174,
+   "constituency": "Palamaner",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01174.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  },
+  {
+   "ac_no": 175,
+   "constituency": "Kuppam",
+   "status": "MATCH",
+   "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01175.htm",
+   "note": "Official ECI page read 2026-10-16 (batch pass); winner, vote share and margin match site data. Source link is the canonical archived-ECI URL, which resolves to the captured official page."
+  }
+ ]
+}

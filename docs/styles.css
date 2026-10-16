@@ -70,4 +70,4 @@ a{color:var(--accent)}
 .house-tabs{display:flex;gap:8px;justify-content:center;margin:12px 0}
 .house-tab{background:#fff;border:2px solid var(--accent);color:var(--accent);
   padding:8px 20px;border-radius:20px;font-size:.95rem;font-weight:600;cursor:pointer}
-.house-tab.active{background:var(--accent);color:#fff}
+.house-tab.active{background:var(--accent);color:#fff}@media (max-width:640px){.map-box{height:300px}}

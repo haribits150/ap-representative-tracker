@@ -129,11 +129,11 @@ function viewDashboard(){
   })();
   const route = isMla ? 'mla' : 'mp';
   return `
-  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p>
-    <div class="house-tabs">${tab('mp', t('house_mp'), DATA.mps.length)}${tab('mla', t('house_mla'), MLA.length)}</div>
-    <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
-    <p style="margin:4px 0 0"><a href="#/districts">${t('browse_districts')}</a></p>
-  </div>
+  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p></div>
+  <div id="map" class="map-box" style="margin-bottom:20px"><p style="padding:20px;color:var(--muted)">${t('map_loading')}</p></div>
+  <div class="house-tabs">${tab('mp', t('house_mp'), DATA.mps.length)}${tab('mla', t('house_mla'), MLA.length)}</div>
+  <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
+  <p style="margin:4px 0 16px"><a href="#/districts">${t('browse_districts')}</a></p>
   <div class="stats">${stats}</div>
   <div class="mp-grid" id="grid">
     ${list.map(mp=>`
@@ -456,7 +456,7 @@ function viewMethodology(){
     <h2>పరిమితులు</h2>
     <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు. జిల్లా నేరాల రేట్లు ఈ ప్రాజెక్ట్ లెక్కించినవి: NCRB 2022 జిల్లా సంఘటనలు ÷ 2011 జనాభా లెక్కల జిల్లా జనాభా × 100,000 (NCRB రేట్లను రాష్ట్ర/నగర స్థాయిలో మాత్రమే ప్రచురిస్తుంది).</p>
     <h2>MLAలు</h2>
-    <p>175 మంది అసెంబ్లీ సభ్యులు (2024 ఎన్నిక) అదే నియమాలతో ట్రాక్ చేయబడుతున్నారు. AP శాసనసభ MLA వారీగా హాజరు, ప్రశ్నలు, చర్చల డేటాను ప్రచురించదు, రాష్ట్రం MLA వారీగా నిధుల వినియోగ లెక్కలను ప్రచురించదు — ఆ విభాగాలు ఖాళీగానే ఉండి, అదే చెబుతాయి. MLA ఎన్నికల లెక్కలు ECI-ఆధారిత ఫలితాల పట్టికల నుండి సంకలనం చేయబడ్డాయి.</p>
+    <p>175 మంది అసెంబ్లీ సభ్యులు (2024 ఎన్నిక) అదే నియమాలతో ట్రాక్ చేయబడుతున్నారు. AP శాసనసభ MLA వారీగా హాజరు, ప్రశ్నలు, చర్చల డేటాను ప్రచురించదు, రాష్ట్రం MLA వారీగా నిధుల వినియోగ లెక్కలను ప్రచురించదు — ఆ విభాగాలు ఖాళీగానే ఉండి, అదే చెబుతాయి. MLA ఎన్నికల లెక్కలను 16 అక్టోబర్ 2026న భారత ఎన్నికల సంఘం అధికారిక నియోజకవర్గ ఫలితాల పేజీలతో (ఆర్కైవ్ చేసినవి) సరిచూశాము: 175 నియోజకవర్గాలలో 154 ధృవీకరించబడ్డాయి — 147 సరిపోలాయి, 7 సరిచేయబడ్డాయి. 21 నియోజకవర్గాలకు ఆర్కైవ్ చేసిన అధికారిక పేజీ లేదు, కాబట్టి ఆ లెక్కలు ECI-ఆధారిత పట్టికల నుండే కొనసాగుతున్నాయి: ముమ్మిడివరం, రాజోలు (SC), భీమవరం, పెడన, మచిలీపట్నం, పొన్నూరు, వేమూరు (SC), ఆళ్లగడ్డ, పత్తికొండ, మంత్రాలయం, ఆదోని, తాడిపత్రి, రాప్తాడు, హిందూపూర్, పెనుకొండ, పుట్టపర్తి, ధర్మవరం, కదిరి, తంబళ్లపల్లె, పీలేరు, మదనపల్లె.</p>
     <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
     <p>myneta.info అభ్యర్థుల వారీగా ADR తీవ్ర/సాధారణ విభజనను ప్రచురించదు — కాబట్టి తీవ్రత అనేది ADR ప్రచురించిన "తీవ్రమైన క్రిమినల్ కేసులు" ప్రమాణాల యాంత్రిక అనువర్తనం: 5+ సంవత్సరాల శిక్ష పడే నేరాలు; ఎన్నికల నేరాలు; అవినీతి/పన్ను ఎగవేత; SC/ST అత్యాచారాల నిరోధక చట్టం నేరాలు; హత్య, హత్యాయత్నం, అత్యాచారం, కిడ్నాప్ వంటి తీవ్ర వర్గాలు. మిగతావన్నీ — ఆందోళన కేసులు, ట్రాఫిక్ ఉల్లంఘనలు, చిన్న గాయాలు, చిన్న జరిమానాలు — సాధారణంగా లెక్క. ప్రతి అభియోగానికి ఆధారం పేర్కొనబడుతుంది. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు.</p>`
   : `
@@ -469,7 +469,7 @@ function viewMethodology(){
     <h2>Criminal cases: serious vs non-serious</h2>
     <p>myneta.info does not publish ADR's own per-candidate serious/non-serious split, so severity is a mechanical application of ADR's published "serious criminal cases" criteria to the sections listed in each affidavit: offences punishable with 5+ years; electoral offences (e.g. IPC 171E/171H); corruption and tax-evasion offences; SC/ST (Prevention of Atrocities) Act offences; and heinous categories (murder, attempt to murder, rape, kidnapping, dacoity). Everything else — protest and public-order cases, traffic violations, simple hurt, minor statutory fines — counts as non-serious. Each charge carries its basis; borderline calls are flagged. Declared cases are pending matters, not convictions.</p>
     <h2>MLAs</h2>
-    <p>All 175 Assembly members (2024 election) are tracked under the same rules. The AP Legislature publishes no per-MLA attendance, questions, or debates data, and the state publishes no per-MLA fund utilization figures — those sections stay visibly empty and say so. MLA election figures are compiled from ECI-derived results tables, cross-checked against winner names.</p>
+    <p>All 175 Assembly members (2024 election) are tracked under the same rules. The AP Legislature publishes no per-MLA attendance, questions, or debates data, and the state publishes no per-MLA fund utilization figures — those sections stay visibly empty and say so. MLA election figures were verified on 16 Oct 2026 against the Election Commission of India's official constituency result pages (archived; the ECI site no longer hosts the June 2024 pages): 154 of 175 constituencies verified — 147 match the published figures and 7 were corrected from the official pages. For 21 constituencies no archived official page exists, so those figures remain as compiled from ECI-derived tables: Mummidivaram, Razole (SC), Bhimavaram, Pedana, Machilipatnam, Ponnuru, Vemuru (SC), Allagadda, Pattikonda, Mantralayam, Adoni, Tadipatri, Raptadu, Hindupur, Penukonda, Puttaparthi, Dharmavaram, Kadiri, Thamballapalle, Pileru, Madanapalle.</p>
     <h2>Corrections</h2>
     <p>Sourced corrections are applied visibly. If a cited source revises a figure, the record is updated with a new verification date.</p>`}
   </section>`;
@@ -522,7 +522,7 @@ function render(){
     if(params.get('b')) document.getElementById('cb').value = params.get('b');
   }
   else if(route==='methodology') app.innerHTML = viewMethodology();
-  else app.innerHTML = viewDashboard();
+  else { app.innerHTML = viewDashboard(); initMap(); }
   window.scrollTo(0,0);
 }
 document.getElementById('lang-en').onclick = ()=>setLang('en');
