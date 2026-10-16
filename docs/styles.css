@@ -71,3 +71,7 @@ a{color:var(--accent)}
 .house-tab{background:#fff;border:2px solid var(--accent);color:var(--accent);
   padding:8px 20px;border-radius:20px;font-size:.95rem;font-weight:600;cursor:pointer}
 .house-tab.active{background:var(--accent);color:#fff}@media (max-width:640px){.map-box{height:300px}}
+.juris{display:inline-block;font-size:.68rem;border-radius:12px;padding:1px 8px;margin-left:6px;font-weight:600;vertical-align:middle}
+.juris-state{background:#e8f5e9;color:#2e7d32}
+.juris-central{background:#e3f2fd;color:#1565c0}
+.juris-shared{background:#fff3e0;color:#e65100}
