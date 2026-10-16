@@ -1,7 +1,7 @@
 /* UI strings: English + Telugu. Data values (names, numbers) stay as-is; all chrome/labels translate. */
 const STRINGS = {
 en: {
-  nav_home:"Home", nav_compare:"Compare", nav_methodology:"Methodology",
+  nav_home:"Home", nav_districts:"Districts", nav_compare:"Compare", nav_methodology:"Methodology",
   tagline:"What did your representative actually do after you voted for them? Every number below comes from public records — cited, nonpartisan, and checkable.",
   mps_tracked:"MPs tracked", avg_attendance:"Avg. attendance", avg_questions:"Avg. questions asked",
   avg_mplads:"Avg. MPLADS used", of_mps:(n)=>`across ${n} MPs with verified data`,
@@ -30,9 +30,15 @@ en: {
   methodology_title:"Methodology",
   back:"← All representatives", no_results:"No matches found.",
   as_of:"Data as of",
+  districts_title:"Browse by district", districts_lede:"Tap a district to see its MPs and how the area is doing on public indicators.",
+  mps_in_district:"MPs covering this district", district_indicators:"District indicators",
+  serious_cases:"Serious criminal cases (ADR)", non_serious_cases:"Other criminal cases (ADR)",
+  total_cases:"Criminal cases declared", charges_list:"Charges as declared",
+  affidavit_note:"As declared in the candidate's election affidavit. Declared cases are pending matters, not convictions. 'Serious' follows ADR's classification criteria.",
+  map_loading:"Loading map…", map_unavailable:"Interactive map unavailable — district list below.",
 },
 te: {
-  nav_home:"హోమ్", nav_compare:"పోల్చండి", nav_methodology:"విధానం",
+  nav_home:"హోమ్", nav_districts:"జిల్లాలు", nav_compare:"పోల్చండి", nav_methodology:"విధానం",
   tagline:"మీరు ఓటు వేసిన తర్వాత మీ ప్రతినిధి నిజంగా ఏం చేశారు? కింద ఉన్న ప్రతి సంఖ్య ప్రజా రికార్డుల నుండి — మూలంతో, నిష్పాక్షికంగా, సరిచూసుకోదగినది.",
   mps_tracked:"ట్రాక్ చేస్తున్న MPలు", avg_attendance:"సగటు హాజరు", avg_questions:"సగటు ప్రశ్నలు",
   avg_mplads:"సగటు MPLADS వినియోగం", of_mps:(n)=>`${n} మంది MPల సరిచూసిన డేటా ఆధారంగా`,
@@ -61,4 +67,10 @@ te: {
   methodology_title:"విధానం (మెథడాలజీ)",
   back:"← ప్రతినిధులందరూ", no_results:"ఫలితాలు లేవు.",
   as_of:"డేటా తేదీ",
+  districts_title:"జిల్లాల వారీగా చూడండి", districts_lede:"జిల్లాపై నొక్కి దాని MPలను, ఆ ప్రాంత పబ్లిక్ సూచికలను చూడండి.",
+  mps_in_district:"ఈ జిల్లాను కవర్ చేస్తున్న MPలు", district_indicators:"జిల్లా సూచికలు",
+  serious_cases:"తీవ్రమైన క్రిమినల్ కేసులు (ADR)", non_serious_cases:"ఇతర క్రిమినల్ కేసులు (ADR)",
+  total_cases:"ప్రకటించిన క్రిమినల్ కేసులు", charges_list:"ప్రకటించిన అభియోగాలు",
+  affidavit_note:"అభ్యర్థి ఎన్నికల అఫిడవిట్‌లో ప్రకటించినవి. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు. 'తీవ్రమైన' వర్గీకరణ ADR ప్రమాణాల ప్రకారం.",
+  map_loading:"మ్యాప్ లోడవుతోంది…", map_unavailable:"ఇంటరాక్టివ్ మ్యాప్ అందుబాటులో లేదు — కింద జిల్లాల జాబితా.",
 }};

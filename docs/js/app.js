@@ -1,5 +1,8 @@
-/* AP Representative Tracker — client-side renderer. Reads site/data/mps.json */
+/* AP Representative Tracker — client-side renderer. Reads docs/data/*.json */
 let DATA = {mps: []};
+let DIST = {districts: []};
+let AFF = {mps: []};
+let GEO = null;
 let LANG = localStorage.getItem('aprt-lang') || 'en';
 const t = k => STRINGS[LANG][k] ?? STRINGS.en[k] ?? k;
 
@@ -60,7 +63,24 @@ function verifiedCount(mp){
   return {ok, total};
 }
 
-/* ---------- dashboard ---------- */
+/* affidavit deep-dive rows (serious vs other cases) */
+function affRows(mp){
+  const a = affOf(mp);
+  if(!a) return '';
+  const s = (v)=> v==null ? `<span class="pending">${t('data_pending')}</span>` : fmtN(v);
+  return `<tr><th>${t('serious_cases')}</th><td>${s(a.serious_cases)}${srcLink(a.source_url)}</td></tr>
+          <tr><th>${t('non_serious_cases')}</th><td>${s(a.non_serious_cases)}${srcLink(a.source_url)}</td></tr>`;
+}
+function affCharges(mp){
+  const a = affOf(mp);
+  if(!a || !a.charges || !a.charges.length) return '';
+  return `<h3 style="margin:16px 0 8px;font-size:.95rem">${t('charges_list')}</h3>
+    <table class="metrics">${a.charges.map(c=>
+      `<tr><th>${esc(c.ipc_sections||'—')}</th><td>${esc(c.case_description||'—')}</td></tr>`).join('')}
+    </table>`;
+}
+
+/* ---------- districts ---------- */
 function avgOf(key, group){
   const vs = DATA.mps.map(mp=>M(mp[group],key).value).filter(v=>v!=null&&!isNaN(v));
   return vs.length ? vs.reduce((a,b)=>a+Number(b),0)/vs.length : null;
@@ -147,9 +167,12 @@ function viewProfile(slug){
       ${row(t('assets_now'), M(D,'assets_current_inr'), fmtINR)}
       ${row(t('assets_prev'), M(D,'assets_prev_inr'), fmtINR)}
       ${row(t('m_assets'), M(D,'asset_growth_pct'), fmtPct)}
-      ${row(t('m_cases'), M(D,'criminal_cases'), fmtN)}
+      ${row(t('total_cases'), M(D,'criminal_cases'), fmtN)}
+      ${affRows(mp)}
       ${row(t('m_education'), M(D,'education'), v=>esc(v))}
     </table>
+    <p class="disclaimer">${t('affidavit_note')}</p>
+    ${affCharges(mp)}
   </section>
 
   <section class="panel"><h2>${t('election')}</h2><p class="lede">${t('election_lede')}</p>
@@ -224,6 +247,101 @@ window.goCompare = () => {
   location.hash = `#/compare?a=${a}&b=${b}`;
 };
 
+/* ---------- districts ---------- */
+function districtList(){
+  // prefer researched district list; fall back to mapping keys
+  if(DIST.districts && DIST.districts.length) return DIST.districts.map(d=>d.name);
+  const c2d = DATA.constituency_to_districts || {};
+  const s = new Set();
+  Object.values(c2d).forEach(ds => (ds||[]).forEach(d=>s.add(d)));
+  return [...s].sort();
+}
+function distInfo(name){
+  return (DIST.districts || []).find(d=>d.name===name) || {};
+}
+function viewDistricts(){
+  const ds = districtList();
+  return `
+  <div class="hero"><h1>${t('districts_title')}</h1><p>${t('districts_lede')}</p></div>
+  <div id="map" class="map-box"><p style="padding:20px;color:var(--muted)">${t('map_loading')}</p></div>
+  <div class="mp-grid" style="margin-top:16px">
+    ${ds.map(d=>{ const info = distInfo(d); const n = districtMPs(d).length;
+      return `<a class="mp-card" href="#/district/${slugify(d)}">
+        <h3>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400">${esc(info.name_te)}</span>`:''}</h3>
+        <div class="cons">${n} MP${n===1?'':'s'}</div>
+      </a>`; }).join('') || `<p>${t('data_pending')}</p>`}
+  </div>`;
+}
+function initMap(){
+  const el = document.getElementById('map');
+  if(!el) return;
+  if(!GEO || typeof L === 'undefined'){
+    el.innerHTML = `<p style="padding:20px;color:var(--muted)">${t('map_unavailable')}</p>`;
+    return;
+  }
+  const map = L.map('map').setView([15.9, 79.7], 7);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {attribution:'© OpenStreetMap contributors', maxZoom: 12}).addTo(map);
+  const fname = f => {
+    const p = f.properties || {};
+    const cand = p.name || p.NAME_1 || p.district || p.DISTRICT || p.Dist_Name || '';
+    const norm = s => s.toLowerCase().replace(/[^a-z]/g,'');
+    const hit = districtList().find(d => norm(d) === norm(cand) || norm(cand).includes(norm(d)));
+    return hit || null;
+  };
+  L.geoJSON(GEO, {
+    style: ()=>({color:'#0e6e6e', weight:1.5, fillColor:'#0e6e6e', fillOpacity:0.12}),
+    onEachFeature: (f, layer)=>{
+      const d = fname(f);
+      const info = distInfo(d);
+      layer.bindTooltip(esc(info.name_te ? `${d} · ${info.name_te}` : d));
+      layer.on('click', ()=>{ location.hash = '#/district/' + slugify(d); });
+      layer.on('mouseover', ()=>layer.setStyle({fillOpacity:0.3}));
+      layer.on('mouseout', ()=>layer.setStyle({fillOpacity:0.12}));
+    }
+  }).addTo(map);
+}
+function viewDistrict(slug){
+  const d = districtList().find(x=>slugify(x)===slug);
+  if(!d) return `<p>${t('no_results')}</p><p><a href="#/districts">${t('back')}</a></p>`;
+  const info = distInfo(d);
+  const mps = districtMPs(d);
+  const inds = info.indicators || {};
+  const irow = (label, m) => {
+    if(!m || m.value==null) return `<tr><th>${label}</th><td><span class="pending">${t('data_pending')}</span></td></tr>`;
+    return `<tr><th>${label}</th><td>${fmtN(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
+  };
+  return `
+  <p><a href="#/districts">${t('back')}</a></p>
+  <div class="profile-head">
+    <h1>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400;font-size:1.1rem">${esc(info.name_te)}</span>`:''}</h1>
+    <p class="sub">${t('mps_in_district')}: ${mps.length}</p>
+  </div>
+  <section class="panel"><h2>${t('mps_in_district')}</h2>
+    <div class="mp-grid">
+      ${mps.map(mp=>`<a class="mp-card" href="#/mp/${slugOf(mp)}">
+        <div class="avatar">${initials(mp.name)}</div><h3>${esc(mp.name)}</h3>
+        <div class="cons">${esc(mp.constituency)}</div><span class="party">${esc(mp.party||'')}</span>
+      </a>`).join('') || `<p>${t('data_pending')}</p>`}
+    </div>
+  </section>
+  <section class="panel"><h2>${t('district_indicators')}</h2>
+    <div class="area-note">${t('area_note')}</div>
+    <table class="metrics">
+      ${irow('Literacy', inds.literacy_pct)}
+      ${irow('Institutional births', inds.institutional_births_pct)}
+      ${irow('Stunting (under 5)', inds.stunting_under5_pct)}
+      ${irow('Infant mortality', inds.infant_mortality)}
+      ${irow('Secondary dropout rate', inds.dropout_rate_secondary)}
+      ${irow('Pupil-teacher ratio (primary)', inds.pupil_teacher_ratio_primary)}
+      ${irow('SDG index score', inds.sdg_index_score)}
+      ${irow('MGNREGA person-days', inds.mgnrega_persondays_fy25)}
+      ${irow('PMAY-G houses completed', inds.pmayg_houses_completed)}
+      ${irow('Jal Jeevan tap connections', inds.jjm_tap_connections)}
+    </table>
+  </section>`;
+}
+
 /* ---------- methodology ---------- */
 function viewMethodology(){
   const te = LANG==='te';
@@ -249,10 +367,24 @@ function viewMethodology(){
 
 /* ---------- router ---------- */
 async function load(){
-  try{
-    const r = await fetch('data/mps.json');
-    DATA = await r.json();
-  }catch(e){ DATA = {mps:[]}; }
+  const get = async p => { try{ const r = await fetch(p); return r.ok ? await r.json() : null; }catch(e){ return null; } };
+  DATA = await get('data/mps.json') || {mps: []};
+  DIST = await get('data/districts.json') || {districts: []};
+  AFF = await get('data/affidavit_details.json') || {mps: []};
+  try{ const r = await fetch('data/ap_districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
+}
+/* district -> MPs inverse index from constituency_to_districts */
+function districtMPs(dname){
+  const c2d = DATA.constituency_to_districts || {};
+  const out = [];
+  for(const mp of DATA.mps){
+    const ds = c2d[mp.constituency] || (mp.district_context && mp.district_context.districts) || [];
+    if(ds.includes(dname)) out.push(mp);
+  }
+  return out;
+}
+function affOf(mp){
+  return (AFF.mps || []).find(a => a.name === mp.name) || null;
 }
 function render(){
   const hash = location.hash || '#/';
@@ -262,6 +394,8 @@ function render(){
   document.querySelectorAll('[data-nav]').forEach(a=>
     a.classList.toggle('active', (route||'')===(a.dataset.nav==='home'?'':a.dataset.nav)));
   if(route==='mp') app.innerHTML = viewProfile(arg||'');
+  else if(route==='districts'){ app.innerHTML = viewDistricts(); initMap(); }
+  else if(route==='district') app.innerHTML = viewDistrict(arg||'');
   else if(route==='compare'){
     const params = new URLSearchParams(hash.split('?')[1]||'');
     app.innerHTML = viewCompare(params);
