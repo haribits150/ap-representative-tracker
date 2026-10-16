@@ -2490,9 +2490,11 @@
   "Araku": {
    "districts": [
     "Parvathipuram Manyam",
-    "Alluri Sitharama Raju"
+    "Alluri Sitharama Raju",
+    "Polavaram"
    ],
-   "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
+   "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e",
+   "note_28": "Polavaram district (Rampachodavaram ST AC) carved from Alluri Sitharama Raju 31-Dec-2025."
   },
   "Srikakulam": {
    "districts": [
@@ -2584,9 +2586,11 @@
   },
   "Ongole": {
    "districts": [
-    "Prakasam"
+    "Prakasam",
+    "Markapuram"
    ],
-   "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
+   "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e",
+   "note_28": "Markapuram district (Yerragondapalem SC, Markapuram, Giddalur, Kanigiri ACs) carved from Prakasam 31-Dec-2025; Ongole PC's other ACs (Darsi, Ongole, Kondapi SC) remain in Prakasam."
   },
   "Nandyal": {
    "districts": [
@@ -2649,5 +2653,6 @@
   }
  },
  "collected_at": "2026-10-16",
- "notes": "25 AP Lok Sabha MPs (2024 election). Party tally ECI-verified: TDP 16, YSRCP 4, BJP 3, Janasena 2. PRS data covers 24-06-2024 to 13-08-2026. MPLADS per-MP utilization/works not retrievable via text reads (portal requires interactive forms/JS); live-browser pass recommended. ECI turnout % unavailable via text reads. 4 constituencies' ECI pages failed to load; winner names verified via myneta.info LS2024 records, parties via ECI aggregate tally reconciliation."
+ "notes": "25 AP Lok Sabha MPs (2024 election). Party tally ECI-verified: TDP 16, YSRCP 4, BJP 3, Janasena 2. PRS data covers 24-06-2024 to 13-08-2026. MPLADS per-MP utilization/works not retrievable via text reads (portal requires interactive forms/JS); live-browser pass recommended. ECI turnout % unavailable via text reads. 4 constituencies' ECI pages failed to load; winner names verified via myneta.info LS2024 records, parties via ECI aggregate tally reconciliation.",
+ "districts_map_basis_28": "Parliamentary constituency boundaries unchanged (no delimitation); only district assignment updated for the 31-Dec-2025 reorganization. G.O.Ms.No.524 (Markapuram) & G.O.Ms.No.517 (Polavaram), Revenue (Lands-IV), dated 30-12-2025. Markapuram→Ongole PC and Polavaram→Araku (ST) PC per official district portals."
 }
