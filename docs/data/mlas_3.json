@@ -430,10 +430,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=11"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": 31.2,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 18690497,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
@@ -890,10 +895,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=406"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": -2.5,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 97604094,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
@@ -1443,10 +1453,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=373"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": 605.9,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 419017447,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
@@ -2087,10 +2102,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=269"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": 128.0,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 12695777,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
@@ -3100,10 +3120,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=178"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": 48.4,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 5103816566,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
@@ -3192,10 +3217,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=440"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": 79.7,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 1309783927,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
@@ -3561,10 +3591,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=256"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": 124.9,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 120971694,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
