@@ -271,7 +271,8 @@ function viewProfile(slug, house){
   <div class="profile-head">
     <h1>${esc(mp.name)}<span class="badge">${esc(mp.party||'')}</span></h1>
     <p class="sub">${esc(mp.constituency)} \u00b7 ${houseLbl} \u00b7 ${t('last_verified')}: ${esc(lastV||'\u2014')} \u00b7 ${vc.ok}/${vc.total} ${t('fields_verified')}</p>
-    <p><a class="share-btn" href="https://wa.me/?text=${waText}" target="_blank" rel="noopener">${t('share_whatsapp')}</a></p>
+    <p><a class="share-btn" href="https://wa.me/?text=${waText}" target="_blank" rel="noopener">${t('share_whatsapp')}</a>
+    <button class="share-btn" onclick="shareCard('${house}','${slugOf(mp)}')">${t('share_card')}</button></p>
     <div class="kpis">${kpis}</div>
   </div>
 
@@ -552,6 +553,109 @@ function viewMethodology(){
     <p>Sourced corrections are applied visibly. If a cited source revises a figure, the record is updated with a new verification date.</p>`}
   </section>`;
 }
+
+/* ---------- screenshot-proof share cards ---------- */
+function drawRepCard(mp, house){
+  const W=1080, H=1350;
+  const cv = document.createElement('canvas'); cv.width=W; cv.height=H;
+  const g = cv.getContext('2d');
+  const NAVY='#1a2332', CREAM='#faf8f3', ACCENT='#0e7c6b', MUTED='#6b7280', INK='#1f2937';
+  // background + frame
+  g.fillStyle=CREAM; g.fillRect(0,0,W,H);
+  g.strokeStyle=NAVY; g.lineWidth=10; g.strokeRect(5,5,W-10,H-10);
+  // header band
+  g.fillStyle=NAVY; g.fillRect(0,0,W,190);
+  g.fillStyle='#ffffff'; g.font='700 44px system-ui, sans-serif'; g.textAlign='left';
+  g.fillText('AP Representative Tracker', 60, 80);
+  g.font='400 30px system-ui, sans-serif'; g.fillStyle='#cbd5e1';
+  g.fillText(t('card_sub'), 60, 130);
+  // avatar + name
+  const initials = mp.name.split(' ').map(w=>w[0]).slice(0,2).join('').toUpperCase();
+  g.fillStyle=ACCENT; g.beginPath(); g.arc(130,300,70,0,7); g.fill();
+  g.fillStyle='#fff'; g.font='700 52px system-ui, sans-serif'; g.textAlign='center';
+  g.fillText(initials, 130, 318);
+  g.textAlign='left'; g.fillStyle=INK;
+  const nameSize = mp.name.length>26 ? 44 : 54;
+  g.font=`700 ${nameSize}px system-ui, sans-serif`;
+  g.fillText(mp.name, 225, 295);
+  g.font='400 34px system-ui, sans-serif'; g.fillStyle=MUTED;
+  const houseLbl = house==='mla' ? t('assembly') : 'Lok Sabha';
+  g.fillText(`${mp.constituency} · ${houseLbl}`, 225, 345);
+  // party pill
+  g.font='700 30px system-ui, sans-serif';
+  const pw = g.measureText(mp.party||'').width + 44;
+  g.fillStyle='#e6f4f1'; g.beginPath(); g.roundRect(225, 368, pw, 52, 26); g.fill();
+  g.fillStyle=ACCENT; g.fillText(mp.party||'', 247, 404);
+  // stats
+  const L=mp.legislative||{}, F=mp.funds||{}, D=mp.disclosure||{}, E=mp.election||{};
+  const caseVal = M(D,'criminal_cases_declared').value ?? M(D,'criminal_cases').value;
+  const stats = house==='mla' ? [
+    [t('m_voteshare'), fmtPct(M(E,'vote_share_pct').value)],
+    [t('m_margin'), fmtN(M(E,'margin_votes').value)],
+    [t('total_cases'), fmtN(caseVal)],
+    [t('assets_now'), fmtINR(M(D,'assets_current_inr').value)],
+  ] : [
+    [t('m_voteshare'), fmtPct(M(E,'vote_share_pct').value)],
+    [t('m_margin'), fmtN(M(E,'margin_votes').value)],
+    [t('m_attendance'), fmtPct(M(L,'attendance_pct').value)],
+    [t('m_questions'), fmtN(M(L,'questions_asked').value)],
+    [t('m_debates'), fmtN(M(L,'debates_participated').value)],
+    [t('m_mplads_alloc'), fmtINR(M(F,'entitlement_inr').value)],
+  ];
+  let y=500;
+  g.font='400 32px system-ui, sans-serif';
+  stats.forEach(([lbl,val],i)=>{
+    if(i%2===0){ g.fillStyle='#f1ede4'; g.fillRect(60,y-44,W-120,76); }
+    g.fillStyle=MUTED; g.textAlign='left'; g.fillText(lbl, 90, y);
+    g.fillStyle=INK; g.font='700 34px system-ui, sans-serif'; g.textAlign='right';
+    g.fillText(String(val), W-90, y);
+    g.font='400 32px system-ui, sans-serif';
+    y+=76;
+  });
+  // caveat line
+  g.fillStyle=MUTED; g.font='italic 400 26px system-ui, sans-serif'; g.textAlign='left';
+  g.fillText(t('card_caveat'), 60, y+30);
+  // footer band
+  const fy=H-190;
+  g.fillStyle=NAVY; g.fillRect(0,fy,W,190);
+  g.fillStyle='#ffffff'; g.font='400 28px system-ui, sans-serif';
+  g.fillText(t('card_sources'), 60, fy+55);
+  g.fillStyle='#cbd5e1';
+  g.fillText(`${t('card_verify')} haribits150.github.io/ap-representative-tracker`, 60, fy+100);
+  g.fillText(`${t('card_generated')} · ${t('card_sub')}`, 60, fy+145);
+  return cv;
+}
+window.shareCard = (house, slug) => {
+  const mp = (house==='mla' ? MLA : DATA.mps).find(m=>slugOf(m)===slug);
+  if(!mp) return;
+  const cv = drawRepCard(mp, house);
+  const url = cv.toDataURL('image/png');
+  const old = document.getElementById('cardModal'); if(old) old.remove();
+  const div = document.createElement('div'); div.id='cardModal'; div.className='card-modal';
+  div.innerHTML = `
+    <div class="card-box">
+      <h3>${t('card_title')}</h3>
+      <img src="${url}" alt="representative card" style="width:100%;border-radius:8px;border:1px solid #ddd">
+      <div class="card-actions">
+        <a class="share-btn" href="${url}" download="${slug}-card.png">${t('card_download')}</a>
+        <button class="share-btn" id="cardNative">${t('card_share')}</button>
+        <button class="share-btn" id="cardClose">${t('card_close')}</button>
+      </div>
+    </div>`;
+  document.body.appendChild(div);
+  document.getElementById('cardClose').onclick = ()=>div.remove();
+  div.onclick = e => { if(e.target===div) div.remove(); };
+  document.getElementById('cardNative').onclick = () => {
+    cv.toBlob(blob=>{
+      const file = new File([blob], `${slug}-card.png`, {type:'image/png'});
+      if(navigator.canShare && navigator.canShare({files:[file]})){
+        navigator.share({files:[file], title: mp.name}).catch(()=>{});
+      } else {
+        const a=document.createElement('a'); a.href=url; a.download=`${slug}-card.png`; a.click();
+      }
+    }, 'image/png');
+  };
+};
 
 /* ---------- router ---------- */
 async function load(){
