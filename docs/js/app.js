@@ -217,8 +217,7 @@ function viewCompare(params){
     <select id="ca" onchange="goCompare()"><option value="">${t('select_a')}</option>${opts}</select>
     <select id="cb" onchange="goCompare()"><option value="">${t('select_b')}</option>${opts}</select>
   </div>
-  <div class="compare-grid"><div>${col(a)}</div><div>${col(b)}</div></div>
-  <script>void 0</script>`;
+  <div class="compare-grid"><div>${col(a)}</div><div>${col(b)}</div></div>`;
 }
 window.goCompare = () => {
   const a=document.getElementById('ca').value, b=document.getElementById('cb').value;
@@ -257,7 +256,8 @@ async function load(){
 }
 function render(){
   const hash = location.hash || '#/';
-  const [_, route, arg] = hash.split('/');
+  const path = hash.split('?')[0];
+  const [_, route, arg] = path.split('/');
   const app = document.getElementById('app');
   document.querySelectorAll('[data-nav]').forEach(a=>
     a.classList.toggle('active', (route||'')===(a.dataset.nav==='home'?'':a.dataset.nav)));
