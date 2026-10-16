@@ -4,6 +4,7 @@ let MLA = [];
 let HOUSE = 'mp';
 let DIST = {districts: []};
 let AFF = {mps: []};
+let NEWS = {news: {}};
 let GEO = null;
 let LANG = localStorage.getItem('aprt-lang') ||
   (((typeof navigator !== 'undefined') && (navigator.language || '').toLowerCase().indexOf('te') === 0) ? 'te' : 'en');
@@ -133,7 +134,7 @@ function viewDashboard(){
   <div id="map" class="map-box" style="margin-bottom:20px"><p style="padding:20px;color:var(--muted)">${t('map_loading')}</p></div>
   <div class="house-tabs">${tab('mp', t('house_mp'), DATA.mps.length)}${tab('mla', t('house_mla'), MLA.length)}</div>
   <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
-  <p style="margin:4px 0 16px"><a href="#/districts">${t('browse_districts')}</a></p>
+  <p style="margin:4px 0 16px"><a href="#/find" style="font-weight:700">${t('find_link')}</a> &middot; <a href="#/districts">${t('browse_districts')}</a></p>
   <div class="stats">${stats}</div>
   <div class="mp-grid" id="grid">
     ${list.map(mp=>`
@@ -154,6 +155,22 @@ window.filterCards = q => {
 };
 
 /* ---------- profile ---------- */
+function newsSection(mp, house){
+  const key = `${house}/${slugOf(mp)}`;
+  const items = ((NEWS && NEWS.news) || {})[key] || [];
+  if(!items.length) return '';
+  const fmtDate = d => { try{ return new Date(d).toLocaleDateString(); }catch(e){ return ''; } };
+  return `
+  <section class="panel"><h2>${t('in_the_news')}</h2><p class="lede">${t('news_lede')}</p>
+    <ul style="list-style:none;padding:0;margin:0">
+      ${items.map(n=>`<li style="margin-bottom:10px">
+        <a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><br>
+        <span class="sub">${esc(n.source||'')}${n.pubDate?` &middot; ${esc(fmtDate(n.pubDate))}`:''}</span>
+      </li>`).join('')}
+    </ul>
+    <p class="disclaimer">${t('news_note')}</p>
+  </section>`;
+}
 function viewProfile(slug, house){
   house = house || 'mp';
   const isMla = house==='mla';
@@ -270,6 +287,8 @@ function viewProfile(slug, house){
   </section>
 
   ${areaSection}
+
+  ${newsSection(mp, house)}
 
   <section class="panel"><h2>${t('sources')}</h2>
     <table class="metrics">
@@ -455,6 +474,38 @@ function viewDistrict(slug){
   </section>`;
 }
 
+/* ---------- find my representative ---------- */
+function viewFind(){
+  const ds = districtList();
+  const opts = ds.map(d=>`<option value="${esc(d)}">${esc(d)}</option>`).join('');
+  return `
+  <div class="hero"><h1>${t('find_title')}</h1><p>${t('find_lede')}</p></div>
+  <section class="panel">
+    <label for="find-dist" style="display:block;margin-bottom:8px;font-weight:600">${t('find_district_label')}</label>
+    <select id="find-dist" class="search" onchange="renderFind(this.value)">
+      <option value="">${t('find_choose')}</option>${opts}
+    </select>
+    <div id="find-results" style="margin-top:16px"></div>
+  </section>
+  <p class="disclaimer">${t('find_note')}</p>`;
+}
+window.renderFind = d => {
+  const box = document.getElementById('find-results');
+  if(!d){ box.innerHTML=''; return; }
+  const mps = districtMPs(d), mlas = districtMLAs(d);
+  const card = (mp, route) => `
+    <a class="mp-card" href="#/${route}/${slugOf(mp)}">
+      <div class="avatar">${initials(mp.name)}</div><h3>${esc(mp.name)}</h3>
+      <div class="cons">${esc(mp.constituency)}</div><span class="party">${esc(mp.party||'')}</span>
+    </a>`;
+  box.innerHTML = `
+    <h3 style="margin:12px 0 8px">${t('find_your_mp')}</h3>
+    <div class="mp-grid">${mps.map(m=>card(m,'mp')).join('') || `<p>${t('data_pending')}</p>`}</div>
+    <h3 style="margin:12px 0 8px">${t('find_your_mla')}</h3>
+    <div class="mp-grid">${mlas.map(m=>card(m,'mla')).join('') || `<p>${t('data_pending')}</p>`}</div>
+    <p style="margin-top:12px"><a href="#/district/${slugify(d)}">${t('find_district_page')}</a></p>`;
+};
+
 /* ---------- methodology ---------- */
 function viewMethodology(){
   const te = LANG==='te';
@@ -468,6 +519,8 @@ function viewMethodology(){
     <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు. జిల్లా నేరాల రేట్లు ఈ ప్రాజెక్ట్ లెక్కించినవి: NCRB 2022 జిల్లా సంఘటనలు ÷ 2011 జనాభా లెక్కల జిల్లా జనాభా × 100,000 (NCRB రేట్లను రాష్ట్ర/నగర స్థాయిలో మాత్రమే ప్రచురిస్తుంది).</p>
     <h2>ఓటింగ్ రికార్డు & ఆస్తి వృద్ధి</h2>
     <p>MP ఓటింగ్ రికార్డులు 18వ లోక్‌సభలో డివిజన్ ఓటుతో నిర్ణయించిన ప్రధాన బిల్లులను కవర్ చేస్తాయి. లోక్‌సభ సభ్యుల వారీ డివిజన్ జాబితాలను ప్రచురించదు, కాబట్టి ప్రతి ఓటు సభ్యుని నమోదైన పార్టీ వైఖరి లేదా విప్‌ను ప్రతిబింబిస్తుంది — ప్రతి ఓటుకు మూలంతో — అధికారిక డివిజన్ రోల్ కాదు. ఆస్తి వృద్ధి 2019 మరియు 2024 ఎన్నికల మధ్య ప్రకటించిన అఫిడవిట్ మొత్తాలను పోలుస్తుంది (నామమాత్రపు, ద్రవ్యోల్బణ సర్దుబాటు లేకుండా) మరియు తిరిగి ఎన్నికైన సభ్యులకు మాత్రమే చూపబడుతుంది; మొదటిసారి సభ్యులకు పోల్చడానికి పూర్వ అఫిడవిట్ ఉండదు.</p>
+    <h2>వార్తల్లో</h2>
+    <p>శీర్షికలు Google News (ఇండియా ఎడిషన్) నుండి ప్రతినిధి పేరు మరియు నియోజకవర్గం ఆధారంగా సేకరించబడతాయి, వారానికి ఒకసారి నవీకరించబడతాయి. శీర్షికలు మాత్రమే చూపబడతాయి — సైట్ సారాంశాలు రాయదు, భావోద్వేగ లేబుల్స్ ఇవ్వదు. శీర్షికలు వాటి ప్రచురణకర్తలకు లింక్ చేస్తాయి; చేర్చడం ఆమోదం కాదు, సైట్ వార్తా కంటెంట్‌ను ధృవీకరించదు.</p>
     <h2>MLAలు</h2>
     <p>175 మంది అసెంబ్లీ సభ్యులు (2024 ఎన్నిక) అదే నియమాలతో ట్రాక్ చేయబడుతున్నారు. AP శాసనసభ MLA వారీగా హాజరు, ప్రశ్నలు, చర్చల డేటాను ప్రచురించదు, రాష్ట్రం MLA వారీగా నిధుల వినియోగ లెక్కలను ప్రచురించదు — ఆ విభాగాలు ఖాళీగానే ఉండి, అదే చెబుతాయి. MLA ఎన్నికల లెక్కలను 16 అక్టోబర్ 2026న భారత ఎన్నికల సంఘం అధికారిక నియోజకవర్గ ఫలితాల పేజీలతో (ఆర్కైవ్ చేసినవి) సరిచూశాము: 175 నియోజకవర్గాలలో 154 ధృవీకరించబడ్డాయి — 147 సరిపోలాయి, 7 సరిచేయబడ్డాయి. 21 నియోజకవర్గాలకు ఆర్కైవ్ చేసిన అధికారిక పేజీ లేదు, కాబట్టి ఆ లెక్కలు ECI-ఆధారిత పట్టికల నుండే కొనసాగుతున్నాయి: ముమ్మిడివరం, రాజోలు (SC), భీమవరం, పెడన, మచిలీపట్నం, పొన్నూరు, వేమూరు (SC), ఆళ్లగడ్డ, పత్తికొండ, మంత్రాలయం, ఆదోని, తాడిపత్రి, రాప్తాడు, హిందూపూర్, పెనుకొండ, పుట్టపర్తి, ధర్మవరం, కదిరి, తంబళ్లపల్లె, పీలేరు, మదనపల్లె.</p>
     <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
@@ -481,6 +534,8 @@ function viewMethodology(){
     <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS allocation figures are 18th-Lok-Sabha cumulative as-on-date from the eSAKSHI portal (not FY-wise); per-MP expenditure and works counts are not published on the public dashboard. District crime rates are project-computed: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</p>
     <h2>Voting record & asset growth</h2>
     <p>MP voting records cover major bills decided by division vote in the 18th Lok Sabha. The Lok Sabha does not publish member-level division lists, so each vote reflects the member's documented party position or whip — sourced per vote — not the official division roll. Asset growth compares declared affidavit totals between the 2019 and 2024 elections (nominal, not inflation-adjusted) and is shown only for re-elected members; first-term members have no prior affidavit to compare.</p>
+    <h2>In the news</h2>
+    <p>Headlines are fetched from Google News (India edition) by representative name and constituency, refreshed weekly. Only headlines are shown — the site writes no summaries and offers no sentiment labels. Headlines link to their publishers; inclusion is not endorsement, and the site does not verify news content.</p>
     <h2>Criminal cases: serious vs non-serious</h2>
     <p>myneta.info does not publish ADR's own per-candidate serious/non-serious split, so severity is a mechanical application of ADR's published "serious criminal cases" criteria to the sections listed in each affidavit: offences punishable with 5+ years; electoral offences (e.g. IPC 171E/171H); corruption and tax-evasion offences; SC/ST (Prevention of Atrocities) Act offences; and heinous categories (murder, attempt to murder, rape, kidnapping, dacoity). Everything else — protest and public-order cases, traffic violations, simple hurt, minor statutory fines — counts as non-serious. Each charge carries its basis; borderline calls are flagged. Declared cases are pending matters, not convictions.</p>
     <h2>MLAs</h2>
@@ -498,6 +553,9 @@ async function load(){
   MLA = chunks.reduce((a,c)=>a.concat((c&&c.mlas)||[]), []);
   DIST = await get('data/districts.json') || {districts: []};
   AFF = await get('data/affidavit_details.json') || {mps: []};
+  NEWS = {news: {}};
+  const nchunks = await Promise.all([1,2,3,4].map(i=>get(`data/news_${i}.json`)));
+  for(const c of nchunks){ if(c && c.news) Object.assign(NEWS.news, c.news); }
   try{ const r = await fetch('data/ap_districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
 }
 const houseList = () => HOUSE==='mla' ? MLA : DATA.mps;
@@ -530,6 +588,7 @@ function render(){
   else if(route==='mla') app.innerHTML = viewProfile(arg||'','mla');
   else if(route==='districts'){ app.innerHTML = viewDistricts(); initMap(); }
   else if(route==='district') app.innerHTML = viewDistrict(arg||'');
+  else if(route==='find') app.innerHTML = viewFind();
   else if(route==='compare'){
     const params = new URLSearchParams(hash.split('?')[1]||'');
     app.innerHTML = viewCompare(params);
