@@ -1,0 +1,547 @@
+{
+  "bills": [
+    {
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "description": "Amends the Waqf Act, 1995 to change how waqf properties are administered, including the composition of waqf boards and councils and the process for determining a property's waqf status.",
+      "result": "Passed 288-232",
+      "source_url": "https://www.thehindubusinessline.com/news/lok-sabha-passes-waqf-amendment-bill-2025-amidst-heated-debate/article69405707.ece"
+    },
+    {
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "date": "2024-12-17",
+      "description": "Proposes holding Lok Sabha and state assembly elections simultaneously; the division was on the motion to introduce the bills, which were then referred to a Joint Parliamentary Committee.",
+      "result": "Introduction approved 269-198",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "date": "2026-04-16",
+      "description": "Part of a package to enable delimitation of parliamentary constituencies and implement women's reservation; the division was on the motion to introduce the bills.",
+      "result": "Introduction approved 251-185",
+      "source_url": "https://english.amarujaladigital.com/national/constitution-131-amendment-bill-delimitation-bill-introduced-in-ls"
+    }
+  ],
+  "votes": [
+    {
+      "mp_name": "Gumma Thanuja Rani",
+      "constituency": "Araku",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "No",
+      "source_url": "https://radianceweekly.net/ysrcp-says-its-mps-voted-against-waqf-bill/"
+    },
+    {
+      "mp_name": "Gumma Thanuja Rani",
+      "constituency": "Araku",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.gulte.com/political-news/330563/one-nation-one-election-tdp-and-ycp-on-same-track/amp"
+    },
+    {
+      "mp_name": "Gumma Thanuja Rani",
+      "constituency": "Araku",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/ysrcp-reiterates-support-womens-reservation-delimitation-bills-upcoming-666.htm"
+    },
+    {
+      "mp_name": "Kinjarapu Rammohan Naidu",
+      "constituency": "Srikakulam",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Kinjarapu Rammohan Naidu",
+      "constituency": "Srikakulam",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Kinjarapu Rammohan Naidu",
+      "constituency": "Srikakulam",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Appalanaidu Kalisetti",
+      "constituency": "Vizianagaram",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Appalanaidu Kalisetti",
+      "constituency": "Vizianagaram",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Appalanaidu Kalisetti",
+      "constituency": "Vizianagaram",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Sribharat Mathukumili",
+      "constituency": "Visakhapatnam",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Sribharat Mathukumili",
+      "constituency": "Visakhapatnam",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Sribharat Mathukumili",
+      "constituency": "Visakhapatnam",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "C.M. Ramesh",
+      "constituency": "Anakapalli",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://www.livemint.com/politics/news/waqf-bill-in-lok-sabha-today-bjp-ally-tdp-wants-modi-govt-to-make-this-key-change-whats-it-11743565231622.html"
+    },
+    {
+      "mp_name": "C.M. Ramesh",
+      "constituency": "Anakapalli",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "C.M. Ramesh",
+      "constituency": "Anakapalli",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://english.amarujaladigital.com/national/constitution-131-amendment-bill-delimitation-bill-introduced-in-ls"
+    },
+    {
+      "mp_name": "Tangella Uday Srinivas",
+      "constituency": "Kakinada",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://www.latestly.com/agency-news/india-news-janasena-to-vote-in-favour-of-waqf-bill-6751555.html"
+    },
+    {
+      "mp_name": "Tangella Uday Srinivas",
+      "constituency": "Kakinada",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.telugu360.com/are-ap-political-parties-blindly-supporting-one-nation-one-election/"
+    },
+    {
+      "mp_name": "G M Harish (Balayogi)",
+      "constituency": "Amalapuram",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "G M Harish (Balayogi)",
+      "constituency": "Amalapuram",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "G M Harish (Balayogi)",
+      "constituency": "Amalapuram",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Daggubati Purandeswari",
+      "constituency": "Rajahmundry",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://www.livemint.com/politics/news/waqf-bill-in-lok-sabha-today-bjp-ally-tdp-wants-modi-govt-to-make-this-key-change-whats-it-11743565231622.html"
+    },
+    {
+      "mp_name": "Daggubati Purandeswari",
+      "constituency": "Rajahmundry",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Daggubati Purandeswari",
+      "constituency": "Rajahmundry",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://english.amarujaladigital.com/national/constitution-131-amendment-bill-delimitation-bill-introduced-in-ls"
+    },
+    {
+      "mp_name": "Bhupathi Raju Srinivasa Varma",
+      "constituency": "Narasapuram",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://www.livemint.com/politics/news/waqf-bill-in-lok-sabha-today-bjp-ally-tdp-wants-modi-govt-to-make-this-key-change-whats-it-11743565231622.html"
+    },
+    {
+      "mp_name": "Bhupathi Raju Srinivasa Varma",
+      "constituency": "Narasapuram",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Bhupathi Raju Srinivasa Varma",
+      "constituency": "Narasapuram",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://english.amarujaladigital.com/national/constitution-131-amendment-bill-delimitation-bill-introduced-in-ls"
+    },
+    {
+      "mp_name": "Putta Mahesh Kumar",
+      "constituency": "Eluru",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Putta Mahesh Kumar",
+      "constituency": "Eluru",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Putta Mahesh Kumar",
+      "constituency": "Eluru",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Balashowry Vallabhaneni",
+      "constituency": "Machilipatnam",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://www.latestly.com/agency-news/india-news-janasena-to-vote-in-favour-of-waqf-bill-6751555.html"
+    },
+    {
+      "mp_name": "Balashowry Vallabhaneni",
+      "constituency": "Machilipatnam",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.telugu360.com/are-ap-political-parties-blindly-supporting-one-nation-one-election/"
+    },
+    {
+      "mp_name": "Kesineni Sivanath (Chinni)",
+      "constituency": "Vijayawada",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Kesineni Sivanath (Chinni)",
+      "constituency": "Vijayawada",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Kesineni Sivanath (Chinni)",
+      "constituency": "Vijayawada",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Chandra Sekhar Pemmasani",
+      "constituency": "Guntur",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Chandra Sekhar Pemmasani",
+      "constituency": "Guntur",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Chandra Sekhar Pemmasani",
+      "constituency": "Guntur",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Lavu Srikrishna Devarayalu",
+      "constituency": "Narasaraopet",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Lavu Srikrishna Devarayalu",
+      "constituency": "Narasaraopet",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Lavu Srikrishna Devarayalu",
+      "constituency": "Narasaraopet",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Krishna Prasad Tenneti",
+      "constituency": "Bapatla",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Krishna Prasad Tenneti",
+      "constituency": "Bapatla",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Krishna Prasad Tenneti",
+      "constituency": "Bapatla",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Magunta Sreenivasulu Reddy",
+      "constituency": "Ongole",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Magunta Sreenivasulu Reddy",
+      "constituency": "Ongole",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Magunta Sreenivasulu Reddy",
+      "constituency": "Ongole",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Byreddy Shabari",
+      "constituency": "Nandyal",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Byreddy Shabari",
+      "constituency": "Nandyal",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Byreddy Shabari",
+      "constituency": "Nandyal",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Bastipati Nagaraju Panchalingala",
+      "constituency": "Kurnool",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Bastipati Nagaraju Panchalingala",
+      "constituency": "Kurnool",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Bastipati Nagaraju Panchalingala",
+      "constituency": "Kurnool",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Ambica G Lakshminarayana Valmiki",
+      "constituency": "Anantapur",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Ambica G Lakshminarayana Valmiki",
+      "constituency": "Anantapur",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Ambica G Lakshminarayana Valmiki",
+      "constituency": "Anantapur",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "B K Parthasarathi",
+      "constituency": "Hindupur",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "B K Parthasarathi",
+      "constituency": "Hindupur",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "B K Parthasarathi",
+      "constituency": "Hindupur",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Y. S. Avinash Reddy",
+      "constituency": "Kadapa",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "No",
+      "source_url": "https://radianceweekly.net/ysrcp-says-its-mps-voted-against-waqf-bill/"
+    },
+    {
+      "mp_name": "Y. S. Avinash Reddy",
+      "constituency": "Kadapa",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.gulte.com/political-news/330563/one-nation-one-election-tdp-and-ycp-on-same-track/amp"
+    },
+    {
+      "mp_name": "Y. S. Avinash Reddy",
+      "constituency": "Kadapa",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/ysrcp-reiterates-support-womens-reservation-delimitation-bills-upcoming-666.htm"
+    },
+    {
+      "mp_name": "Prabhakar Reddy Vemireddy",
+      "constituency": "Nellore",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Prabhakar Reddy Vemireddy",
+      "constituency": "Nellore",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Prabhakar Reddy Vemireddy",
+      "constituency": "Nellore",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    },
+    {
+      "mp_name": "Gurumoorthy Maddila",
+      "constituency": "Tirupati",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "No",
+      "source_url": "https://radianceweekly.net/ysrcp-says-its-mps-voted-against-waqf-bill/"
+    },
+    {
+      "mp_name": "Gurumoorthy Maddila",
+      "constituency": "Tirupati",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.gulte.com/political-news/330563/one-nation-one-election-tdp-and-ycp-on-same-track/amp"
+    },
+    {
+      "mp_name": "Gurumoorthy Maddila",
+      "constituency": "Tirupati",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/ysrcp-reiterates-support-womens-reservation-delimitation-bills-upcoming-666.htm"
+    },
+    {
+      "mp_name": "P V Midhun Reddy",
+      "constituency": "Rajampet",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "No",
+      "source_url": "https://radianceweekly.net/ysrcp-says-its-mps-voted-against-waqf-bill/"
+    },
+    {
+      "mp_name": "P V Midhun Reddy",
+      "constituency": "Rajampet",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.gulte.com/political-news/330563/one-nation-one-election-tdp-and-ycp-on-same-track/amp"
+    },
+    {
+      "mp_name": "P V Midhun Reddy",
+      "constituency": "Rajampet",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/ysrcp-reiterates-support-womens-reservation-delimitation-bills-upcoming-666.htm"
+    },
+    {
+      "mp_name": "Daggumalla Prasada Rao",
+      "constituency": "Chittoor",
+      "bill_name": "The Waqf (Amendment) Bill, 2025",
+      "vote": "Aye",
+      "source_url": "https://suryaa.com/ap-english-7602-waqf-bill-tdp-issues-whip-to-its-mps-in-lok-sabha-to-support-govt-stand.html"
+    },
+    {
+      "mp_name": "Daggumalla Prasada Rao",
+      "constituency": "Chittoor",
+      "bill_name": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election) — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://swarajyamag.com/news-brief/one-nation-one-election-bill-introduced-in-lok-sabha-with-269-votes-in-favour-despite-congress-opposition"
+    },
+    {
+      "mp_name": "Daggumalla Prasada Rao",
+      "constituency": "Chittoor",
+      "bill_name": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026 — motion for introduction",
+      "vote": "Aye",
+      "source_url": "https://www.newkerala.com/news/a/50-increase-lok-sabha-seats-will-benefit-southern-558.htm"
+    }
+  ],
+  "unverifiable": [
+    "No official Lok Sabha division list with individual member names was found in a publicly accessible format for any of the three votes; per-MP votes above are derived from documented party whips and official party statements (each with its source URL), not from the House's own division records. If any MP broke the whip, voted differently, or was absent, that would not be captured here.",
+    "JanaSena MPs' votes on the April 16, 2026 introduction of the Constitution (131st Amendment) Bill / Delimitation Bill / UT Laws (Amendment) Bill could not be verified: no party statement or credible report of JanaSena's stand on these specific bills was found (a CPI leader publicly urged Pawan Kalyan to oppose, implying no announced stand). Those 2 vote records are omitted.",
+    "The April 16, 2026 division (251-185) was on the motion for INTRODUCTION of the three bills, not final passage. On April 17, 2026 the Constitution (131st Amendment) Bill, 2026 was defeated on the floor; published reports conflict on that defeat tally (298-230 per LawStreet, 278-211 per Gulte), so the defeat vote is not recorded here.",
+    "Some reports of the April 16, 2026 division state '251 AYES and 185 NOES out of 333 votes' though 251+185=436; the 251-185 tally itself is consistently reported by ANI-sourced outlets and is used here.",
+    "BJP MPs' Aye votes rest on the bills being government business backed by reported party whips/positions rather than a published BJP division instruction for each vote; treated as Aye with the cited sources.",
+    "Waqf vote: TDP alleged YSRCP MPs voted in favour; YSRCP's parliamentary party leader publicly denied this and asserted all YSRCP MPs voted against in both Houses. The YSRCP denial is used as the source; the dispute is noted for transparency."
+  ],
+  "researched_at": "2026-10-16"
+}
