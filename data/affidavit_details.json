@@ -52,14 +52,14 @@
   {
    "name": "Appalanaidu Kalisetti",
    "constituency": "Vizianagaram",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
-   "charges": null,
-   "education": null,
-   "assets_current_inr": null,
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional - LLB, Andhra University (2011)",
+   "assets_current_inr": 62365187,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5132",
-   "notes": "Page fetch returned only an immovable-assets table fragment (no header, crime-o-meter, education, or asset-total sections) across 3 retries; live-browser pass needed for full data. Fragment subtotals observed but NOT claimed as totals: agricultural land Rs 1,84,79,000; non-agricultural land Rs 67,76,000; commercial buildings Rs 1,92,88,000."
+   "notes": "Recovered via live-browser read of full affidavit page."
   },
   {
    "name": "Sribharat Mathukumili",
@@ -89,14 +89,45 @@
   {
    "name": "C.M. Ramesh",
    "constituency": "Anakapalli",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
-   "charges": null,
-   "education": null,
-   "assets_current_inr": null,
+   "total_cases": 5,
+   "serious_cases": 1,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "ipc_sections": "353, 342, 506, 201, 188, 143, 149",
+     "case_description": "FIR 147/2024, Chodavaram PS, Anakapalli. Charges not framed.",
+     "severity": "non-serious",
+     "severity_basis": "No section with established 5yr+ max (IPC 201 depends on unknown underlying offence — borderline)"
+    },
+    {
+     "ipc_sections": "420, 468, 471",
+     "case_description": "FIR 691/2023, Jubilee Hills PS, Hyderabad (transferred to CCS Hyderabad, Crime 361/23). Charges not framed.",
+     "severity": "serious",
+     "severity_basis": "IPC 420/468 cheating/forgery: max 7 years imprisonment"
+    },
+    {
+     "ipc_sections": "341, 143, 269, 270, 271, 188, 290, 149",
+     "case_description": "FIR 266/2021, Kavali PS (R), Nellore. Charges not framed.",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections: no 5yr+ max"
+    },
+    {
+     "ipc_sections": "323, 324, 34",
+     "case_description": "FIR 100/2019, Yerraguntla PS, Kadapa (CC 21/2020, MP/MLA Special Court Vijayawada; stayed by AP High Court 28/04/2022). Charges not framed.",
+     "severity": "non-serious",
+     "severity_basis": "IPC 324 max 3 years"
+    },
+    {
+     "ipc_sections": "Sec.151 CrPC",
+     "case_description": "FIR 26/2013, Saifabad PS, Hyderabad. Charges not framed.",
+     "severity": "non-serious",
+     "severity_basis": "Preventive provision, not a penal charge"
+    }
+   ],
+   "education": "12th Pass - Intermediate, Board of Intermediate Education AP (1983)",
+   "assets_current_inr": 4976024996,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
-   "notes": "Page fetch returned only an immovable-assets table fragment (no header, crime-o-meter, criminal-case table, education, or total-assets summary) across 3 retries; live-browser pass needed. Fragment figures observed but NOT claimed as totals: agricultural land subtotal Rs 34,83,00,000; non-agricultural land section subtotal Rs 2,56,37,60,350."
+   "notes": "Recovered via live-browser read of full affidavit page."
   },
   {
    "name": "Tangella Uday Srinivas",
@@ -219,14 +250,21 @@
   {
    "name": "Chandra Sekhar Pemmasani",
    "constituency": "Guntur",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
-   "charges": [],
-   "education": null,
-   "assets_current_inr": null,
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "143, 341, 188, 171H, 171E, 149",
+     "case_description": "FIR 102/2024, Arundelpet PS, Guntur. Charges not framed.",
+     "severity": "serious",
+     "severity_basis": "Electoral offences (IPC 171E/171H) per ADR criteria"
+    }
+   ],
+   "education": "Post Graduate - M.D. Internal Medicine, Geisinger Medical Center, Pennsylvania, USA (2005); MBBS",
+   "assets_current_inr": 57054727538,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5106",
-   "notes": "myneta.info page could not be fully read: fetches returned only a truncated fragment starting mid-immovable-assets (no header, no criminal-cases section, no education, no movable-assets or total-assets rows). Per no-guessing rules all fields are null — criminal-case status is UNKNOWN, not confirmed zero. Live-browser check recommended."
+   "notes": "Recovered via live-browser read of full affidavit page."
   },
   {
    "name": "Lavu Srikrishna Devarayalu",
@@ -255,14 +293,14 @@
   {
    "name": "Magunta Sreenivasulu Reddy",
    "constituency": "Ongole",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
    "charges": [],
-   "education": null,
-   "assets_current_inr": null,
+   "education": "Graduate - B.Com, V.R. College, S.V. University, Nellore (1973)",
+   "assets_current_inr": 579539820,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5120",
-   "notes": "Page failed to load completely in repeated text reads (5 attempts): only a 64-line fragment of the Liabilities section rendered. No Crime-O-Meter count, criminal-case details, education, or total-assets figure visible — all null per no-guessing rule. Fragmentary observation only (not claimed): liabilities grand total shown as Rs 27,83,23,276. Live-browser pass needed."
+   "notes": "Recovered via live-browser read of full affidavit page."
   },
   {
    "name": "Byreddy Shabari",
@@ -292,14 +330,14 @@
   {
    "name": "Bastipati Nagaraju Panchalingala",
    "constituency": "Kurnool",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
    "charges": [],
-   "education": null,
-   "assets_current_inr": null,
+   "education": "Post Graduate - M.Sc (Chemistry), Swamy Ramanand Teertha Marathwada University (2006)",
+   "assets_current_inr": 90176000,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6787",
-   "notes": "Page failed to load completely in repeated text reads (4 attempts): only a 42-line fragment of the immovable-assets section rendered. No Crime-O-Meter count, criminal-case details, education, or total-assets figure visible — all null per no-guessing rule. Fragmentary observations only (not claimed as totals): agricultural-land subtotal Rs 7,46,42,000; partial non-agricultural land Rs 68,55,000. Live-browser pass needed."
+   "notes": "Recovered via live-browser read of full affidavit page."
   },
   {
    "name": "Ambica G Lakshminarayana Valmiki",
@@ -468,14 +506,27 @@
   {
    "name": "Y. S. Avinash Reddy",
    "constituency": "Kadapa",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
-   "charges": [],
-   "education": null,
-   "assets_current_inr": null,
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "120B, 302, 201",
+     "case_description": "RC 4(S)/2020/CBI/SC-III/New Delhi; Crime 84/2019, Pulivendula PS (SC 1/2023, Spl. Sessions Judge for CBI Cases, Nampalli, Hyderabad). Charges not framed.",
+     "severity": "serious",
+     "severity_basis": "IPC 302 murder"
+    },
+    {
+     "ipc_sections": "341, 188, 34",
+     "case_description": "Crime 418/2018, Mydukur U/G PS, YSR District (JMFC Mydukur). Charges not framed.",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections: no 5yr+ max"
+    }
+   ],
+   "education": "Post Graduate - MBA, University of Worcester, UK",
+   "assets_current_inr": 404301973,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5111",
-   "notes": "Fetched page text contained only the immovable-asset sections (agricultural land, non-agricultural land, residential buildings); candidate summary box, criminal-cases section, movable-assets table, and education were absent from extracted text — no values guessed. Immovable-only subtotal visible (self, not claimed as total assets): agricultural land Rs 10,86,93,705 + non-agricultural land Rs 13,96,16,338 + residential buildings Rs 8,02,10,720 = Rs 32,85,20,763. Live-browser pass needed."
+   "notes": "Recovered via live-browser read of full affidavit page."
   },
   {
    "name": "Prabhakar Reddy Vemireddy",
@@ -553,14 +604,14 @@
   {
    "name": "Daggumalla Prasada Rao",
    "constituency": "Chittoor",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
    "charges": [],
-   "education": null,
-   "assets_current_inr": null,
+   "education": "Graduate - B.A., V.R.S & Y.R.N. College, Chirala, Andhra University (1981)",
+   "assets_current_inr": 384493765,
    "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5104",
-   "notes": "Fetched page text contained only the residential-buildings portion of the immovable-assets section; candidate summary box, criminal-cases section, movable-assets table, education, and other immovable-asset subsections were absent — no values guessed. Residential-buildings subtotal visible (self, not claimed as total): Rs 19,10,73,500. Live-browser pass needed."
+   "notes": "Recovered via live-browser read of full affidavit page."
   }
  ],
  "collected_at": "2026-10-16",
