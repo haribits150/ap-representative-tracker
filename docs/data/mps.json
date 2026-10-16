@@ -88,13 +88,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Parvathipuram Manyam",
-      "Alluri Sitharama Raju"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Parvathipuram Manyam",
+     "Alluri Sitharama Raju"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -190,12 +187,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Srikakulam"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Srikakulam"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -291,13 +285,10 @@
     "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Srikakulam",
-      "Vizianagaram"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Srikakulam",
+     "Vizianagaram"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -393,13 +384,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Vizianagaram",
-      "Visakhapatnam"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Vizianagaram",
+     "Visakhapatnam"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -495,13 +483,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Anakapalli",
-      "Visakhapatnam"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Anakapalli",
+     "Visakhapatnam"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -597,12 +582,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Kakinada"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Kakinada"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -698,12 +680,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Dr. B.R. Ambedkar Konaseema"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Dr. B.R. Ambedkar Konaseema"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -799,12 +778,9 @@
     "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "East Godavari"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "East Godavari"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -900,12 +876,9 @@
     "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "West Godavari"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "West Godavari"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1001,12 +974,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Eluru"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Eluru"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1102,12 +1072,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Krishna"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Krishna"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1203,12 +1170,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "NTR"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "NTR"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1304,12 +1268,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Guntur"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Guntur"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1405,12 +1366,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Palnadu"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Palnadu"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1506,13 +1464,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Bapatla",
-      "Prakasam"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Bapatla",
+     "Prakasam"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1608,12 +1563,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Prakasam"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Prakasam"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1709,13 +1661,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Nandyal",
-      "Kurnool"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Nandyal",
+     "Kurnool"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1811,12 +1760,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Kurnool"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Kurnool"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -1912,12 +1858,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Ananthapuramu"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Ananthapuramu"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2013,13 +1956,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Ananthapuramu",
-      "Sri Sathya Sai"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Ananthapuramu",
+     "Sri Sathya Sai"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2115,12 +2055,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "YSR Kadapa"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "YSR (Kadapa)"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2216,12 +2153,9 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Nellore"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Sri Potti Sriramulu Nellore"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2317,13 +2251,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Nellore",
-      "Tirupati"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Sri Potti Sriramulu Nellore",
+     "Tirupati"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2419,13 +2350,10 @@
     "group_notes": "ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads. Margin computed as winner total minus runner-up total from ECI table."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Annamayya",
-      "Chittoor"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Annamayya",
+     "Chittoor"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2521,13 +2449,10 @@
     "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
    },
    "district_context": {
-    "districts": {
-     "districts": [
-      "Tirupati",
-      "Chittoor"
-     ],
-     "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
-    },
+    "districts": [
+     "Tirupati",
+     "Chittoor"
+    ],
     "indicators": {}
    },
    "meta": {
@@ -2666,19 +2591,19 @@
   },
   "Kadapa": {
    "districts": [
-    "YSR Kadapa"
+    "YSR (Kadapa)"
    ],
    "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
   },
   "Nellore": {
    "districts": [
-    "Nellore"
+    "Sri Potti Sriramulu Nellore"
    ],
    "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
   },
   "Tirupati": {
    "districts": [
-    "Nellore",
+    "Sri Potti Sriramulu Nellore",
     "Tirupati"
    ],
    "source_url": "https://hindi.eci.gov.in/files/file/7256-andhra-pradesh/?do=download&r=16781&confirm=1&t=1&csrfKey=5e69a595fbf6a43ee0dfc3db2fa3973e"
