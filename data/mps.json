@@ -271,18 +271,18 @@
    },
    "election": {
     "vote_share_pct": {
-     "value": null,
-     "source": null
+     "value": 57.2,
+     "source": "https://web.archive.org/web/20251106194059/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS013.htm"
     },
     "margin_votes": {
-     "value": null,
-     "source": null
+     "value": 249351,
+     "source": "https://web.archive.org/web/20251106194059/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS013.htm"
     },
     "turnout_pct": {
      "value": null,
      "source": null
     },
-    "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
+    "group_notes": "Recovered via Wayback Machine capture (Nov 2025) of the official ECI June-2024 result page; ECI live site no longer hosts GE-2024 pages. Margin = winner minus runner-up votes."
    },
    "district_context": {
     "districts": [
@@ -764,18 +764,18 @@
    },
    "election": {
     "vote_share_pct": {
-     "value": null,
-     "source": null
+     "value": 54.82,
+     "source": "https://web.archive.org/web/20251106193923/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS018.htm"
     },
     "margin_votes": {
-     "value": null,
-     "source": null
+     "value": 239139,
+     "source": "https://web.archive.org/web/20251106193923/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS018.htm"
     },
     "turnout_pct": {
      "value": null,
      "source": null
     },
-    "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
+    "group_notes": "Recovered via Wayback Machine capture (Nov 2025) of the official ECI June-2024 result page; ECI live site no longer hosts GE-2024 pages. Margin = winner minus runner-up votes."
    },
    "district_context": {
     "districts": [
@@ -862,18 +862,18 @@
    },
    "election": {
     "vote_share_pct": {
-     "value": null,
-     "source": null
+     "value": 57.46,
+     "source": "https://web.archive.org/web/20251106193517/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS019.htm"
     },
     "margin_votes": {
-     "value": null,
-     "source": null
+     "value": 276802,
+     "source": "https://web.archive.org/web/20251106193517/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS019.htm"
     },
     "turnout_pct": {
      "value": null,
      "source": null
     },
-    "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
+    "group_notes": "Recovered via Wayback Machine capture (Nov 2025) of the official ECI June-2024 result page; ECI live site no longer hosts GE-2024 pages. Margin = winner minus runner-up votes."
    },
    "district_context": {
     "districts": [
@@ -2435,18 +2435,18 @@
    },
    "election": {
     "vote_share_pct": {
-     "value": null,
-     "source": null
+     "value": 54.84,
+     "source": "https://web.archive.org/web/20251106194059/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS0125.htm"
     },
     "margin_votes": {
-     "value": null,
-     "source": null
+     "value": 220479,
+     "source": "https://web.archive.org/web/20251106194059/https://results.eci.gov.in/PcResultGenJune2024/ConstituencywiseS0125.htm"
     },
     "turnout_pct": {
      "value": null,
      "source": null
     },
-    "group_notes": "ECI constituency results page failed to load (network error / HTTP 404); not filled from non-ECI sources per hard rules. ECI constituency pages publish votes polled but not turnout %; official PC-wise turnout (statistical report 13) not accessible via text reads."
+    "group_notes": "Recovered via Wayback Machine capture (Nov 2025) of the official ECI June-2024 result page; ECI live site no longer hosts GE-2024 pages. Margin = winner minus runner-up votes."
    },
    "district_context": {
     "districts": [
