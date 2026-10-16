@@ -75,8 +75,11 @@ function affCharges(mp){
   const a = affOf(mp);
   if(!a || !a.charges || !a.charges.length) return '';
   return `<h3 style="margin:16px 0 8px;font-size:.95rem">${t('charges_list')}</h3>
-    <table class="metrics">${a.charges.map(c=>
-      `<tr><th>${esc(c.ipc_sections||'—')}</th><td>${esc(c.case_description||'—')}</td></tr>`).join('')}
+    <table class="metrics">${a.charges.map(c=>{
+      const sev = c.severity==='serious'
+        ? `<span class="badge" style="background:#fde8e8;color:#a12020">${esc(c.severity)}</span>`
+        : c.severity ? `<span class="badge">${esc(c.severity)}</span>` : '';
+      return `<tr><th>${esc(c.ipc_sections||'—')}<br>${sev}</th><td>${esc(c.case_description||'—')}${c.severity_basis?`<div class="sub" style="font-size:.75rem;color:var(--muted)">${esc(c.severity_basis)}</div>`:''}</td></tr>`;}).join('')}
     </table>`;
 }
 
@@ -352,7 +355,9 @@ function viewMethodology(){
     <h2>నియమాలు</h2>
     <p>ప్రతి సంఖ్యకు మూలం లింక్ తప్పనిసరి. వ్యక్తులపై విశేషణాలు నిషిద్ధం — "తక్కువ హాజరు" కాదు, "హాజరు 43%, సభ సగటు 78%" అని మాత్రమే. అన్ని పార్టీలకు ఒకే లేఅవుట్. ర్యాంకింగ్‌లు లేవు.</p>
     <h2>పరిమితులు</h2>
-    <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు.</p>`
+    <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు.</p>
+    <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
+    <p>myneta.info అభ్యర్థుల వారీగా ADR తీవ్ర/సాధారణ విభజనను ప్రచురించదు — కాబట్టి తీవ్రత అనేది ADR ప్రచురించిన "తీవ్రమైన క్రిమినల్ కేసులు" ప్రమాణాల యాంత్రిక అనువర్తనం: 5+ సంవత్సరాల శిక్ష పడే నేరాలు; ఎన్నికల నేరాలు; అవినీతి/పన్ను ఎగవేత; SC/ST అత్యాచారాల నిరోధక చట్టం నేరాలు; హత్య, హత్యాయత్నం, అత్యాచారం, కిడ్నాప్ వంటి తీవ్ర వర్గాలు. మిగతావన్నీ — ఆందోళన కేసులు, ట్రాఫిక్ ఉల్లంఘనలు, చిన్న గాయాలు, చిన్న జరిమానాలు — సాధారణంగా లెక్క. ప్రతి అభియోగానికి ఆధారం పేర్కొనబడుతుంది. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు.</p>`
   : `
     <h2>Sources</h2>
     <p>Legislative record: PRS Legislative Research · Funds: MPLADS portal · Affidavits: ADR/MyNeta · Election results: Election Commission of India · District outcomes: Census, NFHS, UDISE+, NITI Aayog SDG India Index, scheme dashboards (MGNREGA, PMAY-G, Jal Jeevan Mission).</p>
@@ -360,6 +365,8 @@ function viewMethodology(){
     <p>Every number carries a source link — no exceptions. No adjectives about people: never "low attendance", always "attendance 43% vs. house average 78%". Identical layout for every party. No leaderboards, no verdicts.</p>
     <h2>Limits</h2>
     <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS figures reflect the latest completed reporting period; provisional data is labeled as such.</p>
+    <h2>Criminal cases: serious vs non-serious</h2>
+    <p>myneta.info does not publish ADR's own per-candidate serious/non-serious split, so severity is a mechanical application of ADR's published "serious criminal cases" criteria to the sections listed in each affidavit: offences punishable with 5+ years; electoral offences (e.g. IPC 171E/171H); corruption and tax-evasion offences; SC/ST (Prevention of Atrocities) Act offences; and heinous categories (murder, attempt to murder, rape, kidnapping, dacoity). Everything else — protest and public-order cases, traffic violations, simple hurt, minor statutory fines — counts as non-serious. Each charge carries its basis; borderline calls are flagged. Declared cases are pending matters, not convictions.</p>
     <h2>Corrections</h2>
     <p>Sourced corrections are applied visibly. If a cited source revises a figure, the record is updated with a new verification date.</p>`}
   </section>`;
