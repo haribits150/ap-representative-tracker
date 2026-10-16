@@ -426,10 +426,17 @@ function viewDistrict(slug){
   const info = distInfo(d);
   const mps = districtMPs(d);
   const inds = info.indicators || {};
-  const irow = (label, m, fmt) => {
+  const JURIS = {literacy_pct:'state',institutional_births_pct:'state',stunting_under5_pct:'state',
+    infant_mortality:'state',dropout_rate_secondary:'state',pupil_teacher_ratio_primary:'state',
+    sdg_index_score:'shared',mgnrega_persondays_fy25:'central',pmayg_houses_completed:'central',
+    jjm_tap_connections:'shared',per_capita_income_inr:'shared',
+    crime_rate_per_lakh:'state',crimes_against_women_per_lakh:'state'};
+  const jurisPill = k => { const j = JURIS[k]; if(!j) return '';
+    return ` <span class="juris juris-${j}">${t('juris_'+j)}</span>`; };
+  const irow = (label, m, fmt, key) => {
     const f = fmt || fmtN;
-    if(!m || m.value==null) return `<tr><th>${label}</th><td><span class="pending">${t('data_pending')}</span></td></tr>`;
-    return `<tr><th>${label}</th><td>${f(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
+    if(!m || m.value==null) return `<tr><th>${label}${jurisPill(key)}</th><td><span class="pending">${t('data_pending')}</span></td></tr>`;
+    return `<tr><th>${label}${jurisPill(key)}</th><td>${f(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
   };
   return `
   <p><a href="#/districts">${t('back')}</a></p>
@@ -456,21 +463,22 @@ function viewDistrict(slug){
   <section class="panel"><h2>${t('district_indicators')}</h2>
     <div class="area-note">${t('area_note')}</div>
     <table class="metrics">
-      ${irow('Literacy', inds.literacy_pct)}
-      ${irow('Institutional births', inds.institutional_births_pct)}
-      ${irow('Stunting (under 5)', inds.stunting_under5_pct)}
-      ${irow('Infant mortality', inds.infant_mortality)}
-      ${irow('Secondary dropout rate', inds.dropout_rate_secondary)}
-      ${irow('Pupil-teacher ratio (primary)', inds.pupil_teacher_ratio_primary)}
-      ${irow('SDG index score', inds.sdg_index_score)}
-      ${irow('MGNREGA person-days', inds.mgnrega_persondays_fy25)}
-      ${irow('PMAY-G houses completed', inds.pmayg_houses_completed)}
-      ${irow('Jal Jeevan tap connections', inds.jjm_tap_connections)}
-      ${irow('Per-capita income', inds.per_capita_income_inr, fmtINR)}
-      ${irow('Crime rate per lakh (2022) †', inds.crime_rate_per_lakh)}
-      ${irow('Crimes against women per lakh (2022) †', inds.crimes_against_women_per_lakh)}
+      ${irow('Literacy', inds.literacy_pct, null, 'literacy_pct')}
+      ${irow('Institutional births', inds.institutional_births_pct, null, 'institutional_births_pct')}
+      ${irow('Stunting (under 5)', inds.stunting_under5_pct, null, 'stunting_under5_pct')}
+      ${irow('Infant mortality', inds.infant_mortality, null, 'infant_mortality')}
+      ${irow('Secondary dropout rate', inds.dropout_rate_secondary, null, 'dropout_rate_secondary')}
+      ${irow('Pupil-teacher ratio (primary)', inds.pupil_teacher_ratio_primary, null, 'pupil_teacher_ratio_primary')}
+      ${irow('SDG index score', inds.sdg_index_score, null, 'sdg_index_score')}
+      ${irow('MGNREGA person-days', inds.mgnrega_persondays_fy25, null, 'mgnrega_persondays_fy25')}
+      ${irow('PMAY-G houses completed', inds.pmayg_houses_completed, null, 'pmayg_houses_completed')}
+      ${irow('Jal Jeevan tap connections', inds.jjm_tap_connections, null, 'jjm_tap_connections')}
+      ${irow('Per-capita income', inds.per_capita_income_inr, fmtINR, 'per_capita_income_inr')}
+      ${irow('Crime rate per lakh (2022) †', inds.crime_rate_per_lakh, null, 'crime_rate_per_lakh')}
+      ${irow('Crimes against women per lakh (2022) †', inds.crimes_against_women_per_lakh, null, 'crimes_against_women_per_lakh')}
     </table>
     <div class="area-note">† Crime rates computed by this project: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</div>
+    <div class="area-note"><strong>${t('juris_title')}</strong> ${t('juris_legend')}</div>
   </section>`;
 }
 
