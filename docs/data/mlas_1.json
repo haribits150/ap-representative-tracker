@@ -154,10 +154,15 @@
      "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=91"
     },
     "asset_growth_pct": {
-     "value": null,
-     "source": null
+     "value": -37.8,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
     },
-    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 583767374,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
    },
    "election": {
     "vote_share_pct": {
