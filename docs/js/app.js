@@ -201,7 +201,7 @@ function viewProfile(slug, house){
   <section class="panel"><h2>${t('voting_record')}</h2><p class="lede">${t('voting_lede')}</p>
     <table class="metrics">
       ${mp.voting_record.votes.map(v=>`
-      <tr><th>${esc(v.bill_short)}<br><span class="sub">${esc(v.date)} &middot; ${t('house_result')}: ${esc(v.house_result)}</span></th>
+      <tr><th>${esc(v.bill)}<br><span class="sub">${esc(v.date)} &middot; ${t('house_result')}: ${esc(v.result)}</span></th>
       <td><strong>${v.vote==='Aye'?t('vote_aye'):t('vote_no')}</strong>${srcLink(v.source)}</td></tr>`).join('')}
     </table>
     <p class="disclaimer">${t('voting_basis_note')}</p>
