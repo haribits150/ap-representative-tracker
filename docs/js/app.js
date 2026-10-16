@@ -381,11 +381,12 @@ async function load(){
   try{ const r = await fetch('data/ap_districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
 }
 /* district -> MPs inverse index from constituency_to_districts */
+function asList(v){ return Array.isArray(v) ? v : (v && Array.isArray(v.districts) ? v.districts : []); }
 function districtMPs(dname){
   const c2d = DATA.constituency_to_districts || {};
   const out = [];
   for(const mp of DATA.mps){
-    const ds = c2d[mp.constituency] || (mp.district_context && mp.district_context.districts) || [];
+    const ds = asList(c2d[mp.constituency]).concat(asList(mp.district_context && mp.district_context.districts));
     if(ds.includes(dname)) out.push(mp);
   }
   return out;
