@@ -22,7 +22,7 @@ def main():
         for group in ("legislative", "funds", "disclosure", "election"):
             g = mp.get(group) or {}
             for k, v in g.items():
-                if k in ("sessions_covered", "period", "year"):
+                if k in ("sessions_covered", "period", "year", "data_period", "fy", "group_notes"):
                     continue
                 if not metric_ok(v):
                     errors.append(f"{name}: {group}.{k} has value without source")
