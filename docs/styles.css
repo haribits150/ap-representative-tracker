@@ -66,3 +66,8 @@ a{color:var(--accent)}
 .share-btn{display:inline-block;background:#1faa55;color:#fff !important;text-decoration:none;
   padding:10px 18px;border-radius:10px;font-weight:600;font-size:.95rem}
 .share-btn:hover{background:#178a44}
+
+.house-tabs{display:flex;gap:8px;justify-content:center;margin:12px 0}
+.house-tab{background:#fff;border:2px solid var(--accent);color:var(--accent);
+  padding:8px 20px;border-radius:20px;font-size:.95rem;font-weight:600;cursor:pointer}
+.house-tab.active{background:var(--accent);color:#fff}

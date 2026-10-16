@@ -1,5 +1,7 @@
 /* AP Representative Tracker — client-side renderer. Reads docs/data/*.json */
 let DATA = {mps: []};
+let MLA = [];
+let HOUSE = 'mp';
 let DIST = {districts: []};
 let AFF = {mps: []};
 let GEO = null;
@@ -89,29 +91,53 @@ function avgOf(key, group){
   const vs = DATA.mps.map(mp=>M(mp[group],key).value).filter(v=>v!=null&&!isNaN(v));
   return vs.length ? vs.reduce((a,b)=>a+Number(b),0)/vs.length : null;
 }
+function mlaAvg(key, group){
+  const vs = MLA.map(mp=>M(mp[group],key).value).filter(v=>v!=null&&!isNaN(v));
+  return vs.length ? vs.reduce((a,b)=>a+Number(b),0)/vs.length : null;
+}
 function viewDashboard(){
-  const mps = DATA.mps;
-  const n = mps.length;
-  const aAtt = avgOf('attendance_pct','legislative');
-  const aQ = avgOf('questions_asked','legislative');
-  const aAlloc = avgOf('entitlement_inr','funds');
-  const nAtt = mps.filter(mp=>M(mp.legislative,'attendance_pct').value!=null).length;
-  const nQ = mps.filter(mp=>M(mp.legislative,'questions_asked').value!=null).length;
-  const nA = mps.filter(mp=>M(mp.funds,'entitlement_inr').value!=null).length;
-  return `
-  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p>
-    <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
-    <p style="margin:4px 0 0"><a href="#/districts">${t('browse_districts')}</a></p>
-  </div>
-  <div class="stats">
+  const isMla = HOUSE==='mla';
+  const list = houseList();
+  const n = list.length;
+  const tab = (h, lbl, count) =>
+    `<button class="house-tab${HOUSE===h?' active':''}" onclick="setHouse('${h}')">${lbl} (${count})</button>`;
+  const stats = isMla ? (()=> {
+    const aVs = mlaAvg('vote_share_pct','election');
+    const aCs = mlaAvg('criminal_cases_declared','disclosure');
+    const aAs = mlaAvg('assets_current_inr','disclosure');
+    const nVs = MLA.filter(mp=>M(mp.election,'vote_share_pct').value!=null).length;
+    const nCs = MLA.filter(mp=>M(mp.disclosure,'criminal_cases_declared').value!=null).length;
+    const nAs = MLA.filter(mp=>M(mp.disclosure,'assets_current_inr').value!=null).length;
+    return `
+    <div class="stat"><div class="num">${n}</div><div class="lbl">${t('mlas_tracked')}</div><div class="sub">${t('as_of')} 2026-10-16</div></div>
+    <div class="stat"><div class="num">${fmtPct(aVs)}</div><div class="lbl">${t('avg_voteshare')}</div><div class="sub">${t('of_mps')(nVs)}</div></div>
+    <div class="stat"><div class="num">${aCs==null?'—':(Math.round(aCs*10)/10)}</div><div class="lbl">${t('avg_cases')}</div><div class="sub">${t('of_mps')(nCs)}</div></div>
+    <div class="stat"><div class="num">${fmtINR(aAs)}</div><div class="lbl">${t('avg_assets')}</div><div class="sub">${t('of_mps')(nAs)}</div></div>`;
+  })() : (()=> {
+    const mps = DATA.mps;
+    const aAtt = avgOf('attendance_pct','legislative');
+    const aQ = avgOf('questions_asked','legislative');
+    const aAlloc = avgOf('entitlement_inr','funds');
+    const nAtt = mps.filter(mp=>M(mp.legislative,'attendance_pct').value!=null).length;
+    const nQ = mps.filter(mp=>M(mp.legislative,'questions_asked').value!=null).length;
+    const nA = mps.filter(mp=>M(mp.funds,'entitlement_inr').value!=null).length;
+    return `
     <div class="stat"><div class="num">${n}</div><div class="lbl">${t('mps_tracked')}</div><div class="sub">${t('as_of')} ${esc(DATA.collected_at||'—')}</div></div>
     <div class="stat"><div class="num">${fmtPct(aAtt)}</div><div class="lbl">${t('avg_attendance')}</div><div class="sub">${t('of_mps')(nAtt)}</div></div>
     <div class="stat"><div class="num">${aQ==null?'—':Math.round(aQ)}</div><div class="lbl">${t('avg_questions')}</div><div class="sub">${t('of_mps')(nQ)}</div></div>
-    <div class="stat"><div class="num">${fmtINR(aAlloc)}</div><div class="lbl">${t('avg_mplads_alloc')}</div><div class="sub">${t('of_mps')(nA)}</div></div>
+    <div class="stat"><div class="num">${fmtINR(aAlloc)}</div><div class="lbl">${t('avg_mplads_alloc')}</div><div class="sub">${t('of_mps')(nA)}</div></div>`;
+  })();
+  const route = isMla ? 'mla' : 'mp';
+  return `
+  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p>
+    <div class="house-tabs">${tab('mp', t('house_mp'), DATA.mps.length)}${tab('mla', t('house_mla'), MLA.length)}</div>
+    <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
+    <p style="margin:4px 0 0"><a href="#/districts">${t('browse_districts')}</a></p>
   </div>
+  <div class="stats">${stats}</div>
   <div class="mp-grid" id="grid">
-    ${mps.map(mp=>`
-      <a class="mp-card" data-name="${esc(mp.name)} ${esc(mp.constituency)}" href="#/mp/${slugOf(mp)}">
+    ${list.map(mp=>`
+      <a class="mp-card" data-name="${esc(mp.name)} ${esc(mp.constituency)}" href="#/${route}/${slugOf(mp)}">
         <div class="avatar">${initials(mp.name)}</div>
         <h3>${esc(mp.name)}</h3>
         <div class="cons">${esc(mp.constituency)}</div>
@@ -119,6 +145,7 @@ function viewDashboard(){
       </a>`).join('')}
   </div>`;
 }
+window.setHouse = h => { HOUSE = h; render(); };
 window.filterCards = q => {
   q = q.toLowerCase();
   document.querySelectorAll('.mp-card').forEach(c=>{
@@ -127,37 +154,47 @@ window.filterCards = q => {
 };
 
 /* ---------- profile ---------- */
-function viewProfile(slug){
-  const mp = DATA.mps.find(m=>slugOf(m)===slug);
+function viewProfile(slug, house){
+  house = house || 'mp';
+  const isMla = house==='mla';
+  const mp = (isMla ? MLA : DATA.mps).find(m=>slugOf(m)===slug);
   if(!mp) return `<p>${t('no_results')}</p><p><a href="#/">${t('back')}</a></p>`;
   const L=mp.legislative||{}, F=mp.funds||{}, D=mp.disclosure||{}, E=mp.election||{};
   const vc = verifiedCount(mp);
   const lastV = mp.meta && mp.meta.last_verified;
+  const houseLbl = isMla ? t('assembly') : (t('m_constituency')==='\u0c28\u0c3f\u0c2f\u0c4b\u0c1c\u0c15\u0c35\u0c30\u0c4d\u0c17\u0c02'?'\u0c32\u0c4b\u0c15\u0c4d\u0c38\u0c2d':'Lok Sabha');
   const apAvg = (k,g,f)=>{ const a=avgOf(k,g); return a==null ? '' : `${t('ap_avg')}: ${f(a)}`; };
+  const mlaAvgSub = (k,g,f)=>{ const a=mlaAvg(k,g); return a==null ? '' : `${t('ap_avg')}: ${f(a)}`; };
+  const caseVal = M(D,'criminal_cases_declared').value ?? M(D,'criminal_cases').value;
   const waText = encodeURIComponent(
-    `${mp.name} (${mp.constituency})\n${t('m_attendance')}: ${fmtPct(M(L,'attendance_pct').value)} | ${t('m_questions')}: ${fmtN(M(L,'questions_asked').value)} | ${t('m_mplads')}: ${fmtINR(M(F,'entitlement_inr').value)}\n${t('tagline')}\nhttps://haribits150.github.io/ap-representative-tracker/#/mp/${slugOf(mp)}`);
-  return `
-  <p><a href="#/">${t('back')}</a></p>
-  <div class="profile-head">
-    <h1>${esc(mp.name)}<span class="badge">${esc(mp.party||'')}</span></h1>
-    <p class="sub">${esc(mp.constituency)} · ${t('m_constituency')==='నియోజకవర్గం'?'లోక్‌సభ':'Lok Sabha'} · ${t('last_verified')}: ${esc(lastV||'—')} · ${vc.ok}/${vc.total} ${t('fields_verified')}</p>
-    <p><a class="share-btn" href="https://wa.me/?text=${waText}" target="_blank" rel="noopener">${t('share_whatsapp')}</a></p>
-    <div class="kpis">
+    `${mp.name} (${mp.constituency})\n${t('m_voteshare')}: ${fmtPct(M(E,'vote_share_pct').value)} | ${t('total_cases')}: ${fmtN(caseVal)}\n${t('tagline')}\nhttps://haribits150.github.io/ap-representative-tracker/#/${house}/${slugOf(mp)}`);
+  const kpis = isMla ? `
+      ${kpi(fmtPct(M(E,'vote_share_pct').value), t('m_voteshare'), mlaAvgSub('vote_share_pct','election',fmtPct))}
+      ${kpi(fmtN(M(E,'margin_votes').value), t('m_margin'))}
+      ${kpi(fmtN(caseVal), t('total_cases'), mlaAvgSub('criminal_cases_declared','disclosure',v=>fmtN(Math.round(v*10)/10)))}
+      ${kpi(fmtINR(M(D,'assets_current_inr').value), t('assets_now'), mlaAvgSub('assets_current_inr','disclosure',fmtINR))}
+  ` : `
       ${kpi(fmtPct(M(L,'attendance_pct').value), t('m_attendance'), apAvg('attendance_pct','legislative',fmtPct))}
       ${kpi(fmtN(M(L,'questions_asked').value), t('m_questions'), apAvg('questions_asked','legislative',v=>fmtN(Math.round(v))))}
       ${kpi(fmtN(M(L,'debates_participated').value), t('m_debates'), apAvg('debates_participated','legislative',v=>fmtN(Math.round(v))))}
       ${kpi(fmtINR(M(F,'entitlement_inr').value), t('m_mplads_alloc'))}
       ${kpi(fmtPct(M(D,'asset_growth_pct').value), t('m_assets'))}
-    </div>
-  </div>
+  `;
+  const housePanel = isMla ? `
+  <section class="panel"><h2>${t('in_house')}</h2>
+    <div class="area-note">${t('mla_legislative_note')}</div>
+  </section>
 
+  <section class="panel"><h2>${t('public_money')}</h2>
+    <div class="area-note">${t('mla_funds_note')}</div>
+  </section>` : `
   <section class="panel"><h2>${t('in_house')}</h2><p class="lede">${t('house_lede')}</p>
     <table class="metrics">
       ${row(t('m_attendance'), M(L,'attendance_pct'), fmtPct)}
       ${row(t('m_questions'), M(L,'questions_asked'), fmtN)}
       ${row(t('m_debates'), M(L,'debates_participated'), fmtN)}
       ${row(t('m_bills'), M(L,'private_member_bills'), fmtN)}
-      <tr><th>${t('sessions_covered')}</th><td>${esc(L.sessions_covered||'—')}</td></tr>
+      <tr><th>${t('sessions_covered')}</th><td>${esc(L.sessions_covered||'\u2014')}</td></tr>
     </table>
   </section>
 
@@ -168,10 +205,18 @@ function viewProfile(slug){
       ${row(t('m_mplads'), M(F,'utilization_pct'), fmtPct)}
       ${row(t('works_recommended'), M(F,'works_recommended'), fmtN)}
       ${row(t('works_completed'), M(F,'works_completed'), fmtN)}
-      <tr><th>${t('as_of')}</th><td>${esc(F.period||'—')}</td></tr>
+      <tr><th>${t('as_of')}</th><td>${esc(F.period||'\u2014')}</td></tr>
     </table>
-  </section>
-
+  </section>`;
+  const affSection = isMla ? `
+  <section class="panel"><h2>${t('disclosures')}</h2><p class="lede">${t('disclosure_lede')}</p>
+    <table class="metrics">
+      ${row(t('assets_now'), M(D,'assets_current_inr'), fmtINR)}
+      ${row(t('total_cases'), M(D,'criminal_cases_declared'), fmtN)}
+      ${row(t('m_education'), M(D,'education'), v=>esc(v))}
+    </table>
+    <p class="disclaimer">${t('mla_affidavit_note')}</p>
+  </section>` : `
   <section class="panel"><h2>${t('disclosures')}</h2><p class="lede">${t('disclosure_lede')}</p>
     <table class="metrics">
       ${row(t('assets_now'), M(D,'assets_current_inr'), fmtINR)}
@@ -183,7 +228,27 @@ function viewProfile(slug){
     </table>
     <p class="disclaimer">${t('affidavit_note')}</p>
     ${affCharges(mp)}
-  </section>
+  </section>`;
+  const areaSection = `
+  <section class="panel"><h2>${t('your_area')}</h2>
+    <div class="area-note">${t('area_note')}</div>
+    ${mp.district_context ? `
+    <p><strong>${esc(asList(mp.district_context.districts).join(', '))}</strong></p>
+    ${!isMla ? `<table class="metrics">
+      ${Object.entries(mp.district_context.indicators||{}).map(([k,m])=>row(k.replace(/_/g,' '), M({k:m},'k'), v=>fmtN(v))).join('')}
+    </table>` : ''}` : `<p><span class="pending">${t('data_pending')}</span></p>`}
+  </section>`;
+  return `
+  <p><a href="#/">${t('back')}</a></p>
+  <div class="profile-head">
+    <h1>${esc(mp.name)}<span class="badge">${esc(mp.party||'')}</span></h1>
+    <p class="sub">${esc(mp.constituency)} \u00b7 ${houseLbl} \u00b7 ${t('last_verified')}: ${esc(lastV||'\u2014')} \u00b7 ${vc.ok}/${vc.total} ${t('fields_verified')}</p>
+    <p><a class="share-btn" href="https://wa.me/?text=${waText}" target="_blank" rel="noopener">${t('share_whatsapp')}</a></p>
+    <div class="kpis">${kpis}</div>
+  </div>
+
+  ${housePanel}
+  ${affSection}
 
   <section class="panel"><h2>${t('election')}</h2><p class="lede">${t('election_lede')}</p>
     <table class="metrics">
@@ -193,14 +258,7 @@ function viewProfile(slug){
     </table>
   </section>
 
-  <section class="panel"><h2>${t('your_area')}</h2>
-    <div class="area-note">${t('area_note')}</div>
-    ${mp.district_context ? `
-    <p><strong>${esc((mp.district_context.districts||[]).join(', '))}</strong></p>
-    <table class="metrics">
-      ${Object.entries(mp.district_context.indicators||{}).map(([k,m])=>row(k.replace(/_/g,' '), M({k:m},'k'), v=>fmtN(v))).join('')}
-    </table>` : `<p><span class="pending">${t('data_pending')}</span></p>`}
-  </section>
+  ${areaSection}
 
   <section class="panel"><h2>${t('sources')}</h2>
     <table class="metrics">
@@ -225,13 +283,20 @@ function collectSources(mp){
 
 /* ---------- compare ---------- */
 function viewCompare(params){
-  const opts = DATA.mps.map(mp=>`<option value="${slugOf(mp)}">${esc(mp.name)} (${esc(mp.constituency)})</option>`).join('');
-  const a = DATA.mps.find(m=>slugOf(m)===params.get('a'));
-  const b = DATA.mps.find(m=>slugOf(m)===params.get('b'));
-  const col = mp => mp ? `
-    <div class="profile-head"><h1 style="font-size:1.1rem">${esc(mp.name)}</h1>
-    <p class="sub">${esc(mp.constituency)} · ${esc(mp.party||'')}</p></div>
-    <section class="panel"><table class="metrics">
+  const house = params.get('house')==='mla' ? 'mla' : 'mp';
+  const list = house==='mla' ? MLA : DATA.mps;
+  const route = house==='mla' ? 'mla' : 'mp';
+  const opts = list.map(mp=>`<option value="${slugOf(mp)}">${esc(mp.name)} (${esc(mp.constituency)})</option>`).join('');
+  const a = list.find(m=>slugOf(m)===params.get('a'));
+  const b = list.find(m=>slugOf(m)===params.get('b'));
+  const col = mp => {
+    if(!mp) return `<section class="panel"><p>${t('data_pending')}</p></section>`;
+    const rows = house==='mla' ? `
+      ${row(t('m_voteshare'), M(mp.election,'vote_share_pct'), fmtPct)}
+      ${row(t('m_margin'), M(mp.election,'margin_votes'), fmtN)}
+      ${row(t('total_cases'), M(mp.disclosure,'criminal_cases_declared'), fmtN)}
+      ${row(t('assets_now'), M(mp.disclosure,'assets_current_inr'), fmtINR)}
+      ${row(t('m_education'), M(mp.disclosure,'education'), v=>esc(v))}` : `
       ${row(t('m_attendance'), M(mp.legislative,'attendance_pct'), fmtPct)}
       ${row(t('m_questions'), M(mp.legislative,'questions_asked'), fmtN)}
       ${row(t('m_debates'), M(mp.legislative,'debates_participated'), fmtN)}
@@ -242,16 +307,30 @@ function viewCompare(params){
       ${row(t('m_cases'), M(mp.disclosure,'criminal_cases'), fmtN)}
       ${row(t('m_voteshare'), M(mp.election,'vote_share_pct'), fmtPct)}
       ${row(t('m_margin'), M(mp.election,'margin_votes'), fmtN)}
-      ${row(t('m_turnout'), M(mp.election,'turnout_pct'), fmtPct)}
-    </table></section>` : `<section class="panel"><p>${t('data_pending')}</p></section>`;
+      ${row(t('m_turnout'), M(mp.election,'turnout_pct'), fmtPct)}`;
+    return `
+    <div class="profile-head"><h1 style="font-size:1.1rem"><a href="#/${route}/${slugOf(mp)}">${esc(mp.name)}</a></h1>
+    <p class="sub">${esc(mp.constituency)} \u00b7 ${esc(mp.party||'')}</p></div>
+    <section class="panel"><table class="metrics">${rows}
+    </table></section>`;
+  };
   return `
-  <div class="hero"><h1>${t('compare_title')}</h1><p>${t('compare_lede')}</p></div>
+  <div class="hero"><h1>${t('compare_title')}</h1><p>${t('compare_lede')}</p>
+    <div class="house-tabs">
+      <button class="house-tab${house==='mp'?' active':''}" onclick="location.hash='#/compare?house=mp'">${t('house_mp')}</button>
+      <button class="house-tab${house==='mla'?' active':''}" onclick="location.hash='#/compare?house=mla'">${t('house_mla')}</button>
+    </div>
+  </div>
   <div class="compare-selects">
-    <select id="ca" onchange="goCompare()"><option value="">${t('select_a')}</option>${opts}</select>
-    <select id="cb" onchange="goCompare()"><option value="">${t('select_b')}</option>${opts}</select>
+    <select id="ca" onchange="goCompare('${house}')"><option value="">${t('select_a')}</option>${opts}</select>
+    <select id="cb" onchange="goCompare('${house}')"><option value="">${t('select_b')}</option>${opts}</select>
   </div>
   <div class="compare-grid"><div>${col(a)}</div><div>${col(b)}</div></div>`;
 }
+window.goCompare = (house) => {
+  const a=document.getElementById('ca').value, b=document.getElementById('cb').value;
+  location.hash = `#/compare?house=${house||'mp'}&a=${a}&b=${b}`;
+};
 window.goCompare = () => {
   const a=document.getElementById('ca').value, b=document.getElementById('cb').value;
   location.hash = `#/compare?a=${a}&b=${b}`;
@@ -275,10 +354,10 @@ function viewDistricts(){
   <div class="hero"><h1>${t('districts_title')}</h1><p>${t('districts_lede')}</p></div>
   <div id="map" class="map-box"><p style="padding:20px;color:var(--muted)">${t('map_loading')}</p></div>
   <div class="mp-grid" style="margin-top:16px">
-    ${ds.map(d=>{ const info = distInfo(d); const n = districtMPs(d).length;
+    ${ds.map(d=>{ const info = distInfo(d); const n = districtMPs(d).length; const m = districtMLAs(d).length;
       return `<a class="mp-card" href="#/district/${slugify(d)}">
         <h3>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400">${esc(info.name_te)}</span>`:''}</h3>
-        <div class="cons">${n} MP${n===1?'':'s'}</div>
+        <div class="cons">${n} MP${n===1?'':'s'} \u00b7 ${m} MLA${m===1?'':'s'}</div>
       </a>`; }).join('') || `<p>${t('data_pending')}</p>`}
   </div>`;
 }
@@ -336,6 +415,14 @@ function viewDistrict(slug){
       </a>`).join('') || `<p>${t('data_pending')}</p>`}
     </div>
   </section>
+  <section class="panel"><h2>${t('mlas_in_district')}</h2>
+    <div class="mp-grid">
+      ${districtMLAs(d).map(mp=>`<a class="mp-card" href="#/mla/${slugOf(mp)}">
+        <div class="avatar">${initials(mp.name)}</div><h3>${esc(mp.name)}</h3>
+        <div class="cons">${esc(mp.constituency)}</div><span class="party">${esc(mp.party||'')}</span>
+      </a>`).join('') || `<p>${t('data_pending')}</p>`}
+    </div>
+  </section>
   <section class="panel"><h2>${t('district_indicators')}</h2>
     <div class="area-note">${t('area_note')}</div>
     <table class="metrics">
@@ -368,6 +455,8 @@ function viewMethodology(){
     <p>ప్రతి సంఖ్యకు మూలం లింక్ తప్పనిసరి. వ్యక్తులపై విశేషణాలు నిషిద్ధం — "తక్కువ హాజరు" కాదు, "హాజరు 43%, సభ సగటు 78%" అని మాత్రమే. అన్ని పార్టీలకు ఒకే లేఅవుట్. ర్యాంకింగ్‌లు లేవు.</p>
     <h2>పరిమితులు</h2>
     <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు. జిల్లా నేరాల రేట్లు ఈ ప్రాజెక్ట్ లెక్కించినవి: NCRB 2022 జిల్లా సంఘటనలు ÷ 2011 జనాభా లెక్కల జిల్లా జనాభా × 100,000 (NCRB రేట్లను రాష్ట్ర/నగర స్థాయిలో మాత్రమే ప్రచురిస్తుంది).</p>
+    <h2>MLAలు</h2>
+    <p>175 మంది అసెంబ్లీ సభ్యులు (2024 ఎన్నిక) అదే నియమాలతో ట్రాక్ చేయబడుతున్నారు. AP శాసనసభ MLA వారీగా హాజరు, ప్రశ్నలు, చర్చల డేటాను ప్రచురించదు, రాష్ట్రం MLA వారీగా నిధుల వినియోగ లెక్కలను ప్రచురించదు — ఆ విభాగాలు ఖాళీగానే ఉండి, అదే చెబుతాయి. MLA ఎన్నికల లెక్కలు ECI-ఆధారిత ఫలితాల పట్టికల నుండి సంకలనం చేయబడ్డాయి.</p>
     <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
     <p>myneta.info అభ్యర్థుల వారీగా ADR తీవ్ర/సాధారణ విభజనను ప్రచురించదు — కాబట్టి తీవ్రత అనేది ADR ప్రచురించిన "తీవ్రమైన క్రిమినల్ కేసులు" ప్రమాణాల యాంత్రిక అనువర్తనం: 5+ సంవత్సరాల శిక్ష పడే నేరాలు; ఎన్నికల నేరాలు; అవినీతి/పన్ను ఎగవేత; SC/ST అత్యాచారాల నిరోధక చట్టం నేరాలు; హత్య, హత్యాయత్నం, అత్యాచారం, కిడ్నాప్ వంటి తీవ్ర వర్గాలు. మిగతావన్నీ — ఆందోళన కేసులు, ట్రాఫిక్ ఉల్లంఘనలు, చిన్న గాయాలు, చిన్న జరిమానాలు — సాధారణంగా లెక్క. ప్రతి అభియోగానికి ఆధారం పేర్కొనబడుతుంది. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు.</p>`
   : `
@@ -379,6 +468,8 @@ function viewMethodology(){
     <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS allocation figures are 18th-Lok-Sabha cumulative as-on-date from the eSAKSHI portal (not FY-wise); per-MP expenditure and works counts are not published on the public dashboard. District crime rates are project-computed: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</p>
     <h2>Criminal cases: serious vs non-serious</h2>
     <p>myneta.info does not publish ADR's own per-candidate serious/non-serious split, so severity is a mechanical application of ADR's published "serious criminal cases" criteria to the sections listed in each affidavit: offences punishable with 5+ years; electoral offences (e.g. IPC 171E/171H); corruption and tax-evasion offences; SC/ST (Prevention of Atrocities) Act offences; and heinous categories (murder, attempt to murder, rape, kidnapping, dacoity). Everything else — protest and public-order cases, traffic violations, simple hurt, minor statutory fines — counts as non-serious. Each charge carries its basis; borderline calls are flagged. Declared cases are pending matters, not convictions.</p>
+    <h2>MLAs</h2>
+    <p>All 175 Assembly members (2024 election) are tracked under the same rules. The AP Legislature publishes no per-MLA attendance, questions, or debates data, and the state publishes no per-MLA fund utilization figures — those sections stay visibly empty and say so. MLA election figures are compiled from ECI-derived results tables, cross-checked against winner names.</p>
     <h2>Corrections</h2>
     <p>Sourced corrections are applied visibly. If a cited source revises a figure, the record is updated with a new verification date.</p>`}
   </section>`;
@@ -388,10 +479,14 @@ function viewMethodology(){
 async function load(){
   const get = async p => { try{ const r = await fetch(p); return r.ok ? await r.json() : null; }catch(e){ return null; } };
   DATA = await get('data/mps.json') || {mps: []};
+  const chunks = await Promise.all([1,2,3,4].map(i=>get(`data/mlas_${i}.json`)));
+  MLA = chunks.reduce((a,c)=>a.concat((c&&c.mlas)||[]), []);
   DIST = await get('data/districts.json') || {districts: []};
   AFF = await get('data/affidavit_details.json') || {mps: []};
   try{ const r = await fetch('data/ap_districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
 }
+const houseList = () => HOUSE==='mla' ? MLA : DATA.mps;
+const houseOf = mp => (mp.house==='assembly' || MLA.includes(mp)) ? 'mla' : 'mp';
 /* district -> MPs inverse index from constituency_to_districts */
 function asList(v){ return Array.isArray(v) ? v : (v && Array.isArray(v.districts) ? v.districts : []); }
 function districtMPs(dname){
@@ -403,6 +498,9 @@ function districtMPs(dname){
   }
   return out;
 }
+function districtMLAs(dname){
+  return MLA.filter(mp => asList(mp.district_context && mp.district_context.districts).includes(dname));
+}
 function affOf(mp){
   return (AFF.mps || []).find(a => a.name === mp.name) || null;
 }
@@ -413,7 +511,8 @@ function render(){
   const app = document.getElementById('app');
   document.querySelectorAll('[data-nav]').forEach(a=>
     a.classList.toggle('active', (route||'')===(a.dataset.nav==='home'?'':a.dataset.nav)));
-  if(route==='mp') app.innerHTML = viewProfile(arg||'');
+  if(route==='mp') app.innerHTML = viewProfile(arg||'','mp');
+  else if(route==='mla') app.innerHTML = viewProfile(arg||'','mla');
   else if(route==='districts'){ app.innerHTML = viewDistricts(); initMap(); }
   else if(route==='district') app.innerHTML = viewDistrict(arg||'');
   else if(route==='compare'){
