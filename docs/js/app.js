@@ -197,6 +197,15 @@ function viewProfile(slug, house){
       <tr><th>${t('sessions_covered')}</th><td>${esc(L.sessions_covered||'\u2014')}</td></tr>
     </table>
   </section>
+  ${!isMla && mp.voting_record && mp.voting_record.votes.length ? `
+  <section class="panel"><h2>${t('voting_record')}</h2><p class="lede">${t('voting_lede')}</p>
+    <table class="metrics">
+      ${mp.voting_record.votes.map(v=>`
+      <tr><th>${esc(v.bill_short)}<br><span class="sub">${esc(v.date)} &middot; ${t('house_result')}: ${esc(v.house_result)}</span></th>
+      <td><strong>${v.vote==='Aye'?t('vote_aye'):t('vote_no')}</strong>${srcLink(v.source)}</td></tr>`).join('')}
+    </table>
+    <p class="disclaimer">${t('voting_basis_note')}</p>
+  </section>` : ''}
 
   <section class="panel"><h2>${t('public_money')}</h2><p class="lede">${t('money_lede')}</p>
     <table class="metrics">
@@ -212,6 +221,8 @@ function viewProfile(slug, house){
   <section class="panel"><h2>${t('disclosures')}</h2><p class="lede">${t('disclosure_lede')}</p>
     <table class="metrics">
       ${row(t('assets_now'), M(D,'assets_current_inr'), fmtINR)}
+      ${row(t('assets_prev'), M(D,'assets_prev_inr'), fmtINR)}
+      ${row(t('m_assets'), M(D,'asset_growth_pct'), fmtPct)}
       ${row(t('total_cases'), M(D,'criminal_cases_declared'), fmtN)}
       ${row(t('m_education'), M(D,'education'), v=>esc(v))}
     </table>
@@ -455,6 +466,8 @@ function viewMethodology(){
     <p>ప్రతి సంఖ్యకు మూలం లింక్ తప్పనిసరి. వ్యక్తులపై విశేషణాలు నిషిద్ధం — "తక్కువ హాజరు" కాదు, "హాజరు 43%, సభ సగటు 78%" అని మాత్రమే. అన్ని పార్టీలకు ఒకే లేఅవుట్. ర్యాంకింగ్‌లు లేవు.</p>
     <h2>పరిమితులు</h2>
     <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు. జిల్లా నేరాల రేట్లు ఈ ప్రాజెక్ట్ లెక్కించినవి: NCRB 2022 జిల్లా సంఘటనలు ÷ 2011 జనాభా లెక్కల జిల్లా జనాభా × 100,000 (NCRB రేట్లను రాష్ట్ర/నగర స్థాయిలో మాత్రమే ప్రచురిస్తుంది).</p>
+    <h2>ఓటింగ్ రికార్డు & ఆస్తి వృద్ధి</h2>
+    <p>MP ఓటింగ్ రికార్డులు 18వ లోక్‌సభలో డివిజన్ ఓటుతో నిర్ణయించిన ప్రధాన బిల్లులను కవర్ చేస్తాయి. లోక్‌సభ సభ్యుల వారీ డివిజన్ జాబితాలను ప్రచురించదు, కాబట్టి ప్రతి ఓటు సభ్యుని నమోదైన పార్టీ వైఖరి లేదా విప్‌ను ప్రతిబింబిస్తుంది — ప్రతి ఓటుకు మూలంతో — అధికారిక డివిజన్ రోల్ కాదు. ఆస్తి వృద్ధి 2019 మరియు 2024 ఎన్నికల మధ్య ప్రకటించిన అఫిడవిట్ మొత్తాలను పోలుస్తుంది (నామమాత్రపు, ద్రవ్యోల్బణ సర్దుబాటు లేకుండా) మరియు తిరిగి ఎన్నికైన సభ్యులకు మాత్రమే చూపబడుతుంది; మొదటిసారి సభ్యులకు పోల్చడానికి పూర్వ అఫిడవిట్ ఉండదు.</p>
     <h2>MLAలు</h2>
     <p>175 మంది అసెంబ్లీ సభ్యులు (2024 ఎన్నిక) అదే నియమాలతో ట్రాక్ చేయబడుతున్నారు. AP శాసనసభ MLA వారీగా హాజరు, ప్రశ్నలు, చర్చల డేటాను ప్రచురించదు, రాష్ట్రం MLA వారీగా నిధుల వినియోగ లెక్కలను ప్రచురించదు — ఆ విభాగాలు ఖాళీగానే ఉండి, అదే చెబుతాయి. MLA ఎన్నికల లెక్కలను 16 అక్టోబర్ 2026న భారత ఎన్నికల సంఘం అధికారిక నియోజకవర్గ ఫలితాల పేజీలతో (ఆర్కైవ్ చేసినవి) సరిచూశాము: 175 నియోజకవర్గాలలో 154 ధృవీకరించబడ్డాయి — 147 సరిపోలాయి, 7 సరిచేయబడ్డాయి. 21 నియోజకవర్గాలకు ఆర్కైవ్ చేసిన అధికారిక పేజీ లేదు, కాబట్టి ఆ లెక్కలు ECI-ఆధారిత పట్టికల నుండే కొనసాగుతున్నాయి: ముమ్మిడివరం, రాజోలు (SC), భీమవరం, పెడన, మచిలీపట్నం, పొన్నూరు, వేమూరు (SC), ఆళ్లగడ్డ, పత్తికొండ, మంత్రాలయం, ఆదోని, తాడిపత్రి, రాప్తాడు, హిందూపూర్, పెనుకొండ, పుట్టపర్తి, ధర్మవరం, కదిరి, తంబళ్లపల్లె, పీలేరు, మదనపల్లె.</p>
     <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
@@ -466,6 +479,8 @@ function viewMethodology(){
     <p>Every number carries a source link — no exceptions. No adjectives about people: never "low attendance", always "attendance 43% vs. house average 78%". Identical layout for every party. No leaderboards, no verdicts.</p>
     <h2>Limits</h2>
     <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS allocation figures are 18th-Lok-Sabha cumulative as-on-date from the eSAKSHI portal (not FY-wise); per-MP expenditure and works counts are not published on the public dashboard. District crime rates are project-computed: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</p>
+    <h2>Voting record & asset growth</h2>
+    <p>MP voting records cover major bills decided by division vote in the 18th Lok Sabha. The Lok Sabha does not publish member-level division lists, so each vote reflects the member's documented party position or whip — sourced per vote — not the official division roll. Asset growth compares declared affidavit totals between the 2019 and 2024 elections (nominal, not inflation-adjusted) and is shown only for re-elected members; first-term members have no prior affidavit to compare.</p>
     <h2>Criminal cases: serious vs non-serious</h2>
     <p>myneta.info does not publish ADR's own per-candidate serious/non-serious split, so severity is a mechanical application of ADR's published "serious criminal cases" criteria to the sections listed in each affidavit: offences punishable with 5+ years; electoral offences (e.g. IPC 171E/171H); corruption and tax-evasion offences; SC/ST (Prevention of Atrocities) Act offences; and heinous categories (murder, attempt to murder, rape, kidnapping, dacoity). Everything else — protest and public-order cases, traffic violations, simple hurt, minor statutory fines — counts as non-serious. Each charge carries its basis; borderline calls are flagged. Declared cases are pending matters, not convictions.</p>
     <h2>MLAs</h2>
