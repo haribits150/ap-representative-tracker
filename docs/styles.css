@@ -63,3 +63,6 @@ select,input[type=text]{font-size:1rem;padding:10px;border:1px solid var(--line)
 .disclaimer{font-size:.78rem}
 .badge{display:inline-block;font-size:.72rem;border-radius:20px;padding:2px 10px;background:var(--accent-soft);color:var(--accent);margin-left:8px}
 a{color:var(--accent)}
+.share-btn{display:inline-block;background:#1faa55;color:#fff !important;text-decoration:none;
+  padding:10px 18px;border-radius:10px;font-weight:600;font-size:.95rem}
+.share-btn:hover{background:#178a44}
