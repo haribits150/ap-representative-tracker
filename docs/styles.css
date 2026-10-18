@@ -80,3 +80,28 @@ a{color:var(--accent)}
 .card-box h3{margin:0 0 12px}
 .card-actions{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
 .card-actions .share-btn{border:none;cursor:pointer;font-size:.85rem}
+
+/* corrections + changelog + find + learn + glossary + lite */
+.correct-btn{background:none;border:0;color:var(--accent);font:inherit;font-weight:600;
+  cursor:pointer;text-decoration:underline;padding:0;margin-left:10px;font-size:.9rem}
+.share-btn.ghost{background:#fff;color:var(--accent) !important;border:2px solid var(--accent)}
+.card-actions{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+.card-box .lede{color:var(--muted);font-size:.88rem;margin:0 0 14px}
+label.fld{display:block;margin-bottom:12px;font-weight:600;font-size:.9rem}
+label.fld select,label.fld input,label.fld textarea{margin-top:6px;font-weight:400}
+label.fld textarea{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;font:inherit}
+.learn-wrap{margin-bottom:8px}
+.learn-track{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
+  padding:4px 2px 12px;-webkit-overflow-scrolling:touch}
+.learn-card{flex:0 0 min(88%,560px);scroll-snap-align:center;background:var(--card);
+  border:1px solid var(--line);border-radius:14px;padding:26px 22px}
+.learn-card h2{margin:0 0 10px;font-size:1.3rem}
+.learn-card p{font-size:1rem}
+.learn-num{font-size:.75rem;color:var(--muted);margin-bottom:8px;font-weight:700;letter-spacing:.05em}
+.learn-nav{display:flex;align-items:center;justify-content:center;gap:14px;margin-top:4px}
+.learn-dots{display:flex;gap:6px}
+.learn-dot{width:9px;height:9px;border-radius:50%;background:#d8d2c2}
+.learn-dot.active{background:var(--accent)}
+.gloss h2{font-size:1.05rem}
+.gloss .gloss-te{color:var(--muted);font-weight:400;font-size:.95rem}
+.gloss p{margin:6px 0 0}
