@@ -86,6 +86,8 @@ en: {
   find_mandal_label:"Your mandal / town", find_mandal_choose:"Choose a mandal…",
   find_ac_label:"Assembly constituency", find_pc_label:"Parliamentary constituency",
   find_your_mla_one:"Your MLA", find_your_mp_one:"Your MP",
+  home_counts:(d,m,l)=>`${d} districts · ${m} MPs · ${l} MLAs tracked`,
+  districts_search:"Search districts…",
 },
 te: {
   nav_home:"హోమ్", nav_districts:"జిల్లాలు", nav_compare:"పోల్చండి", nav_methodology:"విధానం",
@@ -173,4 +175,6 @@ te: {
   find_mandal_label:"మీ మండలం / పట్టణం", find_mandal_choose:"మండలాన్ని ఎంచుకోండి…",
   find_ac_label:"అసెంబ్లీ నియోజకవర్గం", find_pc_label:"పార్లమెంటు నియోజకవర్గం",
   find_your_mla_one:"మీ MLA", find_your_mp_one:"మీ MP",
+  home_counts:(d,m,l)=>`${d} జిల్లాలు · ${m} MPలు · ${l} MLAలు ట్రాక్ చేయబడుతున్నారు`,
+  districts_search:"జిల్లాలను వెతకండి…",
 }};

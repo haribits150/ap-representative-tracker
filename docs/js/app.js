@@ -1,7 +1,6 @@
 /* AP Representative Tracker — client-side renderer. Reads docs/data/*.json */
 let DATA = {mps: []};
 let MLA = [];
-let HOUSE = 'mp';
 let DIST = {districts: []};
 let AFF = {mps: []};
 let NEWS = {news: {}};
@@ -109,63 +108,6 @@ function mlaAvg(key, group){
   const vs = MLA.map(mp=>M(mp[group],key).value).filter(v=>v!=null&&!isNaN(v));
   return vs.length ? vs.reduce((a,b)=>a+Number(b),0)/vs.length : null;
 }
-function viewDashboard(){
-  const isMla = HOUSE==='mla';
-  const list = houseList();
-  const n = list.length;
-  const tab = (h, lbl, count) =>
-    `<button class="house-tab${HOUSE===h?' active':''}" onclick="setHouse('${h}')">${lbl} (${count})</button>`;
-  const stats = isMla ? (()=> {
-    const aVs = mlaAvg('vote_share_pct','election');
-    const aCs = mlaAvg('criminal_cases_declared','disclosure');
-    const aAs = mlaAvg('assets_current_inr','disclosure');
-    const nVs = MLA.filter(mp=>M(mp.election,'vote_share_pct').value!=null).length;
-    const nCs = MLA.filter(mp=>M(mp.disclosure,'criminal_cases_declared').value!=null).length;
-    const nAs = MLA.filter(mp=>M(mp.disclosure,'assets_current_inr').value!=null).length;
-    return `
-    <div class="stat"><div class="num">${n}</div><div class="lbl">${t('mlas_tracked')}</div><div class="sub">${t('as_of')} 2026-10-16</div></div>
-    <div class="stat"><div class="num">${fmtPct(aVs)}</div><div class="lbl">${t('avg_voteshare')}</div><div class="sub">${t('of_mps')(nVs)}</div></div>
-    <div class="stat"><div class="num">${aCs==null?'—':(Math.round(aCs*10)/10)}</div><div class="lbl">${t('avg_cases')}</div><div class="sub">${t('of_mps')(nCs)}</div></div>
-    <div class="stat"><div class="num">${fmtINR(aAs)}</div><div class="lbl">${t('avg_assets')}</div><div class="sub">${t('of_mps')(nAs)}</div></div>`;
-  })() : (()=> {
-    const mps = DATA.mps;
-    const aAtt = avgOf('attendance_pct','legislative');
-    const aQ = avgOf('questions_asked','legislative');
-    const aAlloc = avgOf('entitlement_inr','funds');
-    const nAtt = mps.filter(mp=>M(mp.legislative,'attendance_pct').value!=null).length;
-    const nQ = mps.filter(mp=>M(mp.legislative,'questions_asked').value!=null).length;
-    const nA = mps.filter(mp=>M(mp.funds,'entitlement_inr').value!=null).length;
-    return `
-    <div class="stat"><div class="num">${n}</div><div class="lbl">${t('mps_tracked')}</div><div class="sub">${t('as_of')} ${esc(DATA.collected_at||'—')}</div></div>
-    <div class="stat"><div class="num">${fmtPct(aAtt)}</div><div class="lbl">${t('avg_attendance')}</div><div class="sub">${t('of_mps')(nAtt)}</div></div>
-    <div class="stat"><div class="num">${aQ==null?'—':Math.round(aQ)}</div><div class="lbl">${t('avg_questions')}</div><div class="sub">${t('of_mps')(nQ)}</div></div>
-    <div class="stat"><div class="num">${fmtINR(aAlloc)}</div><div class="lbl">${t('avg_mplads_alloc')}</div><div class="sub">${t('of_mps')(nA)}</div></div>`;
-  })();
-  const route = isMla ? 'mla' : 'mp';
-  return `
-  <div class="hero"><h1>AP Representative Tracker</h1><p>${t('tagline')}</p></div>
-  <div id="map" class="map-box" style="margin-bottom:20px"><p style="padding:20px;color:var(--muted)">${t('map_loading')}</p></div>
-  <div class="house-tabs">${tab('mp', t('house_mp'), DATA.mps.length)}${tab('mla', t('house_mla'), MLA.length)}</div>
-  <input id="q" class="search" placeholder="${t('search_placeholder')}" oninput="filterCards(this.value)">
-  <p style="margin:4px 0 16px"><a href="#/find" style="font-weight:700">${t('find_link')}</a> &middot; <a href="#/districts">${t('browse_districts')}</a></p>
-  <div class="stats">${stats}</div>
-  <div class="mp-grid" id="grid">
-    ${list.map(mp=>`
-      <a class="mp-card" data-name="${esc(mp.name)} ${esc(mp.constituency)}" href="#/${route}/${slugOf(mp)}">
-        <div class="avatar">${initials(mp.name)}</div>
-        <h3>${esc(mp.name)}</h3>
-        <div class="cons">${esc(mp.constituency)}</div>
-        <span class="party">${esc(mp.party||'')}</span>
-      </a>`).join('')}
-  </div>`;
-}
-window.setHouse = h => { HOUSE = h; render(); };
-window.filterCards = q => {
-  q = q.toLowerCase();
-  document.querySelectorAll('.mp-card').forEach(c=>{
-    c.style.display = c.dataset.name.toLowerCase().includes(q) ? '' : 'none';
-  });
-};
 
 /* ---------- profile ---------- */
 function newsSection(mp, house){
@@ -583,16 +525,25 @@ function distInfo(name){
 function viewDistricts(){
   const ds = districtList();
   return `
-  <div class="hero"><h1>${t('districts_title')}</h1><p>${t('districts_lede')}</p></div>
+  <div class="hero"><h1>${t('districts_title')}</h1><p>${t('districts_lede')}</p>
+    <p class="sub" style="margin:8px 0 0;color:var(--muted)">${t('home_counts')(ds.length, DATA.mps.length, MLA.length)}</p></div>
   <div id="map" class="map-box"><p style="padding:20px;color:var(--muted)">${t('map_loading')}</p></div>
-  <div class="mp-grid" style="margin-top:16px">
+  <p style="margin:16px 0 4px"><a href="#/find" style="font-weight:700">${t('find_link')}</a></p>
+  <input id="dq" class="search" placeholder="${t('districts_search')}" oninput="filterDistricts(this.value)">
+  <div class="mp-grid" style="margin-top:8px" id="dgrid">
     ${ds.map(d=>{ const info = distInfo(d); const n = districtMPs(d).length; const m = districtMLAs(d).length;
-      return `<a class="mp-card" href="#/district/${slugify(d)}">
+      return `<a class="mp-card" data-name="${esc(d)}${info.name_te?` ${esc(info.name_te)}`:''}" href="#/district/${slugify(d)}">
         <h3>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400">${esc(info.name_te)}</span>`:''}</h3>
         <div class="cons">${n} MP${n===1?'':'s'} \u00b7 ${m} MLA${m===1?'':'s'}</div>
       </a>`; }).join('') || `<p>${t('data_pending')}</p>`}
   </div>`;
 }
+window.filterDistricts = q => {
+  q = q.toLowerCase();
+  document.querySelectorAll('#dgrid .mp-card').forEach(c=>{
+    c.style.display = c.dataset.name.toLowerCase().includes(q) ? '' : 'none';
+  });
+};
 function initMap(){
   const el = document.getElementById('map');
   if(!el) return;
@@ -624,7 +575,7 @@ function initMap(){
 }
 function viewDistrict(slug){
   const d = districtList().find(x=>slugify(x)===slug);
-  if(!d) return `<p>${t('no_results')}</p><p><a href="#/districts">${t('back')}</a></p>`;
+  if(!d) return `<p>${t('no_results')}</p><p><a href="#/">${t('back')}</a></p>`;
   const info = distInfo(d);
   const mps = districtMPs(d);
   const inds = info.indicators || {};
@@ -641,7 +592,7 @@ function viewDistrict(slug){
     return `<tr><th>${label}${jurisPill(key)}</th><td>${f(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
   };
   return `
-  <p><a href="#/districts">${t('back')}</a></p>
+  <p><a href="#/">${t('back')}</a></p>
   <div class="profile-head">
     <h1>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400;font-size:1.1rem">${esc(info.name_te)}</span>`:''}</h1>
     <p class="sub">${t('mps_in_district')}: ${mps.length}</p>
@@ -925,7 +876,6 @@ async function load(){
   }
   try{ const r = LITE ? {ok:false} : await fetch('data/ap_districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
 }
-const houseList = () => HOUSE==='mla' ? MLA : DATA.mps;
 const houseOf = mp => (mp.house==='assembly' || MLA.includes(mp)) ? 'mla' : 'mp';
 /* district -> MPs inverse index from constituency_to_districts */
 function asList(v){ return Array.isArray(v) ? v : (v && Array.isArray(v.districts) ? v.districts : []); }
@@ -966,7 +916,7 @@ function render(){
   else if(route==='changelog') app.innerHTML = viewChangelog();
   else if(route==='learn') app.innerHTML = viewLearn();
   else if(route==='glossary') app.innerHTML = viewGlossary();
-  else { app.innerHTML = viewDashboard(); initMap(); }
+  else { app.innerHTML = viewDistricts(); initMap(); }
   collapseEmpty();
   window.scrollTo(0,0);
 }
