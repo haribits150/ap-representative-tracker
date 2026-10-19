@@ -1,1 +1,29 @@
-{"entries":[{"date":"2026-10-18","en":"Official contact details added to every profile (from Lok Sabha / Assembly member pages). Find-my-representative now works by mandal or town — not just district. New: \"Spot an error?\" correction reports, a Telugu-first MP-vs-MLA explainer, a plain-language glossary, a lite mode for slow connections, and this changelog. Sections with no published data now start collapsed.","te":"ప్రతి ప్రొఫైల్‌కు అధికారిక సంప్రదింపు వివరాలు చేర్చబడ్డాయి (లోక్‌సభ / అసెంబ్లీ సభ్యుల పేజీల నుండి). నా ప్రతినిధిని కనుగొనండి ఇప్పుడు జిల్లాతో పాటు మండలం/పట్టణం వారీగా కూడా పనిచేస్తుంది. కొత్తవి: \"తప్పు కనిపించిందా?\" నివేదికలు, తెలుగు-ప్రధాన MP-vs-MLA వివరణ, సరళ పదకోశం, నెమ్మది కనెక్షన్ల కోసం లైట్ మోడ్, మరియు ఈ మార్పుల పట్టిక. ప్రచురించని డేటా ఉన్న విభాగాలు ఇప్పుడు మూసివేసి చూపబడతాయి."},{"date":"2026-10-16","en":"Screenshot-proof shareable profile cards (sources and verify-URL baked into the image). \"In the news\" headlines on all 200 profiles. Jurisdiction tags on district indicators — State / Central / Shared, with a \"Whose job is it?\" legend. Asset growth 2019→2024 for 29 re-elected members. MLA election figures verified against ECI's archived constituency pages: 154 of 175 checked, 147 matched, 7 corrected. District drill-down pages plus a clickable district map, now the homepage.","te":"స్క్రీన్‌షాట్-నిరోధక షేర్ చేయదగిన ప్రొఫైల్ కార్డులు (చిత్రంలోనే మూలాలు, ధృవీకరణ URL). 200 ప్రొఫైళ్లలో \"వార్తల్లో\" శీర్షికలు. జిల్లా సూచికలపై అధికార పరిధి ట్యాగులు — రాష్ట్ర / కేంద్ర / ఉమ్మడి, \"ఇది ఎవరి పని?\" వివరణతో. తిరిగి ఎన్నికైన 29 మంది సభ్యుల 2019→2024 ఆస్తి వృద్ధి. MLA ఎన్నికల లెక్కలు ECI ఆర్కైవ్ చేసిన నియోజకవర్గ పేజీలతో సరిచూడబడ్డాయి: 175లో 154 తనిఖీ, 147 సరిపోలాయి, 7 సరిచేయబడ్డాయి. జిల్లా వివర పేజీలు మరియు క్లిక్ చేయగల జిల్లా మ్యాప్ — ఇప్పుడు హోమ్‌పేజీ."},{"date":"2026-10-15","en":"Site launched: all 25 Lok Sabha MPs tracked with legislative record (PRS), MPLADS fund figures, affidavit disclosures (ADR/MyNeta), and 2024 election results (ECI). English + Telugu, mobile-first.","te":"సైట్ ప్రారంభం: 25 మంది లోక్‌సభ MPలు ట్రాక్ చేయబడుతున్నారు — శాసనసభ రికార్డు (PRS), MPLADS నిధుల లెక్కలు, అఫిడవిట్ వెల్లడులు (ADR/MyNeta), 2024 ఎన్నికల ఫలితాలు (ECI). ఇంగ్లీష్ + తెలుగు, మొబైల్-ఫస్ట్."}]}
+{
+ "entries": [
+  {
+   "date": "2026-10-19",
+   "en": "Data fill: turnout % added for 104 of 200 constituencies (ECI/CEO sources); PMAY-G houses for all 28 districts; NFHS-5 institutional births and stunting for 13 districts (labeled pre-2023 geographies); charge-level criminal-case details (serious/non-serious per ADR criteria) for 115 of 175 MLAs. Remaining gaps stay honestly labeled — pending where we're still collecting, \"Not published\" where no public source exists.",
+   "te": "డేటా నింపడం: 200 నియోజకవర్గాలలో 104కు పోలింగ్ శాతం (ECI/CEO మూలాలు); 28 జిల్లాలకు PMAY-G ఇళ్లు; 13 జిల్లాలకు NFHS-5 సంస్థాగత ప్రసవాలు, ఎదుగుదల లోపం (2023కు ముందు భౌగోళికం అని గుర్తించబడింది); 175 MLAలలో 115 మందికి అభియోగాల స్థాయి క్రిమినల్ కేసు వివరాలు (ADR ప్రమాణాల ప్రకారం తీవ్ర/సాధారణ). మిగిలిన ఖాళీలు నిజాయితీగా గుర్తించబడ్డాయి."
+  },
+  {
+   "date": "2026-10-18",
+   "en": "Honesty labels: fields no public source publishes (like per-MP fund spending) now say \"Not published\" instead of \"Data pending verification\", which is reserved for figures we are still collecting. Documented in the methodology.",
+   "te": "నిజాయితీ లేబుళ్లు: ఏ ప్రజా మూలం ప్రచురించని ఫీల్డులు (MP వారీ నిధుల ఖర్చు వంటివి) ఇప్పుడు \"డేటా ధృవీకరణ పెండింగ్\"కు బదులు \"ప్రచురించలేదు\" అని చూపుతాయి. విధానం పేజీలో వివరించబడింది."
+  },
+  {
+   "date": "2026-10-18",
+   "en": "Official contact details added to every profile (from Lok Sabha / Assembly member pages). Find-my-representative now works by mandal or town — not just district. New: \"Spot an error?\" correction reports, a Telugu-first MP-vs-MLA explainer, a plain-language glossary, a lite mode for slow connections, and this changelog. Sections with no published data now start collapsed.",
+   "te": "ప్రతి ప్రొఫైల్‌కు అధికారిక సంప్రదింపు వివరాలు చేర్చబడ్డాయి (లోక్‌సభ / అసెంబ్లీ సభ్యుల పేజీల నుండి). నా ప్రతినిధిని కనుగొనండి ఇప్పుడు జిల్లాతో పాటు మండలం/పట్టణం వారీగా కూడా పనిచేస్తుంది. కొత్తవి: \"తప్పు కనిపించిందా?\" నివేదికలు, తెలుగు-ప్రధాన MP-vs-MLA వివరణ, సరళ పదకోశం, నెమ్మది కనెక్షన్ల కోసం లైట్ మోడ్, మరియు ఈ మార్పుల పట్టిక. ప్రచురించని డేటా ఉన్న విభాగాలు ఇప్పుడు మూసివేసి చూపబడతాయి."
+  },
+  {
+   "date": "2026-10-16",
+   "en": "Screenshot-proof shareable profile cards (sources and verify-URL baked into the image). \"In the news\" headlines on all 200 profiles. Jurisdiction tags on district indicators — State / Central / Shared, with a \"Whose job is it?\" legend. Asset growth 2019→2024 for 29 re-elected members. MLA election figures verified against ECI's archived constituency pages: 154 of 175 checked, 147 matched, 7 corrected. District drill-down pages plus a clickable district map, now the homepage.",
+   "te": "స్క్రీన్‌షాట్-నిరోధక షేర్ చేయదగిన ప్రొఫైల్ కార్డులు (చిత్రంలోనే మూలాలు, ధృవీకరణ URL). 200 ప్రొఫైళ్లలో \"వార్తల్లో\" శీర్షికలు. జిల్లా సూచికలపై అధికార పరిధి ట్యాగులు — రాష్ట్ర / కేంద్ర / ఉమ్మడి, \"ఇది ఎవరి పని?\" వివరణతో. తిరిగి ఎన్నికైన 29 మంది సభ్యుల 2019→2024 ఆస్తి వృద్ధి. MLA ఎన్నికల లెక్కలు ECI ఆర్కైవ్ చేసిన నియోజకవర్గ పేజీలతో సరిచూడబడ్డాయి: 175లో 154 తనిఖీ, 147 సరిపోలాయి, 7 సరిచేయబడ్డాయి. జిల్లా వివర పేజీలు మరియు క్లిక్ చేయగల జిల్లా మ్యాప్ — ఇప్పుడు హోమ్‌పేజీ."
+  },
+  {
+   "date": "2026-10-15",
+   "en": "Site launched: all 25 Lok Sabha MPs tracked with legislative record (PRS), MPLADS fund figures, affidavit disclosures (ADR/MyNeta), and 2024 election results (ECI). English + Telugu, mobile-first.",
+   "te": "సైట్ ప్రారంభం: 25 మంది లోక్‌సభ MPలు ట్రాక్ చేయబడుతున్నారు — శాసనసభ రికార్డు (PRS), MPLADS నిధుల లెక్కలు, అఫిడవిట్ వెల్లడులు (ADR/MyNeta), 2024 ఎన్నికల ఫలితాలు (ECI). ఇంగ్లీష్ + తెలుగు, మొబైల్-ఫస్ట్."
+  }
+ ]
+}

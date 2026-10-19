@@ -62,8 +62,15 @@ window.toggleLite = () => {
 function kpi(num, lbl, sub){
   return `<div class="kpi"><div class="num">${num}</div><div class="lbl">${lbl}</div>${sub?`<div class="avg">${sub}</div>`:''}</div>`;
 }
-function row(label, m, fmt){
-  const val = (m.value==null) ? `<span class="pending">${t('data_pending')}</span>` : fmt(m.value);
+function row(label, m, fmt, unpub){
+  let val;
+  if(m.value==null){
+    val = unpub
+      ? `<span class="pending notpub" title="${t('not_published_why')}">${t('not_published')}</span>`
+      : `<span class="pending">${t('data_pending')}</span>`;
+  } else {
+    val = fmt(m.value);
+  }
   return `<tr><th>${label}</th><td>${val}${srcLink(m.source)}</td></tr>`;
 }
 function verifiedCount(mp){
@@ -182,10 +189,10 @@ function viewProfile(slug, house){
   <section class="panel"><h2>${t('public_money')}</h2><p class="lede">${t('money_lede')}</p>
     <table class="metrics">
       ${row(t('entitlement'), M(F,'entitlement_inr'), fmtINR)}
-      ${row(t('utilized'), M(F,'utilized_inr'), fmtINR)}
-      ${row(t('m_mplads'), M(F,'utilization_pct'), fmtPct)}
-      ${row(t('works_recommended'), M(F,'works_recommended'), fmtN)}
-      ${row(t('works_completed'), M(F,'works_completed'), fmtN)}
+      ${row(t('utilized'), M(F,'utilized_inr'), fmtINR, true)}
+      ${row(t('m_mplads'), M(F,'utilization_pct'), fmtPct, true)}
+      ${row(t('works_recommended'), M(F,'works_recommended'), fmtN, true)}
+      ${row(t('works_completed'), M(F,'works_completed'), fmtN, true)}
       <tr><th>${t('as_of')}</th><td>${esc(F.period||'\u2014')}</td></tr>
     </table>
   </section>`;
@@ -196,9 +203,11 @@ function viewProfile(slug, house){
       ${row(t('assets_prev'), M(D,'assets_prev_inr'), fmtINR)}
       ${row(t('m_assets'), M(D,'asset_growth_pct'), fmtPct)}
       ${row(t('total_cases'), M(D,'criminal_cases_declared'), fmtN)}
+      ${affRows(mp)}
       ${row(t('m_education'), M(D,'education'), v=>esc(v))}
     </table>
-    <p class="disclaimer">${t('mla_affidavit_note')}</p>
+    ${(affOf(mp) && (affOf(mp).charges||[]).length) ? '' : `<p class="disclaimer">${t('mla_affidavit_note')}</p>`}
+    ${affCharges(mp)}
   </section>` : `
   <section class="panel"><h2>${t('disclosures')}</h2><p class="lede">${t('disclosure_lede')}</p>
     <table class="metrics">
@@ -589,7 +598,7 @@ function viewDistrict(slug){
   const irow = (label, m, fmt, key) => {
     const f = fmt || fmtN;
     if(!m || m.value==null) return `<tr><th>${label}${jurisPill(key)}</th><td><span class="pending">${t('data_pending')}</span></td></tr>`;
-    return `<tr><th>${label}${jurisPill(key)}</th><td>${f(m.value)}${m.year?` <span class="sub">(${m.year})</span>`:''}${srcLink(m.source)}</td></tr>`;
+    return `<tr><th>${label}${jurisPill(key)}</th><td>${f(m.value)}${m.year?` <span class="sub">(${esc(m.year)})</span>`:''}${m.note?` <span class="sub">— ${esc(m.note)}</span>`:''}${srcLink(m.source)}</td></tr>`;
   };
   return `
   <p><a href="#/">${t('back')}</a></p>
@@ -724,7 +733,7 @@ function viewMethodology(){
     <h2>మూలాలు</h2>
     <p>సభ రికార్డు: PRS Legislative Research · నిధులు: MPLADS పోర్టల్ · అఫిడవిట్లు: ADR/MyNeta · ఎన్నికల ఫలితాలు: భారత ఎన్నికల సంఘం · జిల్లా గణాంకాలు: Census, NFHS, UDISE+, NITI Aayog SDG Index, పథకాల డాష్‌బోర్డులు.</p>
     <h2>నియమాలు</h2>
-    <p>ప్రతి సంఖ్యకు మూలం లింక్ తప్పనిసరి. వ్యక్తులపై విశేషణాలు నిషిద్ధం — "తక్కువ హాజరు" కాదు, "హాజరు 43%, సభ సగటు 78%" అని మాత్రమే. అన్ని పార్టీలకు ఒకే లేఅవుట్. ర్యాంకింగ్‌లు లేవు.</p>
+    <p>ప్రతి సంఖ్యకు మూలం లింక్ తప్పనిసరి. వ్యక్తులపై విశేషణాలు నిషిద్ధం — "తక్కువ హాజరు" కాదు, "హాజరు 43%, సభ సగటు 78%" అని మాత్రమే. అన్ని పార్టీలకు ఒకే లేఅవుట్. ర్యాంకింగ్‌లు లేవు. రెండు నిజాయితీ లేబుళ్లు: "డేటా ధృవీకరణ పెండింగ్" అంటే మేము ఇంకా సేకరిస్తున్నాము; "ప్రచురించలేదు" అంటే ఆ సంఖ్యను ఏ ప్రజా మూలం ప్రచురించదు.</p>
     <h2>పరిమితులు</h2>
     <p>జిల్లా గణాంకాలు ఆ ప్రాంతాన్ని వివరిస్తాయి — ప్రతినిధి సాధించినవి కావు. నియోజకవర్గాలు జిల్లాలతో సరిగ్గా సరిపోవు. జిల్లా నేరాల రేట్లు ఈ ప్రాజెక్ట్ లెక్కించినవి: NCRB 2022 జిల్లా సంఘటనలు ÷ 2011 జనాభా లెక్కల జిల్లా జనాభా × 100,000 (NCRB రేట్లను రాష్ట్ర/నగర స్థాయిలో మాత్రమే ప్రచురిస్తుంది).</p>
     <h2>ఓటింగ్ రికార్డు & ఆస్తి వృద్ధి</h2>
@@ -739,7 +748,7 @@ function viewMethodology(){
     <h2>Sources</h2>
     <p>Legislative record: PRS Legislative Research · Funds: MPLADS portal · Affidavits: ADR/MyNeta · Election results: Election Commission of India · District outcomes: Census, NFHS, UDISE+, NITI Aayog SDG India Index, scheme dashboards (MGNREGA, PMAY-G, Jal Jeevan Mission).</p>
     <h2>Rules</h2>
-    <p>Every number carries a source link — no exceptions. No adjectives about people: never "low attendance", always "attendance 43% vs. house average 78%". Identical layout for every party. No leaderboards, no verdicts.</p>
+    <p>Every number carries a source link — no exceptions. No adjectives about people: never "low attendance", always "attendance 43% vs. house average 78%". Identical layout for every party. No leaderboards, no verdicts. Two honesty labels: "Data pending verification" means we are still collecting it; "Not published" means no public source publishes that figure at all.</p>
     <h2>Limits</h2>
     <p>District figures describe the area, not the representative's personal record. Constituencies do not map neatly onto districts. MPLADS allocation figures are 18th-Lok-Sabha cumulative as-on-date from the eSAKSHI portal (not FY-wise); per-MP expenditure and works counts are not published on the public dashboard. District crime rates are project-computed: NCRB 2022 district incidence ÷ Census 2011 district population × 100,000 (NCRB publishes rates only at state/city level).</p>
     <h2>Voting record & asset growth</h2>
@@ -866,6 +875,9 @@ async function load(){
   MLA = chunks.reduce((a,c)=>a.concat((c&&c.mlas)||[]), []);
   DIST = await get('data/districts.json') || {districts: []};
   AFF = await get('data/affidavit_details.json') || {mps: []};
+  AFF.mlas = AFF.mlas || [];
+  const affChunks = await Promise.all([1,2,3,4,5].map(i=>get(`data/affidavit_mlas_${i}.json`)));
+  for(const c of affChunks){ if(c && c.mlas) AFF.mlas = AFF.mlas.concat(c.mlas); }
   CONTACTS = await get('data/contacts.json') || {contacts: {}};
   CHANGELOG = await get('data/changelog.json') || {entries: []};
   MANDALS = await get('data/mandals.json') || {mandals: []};
@@ -892,7 +904,8 @@ function districtMLAs(dname){
   return MLA.filter(mp => asList(mp.district_context && mp.district_context.districts).includes(dname));
 }
 function affOf(mp){
-  return (AFF.mps || []).find(a => a.name === mp.name) || null;
+  const all = (AFF.mps || []).concat(AFF.mlas || []);
+  return all.find(a => a.name === mp.name) || null;
 }
 function render(){
   const hash = location.hash || '#/';

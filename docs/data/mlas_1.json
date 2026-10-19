@@ -910,8 +910,8 @@
      "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0140.htm"
     },
     "turnout_pct": {
-     "value": null,
-     "source": null
+     "value": 87.09,
+     "source": "https://ceoandhra.nic.in/ceoap_new/ceo/General Elections-2024/40-Anaparthy AC.pdf"
     },
     "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
    },
@@ -2474,8 +2474,8 @@
      "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01103.htm"
     },
     "turnout_pct": {
-     "value": null,
-     "source": null
+     "value": 90.91,
+     "source": "https://asianlite.com/2024/politics/andhra-records-81-86-turnout-in-simultaneous-polls/"
     },
     "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
    },

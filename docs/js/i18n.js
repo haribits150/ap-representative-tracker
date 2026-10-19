@@ -88,6 +88,8 @@ en: {
   find_your_mla_one:"Your MLA", find_your_mp_one:"Your MP",
   home_counts:(d,m,l)=>`${d} districts · ${m} MPs · ${l} MLAs tracked`,
   districts_search:"Search districts…",
+  not_published:"Not published",
+  not_published_why:"No public source publishes this figure — the gap is in the public record, not this site.",
 },
 te: {
   nav_home:"హోమ్", nav_districts:"జిల్లాలు", nav_compare:"పోల్చండి", nav_methodology:"విధానం",
@@ -177,4 +179,6 @@ te: {
   find_your_mla_one:"మీ MLA", find_your_mp_one:"మీ MP",
   home_counts:(d,m,l)=>`${d} జిల్లాలు · ${m} MPలు · ${l} MLAలు ట్రాక్ చేయబడుతున్నారు`,
   districts_search:"జిల్లాలను వెతకండి…",
+  not_published:"ప్రచురించలేదు",
+  not_published_why:"ఈ సంఖ్యను ఏ ప్రజా మూలం ప్రచురించదు — లోపం ప్రజా రికార్డులో ఉంది, ఈ సైట్‌లో కాదు.",
 }};
