@@ -1,0 +1,1444 @@
+{
+ "mlas": [
+  {
+   "name": "Pulaparthi Ramanjaneyulu",
+   "constituency": "Bhimavaram",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (as per 2014 affidavit)",
+   "assets_current_inr": null,
+   "source_url": "https://www.myneta.info/andhra2014/index.php?action=show_winners&sort=default",
+   "notes": "2024 myneta candidate page not found via search. Not listed in ADR's criminal-cases annexure for AP Assembly Elections 2024 (0 cases). 2014 affidavit: 12th Pass, Rs 12,24,77,264 assets, 0 cases. Contested 2024 as Janasena Party candidate (joined JSP March 2024)."
+  },
+  {
+   "name": "Yarlagadda Venkata Rao",
+   "constituency": "Gannavaram (Krishna)",
+   "total_cases": 9,
+   "serious_cases": 6,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 307/324/34 + SC/ST (POA) Act 3(1)(r)(s), 3(2)(v)",
+     "severity": "serious",
+     "severity_basis": "IPC 307: attempt to murder (heinous, 5+ years) + SC/ST (Prevention of Atrocities) Act",
+     "case_description": "FIR 247/2023, Veeravalli Police Station; X Addl. District & Sessions Judge, Machilipatnam; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 323/506/34 + SC/ST (POA) Act",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act offence",
+     "case_description": "FIR 246/2023, Veeravalli Police Station; X Addl. District & Sessions Judge, Machilipatnam; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 447/427/323/506/290/34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 447/427/323/506/290: trespass/mischief/hurt/intimidation — no section carrying 5+ years",
+     "case_description": "FIR 245/2023, Veeravalli Police Station; AJ1CM, Nuzvid; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 149/188 + Sec 131(1)(a) RP Act 1951",
+     "severity": "serious",
+     "severity_basis": "Sec 131(1)(a) Representation of the People Act: electoral offence",
+     "case_description": "FIR 341/2019, Patamata Police Station; IV Addl. CMM, Vijayawada; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 341/143/145/188/153A/149 + Sec 32 Police Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order sections; no 5+ year section",
+     "case_description": "FIR 340/2019, Patamata Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 363/34 + SC/ST (POA) Act 3(1)(10)",
+     "severity": "serious",
+     "severity_basis": "IPC 363: kidnapping — heinous, 5+ years; plus SC/ST Act",
+     "case_description": "FIR 141/2019, Gudiwada Police Station; X Addl. District & Sessions Judge, Machilipatnam; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 188/353 + Sec 131(1)(a) RP Act",
+     "severity": "serious",
+     "severity_basis": "Sec 131(1)(a) Representation of the People Act: electoral offence",
+     "case_description": "FIR 183/2019, Gannavaram Police Station; XIIth Addl. MM, Gannavaram; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 324/34 + SC/ST (POA) Act",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act offence",
+     "case_description": "Case SC 55/2018; FIR 189/2018, Hanuman Junction Police Station; X ADJ, Machilipatnam; charges framed: Yes."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC only",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "FIR 650/2017, S.N. Puram Police Station, Vijayawada; III Addl. MM, Vijayawada; charges not framed."
+    }
+   ],
+   "education": "Graduate (B.Sc., Acharya Nagarjuna University, 1998)",
+   "assets_current_inr": null,
+   "source_url": null,
+   "notes": "Declared cases are pending matters, not convictions. His 2024 myneta candidate page could not be located (not indexed, absent from myneta winners-list extraction); charges from ADR's affidavit-sourced Annexure-2 entry 61. 2024 declared assets not verified — left null rather than substituting his 2019 affidavit figures."
+  },
+  {
+   "name": "Amilineni Surendra Babu",
+   "constituency": "Kalyandurg",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass",
+   "assets_current_inr": 1893517409,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=103",
+   "notes": "Declared cases are pending matters, not convictions. Myneta Crime-O-Meter: no criminal cases."
+  },
+  {
+   "name": "Nara Lokesh",
+   "constituency": "Mangalagiri",
+   "total_cases": 17,
+   "serious_cases": 7,
+   "non_serious_cases": 10,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341, 427, 506, 109, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 506: criminal intimidation — up to 7 years",
+     "case_description": "Cr.No 193/2023, Nallajerla Police Station, East Godavari District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 143, 353, 506, 188, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 506: criminal intimidation — up to 7 years",
+     "case_description": "Cr.No 32/2023, Gajula Mandyam Police Station, Tirupathi District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 290, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/290: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 16/2023, S.R. Puram Police Station, Chittoor District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 290, 34 (PT case)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/290: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 7/2023, Narasingarayanipet, Chittoor District (C.No.20/CW/DCRB-CTR/2024); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 188, 290, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/290: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 20/2023, Palamaner Urban Police Station, Chittoor District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 353, 290, 188, 341, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/353/290: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 16/2023, Bangarupalem Urban Police Station, Chittoor District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive detention — procedural, no section carrying 5+ years",
+     "case_description": "Cr.No 162/2022, Amadalavalasa Police Station, Srikakulam District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 188, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 161/2022, Amadalavalasa Police Station, Srikakulam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 34, 35, 36, 37, 166, 167, 217; PC Act 1988 Sec 13(2) r/w 13(1)(a)",
+     "severity": "serious",
+     "severity_basis": "IPC 420 + PC Act 13(2)/13(1)(a): cheating; criminal misconduct by public servant — 5+ years/loss to exchequer",
+     "case_description": "Cr.No 16/2022, CID Police Station, Amaravathi, Mangalagiri (before Special Judge for SPE & ACB Cases, Vijayawada); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 153A, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 153A: promoting enmity between different groups — 5+ years (ADR serious)",
+     "case_description": "Cr.No 75/2022, Kalyanadurgam Police Station, Ananthapur; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 307, 332, 427, 323, 324, 342, 149; SC/ST (POA) Act Sec 3(1)(r), 3(1)(s)",
+     "severity": "serious",
+     "severity_basis": "IPC 307/332/324 + SC/ST (POA) Act: attempt to murder, hurt to deter public servant, hurt by dangerous weapons — heinous/5+ years",
+     "case_description": "Cr.No 651/2021, Mangalagiri Rural Police Station, Guntur District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 186, 269, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/186/269: protest/public-order and Covid-era violations, no section carrying 5+ years",
+     "case_description": "Cr.No 665/2021, Krishna Lanka Police Station, Vijayawada City; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 353, 147, 149, 120B",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/353/147/120B: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 448/2021, Old Guntur Police Station, Guntur; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 153A, 505, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 153A/505/506: promoting enmity, statements conducing to public mischief, criminal intimidation — 5+ years",
+     "case_description": "Cr.No 111/2021, D.Hirehal Police Station, Ananthapur; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 279; Sec 184 Motor Vehicle Act 1988; Sec 51(a) Disaster Management Act 2005; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "IPC 279: rash driving; minor statutory violations — no section carrying 5+ years",
+     "case_description": "Cr.No 236/2020, Akividu Police Station, West Godavari; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 270; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188/270: disobedience of public order and Covid-era violations — no section carrying 5+ years",
+     "case_description": "Cr.No 511/2020, Nandigama Police Station, Krishna District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 120B, 153, 505(2), 34",
+     "severity": "serious",
+     "severity_basis": "IPC 505(2): statements creating/promoting enmity between classes — 5+ years (ADR serious)",
+     "case_description": "Cr.No 156/2019, A. Konduru Police Station, Krishna District; charges not framed; no appeal"
+    }
+   ],
+   "education": "Post Graduate (MBA, Stanford University, USA, 2008)",
+   "assets_current_inr": 5421767034,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=47",
+   "notes": "Declared cases are pending matters, not convictions. No convictions recorded on the myneta page."
+  },
+  {
+   "name": "Matsyarasa Visweswara Raju",
+   "constituency": "Paderu (ST)",
+   "total_cases": null,
+   "serious_cases": null,
+   "non_serious_cases": null,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": null,
+   "notes": "The myneta.info 2024 candidate page could not be found after multiple searches; identity confirmed as the YSRCP winner from Paderu (ST) with 68,170 votes. Declared case count, education and assets could not be verified. Declared cases are pending matters, not convictions."
+  },
+  {
+   "assets_current_inr": null,
+   "charges": [],
+   "constituency": "Polavaram (ST)",
+   "education": null,
+   "name": "Chirri Balaraju",
+   "non_serious_cases": null,
+   "notes": "No myneta.info candidate page indexed for the 2024 Andhra Pradesh Assembly election (site-restricted search returned nothing); PRS confirms he is the Janasena Party MLA for Polavaram (ST). Declared-case data unavailable.",
+   "serious_cases": null,
+   "source_url": null,
+   "total_cases": null
+  },
+  {
+   "assets_current_inr": 205094609,
+   "charges": [
+    {
+     "case_description": "Cr No 120/2023, Cherukupalli PS. Charges framed: No.",
+     "ipc_sections": "IPC 341, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/143/149: wrongful restraint/unlawful assembly — protest/public-order, no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr No 25/2020, Nagaram PS. Charges framed: No.",
+     "ipc_sections": "IPC 341, 187, 188, 109, 209, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/187/188/109/209/143/149: restraint/abetment/false claim in court — no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr No 469/2023, Gannavaram PS, under Section 151 Cr PC. Charges framed: No.",
+     "ipc_sections": "Section 151 Cr PC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC is preventive arrest of breach of peace — not an offence"
+    }
+   ],
+   "constituency": "Repalle",
+   "education": "Graduate",
+   "name": "Anagani Satya Prasad",
+   "non_serious_cases": 3,
+   "notes": "Declared cases are pending matters, not convictions. Candidate page not indexed on myneta.info; FIR details are from the ADR Andhra Pradesh 2024 Ministers Report (same ECI affidavit source).",
+   "serious_cases": 0,
+   "source_url": "http://adrindia.org/sites/default/files/Andhra_Pradesh_Assembly_Elections_2024_Ministers_Report_FinalVer_Hindi.pdf",
+   "total_cases": 3
+  },
+  {
+   "name": "Kolikapudi Srinivasa Rao",
+   "constituency": "Tiruvuru (SC)",
+   "total_cases": 10,
+   "serious_cases": 5,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "ipc_sections": "Crime Stage only (no IPC sections specified)",
+     "severity": "non-serious",
+     "severity_basis": "No specific sections listed; treated as non-serious",
+     "case_description": "Pending; details from ADR annexure (Entry 58)"
+    },
+    {
+     "ipc_sections": "IPC 171H",
+     "severity": "serious",
+     "severity_basis": "IPC 171H: electoral offence (illegal payments in connection with election)",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 153A, 505(2), 506(2), 115",
+     "severity": "serious",
+     "severity_basis": "IPC 153A: promoting enmity; 505(2): statements creating enmity - serious per ADR",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341 (protest)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 181",
+     "severity": "serious",
+     "severity_basis": "IPC 181: false statement on oath - serious per ADR criteria",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188 (protest)",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience to public servant's order; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 341, 143 (protest)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and unlawful assembly; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 506",
+     "severity": "serious",
+     "severity_basis": "IPC 506: criminal intimidation - serious per ADR criteria",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 171H",
+     "severity": "serious",
+     "severity_basis": "IPC 171H: electoral offence (illegal payments in connection with election)",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "Sec 107 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive provision; not a criminal charge",
+     "case_description": "Pending; details from ADR annexure"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024 (Entry 58). Education and assets not verified. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Gottipati Ravikumar",
+   "constituency": "Addanki",
+   "total_cases": 8,
+   "serious_cases": 0,
+   "non_serious_cases": 8,
+   "charges": [
+    {
+     "ipc_sections": "IPC 188, 143, 341, 290, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Cr 279/2023, Addanki PS; Addl Junior Civil Court, Addanki; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 341, 353, 149",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and obstruction; no section carries 5+ years",
+     "case_description": "Cr 651/2023, Ongole Taluka PS; III Addl Junior Civil Judge, Ongole; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 290, 149",
+     "severity": "non-serious",
+     "severity_basis": "Restraint, unlawful assembly, public nuisance; no section carries 5+ years",
+     "case_description": "Cr 274/2023, Addanki PS; CC 814/2023, Addanki; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269, 270, 188, 149; Sec 3 APEDCRA 2020; Sec 32 AP Police Act",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest offences; no section carries 5+ years",
+     "case_description": "Cr 863/2021, Ongole Taluka PS; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269, 270, 188, 149; Sec 3 APEDCRA 2020; Sec 32 AP Police Act",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest offences; no section carries 5+ years",
+     "case_description": "Cr 864/2021, Ongole Taluka PS; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 341, 269, 270, 290, 149; Sec 32 Police Act 1861",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest offences; no section carries 5+ years",
+     "case_description": "Cr 224/2021, NG Padu PS; Special Excise Magistrate, Ongole; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188, 269, 270, 149",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest offences; no section carries 5+ years",
+     "case_description": "Cr 924/2021, Tadepalli PS; Junior Civil Judge, Mangalagiri; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Cr 88/2015, Medarametla PS; CC 69/2018, Special Court for MPs/MLAs, Vijayawada; charges not framed"
+    }
+   ],
+   "education": "12th Pass (as per 2019 affidavit; 2024 myneta candidate page not found)",
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024. Declared cases are pending matters, not convictions. 2019 declared assets were Rs 58,37,67,374 (myneta); 2024 asset figure not verified."
+  },
+  {
+   "name": "Prathipati Pulla Rao",
+   "constituency": "Chilakaluripet",
+   "total_cases": 13,
+   "serious_cases": 5,
+   "non_serious_cases": 8,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341, 353, 120B, 144, 148, 149; Sec 129 & 149 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and rioting; no section carries 5+ years",
+     "case_description": "FIR 238/2023, Chilakaluripet Town PS"
+    },
+    {
+     "ipc_sections": "IPC 435, 353, 120B, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 435: mischief by fire or explosive substance with intent to cause damage (7 yrs)",
+     "case_description": "FIR 240/2023, Chilakaluripet Town PS"
+    },
+    {
+     "ipc_sections": "IPC 353, 341, 147, 143, 120B, 149",
+     "severity": "non-serious",
+     "severity_basis": "Obstruction and rioting; no section carries 5+ years",
+     "case_description": "FIR 125/2023, Edlapadu PS"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 290, 149",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly and public nuisance; no section carries 5+ years",
+     "case_description": "FIR 93/2023, Amaravathi PS"
+    },
+    {
+     "ipc_sections": "IPC 506, 504, 143, 149, 323, 114; Sec 3(2)(v-a), 3(1)(r)(s) SC/ST Act",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act offence",
+     "case_description": "FIR 197/2023, Attibele PS, Bengaluru"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience and wrongful restraint; no section carries 5+ years",
+     "case_description": "FIR 277/2022, Undi PS"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 353, 332, 143, 144, 147, 148, 149; Sec 32 Police Act 1861",
+     "severity": "non-serious",
+     "severity_basis": "Rioting and obstruction; no section carries 5+ years",
+     "case_description": "FIR 276/2022, Undi PS"
+    },
+    {
+     "ipc_sections": "IPC 353, 509, 506, 323, 34; Sec 3(1)(r), 3(1)(s), 3(2)(va) SC/ST (POA) Act",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act offence; IPC 509: crime against women",
+     "case_description": "FIR 136/2022, Chilakaluripet Town PS"
+    },
+    {
+     "ipc_sections": "IPC 471, 420, 506, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 420: cheating and dishonestly inducing delivery of property (7 yrs)",
+     "case_description": "FIR 167/2022, Manoharabad PS, Medak, Telangana"
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive detention provision, not a punishable offence",
+     "case_description": "FIR 261/2022, Dachepalli PS"
+    },
+    {
+     "ipc_sections": "IPC 341, 353, 147, 120B, 149",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and rioting; no section carries 5+ years",
+     "case_description": "FIR 448/2021, Old Guntur PS"
+    },
+    {
+     "ipc_sections": "IPC 341, 188, 34",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and disobedience; no section carries 5+ years",
+     "case_description": "FIR 45/2020, Chilakaluripet Town PS; CC 44/2024, Additional Junior Civil Judge, Chilakaluripet"
+    },
+    {
+     "ipc_sections": "IPC 420, 506, 120B; Sec 3(1)(g) & 3(1)(p) SC/ST (POA) Amendment Act 2015",
+     "severity": "serious",
+     "severity_basis": "IPC 420: cheating (7 yrs); SC/ST (Prevention of Atrocities) Act offence",
+     "case_description": "FIR 12/2019, AP CID PS, Amaravathi"
+    }
+   ],
+   "education": "Graduate (B.Com, 1978-81, VRS & YRN College, Chirala, Andhra University)",
+   "assets_current_inr": 947882298,
+   "source_url": "https://myneta.info/andhra2014/candidate.php?candidate_id=2566",
+   "myneta_name": "Prathipati Pullarao",
+   "notes": "2024 myneta candidate page not indexed in search; 2024 figures (Rs 94,78,82,298 assets, 13 cases) from this archived page's 'Other Elections' table. Charge details from ADR's criminal-cases annexure. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Pasam Sunil Kumar",
+   "constituency": "Gudur (SC)",
+   "myneta_name": "Pasim Sunil Kumar",
+   "total_cases": 14,
+   "serious_cases": 0,
+   "non_serious_cases": 14,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143/341/149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order sections; no 5+ year section",
+     "case_description": "Cr. No. 216/23, Chinabazar Police Station, Nellore; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 117/2023, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 123/22, Balaji Nagar Police Station, Nellore; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 143/341/149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order sections; no 5+ year section",
+     "case_description": "Cr. No. 151/2022, Gudur Rural Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 341/188/269/270/271/149",
+     "severity": "non-serious",
+     "severity_basis": "public-order plus Covid-era public-health sections; no 5+ year section",
+     "case_description": "Cr. No. 295/2021, Venkatagiri Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 143/341/290/269/270/149 + Sec 3 AP Epidemic Diseases Act 1897 + Sec 32 AP Police Act",
+     "severity": "non-serious",
+     "severity_basis": "no section carrying 5+ years",
+     "case_description": "Cr. No. 199/2021, Gudur Rural Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 143/341/269/270/271/188/149",
+     "severity": "non-serious",
+     "severity_basis": "no section carrying 5+ years",
+     "case_description": "Cr. No. 198/2021, Gudur Rural Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 159/2021, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 147/2021, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 145/2021, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "IPC 269/270/341",
+     "severity": "non-serious",
+     "severity_basis": "no section carrying 5+ years",
+     "case_description": "Cr. No. 140/2021, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 14/2020, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 44/2012, Gudur I-Town Police Station; charges not framed."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 21/2009, Gudur I-Town Police Station; charges not framed."
+    }
+   ],
+   "education": "Doctorate (Ph.D. in Adult Education, Sri Venkateswara University, 2021)",
+   "assets_current_inr": 66559534,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=236",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Boggula Dastagiri",
+   "constituency": "Kodumur (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate (LL.M., Sri Krishna Devaraya University, Anantapuram, 2018)",
+   "assets_current_inr": 10734000,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=31",
+   "notes": "Declared cases are pending matters, not convictions. Myneta Crime-O-Meter: no criminal cases."
+  },
+  {
+   "name": "Vasantha Krishna Prasad",
+   "constituency": "Mylavaram",
+   "myneta_name": "Vasantha Venkata Krishna Prasad",
+   "total_cases": 2,
+   "serious_cases": 2,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "PMLA 2002 Sec 3 r/w 70(2) & 4",
+     "severity": "serious",
+     "severity_basis": "PMLA Sec 3/4: money laundering — up to 7 years (ADR serious)",
+     "case_description": "ECIR No.09/HZO, SC No.01/2021, Directorate of Enforcement Hyderabad (before Principal Special Judge for CBI cases, Nampally, Hyderabad); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 409",
+     "severity": "serious",
+     "severity_basis": "IPC 420/409: cheating; criminal breach of trust by public servant — 5+ years/loss to exchequer",
+     "case_description": "RC No.19(A)/2011, CBI Hyderabad (CC No.26/2013, Principal Special Judge for CBI Cases, Nampally, Hyderabad); charges not framed; no appeal"
+    }
+   ],
+   "education": "10th Pass (SSC, Sri Patibandla Sitaramaiah High School, 1985)",
+   "assets_current_inr": 1888826613,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=344",
+   "notes": "Declared cases are pending matters, not convictions. No convictions recorded on the myneta page."
+  },
+  {
+   "name": "Varla Kumar Raja",
+   "constituency": "Pamarru (SC)",
+   "myneta_name": "KUMAR RAJA VARLA",
+   "total_cases": 10,
+   "serious_cases": 0,
+   "non_serious_cases": 10,
+   "charges": [
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive detention — procedural, no section carrying 5+ years",
+     "case_description": "Cr.No 223/2023, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 188, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/143: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 180/2023, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 188, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/143: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 243/2022, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 309",
+     "severity": "non-serious",
+     "severity_basis": "IPC 309: attempt to commit suicide — minor offence, no section carrying 5+ years",
+     "case_description": "Cr.No 187/2022, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive detention — procedural, no section carrying 5+ years",
+     "case_description": "Cr.No 181/2022, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/143: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 38/2022, Pedaparupudi Police Station (CC No.361/2022, PDM Court, Gudiwada); charges framed 10 Jan 2024; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 120B, 353, 34 (41-A CrPC notice served)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 120B/353: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 47/2022, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 143/341/188: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 325/2021, Pamarru Police Station (CC No.634/2022, AJFCM, Gudiwada); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive detention — procedural, no section carrying 5+ years",
+     "case_description": "Cr.No 307/2021, Pamarru Police Station; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 341, 269, 188, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/269/188: protest/public-order and Covid-era violations, no section carrying 5+ years",
+     "case_description": "Cr.No 303/2021, Pamarru Police Station (CC No.947/2022, AJFCM, Gudiwada); charges not framed; no appeal"
+    }
+   ],
+   "education": "Post Graduate (Master of Information Technology, University of Ballarat, Sydney, Australia, 2006)",
+   "assets_current_inr": 19693627,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=20",
+   "notes": "Declared cases are pending matters, not convictions. No convictions recorded on the myneta page. All 10 matters are protest/public-order cases."
+  },
+  {
+   "assets_current_inr": 7576503781,
+   "charges": [],
+   "constituency": "Pulivendla",
+   "education": null,
+   "myneta_name": "Yeduguri Sandinti Jagan Mohan Reddy",
+   "name": "Y. S. Jagan Mohan Reddy",
+   "non_serious_cases": null,
+   "notes": "2024 candidate page not indexed on myneta.info. Per the Other Elections table on his 2019 myneta candidate page, his 2024 declaration showed total assets Rs7,57,65,03,781 and 29 declared criminal cases; ADR's C7 classification records 29 cases with 19 serious IPC sections. Charge-level (FIR/IPC) details for 2024 are unavailable so per-charge severity cannot be classified. His 2019 affidavit (38 cases, mostly CBI/ED matters) is a different election and is not used here.",
+   "serious_cases": null,
+   "source_url": "https://myneta.info/andhrapradesh2019/candidate.php?candidate_id=5332",
+   "total_cases": null
+  },
+  {
+   "name": "Kanna Lakshminaraya",
+   "constituency": "Sattenapalle",
+   "total_cases": 4,
+   "serious_cases": 1,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 294, 34, 352, 143, 342, 186, 188, 353, 341, 149; Sec 3(1)(r), 3(1)(s) SC/ST (POA) Act; Sec 32 Police Act",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act invoked - heinous caste-based offence",
+     "case_description": "FIR 161/2023, Arundelpet PS; pending"
+    },
+    {
+     "ipc_sections": "Protection of Women from Domestic Violence Act (civil proceeding)",
+     "severity": "non-serious",
+     "severity_basis": "Civil proceeding under DV Act; not a criminal charge carrying 5+ years",
+     "case_description": "DV Act proceeding; pending"
+    },
+    {
+     "ipc_sections": "Protection of Women from Domestic Violence Act (civil proceeding)",
+     "severity": "non-serious",
+     "severity_basis": "Civil proceeding under DV Act; not a criminal charge carrying 5+ years",
+     "case_description": "DV Act proceeding; pending"
+    },
+    {
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience to public servant's order; no section carries 5+ years",
+     "case_description": "Pending"
+    }
+   ],
+   "education": "Graduate - B.Com, T.J.P.S. College, Guntur, Andhra University (1973-76)",
+   "assets_current_inr": 421628052,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "myneta_name": "Kanna Lakshminarayana",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024. 2024 assets Rs 42,16,28,052 from cross-election table. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Payyavula Keshav",
+   "constituency": "Uravakonda",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and disobedience; no section carries 5+ years",
+     "case_description": "Crime 238/2023, Urvakonda PS; pending; details from ADR annexure (Entry 456)"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024 (Entry 456). Education and assets not verified. Declared case is a pending matter, not a conviction."
+  },
+  {
+   "name": "Aithabathula Anandarao",
+   "constituency": "Amalapuram (SC)",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 353, 149",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly and obstruction of public servant; no section carries 5+ years",
+     "case_description": "Cr 41/2023, Biccavolu, East Godavari District; charge sheet not yet filed (investigation pending); charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 341, 34",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint; no section carries 5+ years",
+     "case_description": "Cr 285/2022, Amalapuram Town PS, Dr. B.R. Ambedkar Konaseema District; Judicial First Class Magistrate, Amalapuram; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 341, 188, 34; Sec 32 Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful restraint and disobedience; no section carries 5+ years",
+     "case_description": "Cr 132/2022, Amalapuram Town PS; CC 2520/2022, Judicial First Class Magistrate, Amalapuram; charges framed"
+    }
+   ],
+   "education": "Post Graduate (MA, 1993; BL, Andhra University Visakhapatnam, 1996)",
+   "assets_current_inr": 57977837,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=54",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Buchepalli Siva Prasad Reddy",
+   "constituency": "Darsi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (MBBS, Sri Ramachandra, Chennai, 2004)",
+   "assets_current_inr": 412090980,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=4",
+   "notes": "No criminal cases declared in the 2024 affidavit."
+  },
+  {
+   "name": "Nandamuri Balakrishna",
+   "constituency": "Hindupur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate",
+   "assets_current_inr": 4829680954,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=71",
+   "notes": "Declared cases are pending matters, not convictions. Myneta Crime-O-Meter: no criminal cases. Asset figure cross-checked against ADR re-contesting-MLAs report."
+  },
+  {
+   "name": "Muppidi Venkateswara Rao",
+   "constituency": "Kovvur (SC)",
+   "total_cases": 10,
+   "serious_cases": 0,
+   "non_serious_cases": 10,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341/290/504/506/143/149",
+     "severity": "non-serious",
+     "severity_basis": "no section carrying 5+ years (max 2 years)",
+     "case_description": "Cr. No. 493/2023, Devarapalli Police Station, Devarapalli, East Godavari Dist; Prl. Jr. Civil Judge cum Prl. Judicial 1st Class Magistrate, Kovvur; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 458/2023, Devarapalli Police Station; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 455/2023, Devarapalli Police Station; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 143/188/290/34",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order sections; no 5+ year section",
+     "case_description": "Cr. No. 244/2023, Gopalapuram Police Station, Gopalapuram, East Godavari Dist; under investigation; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 143/188/290/341/149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order sections; no 5+ year section",
+     "case_description": "Cr. No. 229/2023, Nallajarla Police Station, Nallajarla, East Godavari Dist; 2nd Addl. Judicial 1st Class Magistrate, Tadepalligudem; under investigation; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 269/271 + Sec 151 CrPC + Sec 51(a) DMA 2005",
+     "severity": "non-serious",
+     "severity_basis": "no section carrying 5+ years; charge sheet filed",
+     "case_description": "Cr. No. 450/2021, Nallajarla Police Station; STC 108/2021, 2nd Addl. Judicial 1st Class Magistrate, Tadepalligudem; charge sheet filed; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 429/2021, Devarapalli Police Station; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 30/2020, Devarapalli Police Station; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Sec 151 CrPC: preventive action, not a penal offence",
+     "case_description": "Cr. No. 27/2020, Devarapalli Police Station; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 143/341/188/34",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order sections; no 5+ year section",
+     "case_description": "Cr. No. 241/2019, Gopalapuram Police Station, Gopalapuram, East Godavari Dist; CC No. 81/2020, 2nd Addl. Judicial 1st Class Magistrate, Kovvur; charges not framed; appeal: No."
+    }
+   ],
+   "education": "Post Graduate (Master of Social Work, Nagarjuna University, 2008)",
+   "assets_current_inr": 13348439,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=330",
+   "notes": "Declared cases are pending matters, not convictions. All 10 charges verified against the 2024 myneta candidate page. ADR's serious-IPC header for him reads 1; under the task's criteria none qualifies (no 5+ year section) — divergence flagged."
+  },
+  {
+   "name": "Baggu Ramanamurthy",
+   "constituency": "Narasannapeta",
+   "myneta_name": "Baggu Ramana Murthy",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": 52957730,
+   "source_url": null,
+   "notes": "The 2024 candidate page could not be found; 0 declared cases and Rs 5,29,57,730 assets are per the 'Andhra Pradesh 2024' comparison rows on the candidate's myneta 2014 page (candidate_id=4042, spelled 'Ramanamurty Baggu') and 2019 page (candidate_id=5901, spelled 'Baggu Ramana Murthy'), which agree. Charge-level detail is not applicable (0 cases)."
+  },
+  {
+   "assets_current_inr": 102935037,
+   "charges": [],
+   "constituency": "Pattikonda",
+   "education": "Post Graduate — MBA, Institute of Computer and Business Management, Hyderabad (2001)",
+   "myneta_name": "K.E. Shyam Kumar",
+   "name": "K. E. Shyam Babu",
+   "non_serious_cases": 0,
+   "notes": "Declared cases are pending matters, not convictions.",
+   "serious_cases": 0,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=126",
+   "total_cases": 0
+  },
+  {
+   "assets_current_inr": 272059207,
+   "charges": [],
+   "constituency": "Rajahmundry Rural",
+   "education": null,
+   "myneta_name": "Butchaiah Choudary Gorantla",
+   "name": "Gorantla Butchaiah Chowdary",
+   "non_serious_cases": null,
+   "notes": "His 2024 myneta candidate page (candidate_id=256) exists but its criminal-case section failed to extract after multiple attempts (page returns tail content only). Per the Other Elections table on his 2019 myneta candidate page, his 2024 declaration showed total assets Rs27,20,59,207 and 2 declared criminal cases; charge-level details are unavailable so severity cannot be classified.",
+   "serious_cases": null,
+   "source_url": "https://myneta.info/andhrapradesh2019/candidate.php?candidate_id=4705",
+   "total_cases": null
+  },
+  {
+   "name": "Kolla Lalitha Kumari",
+   "constituency": "Srungavarapukota",
+   "total_cases": 5,
+   "serious_cases": 0,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "ipc_sections": "IPC 188, 283",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience and public nuisance; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 283",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience and public nuisance; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive arrest provision; not a criminal charge",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience to public servant's order; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 283",
+     "severity": "non-serious",
+     "severity_basis": "Danger/obstruction in public way; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024 (Entry 389). All 5 cases non-serious (188/283/Sec 151 CrPC). Education and assets not verified. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Sujana Chowdary",
+   "constituency": "Vijayawada West",
+   "total_cases": 4,
+   "serious_cases": 2,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "IPC 188, 171E, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 171E: electoral offence (bribery) - serious per ADR",
+     "case_description": "Pending; details from ADR annexure (Entry 262)"
+    },
+    {
+     "ipc_sections": "IPC 188, 341 (protest)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 143, 149 (protest)",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "Sec 3 PMLA",
+     "severity": "serious",
+     "severity_basis": "PMLA: economic offence, 5+ years max punishment",
+     "case_description": "ECIR/CEZO/05/2016; pending; details from ADR annexure"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "myneta_name": "Yalamanchili Satyanarayana Chowdary (Sujana Chowdary)",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024 (Entry 262). Education and assets not verified. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Anam Ramanarayana Reddy",
+   "constituency": "Atmakur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 341, 149",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly and wrongful restraint; no section carries 5+ years",
+     "case_description": "FIR 216/2023, Chinna Bazar PS, Nellore; CC 553/2024"
+    }
+   ],
+   "education": "Graduate Professional (B.Com, 1973; LLB, 1976)",
+   "assets_current_inr": 262739405,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=172",
+   "myneta_name": "ANAM RAMANARAYANA REDDY",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Badeti Chanti",
+   "constituency": "Eluru",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 420, 468, 471, 120B",
+     "severity": "serious",
+     "severity_basis": "IPC 420: cheating (7 yrs); IPC 468/471: forgery (7 yrs/10 yrs)",
+     "case_description": "CC 254/2022, Special JFMC Mobile Court, Eluru; charges not framed; next hearing 24-04-2024"
+    },
+    {
+     "ipc_sections": "Sec 3, 4 AP Gaming Act",
+     "severity": "non-serious",
+     "severity_basis": "Gaming Act offences (minor statutory fines)",
+     "case_description": "Crime 66/2022, Bhimunipatnam PS; CC 615/2023; next hearing 30-04-2024"
+    }
+   ],
+   "education": "Graduate (B.Com, Andhra University/Sir CRR Degree College, Eluru, 1987)",
+   "assets_current_inr": 69482708,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=316",
+   "myneta_name": "Radha Krishnayya Badeti",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Reddeppagari Madhavi Reddy",
+   "constituency": "Kadapa",
+   "myneta_name": "Madhavi Reddappa Gari",
+   "total_cases": 4,
+   "serious_cases": 2,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "IPC 452/352/506/34",
+     "severity": "serious",
+     "severity_basis": "IPC 452: house-trespass after preparation for hurt/assault — maximum punishment 7 years (5+ years)",
+     "case_description": "Cr. No. 33/2024, Chinnachowk U/G Police Station; II Addl. JFCM, Kadapa; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 188/171H",
+     "severity": "serious",
+     "severity_basis": "IPC 171H: illegal payments in connection with an election — electoral offence",
+     "case_description": "Cr. No. 162/2024, Kadapa I Town U/G Police Station; I Addl. JFCM, Kadapa; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 188/186/34",
+     "severity": "non-serious",
+     "severity_basis": "no section carrying 5+ years",
+     "case_description": "Cr. No. 100/2024, Kadapa Taluka Police Station; I Addl. JFCM, Kadapa; charges not framed; appeal: No."
+    },
+    {
+     "ipc_sections": "IPC 323/34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 323: voluntarily causing hurt — max 1 year",
+     "case_description": "Cr. No. 106/2024, II Town Police Station, Kadapa; I Addl. JFCM, Kadapa; charges not framed; appeal: No."
+    }
+   ],
+   "education": "Graduate (B.A. Arts, Osmania University-affiliated college, 1995)",
+   "assets_current_inr": 3881055784,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=457",
+   "notes": "Declared cases are pending matters, not convictions. All four cases are 2024 FIRs; an older ADR annexure did not list her. IPC 452 (7 years max) qualifies as serious under the 5+ years criterion."
+  },
+  {
+   "name": "Kollu Ravindra",
+   "constituency": "Machilipatnam",
+   "total_cases": 15,
+   "serious_cases": 7,
+   "non_serious_cases": 8,
+   "charges": [
+    {
+     "ipc_sections": "IPC 166, 167, 409, 120B, 34; PC Act 1988 Sec 13(1)(D), 13(2)",
+     "severity": "serious",
+     "severity_basis": "IPC 409 + PC Act 13(1)(D)/13(2): criminal breach of trust by public servant, corruption/loss to exchequer — 5+ years",
+     "case_description": "Cr.No 18/2023, CID Police Tadepalli, Guntur District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 323, 506, 34; SC/ST (POA) Act Sec 3(1)(6)(S), 3(2)(5)",
+     "severity": "serious",
+     "severity_basis": "IPC 506 + SC/ST (POA) Act: criminal intimidation; atrocities offence against SC/ST — 5+ years",
+     "case_description": "Cr.No 246/2023, Veerapalli PS, Krishna District; before 10th ADJ cum SC/ST Special Court, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 32/2023, Chilakalapudi PS, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 283, 353, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/353: protest/public-order and obstruction of public servant, no section carrying 5+ years",
+     "case_description": "Cr.No 33/2023, Chilakalapudi PS, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 109, 341, 143, 149; Sec 32 Indian Police Act",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/143: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 134/2023, Inaguduru PS, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 447, 434, 427, 506, 143, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 506: criminal intimidation — up to 7 years",
+     "case_description": "Cr.No 222/2022, Bandar Taluka PS, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 186, 341, 353, 290, 149; Sec 32 Police Act",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/353: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 177/2022, Robertsonapeta PS, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 171H",
+     "severity": "serious",
+     "severity_basis": "IPC 171H: illegal payments in connection with an election — electoral offence (ADR serious)",
+     "case_description": "Cr.No 41/2021, Yenakuduru PS, Machilipatnam (STC No.526/21, Special Judicial IInd Class Magistrate); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 353, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 506: criminal intimidation — up to 7 years",
+     "case_description": "Cr.No 46/2021, Yenakuduru PS, Machilipatnam (CC No.593/21); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 448, 506, 188, 171H, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 506/171H: criminal intimidation; electoral offence — ADR serious",
+     "case_description": "Cr.No 117/2021, Bandaru Taluka PS, Machilipatnam; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188, 269, 270, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188/269/270: protest/public-order and Covid-era violations, no section carrying 5+ years",
+     "case_description": "Cr.No 924/2021, Thadepalli PS, Guntur District; charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188: disobedience of public order; minor statutory fine — no section carrying 5+ years",
+     "case_description": "Cr.No 100/2020, Pedana PS (CC No.1304/2020, Special Mobile JFCM Court, Machilipatnam); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 120B, 302, 109, 34, 37",
+     "severity": "serious",
+     "severity_basis": "IPC 302: murder — heinous, 5+ years",
+     "case_description": "Cr.No 192/2020, Robertsonpeta PS, Machilipatnam (PRC No.21/2023, Second AJFCM Court, Machilipatnam); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341/188: protest/public-order, no section carrying 5+ years",
+     "case_description": "Cr.No 6/2020, Robertsonpeta PS, Machilipatnam (CC No.1152/2020, Second AJFCM Court); charges not framed; no appeal"
+    },
+    {
+     "ipc_sections": "IPC 188; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188: disobedience of public order; minor statutory fine — no section carrying 5+ years",
+     "case_description": "Cr.No 146/2020, Inaguduru PS, Machilipatnam (CC No.828/2020, Second AJFCM Court); charges not framed; no appeal"
+    }
+   ],
+   "education": "Graduate Professional (LLB, Hindu Law College, Nagarjuna University)",
+   "assets_current_inr": 107633827,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=461",
+   "notes": "Declared cases are pending matters, not convictions. No convictions recorded on the myneta page."
+  },
+  {
+   "name": "Ponguru Narayana",
+   "constituency": "Nellore City",
+   "myneta_name": "Narayana Ponguru",
+   "total_cases": 8,
+   "serious_cases": null,
+   "non_serious_cases": null,
+   "charges": [],
+   "education": "Doctorate",
+   "assets_current_inr": 6445316977,
+   "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=240",
+   "notes": "Charge-level detail could not be extracted: the myneta page text fetch rendered only from the immovable-assets section onward, omitting the criminal-cases section. Totals per myneta's own NELLORE CITY comparison chart and the candidate page header: 8 declared cases, 11 serious-IPC counts across sections 306, 354, 408, 420, 498A and 506. Education and assets (Rs 6,44,53,16,977) are from myneta. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Bode Prasad",
+   "constituency": "Penamaluru",
+   "total_cases": 12,
+   "serious_cases": 5,
+   "non_serious_cases": 17,
+   "charges": [
+    {
+     "ipc_sections": "IPC 307",
+     "severity": "serious",
+     "severity_basis": "IPC 307: attempt to murder — heinous, punishable up to life",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 332",
+     "severity": "serious",
+     "severity_basis": "IPC 332: voluntarily causing hurt to deter public servant — non-bailable per ADR marking",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 392",
+     "severity": "serious",
+     "severity_basis": "IPC 392: robbery — heinous, up to 10 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 506",
+     "severity": "serious",
+     "severity_basis": "IPC 506: criminal intimidation — non-bailable per ADR marking",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 353",
+     "severity": "serious",
+     "severity_basis": "IPC 353: assault to deter public servant — non-bailable per ADR marking",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 34: common intention — attributive section, no standalone 5+ year term",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 143",
+     "severity": "non-serious",
+     "severity_basis": "IPC 143: member of unlawful assembly — protest/public-order, max 6 months",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 144",
+     "severity": "non-serious",
+     "severity_basis": "IPC 144: unlawful assembly armed with deadly weapon — max 2 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 145",
+     "severity": "non-serious",
+     "severity_basis": "IPC 145: continuing in unlawful assembly after dispersal order — max 2 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 147",
+     "severity": "non-serious",
+     "severity_basis": "IPC 147: rioting — max 2 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 148",
+     "severity": "non-serious",
+     "severity_basis": "IPC 148: rioting armed with deadly weapon — max 3 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 149: member of unlawful assembly — attributive, follows underlying offence",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 153",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153: provocation with intent to cause riot — max 1 year",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 186",
+     "severity": "non-serious",
+     "severity_basis": "IPC 186: obstructing public servant — max 3 months",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188: disobedience to order — public-order, max 6 months",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 269",
+     "severity": "non-serious",
+     "severity_basis": "IPC 269: negligent act likely to spread infection — max 6 months",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 270",
+     "severity": "non-serious",
+     "severity_basis": "IPC 270: malignant act likely to spread infection — max 2 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 309",
+     "severity": "non-serious",
+     "severity_basis": "IPC 309: attempt to commit suicide — max 1 year",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 323",
+     "severity": "non-serious",
+     "severity_basis": "IPC 323: voluntarily causing hurt — max 1 year",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 341",
+     "severity": "non-serious",
+     "severity_basis": "IPC 341: wrongful restraint — protest/public-order, max 1 month",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 352",
+     "severity": "non-serious",
+     "severity_basis": "IPC 352: assault otherwise than on grave provocation — max 3 months",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    },
+    {
+     "ipc_sections": "IPC 427",
+     "severity": "non-serious",
+     "severity_basis": "IPC 427: mischief causing damage of fifty rupees — max 2 years",
+     "case_description": "Aggregate IPC section across 12 declared criminal cases; FIR-level case details were not extractable from the candidate's myneta page (criminal-case table did not render via text fetch). Sections per myneta Crime-O-Meter, Penamaluru comparison chart."
+    }
+   ],
+   "education": "10th Pass",
+   "assets_current_inr": 445908296,
+   "source_url": "https://www.myneta.info/AndhraPradesh2024/comparisonchart.php?constituency_id=82",
+   "notes": "Declared cases are pending matters, not convictions. FIR-level case details were not extractable from the candidate page (candidate_id=348; criminal-case table did not render after repeated text-fetch attempts), so charges are the 22 IPC sections from myneta's Crime-O-Meter for this candidate (12 declared cases), taken from the verified Penamaluru constituency comparison chart. myneta's Crime-O-Meter counts 7 of these sections as serious; applying the stated serious criteria yields 5 (IPC 307, 332, 392, 506, 353). Candidate page: https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=348"
+  },
+  {
+   "assets_current_inr": null,
+   "charges": [],
+   "constituency": "Rampachodavaram (ST)",
+   "education": null,
+   "myneta_name": "Miriyala Sirisha Devi",
+   "name": "Miryala Sirisha Devi",
+   "non_serious_cases": null,
+   "notes": "Her 2024 myneta candidate page exists (cited by Wikipedia as 'Miriyala Sirisha Devi(TDP):Constituency- RAMPACHODAVARAM (ST)') but is not indexed by search and could not be located after ~7 targeted searches and attempts via the constituency's comparison chart. First-time TDP MLA (won 2024 by 9,139 votes). Declared-case data unavailable.",
+   "serious_cases": null,
+   "source_url": null,
+   "total_cases": null
+  },
+  {
+   "name": "Arimilli Radha Krishna",
+   "constituency": "Tanuku",
+   "total_cases": 7,
+   "serious_cases": 0,
+   "non_serious_cases": 7,
+   "charges": [
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    },
+    {
+     "ipc_sections": "IPC 188, 341, 143, 149 (protest/public-order)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order offences; no section carries 5+ years",
+     "case_description": "Pending; details from ADR annexure"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "notes": "2024 myneta candidate page not found via search. Charge details from ADR's official criminal-cases annexure for AP Assembly Elections 2024. All 7 cases classified non-serious (protest/public-order). Education and assets not verified. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "P. G. V. R. Naidu",
+   "constituency": "Visakhapatnam West",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://adrindia.org/sites/default/files/Annexure_2_Candidates_with_declared_criminal_cases_Andhra_Pradesh_Assembly_Elections_2023_Finalver.pdf",
+   "notes": "Not listed in ADR criminal-cases annexure for AP Assembly Elections 2024 (verified 2026-10-18); 2024 myneta candidate page not found via search. Treated as 0 declared cases. Education and assets not verified. Declared cases are pending matters, not convictions."
+  }
+ ]
+}

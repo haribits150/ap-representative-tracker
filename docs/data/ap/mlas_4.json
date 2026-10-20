@@ -1,0 +1,4001 @@
+{
+ "mlas": [
+  {
+   "name": "Paritala Sunitha",
+   "constituency": "Raptadu",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 339848875,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=248"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=248"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=248"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.48,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 23329,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 87.31,
+     "source": "https://en.wikipedia.org/wiki/Raptadu_Assembly_constituency"
+    },
+    "group_notes": "Compiled from ECI-derived results tables; winner names cross-checked against myneta."
+   },
+   "district_context": {
+    "districts": [
+     "Ananthapuramu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Mandipalli Ramprasad Reddy",
+   "constituency": "Rayachoti",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 34439937,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=87"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=87"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=87"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.99,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01128.htm"
+    },
+    "margin_votes": {
+     "value": 2495,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01128.htm"
+    },
+    "turnout_pct": {
+     "value": 77.39,
+     "source": "https://en.wikipedia.org/wiki/Rayachoty_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Annamayya"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kalava Srinivasulu",
+   "constituency": "Rayadurg",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 78506817,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=242"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=242"
+    },
+    "criminal_cases_declared": {
+     "value": 19,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=242"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.09,
+     "source": "https://web.archive.org/web/20251106203306/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01148.htm"
+    },
+    "margin_votes": {
+     "value": 41659,
+     "source": "https://web.archive.org/web/20251106203306/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01148.htm"
+    },
+    "turnout_pct": {
+     "value": 87.49,
+     "source": "https://en.wikipedia.org/wiki/Rayadurg_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ananthapuramu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Deva Varaprasad",
+   "constituency": "Razole (SC)",
+   "party": "JanaSena",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 83564207,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=264"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=264"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=264"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.13,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 39011,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 80.22,
+     "source": "https://en.wikipedia.org/wiki/Razole_Assembly_constituency"
+    },
+    "group_notes": "Compiled from ECI-derived results tables; winner names cross-checked against myneta."
+   },
+   "district_context": {
+    "districts": [
+     "Dr. B.R. Ambedkar Konaseema"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Anagani Satya Prasad",
+   "constituency": "Repalle",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 205094609,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=465"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=465"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=465"
+    },
+    "asset_growth_pct": {
+     "value": 132.0,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 88403523,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 58.85,
+     "source": "https://web.archive.org/web/20251106203715/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0190.htm"
+    },
+    "margin_votes": {
+     "value": 39947,
+     "source": "https://web.archive.org/web/20251106203715/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0190.htm"
+    },
+    "turnout_pct": {
+     "value": 82.68,
+     "source": "https://en.wikipedia.org/wiki/Repalle_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Bapatla"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Gummidi Sandhyarani",
+   "constituency": "Salur (ST)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 12684771,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=138"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=138"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=138"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.65,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0113.htm"
+    },
+    "margin_votes": {
+     "value": 13733,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0113.htm"
+    },
+    "turnout_pct": {
+     "value": 77.29,
+     "source": "https://en.wikipedia.org/wiki/Salur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Parvathipuram Manyam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "B. N. Vijay Kumar",
+   "constituency": "Santhanuthalapadu (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 242761804,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=466"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=466"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=466"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.69,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01107.htm"
+    },
+    "margin_votes": {
+     "value": 30385,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01107.htm"
+    },
+    "turnout_pct": {
+     "value": 89.37,
+     "source": "https://en.wikipedia.org/wiki/Santhanuthalapadu_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Prakasam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "S. Chandra Mohan Reddy",
+   "constituency": "Sarvepalli",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 110313167,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=361"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=361"
+    },
+    "criminal_cases_declared": {
+     "value": 16,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=361"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.77,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01119.htm"
+    },
+    "margin_votes": {
+     "value": 16288,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01119.htm"
+    },
+    "turnout_pct": {
+     "value": 85.41,
+     "source": "https://en.wikipedia.org/wiki/Sarvepalli_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Sri Potti Sriramulu Nellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Koneti Adimulam",
+   "constituency": "Sathyavedu (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 9618917,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=444"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=444"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=444"
+    },
+    "asset_growth_pct": {
+     "value": 272.8,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 2580000,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.32,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01169.htm"
+    },
+    "margin_votes": {
+     "value": 3739,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01169.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupati"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kanna Lakshminaraya",
+   "constituency": "Sattenapalle",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 421628052,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=283"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=283"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=283"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.5,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0198.htm"
+    },
+    "margin_votes": {
+     "value": 27836,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0198.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Palnadu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Bandaru Sravani Sree",
+   "constituency": "Singanamala (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 10435704,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=35"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=35"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=35"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.44,
+     "source": "https://web.archive.org/web/20251106203548/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01152.htm"
+    },
+    "margin_votes": {
+     "value": 8788,
+     "source": "https://web.archive.org/web/20251106203548/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01152.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ananthapuramu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Gondu Shankar",
+   "constituency": "Srikakulam",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 115059258,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=381"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=381"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=381"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.93,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS015.htm"
+    },
+    "margin_votes": {
+     "value": 52521,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS015.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Srikakulam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "B. V. Sudhir Reddy",
+   "constituency": "Srikalahasti",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 145444436,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=122"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=122"
+    },
+    "criminal_cases_declared": {
+     "value": 15,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=122"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 58.08,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01168.htm"
+    },
+    "margin_votes": {
+     "value": 43304,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01168.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupati"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Budda Raja Sekhara Reddy",
+   "constituency": "Srisailam",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 36702698,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=24"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=24"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=24"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.64,
+     "source": "https://web.archive.org/web/20251106203906/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01135.htm"
+    },
+    "margin_votes": {
+     "value": 6385,
+     "source": "https://web.archive.org/web/20251106203906/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01135.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Nandyal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kolla Lalitha Kumari",
+   "constituency": "Srungavarapukota",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 58120392,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=467"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=467"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=467"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 58.36,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0119.htm"
+    },
+    "margin_votes": {
+     "value": 38790,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0119.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Vizianagaram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Nelavala Vijayasree",
+   "constituency": "Sullurpeta (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 34769034,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=235"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=235"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=235"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.67,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01121.htm"
+    },
+    "margin_votes": {
+     "value": 29115,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01121.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupati"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Bolisetti Srinivas",
+   "constituency": "Tadepalligudem",
+   "party": "JanaSena",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 245321556,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=409"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=409"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=409"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 65.4,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0162.htm"
+    },
+    "margin_votes": {
+     "value": 62492,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0162.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "West Godavari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Tenali Sravan Kumar",
+   "constituency": "Tadikonda (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 53704471,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=61"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=61"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=61"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.52,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0186.htm"
+    },
+    "margin_votes": {
+     "value": 39606,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0186.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Guntur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "J. C. Ashmit Reddy",
+   "constituency": "Tadipatri",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1821371941,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=58"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=58"
+    },
+    "criminal_cases_declared": {
+     "value": 28,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=58"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.77,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 27731,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Compiled from ECI-derived results tables; winner names cross-checked against myneta."
+   },
+   "district_context": {
+    "districts": [
+     "Ananthapuramu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Arimilli Radha Krishna",
+   "constituency": "Tanuku",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 289887149,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2566"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2566"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2566"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 66.51,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0161.htm"
+    },
+    "margin_votes": {
+     "value": 72121,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0161.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "West Godavari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kinjarapu Atchannaidu",
+   "constituency": "Tekkali",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 171190758,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=384"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=384"
+    },
+    "criminal_cases_declared": {
+     "value": 13,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=384"
+    },
+    "asset_growth_pct": {
+     "value": 140.0,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 71315903,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.71,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS013.htm"
+    },
+    "margin_votes": {
+     "value": 34435,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS013.htm"
+    },
+    "turnout_pct": {
+     "value": 79.44,
+     "source": "https://en.wikipedia.org/wiki/Tekkali_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Srikakulam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Nadendla Manohar",
+   "constituency": "Tenali",
+   "party": "JanaSena",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 228955604,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=802"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=802"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=802"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.18,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0191.htm"
+    },
+    "margin_votes": {
+     "value": 48112,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0191.htm"
+    },
+    "turnout_pct": {
+     "value": 76.16,
+     "source": "https://en.wikipedia.org/wiki/Tenali_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Guntur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Peddireddy Dwarkanatha Reddy",
+   "constituency": "Thamballapalle",
+   "party": "YSRCP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 294560313,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=44"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=44"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=44"
+    },
+    "asset_growth_pct": {
+     "value": 29.0,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 228313271,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.11,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 10103,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Compiled from ECI-derived results tables; winner names cross-checked against myneta."
+   },
+   "district_context": {
+    "districts": [
+     "Annamayya"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Arani Srinivasulu",
+   "constituency": "Tirupati",
+   "party": "JanaSena",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 829453101,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=449"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=449"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=449"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 64.06,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01167.htm"
+    },
+    "margin_votes": {
+     "value": 61956,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01167.htm"
+    },
+    "turnout_pct": {
+     "value": 63.32,
+     "source": "https://dailyworld.in/national/andhra-pradesh-records-8186-per-cent-voter-turnout-in-simultaneous-lsassembly-elections-542469.html"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupati"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kolikapudi Srinivasa Rao",
+   "constituency": "Tiruvuru (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 17288000,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=342"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=342"
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=342"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.91,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0169.htm"
+    },
+    "margin_votes": {
+     "value": 21874,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0169.htm"
+    },
+    "turnout_pct": {
+     "value": 87.68,
+     "source": "https://peoplic.com/voter-turnout-highest-in-rural-constituencies-lowest-in-urban-constituencies-in-ntr-district/"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "NTR"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Yanamala Divya",
+   "constituency": "Tuni",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 93897450,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=254"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=254"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=254"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.31,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0135.htm"
+    },
+    "margin_votes": {
+     "value": 15177,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0135.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kakinada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kakarla Suresh",
+   "constituency": "Udayagiri",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 279003029,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=241"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=241"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=241"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.54,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01123.htm"
+    },
+    "margin_votes": {
+     "value": 9621,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01123.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Sri Potti Sriramulu Nellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "K. Raghurama Krishna Raju",
+   "constituency": "Undi",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2187713263,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=468"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=468"
+    },
+    "criminal_cases_declared": {
+     "value": 19,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=468"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.8,
+     "source": "https://web.archive.org/web/20251106203735/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0160.htm"
+    },
+    "margin_votes": {
+     "value": 56777,
+     "source": "https://web.archive.org/web/20251106203735/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0160.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "West Godavari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Patsamatla Dharmaraju",
+   "constituency": "Unguturu",
+   "party": "JanaSena",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 342987315,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=402"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=402"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=402"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.63,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0163.htm"
+    },
+    "margin_votes": {
+     "value": 44945,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0163.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Eluru"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Payyavula Keshav",
+   "constituency": "Uravakonda",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 358738645,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=14"
+    },
+    "education": {
+     "value": "Others",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=14"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=14"
+    },
+    "asset_growth_pct": {
+     "value": 91.7,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 187123535,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.46,
+     "source": "https://web.archive.org/web/20251106203613/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01149.htm"
+    },
+    "margin_votes": {
+     "value": 21704,
+     "source": "https://web.archive.org/web/20251106203613/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01149.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ananthapuramu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Nakka Ananda Babu",
+   "constituency": "Vemuru (SC)",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 47436554,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=296"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=296"
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=296"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.92,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22021,
+     "source": "https://en.wikipedia.org/wiki/2024_Andhra_Pradesh_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Compiled from ECI-derived results tables; winner names cross-checked against myneta."
+   },
+   "district_context": {
+    "districts": [
+     "Bapatla"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Kurugondla Ramakrishna",
+   "constituency": "Venkatagiri",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1089149993,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2365"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2365"
+    },
+    "criminal_cases_declared": {
+     "value": 12,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2365"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.31,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01122.htm"
+    },
+    "margin_votes": {
+     "value": 16294,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01122.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupati",
+     "Sri Potti Sriramulu Nellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Bonda Umamaheswara Rao",
+   "constituency": "Vijayawada Central",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 948083407,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=116"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=116"
+    },
+    "criminal_cases_declared": {
+     "value": 14,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=116"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 63.52,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0180.htm"
+    },
+    "margin_votes": {
+     "value": 68886,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0180.htm"
+    },
+    "turnout_pct": {
+     "value": 72.96,
+     "source": "https://peoplic.com/voter-turnout-highest-in-rural-constituencies-lowest-in-urban-constituencies-in-ntr-district/"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "NTR"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Gadde Rama Mohan",
+   "constituency": "Vijayawada East",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 167280052,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=88"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=88"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=88"
+    },
+    "asset_growth_pct": {
+     "value": 18.0,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 141751000,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.66,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0181.htm"
+    },
+    "margin_votes": {
+     "value": 49640,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0181.htm"
+    },
+    "turnout_pct": {
+     "value": 71.33,
+     "source": "https://peoplic.com/voter-turnout-highest-in-rural-constituencies-lowest-in-urban-constituencies-in-ntr-district/"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "NTR"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Sujana Chowdary",
+   "constituency": "Vijayawada West",
+   "party": "BJP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 225118945,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=15"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=15"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=15"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 61.49,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0179.htm"
+    },
+    "margin_votes": {
+     "value": 47032,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0179.htm"
+    },
+    "turnout_pct": {
+     "value": 66.46,
+     "source": "https://peoplic.com/voter-turnout-highest-in-rural-constituencies-lowest-in-urban-constituencies-in-ntr-district/"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "NTR"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "G. V. Anjaneyulu",
+   "constituency": "Vinukonda",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1700627251,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=64"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=64"
+    },
+    "criminal_cases_declared": {
+     "value": 18,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=64"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.06,
+     "source": "https://web.archive.org/web/20251106203327/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0199.htm"
+    },
+    "margin_votes": {
+     "value": 30267,
+     "source": "https://web.archive.org/web/20251106203327/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0199.htm"
+    },
+    "turnout_pct": {
+     "value": 89.22,
+     "source": "https://en.wikipedia.org/wiki/Vinukonda_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Palnadu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Velagapudi Ramakrishna Babu",
+   "constituency": "Visakhapatnam East",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 240697952,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=114"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=114"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=114"
+    },
+    "asset_growth_pct": {
+     "value": 34.9,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 178450780,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 64.89,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0121.htm"
+    },
+    "margin_votes": {
+     "value": 70877,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0121.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Visakhapatnam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Penmetsa Vishnu Kumar Raju",
+   "constituency": "Visakhapatnam North",
+   "party": "BJP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1062335835,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2684"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2684"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2684"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.81,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0123.htm"
+    },
+    "margin_votes": {
+     "value": 47534,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0123.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Visakhapatnam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Vamsi Krishna Srinivas Yadav",
+   "constituency": "Visakhapatnam South",
+   "party": "JanaSena",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 135152668,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2262"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2262"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=2262"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 70.23,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0122.htm"
+    },
+    "margin_votes": {
+     "value": 64594,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0122.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Visakhapatnam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "P. G. V. R. Naidu",
+   "constituency": "Visakhapatnam West",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 396714941,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=469"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=469"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=469"
+    },
+    "asset_growth_pct": {
+     "value": 57.4,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default",
+     "note": "Growth vs 2019 declared assets; nominal."
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs.",
+    "assets_prev_inr": {
+     "value": 251971095,
+     "source": "https://myneta.info/andhrapradesh2019/index.php?action=show_winners&sort=default"
+    }
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.13,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0124.htm"
+    },
+    "margin_votes": {
+     "value": 35184,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0124.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Visakhapatnam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Pusapati Aditi Vijayalakshmi",
+   "constituency": "Vizianagaram",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 776939075,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=470"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=470"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=470"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 64.21,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0118.htm"
+    },
+    "margin_votes": {
+     "value": 60609,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0118.htm"
+    },
+    "turnout_pct": {
+     "value": 81.05,
+     "source": "https://en.wikipedia.org/wiki/Vizianagaram_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Vizianagaram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Jaya Nageswara Reddy",
+   "constituency": "Yemmiganur",
+   "party": "TDP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 64650653,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=163"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=163"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=163"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.76,
+     "source": "https://web.archive.org/web/20251106203908/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01144.htm"
+    },
+    "margin_votes": {
+     "value": 15837,
+     "source": "https://web.archive.org/web/20251106203908/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01144.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kurnool"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Andhra_Pradesh_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  },
+  {
+   "name": "Tatiparthi Chandrasekhar",
+   "constituency": "Yerragondapalem (SC)",
+   "party": "YSRCP",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "AP has no MLALAD scheme; the MLA-area fund (Assembly Constituency Development Programme, ~Rs.1 cr/yr) publishes no per-MLA data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 97769833,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=162"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=162"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/andhrapradesh2024/candidate.php?candidate_id=162"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.4,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01102.htm"
+    },
+    "margin_votes": {
+     "value": 5200,
+     "source": "https://web.archive.org/web/2024/https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS01102.htm"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin verified against the official ECI result page (archived 2024-06-05 final data)."
+   },
+   "district_context": {
+    "districts": [
+     "Markapuram"
+    ],
+    "source": "https://markapuram.ap.gov.in/district-profile/"
+   },
+   "meta": {
+    "last_verified": "2026-10-16"
+   }
+  }
+ ]
+}

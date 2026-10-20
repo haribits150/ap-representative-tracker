@@ -11,6 +11,38 @@ let MANDALS = {mandals: []};
 let LITE = localStorage.getItem('aprt-lite') === '1';
 let LANG = localStorage.getItem('aprt-lang') ||
   (((typeof navigator !== 'undefined') && (navigator.language || '').toLowerCase().indexOf('te') === 0) ? 'te' : 'en');
+
+/* ---------- multi-state ---------- */
+const STATES = {
+  ap: {name:'Andhra Pradesh', name_te:'ఆంధ్రప్రదేశ్', short:'AP', mps:25, mlas:175, districts:28, ready:true},
+  tg: {name:'Telangana', name_te:'తెలంగాణ', short:'TG', mps:17, mlas:119, districts:33, ready:false},
+};
+let STATE = 'ap';
+try{ const s = localStorage.getItem('aprt-state'); if(s && STATES[s] && STATES[s].ready) STATE = s; }catch(e){}
+const stateName = () => LANG==='te' ? STATES[STATE].name_te : STATES[STATE].name;
+const brandName = () => `${STATES[STATE].short} Representative Tracker`;
+function applyBrand(){
+  document.title = `${brandName()} — Know what your MP did in office`;
+  const b = document.querySelector('.brand'); if(b) b.textContent = brandName();
+  document.querySelectorAll('.state-pill').forEach(p=>{
+    const k = p.dataset.state;
+    p.classList.toggle('active', k===STATE);
+    p.disabled = !(STATES[k] && STATES[k].ready);
+    p.title = (STATES[k] && STATES[k].ready) ? '' : t('coming_soon');
+  });
+}
+function setState(s){
+  if(!STATES[s] || !STATES[s].ready) return false;
+  if(s!==STATE){
+    STATE = s;
+    try{ localStorage.setItem('aprt-state', s); }catch(e){}
+    applyBrand();
+    load().then(()=>{ location.hash = '#/districts'; render(); });
+  } else if((location.hash||'#/')==='#/'){
+    location.hash = '#/districts';
+  }
+  return false;
+}
 const t = k => STRINGS[LANG][k] ?? STRINGS.en[k] ?? k;
 
 const slugify = s => (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
@@ -165,7 +197,7 @@ function viewProfile(slug, house){
   </section>
 
   <section class="panel empty-section"><h2>${t('public_money')}</h2>
-    <div class="area-note">${t('mla_funds_note')}</div>
+    <div class="area-note">${STATE==='tg' ? t('mla_funds_note_tg') : t('mla_funds_note')}</div>
   </section>` : `
   <section class="panel"><h2>${t('in_house')}</h2><p class="lede">${t('house_lede')}</p>
     <table class="metrics">
@@ -531,6 +563,21 @@ function districtList(){
 function distInfo(name){
   return (DIST.districts || []).find(d=>d.name===name) || {};
 }
+function viewStates(){
+  const cards = Object.keys(STATES).map(k=>{
+    const s = STATES[k];
+    const nm = esc(LANG==='te' ? s.name_te : s.name);
+    const counts = `${s.districts} ${t('districts_word')} · ${s.mps} MPs · ${s.mlas} ${t('mlas_word')}`;
+    if(!s.ready) return `<div class="mp-card" style="opacity:.55;cursor:default" aria-disabled="true">
+        <h3>${nm}</h3><div class="cons">${counts}</div>
+        <p style="margin:8px 0 0"><span class="pending">${t('coming_soon')}</span></p></div>`;
+    return `<a class="mp-card" href="#/districts" onclick="return setState('${k}')">
+        <h3>${nm}</h3><div class="cons">${counts}</div>
+        <p style="margin:8px 0 0"><span style="font-weight:700;color:var(--accent)">${t('explore_state')} →</span></p></a>`;
+  }).join('');
+  return `<div class="hero"><h1>${t('states_title')}</h1><p>${t('states_lede')}</p></div>
+  <div class="mp-grid">${cards}</div>`;
+}
 function viewDistricts(){
   const ds = districtList();
   return `
@@ -776,7 +823,7 @@ function drawRepCard(mp, house){
   // header band
   g.fillStyle=NAVY; g.fillRect(0,0,W,190);
   g.fillStyle='#ffffff'; g.font='700 44px system-ui, sans-serif'; g.textAlign='left';
-  g.fillText('AP Representative Tracker', 60, 80);
+  g.fillText(brandName(), 60, 80);
   g.font='400 30px system-ui, sans-serif'; g.fillStyle='#cbd5e1';
   g.fillText(t('card_sub'), 60, 130);
   // avatar + name
@@ -870,23 +917,24 @@ window.shareCard = (house, slug) => {
 /* ---------- router ---------- */
 async function load(){
   const get = async p => { try{ const r = await fetch(p); return r.ok ? await r.json() : null; }catch(e){ return null; } };
-  DATA = await get('data/mps.json') || {mps: []};
-  const chunks = await Promise.all([1,2,3,4].map(i=>get(`data/mlas_${i}.json`)));
+  const D = `data/${STATE}/`;
+  DATA = await get(D+'mps.json') || {mps: []};
+  const chunks = await Promise.all([1,2,3,4].map(i=>get(`${D}mlas_${i}.json`)));
   MLA = chunks.reduce((a,c)=>a.concat((c&&c.mlas)||[]), []);
-  DIST = await get('data/districts.json') || {districts: []};
-  AFF = await get('data/affidavit_details.json') || {mps: []};
-  AFF.mlas = AFF.mlas || [];
-  const affChunks = await Promise.all([1,2,3,4,5].map(i=>get(`data/affidavit_mlas_${i}.json`)));
+  DIST = await get(D+'districts.json') || {districts: []};
+  AFF = await get(D+'affidavit_details.json') || {mps: []};
+  const affChunks = await Promise.all([1,2,3,4,5].map(i=>get(`${D}affidavit_mlas_${i}.json`)));
+  AFF.mlas = [];
   for(const c of affChunks){ if(c && c.mlas) AFF.mlas = AFF.mlas.concat(c.mlas); }
-  CONTACTS = await get('data/contacts.json') || {contacts: {}};
-  CHANGELOG = await get('data/changelog.json') || {entries: []};
-  MANDALS = await get('data/mandals.json') || {mandals: []};
+  CONTACTS = await get(D+'contacts.json') || {contacts: {}};
+  CHANGELOG = await get(D+'changelog.json') || {entries: []};
+  MANDALS = await get(D+'mandals.json') || {mandals: []};
   NEWS = {news: {}};
   if(!LITE){
-    const nchunks = await Promise.all([1,2,3,4].map(i=>get(`data/news_${i}.json`)));
+    const nchunks = await Promise.all([1,2,3,4].map(i=>get(`${D}news_${i}.json`)));
     for(const c of nchunks){ if(c && c.news) Object.assign(NEWS.news, c.news); }
   }
-  try{ const r = LITE ? {ok:false} : await fetch('data/ap_districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
+  try{ const r = LITE ? {ok:false} : await fetch(D+'districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
 }
 const houseOf = mp => (mp.house==='assembly' || MLA.includes(mp)) ? 'mla' : 'mp';
 /* district -> MPs inverse index from constituency_to_districts */
@@ -929,7 +977,8 @@ function render(){
   else if(route==='changelog') app.innerHTML = viewChangelog();
   else if(route==='learn') app.innerHTML = viewLearn();
   else if(route==='glossary') app.innerHTML = viewGlossary();
-  else { app.innerHTML = viewDistricts(); initMap(); }
+  else { app.innerHTML = viewStates(); }
+  applyBrand();
   collapseEmpty();
   window.scrollTo(0,0);
 }

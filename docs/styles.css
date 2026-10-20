@@ -106,3 +106,6 @@ label.fld textarea{width:100%;padding:10px;border:1px solid var(--line);border-r
 .gloss .gloss-te{color:var(--muted);font-weight:400;font-size:.95rem}
 .gloss p{margin:6px 0 0}
 .pending.notpub{background:#f3f4f6;border-color:#d1d5db;color:#4b5563}
+.state-pill{opacity:.55}
+.state-pill.active{opacity:1}
+.state-pill:disabled{opacity:.35;cursor:not-allowed}

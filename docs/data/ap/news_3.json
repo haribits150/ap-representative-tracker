@@ -1,0 +1,955 @@
+{
+ "fetched_at": "2026-10-16T20:41:44.702097+00:00",
+ "news": {
+  "mla/palasa": [
+   {
+    "title": "Appalaraju Responsible for Violence in Palasa, Alleges Gouthu Sireesha - AP7AM",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmJBUTZLSU9QMVdRSzRPQUxBeFM4cTAtRzNzT3ZJZHJrSUFPM2VKak05YkYyNWdWcDBWX0VwdS0yRW1zQmxSRDJXUEJJTlVxZnhnWjF2VmFTVUw1OHRPTnlNc2FOVm5kTUFFRmZWVXA4eTluRTJlRHpHS2xuZE5mTTNKQTBhbFR2RXVLR1RoVU9vcDNuUTNEZXN5QllzM0lJVVE?oc=5",
+    "source": "AP7AM",
+    "pubDate": "Mon, 23 Dec 2024 08:00:00 GMT"
+   },
+   {
+    "title": "TDP candidate Gouthu Sireesha seeks action against Minister Appalaraju for violation of election code - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQN1R6bE9LTElWcGRyQUliaFktQktPdEJrTjhMSm56Q25jNkJQMGVTQ3IwWmc1QXBEYlBHclZ6WERlekdOTGtZOVNhWW9MNEZJREFPU0dQY0x6UGdtSURjTUxXRVZRUWRJcUFLZnQ1eDFEdkZSd09WRWJ4TlVGZDdKMzZIMEE5R3Q0bHcxSk5TYjdKTXY5eU9UYUJINklLbjQzTzVuemt3YTBCMzFwNVhuaFVMeGhZVTZCYW56Q1hNLVdXQVhselA0SFhaVHNPNjZuTk9MZ2dtbXhaTmVldE5mdXpSU3QxZzVxNEYxbjZfM0VUVlBET290ZTdIREVJRE1hOHJTdVpR0gGMAkFVX3lxTFByM29QUVNqbzdMSEtUcGtKMU42THdTcVhQaVFST0pJVWZJNWx4c3BNUWN6YnRjVkI5WXJxY0F5UXFQdlNaRXplY2hISWNWS3ZCaURmSTRjTUNEMmNLZTF3VmliSDZQSWgzTTVQOVVNSndFc0s1STFkbEdocF8ydklLNDJFcV9rZUxXS1h3WUNGM1JURnYzUHgzQ2RwX2RBNlowQW1LdE1IVGdPZ2I2a1o3Q3NFc3Z4SGpBX3NhNkpRaHJWUzJJMTBDU2JNWFdrOXVreUFtejhSVTY2dFpzSS1HTjUzczE1UlJVTkY2UXNOOUVxcTdpVk9EcXkyUWRhM1QzOEE3bWRKVXJnLXQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Thu, 02 May 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Palasa Election Result 2024 LIVE Updates Highlights: Gouthu Sireesha of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd0VOemdobDRmUmczejFFTHBZZkVIQmE4QTB5MjVhWjU1NVJLU0hpSmR1alR2SXB0ek5qOHNDV3Y4dl9zWkxqYXcwWG4xblU5anA3dWxKWUJrbnpTN3htdVZwbExVc3JDXzkwdHRRNmcxdXN3MTlWRU1LTk5HN0lvT1dIY3dNN0pNc21RY29rbUxRM0lWUnhaYlctS2NreHdZeVJXd2g1Zk40YVBvVDduRU1Zd3BCbzgxZ2hkOGJHVlNaQ0VEclNFQlAwaUZFRjh3NWhfV2RiN2RDZnYxakdJYdIB5gFBVV95cUxObnNTcEdTX2t2Skg4bDVna1g5QWhTenhXeEVvNjRyaUFYYlQ5OE9CcFhRaDYxeVBGbmkyZzVLODVOSVpnbS1QM3NuZHh6R3ZnV0ZxeXRKaVB4VEdiR29WV2w0VmF1amctdVBKdGNfR3NUc05UaV9rMzNjY2JhWGg2alo2bTN3YXZrWmI1bHEzaG9vNmZna0FEcC1sM2dvLUUzcUZaTG5oVlowZmlKeEowQnFXRUtEUVdQbGtHVlpsRmxzM0JpSmRZdW1xN3hYbno4SGxyOFZGSEtGX0dFQWR3MkdnQmlSZw?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/pamarru-sc": [
+   {
+    "title": "AP Assembly Passes SC Bill - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lcll1LWxEaklrekc1V0ZyTUU0bTVsaTRXdC1RNDg4c0pIYUo4RVBGU2hOUFZzMDJYT2FOcU1vRlFKam0wTC1LT2p2UTBHd0RoX2Q1eWNhaktRRDhvVm5EOHpwNEpwcnI1dWfSAW9BVV95cUxNV0w0UEl4RXdlSkxnTWN3ckZMLTRoeFBoaExocUVueGoxZ2dERkVBTEtOLTVVbHZMR3Y1dUpjdEFIeVBpa2ozLUItYXhIdHBTVVdrWFVWYnA0cW9McF9tU18wQThNR2g0WWNvWmttMlE?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
+   },
+   {
+    "title": "Father MLC, Son MLA! - Gulte",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1NW5UWmtXUTNGbDNGMktBSW5hSEJnblQzdUo1WlZoRFZHQmNEeXhvbUR0NFY4Q0hETUk1dXpvZDZDZzN4bkp3VGVlQUNUQmlZUGpHWU1WcmlXN0JUVTBHbUxNTHo1S204TTV2blRvb9IBdEFVX3lxTFBTZDY2N1BITkUwT0h2WEd6dVliNkk3b2IwZXM0OGRtd2hQbDJ3YXR2Vlk3cjVYd2taUEVOamtQZzN5ZUhvRG0taXNrSU8yUFR3N3AzelpBTEx1ZlBDZzFhVWlpR2pPQngxU2dTejJ6Qjh0VndS?oc=5",
+    "source": "Gulte",
+    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Dalit, Kapu & Kamma voters dominate Pamarru - The Hans India",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXliclJKRkVLd3hLNXVoODRGWVhRd01OSGxsM0hFY3VKX0J0VGxKMjM1ckVOa0lqdFpjVVp1b3FKTFo2dGhNTlpvZ3ZFN0VWdk9FMUduOEYyZndEdWhieGVQNTVrX3dpSGRpbGQ4dUFzRkJxNURhODJGc3Npek9ZaFNKS19pY1c4RktWSzNzVWdfcGdQVlE?oc=5",
+    "source": "The Hans India",
+    "pubDate": "Sun, 21 Jan 2024 08:00:00 GMT"
+   }
+  ],
+  "mla/panyam": [
+   {
+    "title": "Gowru couple get blankcheque from supporters - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHFoRHZYLTUyc0NCV0djdW5UT3FDMWRON0pFWHZkak4yN2hyRW1hNFNPdW54b2V3dXFBYXJhUG1YckZaN3dwMTgyOG5tQnh5VGRJb2NQcGZSaF9jRjVOaUUwbldOaHVYcS0tUklfd016U2lkY1EyMTNWRUg4R0l5cEpDMGFzX1ZxOE5fNXVZOXlxTlJuUzVsUi03RExXSTNFdTZyMFN3RmFNTEJWc3VtTllzZGE2akFpMkHSAcABQVVfeXFMTUN1elJ6UWFYeHY2ZUpaNVVxNHI1V0VpTXNLWEZ0X3JRMEdfLUFudlYyNlRWUVFwNGZ6LTlJME5BbDZLbm1SVHR6Zm1DM0RTRUV2MXMzN3pUVzlGdUFRaGNtbU1JaXcxbEs1dVlMcUQ0N1VaLW5fWHVWa2lwYm9IVTM4c1dQRDJCdHlnNW9BZTNhSnZRSkZSS1BSN0FicmtGU19mbkxRVmhoMFVjUzZkdUZhNU04LVo0VGFtN0dqMWNQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Thu, 28 Feb 2019 08:00:00 GMT"
+   },
+   {
+    "title": "Panyam Constituency Election Results 2024: Panyam Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDRJcWhuSC1hRGRsT3V1c24yUWFPNkhsWmYxajBxbzF2RnNkZVFkZFQ2UnAxalNXcUx0cVBaOVZ2R0s1ZWpPNEgxd3pONXd6TXo1b3IyVGJEY2ktdUhaZFNOa0xmVXhiX1RjZ1pZU25YbUtHN19zVUlaS3h6ZXprdFZaQnhxTTFpQXRNTkhGY1M1WmJTcHU4QkpfeXhremtNZXpWdy1RYw?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 22:59:19 GMT"
+   },
+   {
+    "title": "Setback to YSRC as Panyam MLA Gowru Charitha Reddy, husband all set to join TDP - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbGxQYzRUb3VmVmVObkNWVkJiN2FwaE51ZmtoVXJlSjBPcVVCcUxxZUt6N3Q0V3EyLXQ4dkZtZ1FlYmgwR0FYdFBzU1YxRkJJdU0tT25KTmdYQ3V3NkxlU3hSRWM1QlBUUVdMWm1BWTVXUmpFOHIzeXFpYzB3cjRmX0NIY0RiVDlDM1BRbWdlN0Z5MnVoSVNhU0R5SGFnanVYY1pYcWZyQlZQdmVodktHZXRsaFpfSjE1cHliR1p6QjZVYmhMaVlXX2lSV0pIeEXSAdwBQVVfeXFMTzAtbVhFbi1VTmZjVHBiVTNVMDBlZmRCVTM3NUxoY2JmYTY3RkxNQWpCZUdmemVxaEVuVUMxdVBHQUVrTU1hLXB5LXVqQXh2OW90dks2TjFqNDBmckxxTnc1bi1feVFWM3o0UlRxUGRsNU5xVnNWQ3lUTFN3MEdPWmMxRWRCa3BXV3dPOTdmaW1MVHlSYUE1N3hlM1pUNmdtbE5qUnR1OGhRYTlCWkFvN1lreUxQWC1wU1VORFJfekhhU1hIeGF0cVZRbS02VmR2dUE0Um42ZDg0Y05weg?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Sat, 02 Mar 2019 08:00:00 GMT"
+   }
+  ],
+  "mla/parchur": [
+   {
+    "title": "TDP MLA Yeluri’s birthday celebrated across Parchur segment - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHVvSzFyU3kwc0dLd0VsNGlNVUdGamdMNVZfeGRmcHBQZy1hRW9vUm9SbUZhU0lreDZRWEpXaUdCOGhQUWdFMUk1LW9xTW13c0RDUjMyb3kxZU52TUxmdG16c2FQemkwVUNvRFlYaDlVWlRjZkQ1bEFQRnZIc0JPZnUyZmxnb2xYR1hKcFFibG5kWm45cDlaVll5SEdhQWEwR0lsNTZ6TFdJeXFKY2dIX1VIRVlnUE44REstTGZiT1lpVm_SAdABQVVfeXFMTlJhVUpNd0wzZzh2d2gzQ3FfVjZscXlyem9TWUdPNF9EME5vcU9ENkRpSzloY1B5bG94dm9vZjU0bUVHMDlwUkpTeGxQZ0FrOWJFZ1J6QVp1enZxSnQ0NWttR1gxRktNX19yalVkalVEYzhxNnE5akN1R2xNQmR5NUN4QmllaFNIMjJwRlhEU3hWei1WRy04MmxlRzYtNFRzUmVZbXR1SDBEdzVJaEVUR1BFSUM1RmVaUVJ4N3hqb0JhdGRHcEFPNHBJNGkxLVZQSQ?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Parchur Constituency Election Results 2024: Parchur Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE8zV0RIcGFoSmxHYm1jRUlVcmNqa1NJa19pYmZIV2c4ZVJ1ZEFFa0ZCcGgtLXgzdjJVenpZNFFHUXBKMzZoYml5bFczY0twVGprU01jYmtfc2dhRC05WDVQc3ZnUENHSlliaV9ZTUdiTjFwbzVJQXRBN2FUTGpNLUV1YVFJbnkwY09EbVU1bWNjbnl3QzVhZmc0TUU3LVRlZFBwNmR0UWg?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 23:39:26 GMT"
+   },
+   {
+    "title": "TDP MLA Sambasiva Rao seeks shipbuilding industry and greenfield port in Bapatla district - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb0p5Z2k2b1hDYlZxYzFMeWZqOWt3QkVHZVB0V0ZRQ2VkazZYczlid2VwRXlxS0xzSmVOa2w4QUY0dDJCRDR1SDJ0MWdmQ2l2MWxyQkMzWDRjeXZ2OHF1TlkyVEFtam85dnRQSHNGZ29KSWp3MzFvR2hULWY0ZVZsYmNaZzRYbF95YWpOSDI4cldHRy1pUDVBazlWYjhicXZpN3BTMFhHcW01RE5qSDlJNm04TG5GN3JVSXlYUlB0Rms2UG1SUWNiVEE0enRXNE11eWQyZDZZeklrZ3pUUV9GTzFjeDVySjBaUmNXejB5VktDbXByZlHSAfwBQVVfeXFMUDhSalBTZTZpcUdRdDNObVJ5TTNFd1JZdjltWXcxeGctVEQwTHZWWXBhOVpKdWM3NE4xNlJzWjNiVEg1cnNrRmN5R0ZpRUswZnB5Tm9GeGkzeVNwUzRHSTlwWGlXOGNCQk81NGFuM2hkdF9zR25zTGJMZUtLRlZpS2FrZFNzaHBpY3ZJR1B6dUU1OVdSbVAwYjF3QjRmV0c1NU9wOXBVbVZzSEZRdUZPSUlJT3MzLVYyUkhFNDF1S2FFZFhkc2otQS02Rm9zNjN0bENMdDkyRWZCTXNNUjFIWTJWNUdrbTdLaWE4V2FSVVE2enlxbDRTTVFpN3M1?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Thu, 12 Dec 2024 08:00:00 GMT"
+   }
+  ],
+  "mla/parvathipuram-sc": [
+   {
+    "title": "MLA seeks dispute-free land for construction of TDP office in Parvatipuram - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSkI0bzJFal83aXd0cGR3dzBQbHJZaEZ4dF9BWGZrblVrcWs1TURGZ0xYOWtDOElwSGpaUVRSNVViS0xiVWd5SmVnd1RSUFI3S0dNbF9lVUQwYUxoa0NuN2xWLWdBRXBGT2Y1RkdjbnlrbTBoSlVhaU9lb2VmdG5qa0NnUkxoZDhla3dZektzdXl4VHFXRjFKUElRWmtKSDlGdjB1QlAyTm51LURTUXpFbldVMjI2V1ZGX2p6MjNOdncxMmtWZWplN1NKZ2dRQktET1ZqVkVabmRJQ1M5VmY4MUFR0gHoAUFVX3lxTFBvOVc4WjhtaW9PWTRPQjhpNGdyRjVjNDM3T3pyZFU4RFJIRnllbndSbzVFRG9DQlZXek5MWi1vUlZPS252WHV5YmU1eV9xNVNoLWJkZDRkTkZQdElja3I3LTN0MWQxb0txaGJsaUxCSnB3ZkN6YS04aUxmUlZqd2RNRmFRSEtzYlpJaXpoYTNsejdoeWhlX0hUZlJPM2hnZ000M1U1LVRQOFlBS3VWS0hfbmdSSUR0S2Vfc0hhZElpOFM5dWJQN2hZcXV1djNsVVN4OVNnYm9nalJqcUx1NzAyOHRDbUNpWFc?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Parvathipuram Election Result 2024 LIVE Updates Highlights: Bonela Vijaya Chandra of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbjVvOGV5UFFMcnpBYmlua1YyWFdSS2c1TW5wM2tCX01UMkVYOGpibEJtVmFuWVJwYmF5czEyV0l2aXo1bGlJcGtJVFV3a2ZydHZVQmpCZV9HQk8yR1BqMS1mNXZfT01YQ1NYakN0UzBPZkkzeGVuc0hrYkktbFotdlU2WjhYako3WVFUVVgzWURYZnA0QzFmdTF5cXpKSkZpZDJRbjREYXNndU9qNHlpazB2TWVtLW9zLXI2TXpCZDUtbmpOOWdMeFk3VmRqUXRQMFY1Vm53TzROQnVvMUhHV01IWU9iLUFETnfSAe8BQVVfeXFMT0dJbFJtTDVVOUY4bzM5Tm44a0tsWFI0OGh3SXhYU3d1eW1hOWVsdWo1TzdINFg5RlB6WHBGTnRfcHdFUWFUbjBfVG8tdVBkTi1Vd0tYWjc0Tk4zMEUtMW5XZmFyY3dhelk1dkF6b2JEYWNGcVZOQmZ3RkluczVKaEVqbzNEZWFCVkxwRy1FeUNMal9OaVRBVXdXaVZUUE1henE1NVZfOGRxUzc4VVEtNmxJYWFTNEZVZmd1VWpYUUJEbGxpandBbDI0ckYySDNKLThxWUYwSjdEdmJndUl0bktsQlZ0WFNMTElEMTlHX0E?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Parvathipuram Assembly Election Results 2024: Parvathipuram Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajczeVFVTjYyd2hPMmdHR1hRSC1TSWFKQ3VqUjhUM3NaS0VPU1BGc3dyaFRkR1RTUzhjVGpqeUw4SWh3ZmJNRE4yc2ZRbExpRjhheGFYckYtVl85aVVOQklDbFNNNjNoSW9EbGlNWElUbzhvV3huMlRtdW41U2VkdnROYlN6dUJNLUlZaTU2Q0llTnpqR0pkZ3lkeURSdXM?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:23:48 GMT"
+   }
+  ],
+  "mla/pathapatnam": [
+   {
+    "title": "Turpu Kapus fear losing representation in Srikakulam - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnhHVTV3SXBpcGM2OUtTNllFQzhCSU9hZVVZYWg2N0YwUnZjUndtMFJtaGtYdy01MEFXcWdVTUp2RUpFMnJkdmZDV2YwQXpyV1BQXzIxcjZSaThCSnRFUUg4VnE4T3MwaGVDcXB1bGF4dkwtTjFNNDdtUlJCc3lrTlBCb29CNFdNOEdmMF93U3B5bFpBejlRVy02WlhqTHVUOTQxNHRiZzUtNEpDajJMTVVvazJoVjlwWGQ00gHIAUFVX3lxTE50blI5cFdZd0JxamY3Z3ZLTzZ1d1BTMmV3cDBWWGhvRVAwNC1NbWVyaXNURXBTZU01WDU0T2REbmtNYWlzMGhrZmdGWThSZERVRl9ocXZvZElIdkN0NmdNUG9kRjZwTnhwTEV6U1JBUzFRZThYd0RpUHBKVl8wdnBoRTlrLVAxWFdTV0o2S2w0UlljV2cwMlYwNlNhdVRhQl9WY3N3WG1wQnM3bXdRcXNtZXd5d0hCZnhaYjZPY1ZGejZNcmN6bmVP?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Fri, 05 Apr 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Pathapatnam Election Result 2024 LIVE Updates Highlights: Mamidi Govinda Rao of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVXRURGtZLU5XMnFzOWsxX3E1VTkzVGUxYXgzNWpqMG1HdEptam55QmtHR0lwWTZaM0N4R2wxVlpRRUJwcTN6ZG5MSzZyQkgzZEZJU2NxLUZ5S3VOY0RwTnlqRGRsU3dQbmtURmN1a2tIUHE1d0JNTXlHc0VHc2dSdFU5TUF4aWdMWDc4VXFscnp1UkQwdTlONkNMZVhGcUFYUk1tMWFSQnVfRFN6QmNPTTVDYU9vbzFIR01xM0s3aUVyTFc3UVhMbmkwcUdYUk5hOXZpV0JlSzRFMFJQb1JsQlotaWw1WWPSAewBQVVfeXFMTUczUmhfSmY0TGY1ejNhc1J2aGVNZEp0NFdBUWdtQm8wb1BaT1U1aWhzMWdFUFJjd2pUZGlCWEFmeWFDREZwQkczWTUwRmRYX240T1p6TDZmUFl4SkJUYi1KVWRISnZsdGRWeW9QdzU5a1V5S0d2R0ZlZGVraDFaRVQ1SXU0cnExaG15U2RvWTB1eVpWZmxtTUFnZERaRFZ0SzdYQ1JBY1paUVZCVWdzSUpsdGdaVXVFZmRneFNjMlpydjVralBLVER0T1pFS1dacVJwLS1wOFpLU2N0SkZmbDhZSXVSM0otcC14cnk?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Pathapatnam Assembly Election Results 2024: Pathapatnam Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOG1Jd3YwNk5GWWlVRGZ4Z2lhclZHN01WQjdCUUhHTl9HYWFrbmd0cnQzRHpEWkt6VXJLb0hwcTZIMVRaRGN1ekdfRWROYTdERG9xUDNuOE1YTXhqOEtOOWJYMld0dnBIc1VZd3prTUQzQ0M2eGtabzU3TVZrRXM4cmtuUXhmTlN2bmp3U3VDYkVkVWQzX19wNWV1X0Y?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:21:39 GMT"
+   }
+  ],
+  "mla/pattikonda": [
+   {
+    "title": "Lokesh Hosts Family Get-Together for Kurnool, Narasaraopet Leaders - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1ZPa3VKX1ZaSlFieE9KSmFYNUF3VUNwa3hwd2J3Tm0wTldmT1Z6SDhPLTI4SmVITXJkZjFpQUtuUGxLNDV5ejc5UzBqem1qV1ZJeXBwN3d0aWoxMDhnOENCT0l1Mk5lUGpqWXR5WkMxdUpSZERWWWtYRGxfN1pTdzJvZC1JN2ZuY09sVlRxNXloTDZjbzdhMF9pOTlFeGIwdFp3RVdCaGw2bUpJS1REc1VHbHBZM05BQXFkYXprSjF1aXMydEFhRExRaTVxT0pwbXfSAdcBQVVfeXFMTzVpTnhkYXlOcWMxVGZsM1NldHVJOVVPVmE3TFA5ZEc5dTFRVk03MnVOWDB2SzRqSkp4LS1LTGdid21EcTYwczV2N2M5Y0Rjd0tXbWJZZ1FXNC1zczE4cE40alhFZE1GcDlhRlBSazdnOVpOcjgtYnlyVEl0V3k4em5vRTB6VkRkYWVKS2pmWHF3VE8wRmJlUGxYcUxtWk56TFB2LUh2SXhWa3IxSjZLZjkzUXU3RzFFelhoODQxQXpQVzlsSGhaM24tR3FxN1MwQ3hfMjY2Qjg?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Ex-TDP sarpanch hacked to death by rivals in Andhra Pradesh's Kurnool - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTlhjYXNkSlRJQ0M5QndqRVd6MGVpaEhRYTdQOFlLbWdueUs1OVNEZFF1RjJCWUVPRkxXSGxCVVJyT2pWZ3p2dHFUSkdSbWVTcFRIUjh6WkR5ZXpxWFVpZFEtSTBwOFlBSjRfdWUxczF6MGNsbTNxeDlGUHB6VHN3T3VjRVRraDBoTW4yR1N0SUFrd0xBLWhuSXA2YmdxU3ducmg3bXdTZC1hZkhxOFVtT0Z5WlhPdl9rMGRjMjByN2xxck5HMmVaWFlUREJTVTVla0lUY25MTHJBak9UOEHSAeMBQVVfeXFMUDlvU3VPN0xHTXZJTTYwU3o5RFFEc1pGU18yVWNBZVdRMHBxREVydlpJWVdibFUxMHd3Ty1BVmRHTXp3cjNGcGFTdmtzc3JWSDZoemVzSHVWVWt0ODV0SzRmSlhqbkFzUnF4TjI4NjVmcEdtd2lFMmt3NWpsRk5yZ09Dc0VkWXJWZDVQMHRJMkI3clZld2VxRm82ZWtQaVIzZXZldzFSV3IwT2RVa2FXaFdsejVLbkxpNlU5cWRvaFU0RVc5VEtpSU5ON05oT29WWTd6a096Nkx1NENycVh3SEd2MEE?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Wed, 14 Aug 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Want to eradicate all traces of factionalism: K.E. Shyam Babu - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2dxYU5NRnYybENwbUd1Z0pORVdSaGZ2UGd5UEJWZ1dHc3R2R3lzZGYwSnZZeERueDBmY0NIdmtRbjMtMFhQdFFsaWtZVXRuN3JzSDV1VHRFZ2hrTTlxYzNZdWJYaVdnNkx2dGNyZnNNVl9oMGIxSExta1lQTjRISjZ3M21jeDlMOGZhdkx5aGdJdG1mMTBTWjA2N0YyU2Jac3pPT2NlNk1ieW1zYklfbFZYeFJycDdQOXI0WTdBRnVXZGVaYUFTNUxYZGTSAdMBQVVfeXFMTmxjZDE3YkdGYjZxWm53WWdmZHlQdUZuUk1rRjQtXzkzaFFVRlF1cGpOREMtWWZLMHJBdlB0M1puaG40M0M4R2FrdGZIODdLZ1p5ZjhkYlZrcndQdHBSTG5wZ2NmV3hZcmlTN1JTVFFiZS1GNXVuMlBoZ0ViM1FzQjU3SlpaQzYzaTBMZWp2dDZtX0FkemVvZ0hZd3hqU2ZpMXo3UE5KcThYV3RaWEc2V0hKQ2FVYkptbkhqb0llU1FjVnpTeEE2OVFaM3hpU2xqUlNRWQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Thu, 04 Apr 2019 07:00:00 GMT"
+   }
+  ],
+  "mla/payakaraopet-sc": [
+   {
+    "title": "Home Minister Anitha promises industrial development in Payakaraopeta constituency - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2UydmhUdkt4Mm1VcHotYmFOdUYyZUVYQWZXdFE5Z3FENU9DWi1DWlhmRlhvOWdEMHlENG93dmQ2dGI0TXdoazdLQVlVeFh4ank3WWlNOWktdnJidk80VlVZTlEzMWRuMnRqV0kxblg5NDhqV3NESVU3bUVJdG85ZUFadVp6bkI1Y0xKSmxBVFB1dmZvci1nR2RseDZfZGVHRXJIMkQwN3hXd1YtbzBjcFdrZWFhQjhyYzNSOVNYNDZ0RlQxVnI0S1pGTWE2dEpidGFlMlY0X3N2WDhQTXBRT2xxWjZjQkht0gHvAUFVX3lxTFA5N1FUcVNUV0lCY1FTZzhQdWRIeWhZVVVseVVxdHViZ1dMSGtVY3dnVVhQRHExdDlXQjFDRzRsTTBGZFd0SnVFSXFDVm8zc0lUVnVjRFVZZmJtMWZKS2NYQ0xjcTdOSlo3a0h0cVJPWWY5Z0lSczhFZG9UNmQ4MTZwbzRSUlYyLUZLSmRMdUlkWW54RW54Z21fWG1jeGE4SU1nbWUzTGZZX3FuRFViQURCQzBwdXpfcXpqdW8xdjgtQkdaNUo5aVpWQXgtUkthSzJWTzk4cjBrdEYyM1NfYTQ1aWRURFBCSnpnNnRlWWNF?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
+   },
+   {
+    "title": "YSRC’s special strategy to retain Payakaraopeta - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEJ2YXMyZUplLXM4RHhCUXJxSTlXdjkxaFduWGNsQUd1ZVZ3WnAyeFU0bEhpRzFQeUd4Vk91OW1GbGRxVE5wbHFvRC1NWXRGRUZkRzVYdnpGWkJ5c3ZoMkZINDM2R01hcHdIVGl5UEtYM1VRSEtTZlFkbkhyNTBva0J5ZUFiampPUmxPYWYyRWxlZFUtcERZS0h6TzYyWHFaWjZfZlR4OU9MYjRuU3ZNTUtLZ9IBwAFBVV95cUxNT2MxUTZwRmxnZG5yUkxKdHcxUS1WTGx3YXdhRG4zb0NkTzRFUnA3c0FvVUp0dm9kM0FHZ1BqYXRONFowQ0FFRnpqakY5UXZ1c19LYXFkNEVzNlRNVlVBN0lCV1dFLUJNaFkzSzhPUkQ1Y05tNVVSaTJ4d3FRdzVER293cTNsM2VhSnZmY0Y0aHhSWEpIUzF6c0N2OWV0Q1QxYjNiYi0xdkVNX1FoS1AwYllJU2MwNU9CRDJXQU1kbGw?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Sun, 24 Mar 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Andhra Pradesh chief minister N Chandrababu Naidu makes Pawan Kalyan deputy CM, Nara Lokesh gets back IT - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT0hObmFBZHU0OENQTWNNUXFjZG1BUEVoX0NjTFlxTEh2VDBjdXE1LXA5NDZNNExMLUs2VjZQdWxPSE9xaG5LTzdfRkpIYktQSXNYRExNeGZmaFhXUWp0RWFhcFd0Y3lNYjFIZHA2NV8zVno0WHRCcFBEX1pGRGFRZEo0Y3o3STRsaVpKbjV1bnVGOVZ1ZnY4b0lsU1RHTHBRVjZuMmlHNEVEQTE0OUIxY0tHS0dtZ19YSnRFdHp2OElUazZHNGtsckF3NEE3RUlxaHRad0ZhQ0xmMk8xOHU4SzcyVnFwM0Z6dGl0WHRjV1R3cTctaFVybGp4c2Y1RlFfckZuSXl0SUIxZG1qR3fSAZMCQVVfeXFMT1J3WjhZbUt5TzFXcXpMRTJPYTQ3R0hFTTJUdkpOdFQzUFdtSlFvUWlnTzdXQ0Z0dzRpMFZiTG1ndDV4SEl5WldjLXllV0lIamZnMnhXUWVucHdiVDFfVm13dGFoN0YxOGdYYjlqbjlKYXo1ak43cTVOdUQzMkRnek80bnhEeGRHYnU4SktRQVV0UW9qeXdHZU1tWWl4dG1KUkVvV05yUU9CS0ZsVVotVWt6T1FyX1RZcm9KV3FsXzl4MFdyUHhPMzhHd1YyaWxGWGZWZF90REdZS1lvRHl2NEFheDFzYUctTHM1S3pCVUtZYVUwSUhwYjlQcG5NWVpBSXZsOWtsTk53WlhORUZySjU2R3c?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Sat, 15 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/pedakurapadu": [
+   {
+    "title": "Pedakurapadu Constituency Election Results 2024: Pedakurapadu Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVJoSHN6aW1MakpHSExsRElVcXJpRjdubWZUcjJWYXU3SThiOW5sRHB4YW9LSjVsSlZjdW52VFROam1iZHZvQUthd01UYjZSZktzTTdQUF9TMVkxczBnWlVQTS0zUnZiSzVMenhoZUQwTWdXSy12c0N0cURON2ItUzdqUFh1bGRmTUxJUjdFUGxfQ1RUX1pBY3BLVmZWUHIzVm9oUEh6UjQ5UGc0SjZZ?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 11:09:34 GMT"
+   },
+   {
+    "title": "Naidu promises IT Park, junior colleges at Pedakurapadu in Palnadu district - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcVBhOHZJSWJVVTZFVWd6WGNfS3lNY3Itb1VZTGxRY0JJaHRmRmdEYVdmTk91Q0hRNHpqZ0tJdV9MTHBpaWptV0NRdlRpbnE4bU92QUdiN2xWWkdTalk2LUtqZ2xIdGpnZzlNRUtHQ3duX0ZmZUhvd2dBaHhBZV9DazBUT2dBQ296RlJ0X2FXOVBtSWZfWDZDNEhPXzhtcHg4LTN4TXQ4ZnRXYnJpMFF2aTl6WXF2TDZmZXNkYmN6eHhNb3BQaU12ak5sSjdrdjNlSnFCeWdWaFdSQW5YRE93TUpn0gHoAUFVX3lxTE0wTE9xVWZmb2pxT1N6SFVjUGlpRkwtVGl5bU53VE5velRLWU1adG1abnJCTmlFMzhSb1B2WFZIY0hLUDJiakR0a0VJTzRocGl3eU1oeUhBQTBORUhUUkd0LTB2b1R2NGM4LVZkVko2Qzg5MGNKbEZweG5lNUV6dVVfQXQ2Sy1sNjhaXy1TdDNma25zY0ZFOUFCNWNvbEdtbFZNMEdKREgxbVVwbWcteDFWVWZBd2ExOWNXLUFtTzdpVDY5VVRLY0h4T0RuUDlvbVZ3dTNZUm1Ha0JQSm0xQTZ5LVp1STRhYk0?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sat, 06 Apr 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Bhashyam Praveen - News18",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1JtYXpUbm9lM2JDSGtoZ0NaTnB0akpIbl91ZWlsaVk0b3pQaHZsalBwWmxOUkpJY0JlbmI1U2NrdHlzSU56WnF2VFlPY1hua2lueWtvc2xhT3JiTkFFZ2ZRUTN4Q0dINjBfSHNjTUlKM0ViQzhUZHJUNDNtTDVfNFRBc2Z3YVZpUjlYRGNTWktHeERuSjYxUVl1ZHlTRXQ2eW45c01sX0M2Vkd4?oc=5",
+    "source": "News18",
+    "pubDate": "Thu, 13 Nov 2025 16:11:43 GMT"
+   }
+  ],
+  "mla/pedana": [
+   {
+    "title": "Rs 5.3 crore road works launched in Andhra Pradesh's Pedana - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0JtWHpoajBTSjk5WElzVHRMTF9objdaSDhiUjhkQlgxUTF0eTNUbm80ZkoxMUUwQzBYcmotR2NPc3BIaDhnS182X1NVRERnWnU3V215X3QyY0JvMXVsNmVETXVxZlVvcUJVdTdpV3FLQkVyMXhYMHdERXREaDVEM2ZmUTdFOEsyeWd3SzNENDdoNk90dzlBS056cTZrNWoyWGt2VjVmSWVEYkQ4S210TURMcWRrVTRyYXhSRWtuTndBUdIBzwFBVV95cUxPY0Q5YlBQSXV5djgyeFc3RHlKc1pOSThWTFE2OWxUTTVIRjU5bWFzRjRwbm5yYkhsQUh3N2U3V2RtWUt5RndwVGk5Wjc2SjRXd3B6bHhGZkxrbzNIZndNSENJdlYxNURTWDF1cm5xTnRYdzJMQ0g1a0VwT1FHQWNuZm1uNUctWEtfaWRfNjBuR2dPeGtQWFdQTnBOVWRraTVwdGk2MGIyZ0k2NXVncG9SellzNTBnWWNNbENvWVF1QThLQXhDQVJuOHhZM19mWVE?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Machilipatnam poised to be gateway to Amaravati: AP minister, MLA - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDJmYkE2VHdZZmdCUl9jeDRRTDdjR0tWRjFvSTkwQWphU3F4S0ZscjVfeXpnY2RlNnVFNE1mRG1ySnJqRENhaTZ4c0NjSEFMWGJDdTA1ZEFjeVczcmpGcnlVMkpkMGlrMzZJUFdpNURMWXYxbnVZLVNYWklmVUZ6N1EzdzVqU3dCdFVOTTdqOEluWmRpV1pheDd2MGpOcjZseVlDWjZGLS1rYkZGaUhMNm1POW8ya0xNSkpUUTY1dkhrZlVubDJHX1dn0gHXAUFVX3lxTE9Nc0l3azdIWUhaU3J2Q2p0SDFhaGZ0clMwWlctWTNOdEZMZGNXWTJxZkNCRlliZUtCWlpTMlFQYko5RW02bmYwaXBoRFFPTFdMckN4MWNkRFpzZk4wd3RGSFc4aEMtNE4xeXN5aE5kazZHVUdlUDhyLW5GYk1vSkJxUHVLMmlDbmplWnpPLXd1ejJ4aGZ3R3AyMmxqald0R1lSZmZVRUlUbFZzTHpFeVVyYW11SW1GZjJOTWNFRjh0cmRqZVNkT0JCZzc5V0VvLU1taU9QbjdV?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Crematorium records examined in Sai krishna case investigation - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYzNrc01WR0s0RGJuQXExSlJ3UnMzODVnYkdPTEwwbHVwSmJRMGdTVXFia3RsR3pzeWJGcGkxSkhfOTJ3YlpCemZORzczd3ExdkZnWkVDYUFSUzlXa2ZoMC1CVEpZYzU3SHd0dXVETjFlMUE3WmtPR295RWxTd2ZZc055eWhkekJVNzktemhlNUU5eE1GVDYwaUxTUHZZZ3BnTjUycmJ0Q3JtSmxhb3ZuODFDbmxFdXloLXJqTW1yUHRKQ0c0R3pXMdIB1gFBVV95cUxQTENFdnBtYy0yR194bUVQTU85V2QzZnR1NHo4SldhQXFLUnVIYVdsRnVpakN6S0RZU05IOHl3VW9hdzlDZHpnbnUwZjk5NlZCZ1c4QmlicFVQWE1hZXpNdjVtbWF2RzdyZmNNYzBfYmM0b0pFaTlaaldFZzJCVUpQUEFfRW9yWXBUV3lvMWpCWmsxcmwtbGQtS0VfQVR3SzBRLURjZGRVTlFNM1NtMmFQZEFhU2NSaE4taHpqRDNBZGtjcXJUX0VDSnVkd1Rsakx1cGQxamF3?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Sun, 21 Jun 2026 07:00:00 GMT"
+   }
+  ],
+  "mla/peddapuram": [
+   {
+    "title": "Peddapuram MLA Chinarajappa slams ‘targeted’ portrayal of town after prostitution racket claims - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX0Z5Qy1kWE8xSzlHX3VCbnotc3NFRzUwMVdCcFhneVZ1bk4zdWs0aXFyMThsZVJCLXE4eWRQWDBoQ3VHNXBodnhHOWNsczlZTFdxNmRMcFpENDVVZ0lDdWhTMDFXY0NTRS1WODJac2N1X25wU1BMdEF4ZVBGd2EzTGpnWVI4ZVVDZXd2SV9wY2I0V3RpeUF0THNPdl9YMFBzdmg5b3djamZzdzdtNTZ3dzE3S1RyT2duSmJEQWotam1hbE1OSnpubjItdkF4SkF5N3FkTkh5YlRrakxGMG9IYnBKZnVWRENLTDZvTThmakI3d9IB_wFBVV95cUxOXzRBSDJHMVM3RV9YWmRhVGJpM3U2SEgxY3VpR2lVY3I5cTVyYlNqUVN3ZU5OQmJIbDRNQ0tjR1BUeHo1MXl5a2xUTTRnNUp1ZnRjZmdpTU5MeHhpUWc2WmdoSGNQakcxZkFpX3g2S29kbjRqNnN0bkFVRFNVb3QxaWlPcXM0SmE3ek0wdWN6SkNFSW8zYUYwR2xSR3RzZklOUmVIZnRaZWJMY2ZMWFFSektTdFBZN0ltQkpETGZ6MUEyUHZyZ1gzYXpYdm81NXdkczNPMlRSS1BBOXlHWUFpLThkaXRIUVJtVWNGSkJqNUtJRHhFbjhZUFNteTlfUDQ?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT"
+   },
+   {
+    "title": "Andhra: TDP MLA Nimmakayala Chinarajappa escapes unhurt in road accident - The News Minute",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjlCd0ItNXo0M2ZNaVRWYjJUeEJtQkM5VklfTF9kbnBOQXN5bk1GX2pIOWlTeHM0WS00S2RjbHBWanJBd0tDLW10RGMybFRYd3FjSklfLWZoZ2ZBT1ZyM3l1YjdlWVdYLWFzdU8xUmU4RmlYR1ZVZk9aMVVnMG9IdHBiNk5zcHMxT1hWU2xHeld4NFRwdVlNdG1sZmRTSWVBNEczVlJmVWR2bW94MnhSS2J6T0lvQW_SAcQBQVVfeXFMT2RrQkU0cmdwVHFETDliMXJidWV1VXNwTHVwNzZrUjVnZDZZYmJ1U2F3c1U4bGNocHExUE9jWlFkbW5Va3M5cHF5OXhhVnBKMnNEVklZS0M4dFNqYjdlQWVkckZnU25xbWlBb0FiY01nQ2hlLW9EbDNJUmxlZ3gybHBUY3h6Z3haTk9JMWFleFhpdy1WdVV3blIwZUt4WG4tb0NnQzZ6cDZCSTlQdnU4WUJ0anRCLWxnN2RHeXBsWktYbXdDRw?oc=5",
+    "source": "The News Minute",
+    "pubDate": "Sun, 25 Feb 2024 08:00:00 GMT"
+   },
+   {
+    "title": "Andhra Pradesh MLA Nimmakayala Chinarajappa escapes unhurt in car accident - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSGR4S1NzRmUyVlJJaEpkRFRyUUN6MS1LZWt0MXMtS3pXYmRMUU51S0FLLXdCdkR5M3dud0xZRkhYbGtMMTFOYmJyQVR3Q3RYUnNFLThHM29UaThfdWNCcnpzaUlEUnB1clp5UHBJQnhpWkYzY3Y5NkRGTlc5YVpiTzZhTnJMdG5RbVFyM3pGUXM1cDhBTUVLcVhGWGJqcEItMEdVMmVUQlhSdk5jV2MzQ3lvMU5yeTBibFRURjBBckJtUEdtWjJkRTNQU0ZFN1FjWGJWTFpXWXJvQ1NkckhjRGpyS21HcmPSAewBQVVfeXFMT2ZNRU1QTlU3ZmV6YnR0UXN5aHl0Um1CLVZjLWxQRUlmQ3BDTDh5anBDbVlCdXdZMDBfQUJyZF9kazVHdTJxbG5yRkV5TjUwRHBvaEVuTENveXhTb2tweUp0MFpsRnZKdW1GWlE5ZUFORnVwdGFIMDRtNk94Y0RIazRwTXZ1eS1jNmMyaE5xQUM5S1FTNklsVTFlMU9KZmM5c0d5alU3akdHejhOdWdiWTJjei0xT3NYbnRCTTBpbkRUTDZjaDA5UWZGSFp1cmN4cEtqdnJ4THdtRWNSUld4cGNPYnd4RWJjQTluVEo?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Sun, 25 Feb 2024 08:00:00 GMT"
+   }
+  ],
+  "mla/penamaluru": [
+   {
+    "title": "Penamaluru MLA files complaint over death threat calls - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkdIeW1zMHBSQjAtbmxyQUxmRWZMZF9USTVaUE5mVG1mQXZ1U1lyd3Q5UXdmUWMtQzJwa0lLNXk2WUVwTUFacVFpcWlYd25NUlhjZ2tRc3VMT1RmdlRPQjFFZEkybFhiWlRUVW1NX3BBMGxqRXdXYnpfTlFiVmMtWXBRSFVoTmRMa0liRGdabWtuTU1kenZjcmtfY19xSTkyUEZ1Q1ZxUTA3cTA1d1RCSzd6OEpMMmNMWm1yeFZxZlhtYmVqMG50LVdGM0PSAdIBQVVfeXFMUEZsQWxnRWItaXFVXzFLcWpzYkxVX2tLTnNLaExMQmtrSGF4OEljUktqRHF6MkZ1TEVuNk16N2Y4S19TdjBmRnloOWh3YlU3YWZvNzRUNHR4VTlDMGNERDJyeVlQWHpvVU1zSGQyZV9ZUHNCd2s1bF9EZ2VyeFAwcmxCZTI1Nl85emN1YU1YSHlSZzZjalF3QkVFVVg5cUc5Umk5Zk9WTXJJRmw5NnhnbHBMSnpicWI5MzdsNFdhX2I3Q0V4SGY3SWpvZmNYQ1g4Vld3?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Penamaluru Assembly Election Results 2024: Penamaluru Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEVwYTY4ek13X3FFNFdYclVYRkV3TWFWYkl4aEZmQmlkQTJXcGpVS1QwX2k0dUdoYWllZmY3NGJQYjdheDFBUVJRUHpSVnl6R2xlSzVRQmJlUlJoeWtteHZhdDRJLUhWRl9ZVU4wZlprNmZWNXQwaldfSzQwd210Sk9SVmF3bnZpSVRDa0xpQlNYZkdSS3oyN2xVZw?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:19:40 GMT"
+   },
+   {
+    "title": "TDP Leader Bode Prasad Disheartened by Denial of Penamaluru Ticket - AP7AM",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWdnTU5fTFVlUkpLNWNUSHpsR2VBaVJaYkJ3VmNQSHk4ak9jNV9Ha1Rxb25jV0JyRUZiVmtfY3RaTzF6cTQxU05XaGpyVDdOT21tUVEtUk1nbFk1U2h2Rng5OENFY2dZa0diRmNRZTQ5QlA2MnM4QW1BYmZWaklleUkzUGpueHVmYy1ZRVplYjl5dXltamlrdU81b0EwZw?oc=5",
+    "source": "AP7AM",
+    "pubDate": "Thu, 14 Mar 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/pendurthi": [
+   {
+    "title": "Pendurthi MLA seeks rehabilitation of Thadi village at the earliest - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3daWmZoeUJVamJVLW1rYmM2Yk9PRVI1aWNJZG5uRlFYaXNaaTNac293THFvR2JYanFlNEh4Wi1YeHg3WVcyS1ZtQVpCQ1czZjJRUGcwcGVtQnppa2RUSl9hLU1uS0tZZXFaemhialpPNGF2d2ZJbm9UaEs5X1BDRHRMS252Uk80QU1HdUx0XzFheUlCaG1NdWdfV040UWNVRkFNTGJYZFVOQjdrRG5SalR2WGdGN1ZRYktrT2U5Q3RRUWdLOVhFb2RDNFg3M2M0RTBxVdIB2wFBVV95cUxNQkd4eUtCY3JxZF9oNjBiQkRpRmNvSk5FcFBuam5pQk1RLWdyTUdvWEZQQmozQlllLUowT1IwZzlGbGJULUk2S0w0MGJFc2RlalhMNzFUQmNrRDJzMnBDamEzbGhha1BnSDBqVi1KRVlreUs5NjlZS3p2NjVnVjJadGx0bWNSZWZXY2dTTW1pRWlwSXBzekFIb1Z5a2FDSHo4ZVE2Y3dGQWc3b08yWHNkbEs2V1dMV2p0SWdYZklyaWNsSEllZVhvZ1VnVFR1SmlLbW15cmpPOWxNM2s?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Pendurthi Constituency Election Results 2024: Pendurthi Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcktWdTVERmRURDYxQjZDRk1lcVZpZ3JWV1lqME1pY2ZmUnVDSHlIak1YbVlDWjRKbTV6aEtkZDIyTkl5WTNLZWFBUFRsMGtHTExsWXR4QmlHdG92OGxUUUliQUE1dzhCYVFzYUdhSWI3Q2ZRSGZwUTh6MkNEQnRRT0xMX1JCVzJXMTktSFA5a1FSTGt4Y2x2NUlRWE80X0NIaktNcUpzUmR3U3c?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 11:15:04 GMT"
+   },
+   {
+    "title": "Pendurthi Assembly Election Results 2024: Pendurthi Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWFnTlJhTmhDRUk0YUtLUk13RUwzQ0NjOFowV0FlSVQ0V1FPelY1Q1VIM1VXWHhBY2dJUWJ2djlKaGVqdkcwN0lSNkNvUXl0SHhwODJZeGRwaTkxS1JsUndHTXFHeXdPQ1BzbjR6aWRMNTVtNW1MUG1FUndSTWF1c3ZtM0R2aG9FNlhxN1pvN2FRTDRaTTBMeGVn?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:19:38 GMT"
+   }
+  ],
+  "mla/penukonda": [
+   {
+    "title": "Anantapur: Real women’s empowerment - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1YzODBHVmhvUHZJYjZueXhiVmM5d3pIYnJ0aHc0b2lVVk40SXJXRTBDWnViWWczSFpnTUZMcWJ2dHpLU25UMHJ6cFVrU1VNQTFlMjJ1di1LMzRxcER1TWhmcVNnWV8wYWphMGluRW9IRnhKRjRUdFR6NkZfT0lfdEJLZDNMM3I4XzJBcHUxZVctNjBRYVp6U3FsUDVDbm9uM0HSAa8BQVVfeXFMT09laGhYNzFLeEhzbDUyUE1ZQmRzSkp2cnhzTjA5RDNyaDdiVFJCWEFLSjUxVXJnb1BJbjZ3ZWlUX3lfRmNsb3hFa1R1dThYZUFkLWRBZHkzOWN5SzFKVUg4ZU9lT0JVZXd3UXZfZWJaY244MERMQWxaVElvNW03NTUtVHpYLVJIOG4tR1J1LVNjYmN3ZUNFeDdnWWJBa1RGQmt4SkZ1TlJWX2lZNjRfZw?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Sun, 14 Apr 2024 07:00:00 GMT"
+   },
+   {
+    "title": "₹425 crore ISKCON base camp coming up in Penukonda: Minister - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkE1NUlFcVBXU2hOdk5zOUQ1QU9HX3JFdUlxcTdZSWtlWktqVXlEdjdXM2l6WUVrdFJxX3pqdzB4WXM1MFBUUFNtZHE1MHBjeGJmYkFYWnMxZFlPdC1ubWNuTjhmVzlzU0dFRS14U1R0dWJRVHFvcTBrSDYtUXRJZzBNa3JDd2RBTjBZMXZQUWliVVJiLUk1NGMtdHp3cV9JN0hJS29ZWERWWFhrb0Z5aTU3Q1BRc2hpMzdtQ3gyZGExN3J6bGl0WUdPVHjSAdMBQVVfeXFMUFhhWWlOa3dQLXFTdzUwcXAzeFF2NnNwT0JzWF9qNVdrbDZmSXB5S1EzUWxtUHo3ZkRzV0p5RTZUdU9PWE9yaXk1cU5ZSXI4cFBfUEFDQmhFckdnNXlyR0c0V3ZBMi1iVS1NYmtOcEpoVWtlUXI2TUZld3VfQjVZYkNXR0xJVDdvREt1dHNsbDNYNXNMX014ZDdNazc1dTRYdHR1OFN0MU04Q1FxcVBOVUU4WHB2QVFhaGR0T1JfMjQwSmRpd2ZibGdEbS1aeXVmZUYzWQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Penukonda Assembly Election Results 2024: Penukonda Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUU2Yk96LUhRUVdsZ19xeDN5ZHpNZEFUSjVCNzFTNHZBVGo0QmxoVHczZTUzMFhYcmlZdk1ubzBwU3JwTEFEc0s3T3U0bGdhOHI3amNxSU1ZY3phNmM1WU5COFNZUE8tT08tS2xMUWk0TlNnaHg1blpxaHpHRHg3M1ZpTzNqa21ObWNNMHlSa1Q5VG51WXl1WWhn?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:19:37 GMT"
+   }
+  ],
+  "mla/pileru": [
+   {
+    "title": "TDP desperate to gain lost ground in pivotal Piler constituency - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUJQM0xIa2ZqZUdja2hEZTgyS0F3TDF0MUtkRWR5dUlMbEd0cXNNWDlMUHJGaXo1NW44NlVKaVVBdm56WTVrSlVKMW1URURFM1htcHl0a2NGOGFyYzh1YkVOb2RwRjVzQW1WanJ5ZnRVejMycmo5cTVxT1F1aUQ4V1VRMlZLbXZVZW90MUlBb2Yzd0ZEaHRlT1hfakhWUE55QlE0QWpzSTNlc192UGU2NmEwQkhEUjl2emlEcFE2ZDZfbjdaT0JVU1lLa3hOM01maVpF?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Fri, 15 Mar 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Massive land grabs by politicos in Pileru; YSRC and TD leaders trade charges - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSFBHUXFOMnk4LUU5eDBMeWFqNWttMWk1bm9nUmlyRTJuS3dJR3NQRlRORnhhTUNUdUtNcVV3MDJvWGctcV94VlBSS0V1Q2JjNUZPaW1SQTZVcFJHT3plVHpITnhyc3JPUDkyTW93UWxqUWp0dENfZFdGam1BUGR5Tm1OU2Y0a1o2N1doUWNmbUl3cGJpTmZfZF9nNUhKNmlfTmFLcnBVMzdDSTVPa0lNZC1YWG1SV3AtT2N4R3I5RURtWGxvTGxmSNIBzgFBVV95cUxNc0ticGFZaUJMZHZkSl9WWUxnVEN6WE9yU1k5Zk5acWRkd05CZWtVWFc0dVFnVTgtbFpFdW4tZkZWREpKelhNTGx0bktjWGtPTGdqYlZ6OVY5MFZlNjdCam5BczYyQUhLSG9mMDVRRmY2T09xaUl6OGlzSUpVYTBjcFVBZ19mbU9UX2hEc29tYWRFY3R6b1hOZFlZUnZoeU1mc0NJdGEtNDFiU2hCalZpUE1EeUNsSF9INFFnNUxEakRFN3p4bkx6TXpXOW4xdw?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Tue, 06 Jul 2021 07:00:00 GMT"
+   },
+   {
+    "title": "Chittoor TDP leaders miffed over denial of Cabinet post to district - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUMzTGNfbHBwQXZkRVdvZ0lrTnlWRGh2dzhvOG9aSlpaMHJwWTA0VkhwU1o0SU1GWlk4ZElvRTJKT2NFQnBFWVV5UGU1NUVrcUJEYkh0Nk9FUGFmQ0VZRnhkNVBGazl2WnJoWjhNZGVyLWVsOTZ5dWVfRzhrTFhXY3l6U1cwN3EwSFpqTEREYkdCTm5RUjhGZXBVQ1NFeEZPUU5ENVVCN2hEUkF1aXR4Q1V5MHJMM0pBQ0Q4RHJOb2trSHJ1aWJ3MUh2NW5saHNJZzkzVXNSdmnSAd8BQVVfeXFMTnlFQjVNdUVST0tsMmxPZmEwWnhaRTFQbFFNSDZubGhoY2pPdVctUlZ3THdta3lXNXRtM1BseUk3TEZlR2xYMVhJWlY5UFhISldTMHZlLXJOQ0FtUlo1azVjdHcwWE0tMmRkQW05SFVoLUw4Wm5DX2YxUHdEbE5tQzBRVkV2blgwOTdWU2czejZ2NS0yWTh2WjhnU3licFlrclgxR0VtaEVyajZSNTZYZ3dsNTRJOHdLMkFvYWFHUkZTVG1hNXZUV2tQNkQxUkttbXNJNGR0Rmt6ckhWRzBicw?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Thu, 13 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/pithapuram": [
+   {
+    "title": "Pawan Kalyan to shift to Pithapuram by year-end, set up camp office to strengthen Jana Sena - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNW5GQXRYeXpEbEl2OWQxb3hianpUTHMzNUNzb2ppX3hyQzNTUE05M3QxeTI5NnBxc2premVUdzZ5aThyZVZpRE9aWkQ5aGRXSVNZWVVsSUJiVFR2V1c3Tm5BUUJQNUhSdGJWX1FkM2kweEVyRlFQWmt4dzNjdElqRFl1RGxjYnd3VHRGaFlvRldKbFZpT1pTblZnMmozdHNqN3hpQk9USWlrbzFXMzc4XzNSMDVWN2JnTmJmampJZ3FwT2RDWFJsMmtTX2w1R2lLSUJ1d010QmJsVmJHVW11QmhIRlp3UGJDRXZQdHF5blRKdThpTV9n0gH-AUFVX3lxTE5zWm4wNHgwYktXUGc4ZTBNT3NXelRiQzRWeEJoc1pJY2dyU2lzS0pnWjZyRWRURk1TbmVCOGV0S0VlWFJWMGlSWnEzeE81WmlIZ1o5c3ZpZUpWR0VRSGlOaGNzb2RIbU1mOWU1aXJGd0c3a2FtSlA2clZwb1BYWjQwM1J2NDRzOFR0NXVfSERvdUQ1WFVjQkVPQWMwYm1lRXVvREwzaktkTmU2ajR0eTRVYWNFYlZNZEtvTEp5b2lqY0diMlplbnRjZkgyd3hIcTJYcFdHTkxkU0I3REV4SjVmaE16UjBaWDFtTVVQTEFqZElkZmRocThSWlQxRFpR?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Pawan Kalyan launches works worth Rs 1.5K crore in Pithapuram segment - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS2tCZVV0d0VCT2tQdEZ2UUZsUW9UOTd0aEtmQy00U21TWEtDbkVqdjJkWXVvX3FuUVVmVzJGOWFPTDZPVU05TFRPeVpLREhWSUYxcGYtQTl5OVpJQ2J4clJPaWtmeFBTVDRHdm1nRHotOW0zeDFscXhJM3R1WkE4RWU0Q2dEbTh3ak1iSU42dlJ3cC1NRXNWX1JUdzVNeWZlbk1wTXByZzF3UVdKSGRva3lRVXBYazNxUk93UThCZVpFTGY0U2FnbWtpMnVSVE9j0gHeAUFVX3lxTE9hNElkYWVaVldWR1REVHQzUHhFMGRfQ0s0UTFWWVhSbmVZakNxSjVGN1lPeHNJNjVNUXpBdTZmaXVEXzZhekRxbzlhSGUtbzRZREF2SzNjckw4cVA0T2duTEZJUndId2wydjZnUHlyU2I5Z3dPUXowWlVGeEtabmxXOWR3MDFIR1U3YV9MXzRWU0llLVFIWkdiUTJOSktyNFA1TFpDQjhqRGpjRUdmVkM5NGUxREFJOC1QdGtJUk13WmRqWHRDLTFwR3hjaHZLWDlRS1FwOFI0Q3o5QjQyQQ?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Pawan Kalyan Inaugurates Peethikapuravanam Urban Forest - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNFEzMVgwTzE5SHRqSnpXdVRVN2JBaS1OU0lUMFBqY0ZReXQ5QV9UMkJBLUFmZ1dtcWNQd2Vqak9zWDZKT0kxSE90TVB2WXdYSmdmS0RlSVNMSHVHYjc3YVlscEZZNmVESTZMTmszc3pEenljcEU3QkVaU3RwM1U3ZFJSVEczV0ZjMWZPeUdjY3JkOU9wX0Foa0lhWW1FU2RJZVFSS1NaT3I5dzlFQlQ3Q216S2kwTlNYdEZrRUxKQi1HcGhTZktNdUl4c2tzTm9QVmRnOTZ0d9IB3AFBVV95cUxPZHQ0Tkc5VWJ1QWUyM0tIVEZJVk12LW0zUDJnOE5UZ3dQaGtqY0tlZ1hoaHJuSDZ2U3JVcWFmZlptYzhkWndSelRhRVNGX2ttTmNzRGVaX2NRZDVsd1lGZlo2Wkd3T010Q0ZZM0VCNS1TaEsxMlBMZ3RaTWRxaFVLSUktZ1F0TEtyUjVCX1JZcloxMXN4eTBRUHNZZVN0amltR0FOdDF4dnF1QkVoLXlRRURfWEh6cDBIT0I0bjd0ZGhIUWFyVkc3Mm9tWndZajVZZFhPXzhxTGFFdXRz?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
+   }
+  ],
+  "mla/polavaram-st": [
+   {
+    "title": "Andhra Pradesh: Kammas and Kapus to decide fate of ST reserved Polavaram constituency - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeXJrTXlhcTBzekQtY0NDR1EtaTZGS3E3c2F2Z2hOeU9lanphd1RWWUdpSEpocVFNaW0xNDUyMExqTDJsSmNDU3BHcHZsLXl6UFZZRzBqa2h0eXJtMlpzbE9pRWpDNVNxN0xYclFneTBPeHl2a3k5blVBWlVLQzRtTE5rbWRyMi1HNW8wWjhZSlJpemJUWGVKMzdxSnIwWkp2bzUtS3c2U280c3lTZlE5MnA0MXpLYW50WmlkWnl5c2x4cnp3SmFmQnZsaGl5WS0tQWVJRnBJaUdQcFpwSUg5TFBuaHNyZ9IB8wFBVV95cUxPU2l4c1lENExfQUpzSmsyaGx5WGx4V2VQb0lPUzRHUVUxdzM5QkMxRHVmVXFzdzZnUmVrbHN2eExVRS1xM3NFeXRZUnh6ZEQwUHlyb2VDSWtVdzdab3RBQklNZlRUZTJ1Y1h1d3dXZ1BpSjFoR1NxNWNDcjM4TkNScVBzX2pCNDNVNnJZQ2dTXzBGTHZ6NHE1MTB0bUhyVjU0Z1FlREVJV0gtOFI1eTI3N0NVNHRlanRSc2NIVjhaLXRTV2dUaDFoSWNkRlBhakVxSVhxTE11QnlEbU82T1Y0RWhXcjlFeDVWUjRYQ294Umxwazg?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Wed, 01 May 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Cyber fraudsters dupe Polavaram MLA, siphon off ₹12 lakh - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFlCTmFUOHF3MGRTemtuM1pFTXJadWlFSW51V19BQXJYRS1DT2RLMURvcXpOVjdSbjVnMUhtMFlqNEZ2UlJOMVNLajM4SXlSUzNXTGJYZm5EMi1HMGQ2ZVN4RUFpNWt3UVlhVzE1MDMzU0R2VzQ4MUdvak9XeTRlQ0Y2SlFEaGRwU2NLbzNITzM1Q1dMcnJ3ZjkyaDBQY2cxRDdoWkJMN1d0c3lQREpJcThQTF9RcTFCb0ZnYkN6RUlkeGR1dFNn0gHOAUFVX3lxTE5pRktLejlpZ0xLWjNoWEpyTW5OQkQ3S2twa3NNT205M0RqX1p2UENWaGJQbWFTNnhMM3JZM1lvcDg2YU5DMHVlY2t5eFZJeTNlek13R1pJdFQ4V1gxUHVYT3Z2aWtQNERKRHNWU2ZtQjJPTWFiNld4OEJWMnA4YlZ6S0x6MzBDNTA1SnJyS3Y2UldGS09uNVZDOTBUVXVVdHd3dlRJcWczQWt6Y1NiNDZaazJRNml6MUZKdWRwa1NUVjFnVnYzRlpqa2c0QmNR?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sun, 22 Mar 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Polavaram Assembly Election Results 2024: Polavaram Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjVmdy04S1R5T1VsYktxdTJCT2hYRXpHS2xmX2c1c3RZMHlySV8xSm9EY2M2NGdTaUpORXFxVlVtYXMwbnFiSkVrc1QzUWhMOTh2WGVoZFhxZHhuVUF2NlhxSXlQejhZY1dxbndGWU03Tk9rZzZCUkNvaWYzNHowOWI0N2RNUE11X0hoXzd4VE1va1VhbUlpdWFB?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:17:42 GMT"
+   }
+  ],
+  "mla/ponnuru": [
+   {
+    "title": "Five arrested in Ponnur MLA’s family house burglary - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGpLZ2hreUZ1bFdIM1I0TVNFU3F0TGdSaXR2NjN4dWhVRU9BN0puT2VtRV9GdTZ3SVM1bDdQWmFnaDNBblNGS01FYmplYlF0TXpQLW03QXVBZG02bDJPRVRTZkpUZ25Xb19ZYU1KODJ2MnJrekQ2cTJtZzNkYmFwTlNodElTTXRoSjdSbVBwQXpIUWYzUERDd3J4WS1HajIyUHlCVTJIRHJwdjVuVWp5ekFqb0dQNzkzQmhNcG5HLWZXNUdDRTFz0gHMAUFVX3lxTE43R0tBY1VQbDBPSGFpSW52djdIMHByTVA0NHZRNUVlcnNMc2ZQSElVMlNEQ0trXzRyYnpTcDhqSEtrZVNPX28td19qbzVCTk9ybHJKcVhySExUV2dUaXVNZUgwOXBwcHF5Tzk3UDlMcmFqOGJxUGlKV2kzeEkxVmM5LWMxbnRoMDFqc295YmdLXzFtQ2c3bW91bGJ2WGRBMDNkbmFNT1NodnRPdTF1UUFOUVg1Tm1nYXh2TS1wVXBUeXVJakNOUDEtVjd4SQ?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Naidu, Revanth attend Dhulipalla’s daughter’s wedding in Guntur - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHFHdmVtUFB3OG0yMTYyMUZHVGZTTEtIdGFRa3V4eGE1bmIybl9jN1dDME83UlJvRlUwcm04Y2pQYnk5Z2o1TnU1TENFQnBwaEF0WVlHRWYxOGh2cGRWQjM3X3hneVpEc2JJVTU1WmRmdU1Uc0tpUlFkNlpOM1BLX1ZuSi1EdU1LdEFxdXRRTmhvM1pSLUo2b0VjRjhzTkx2bGxVS05NaWt2MHoxcFB1Vm9YUFkzVXlzOVN3NDRnM3VmQWVmbEo4ZTFaUlRzZVnSAdYBQVVfeXFMT0x2UEdWUXVnc3FSdk44SHZIUXQtaEhpZDZtUHRiN0tFNGZSeDNSMWZiS1FaalJSMmF6dDZsZ3RHMXNRLXhzR3hFSUlNaHljQmNhY1FGckxseDhSd2NVcTE0Z3lGcURnQWI2MkVtWWRjUGVOdFJScVNwVS0zZTdTWHJmVk91OVBYS0VuMU5KTUhpNlQ4OEgxai1EWmlKUU9oUUtrZU9Ha3lOWmtndXo3XzVjTjc0UUR4c3o4aU1hbmtnVjd6TVkzZ0JqU3pTOFBndUdtdWQxUQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Pawan Kalyan's 'OG' Keeps Patient Conscious During Brain Surgery - ETV Bharat",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEF3TUw0MDkxbUktNHdqSTVFSkdaYVNlQXdjM1lPVmo2TVJKNjJDR2xzNHp3dmIxdDRDRlR0c2ljMlVTLVU2ci1iY0hGNUcwcHZCbTJzb0lwVUlIdXM4LThmTThFeEpDdTlFUlBpV29vaEw3b2RMbFZsZkJpQklYWXdzVzM3MnZZUDZmZi1GbFFsbFlxUE9XbUhKLWFyd3otT3Q1RU9xLXNkT3RsZnN2dtIBtgFBVV95cUxNR2NqYzZhT1M1VmpNS3VKaW0wZEtULTlTanRVdWUwN2pYdjFJQmg5c3NEcXR3X1hUUXFsSzdobXp4anFLUHpkMGxnTHV4S1pfTWlOMks1bHd1ZU9Kdm9GN3FtaUprbHpCai1KN1pteUVLTlIzQ1FwNC13ZFFFSG9EWlM3Z3hmVzM2ckxDT0lhZi0yeFlNUm5fX2RvXzY4OGxXc09wUXpTWlZYMVJnYkZVTTZpWkZpdw?oc=5",
+    "source": "ETV Bharat",
+    "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT"
+   }
+  ],
+  "mla/prathipadu-guntur-sc": [
+   {
+    "title": "Prathipadu (SC) Assembly Election Results 2024: Prathipadu (SC) Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUd4WTgzTlpobzQ2OG4yTy1XQWdOX0hhaWdQUXFuLWUwZjRnVlZRY3ozcTU2SlBFb3FjaWtGMnNieURMVnVIWlVYZUpLRjNLWHY4ZHZrdVJRYnd3ZDVMU3YtYTJBLUV6eWlJZGw4YzcwUEZIWDR1b0tIT2RSUGVCaHo1cUg5bjVQVktCSnN0NjBfSk9waS0wU1lnOUt5dzg?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:23:48 GMT"
+   },
+   {
+    "title": "Prathipadu Election Result 2024 LIVE Updates Highlights: Burla Ramanjaneyulu of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVNKNTJVNlVFc0YtdU4xeUlyUENlbWx1X1Z4VnVyaEdBWHJpamNUSXRWNUtmMWFfclNzV0VTa1FQMHFxMXM2aWxUWlhnaDFELU9SRjB4Znh2cFpsWUZMZGZrc0NhdkF4dHVhYTJmNDFEWkc3Rldod19vdlQ5YkZ3eUZKbXZDZUs5bzRUM2dYMkpzbzh6djBzUWNTQzZfdWtKV2c4VzJ0M2RqT19JQjhxd1lFMnZJejlVNnQwR3V4b2N2dWVlS3hMeFV4UGlZNjFRQnQxUFdoa0M0SmIxSE9yREVXRHZHZ1Vo0gHuAUFVX3lxTE8xTFdKYjVPWDd5YWxEeF9tX1k0Zko1TkZYa1lDLW56emN5RThTNThpM3o0LVcyLTFPdTRzRjR5OW5GclNjaU91YlVJVDhKV0x3RGM4YVhhMzFKT3F0MC1TRTloWDQ2NnE4Ql9wNXRvc0R4WFIyRm52OTFaaXppYjc2MDM1RlBPMzNwaEVmZzV6Vk1ZMXR4T2NTckJTclFCeURDTjFhdENSY3BfYi1XM3BBSGhQUTYzS0J0QnNBbDZoZUtVSmFTaTBBWWZpcVB4bi1uOWxyYXkxbmhkclVHVmptdko1SVhKYVpqdlh6VlE?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "TDP-JSP alliance announces candidates in Guntur, Bapatla and Palnadu districts of Andhra Pradesh - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTzZMcm9fZi1aY3ZxbEVSbWM4cmdrTXFLd0pxc29yeXRwRE0tUjdqRk1KZjVNRUZoZVZROXFuQXpUTlV4Q2I0SzNQYTBDcVk0M1A0aUZ0c2Y0bTc1RkIzNjRzQ1g0ZUFMLUxzSlhIV1pBUUVrOTZOaDFMc3pEUmlJaXYyWDZvVWR4MGJxaDVWUEg1eVRsM1JHUEVVZEFZOEE0VnN6ejV4UHZMazV5MjZJd2Q2VTl6RVRaS2pnZnEwZUQxVDhSU0hWdkIxTzk4WTlQY2o5TWxqTkV4d1lnWEs1aEktTVpJUVY0RUpXaDY5VVdRSDJTMlpGdEJzVndiZ9IBhAJBVV95cUxPR2stczR2NjlrQzhyVWl0WUNNQ3h4SGZHclBJMVhjTjlzU3JXTUtSYXVmazRLcTdjMmhDTjNTaFRhWGhCdHgzekFYZmpwSEctdmRuazVFZ1ZSTnRLdEg1a1NLZVVyb203cVdHc2dvTjU1VmluU3ZkREwzQk5kb29ZRUh5cUE4aUdEMXAyYnFkd081NTB3MGVvalU5OWRMbXhITEpYNzJ3NzJuclNwWnNocmpnVmhfTk9XX3BHaGtkOHhPajdPU0Z5VmVDVFNhek5waEFFMDZ3NEN1WGxNMXhtY01MVjI2SlR5Ri1mTFBrOC0xVEExY0FqY2VmLU1Od0ZaZF9McQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sat, 24 Feb 2024 08:00:00 GMT"
+   }
+  ],
+  "mla/prathipadu-kakinada": [
+   {
+    "title": "NRIs, Industrialists Eyeing Opportunities on Prathipadu Constituency - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmp6TDNWUjhOUzUxbzFOSVRWaHFqdkVLNnpVNXptcThCWXpEVno5azhtdDBvUl9fMWlfMFV6VHZBN3hDT3dXTjlLNVJuREM2X0VUbURGZm5qQ0N3RzM1czZtb0psY05rNVlnb0hWY2hvMFBON1hjTTg3YUlJbDJ3M3ZNelhPNGd4R3pqYWl1VTR3d1ZhUGwzbUt4NVJDSklvcTVfMGJmTnMtUk1leEdzd3RxbW5DQ2tNd3JVUmUtVmUxak9nZGhyOTB2R0I0NkdGQ1JNU9IB2gFBVV95cUxNQnE5eTRnbk9Gc1VhZjBTcXRsNE5qazBYdF9qbGpBY3g4ZFJiNnhod3F3bWNmSEJzLVdwNENWRUh1YWV2cVFub0xHN1hUdzYwdWhzeDctVW93TWdIZGtnOXVPdXhjN0p1RkphZFZkVllrU1JGdjMwMV9ibDEwYlBDRUN1LWJ6X0FacW0xbTZEbTM3RDRjVnVWUGx4REg5eUkzcENsdnlTbW1fM0NCMUhBb1Foc0ZMbzVYdzZyajdhMnBFYnd6b0VDYmk3UHMyd1BlVmJRVjhOd1NtZw?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Sun, 14 Dec 2025 08:00:00 GMT"
+   },
+   {
+    "title": "Re-entry of tiger causes panic in Kakinada-Polavaram border villages - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekJXeFhnd3Zmcm45cnhaTC13SXlpbmo5WFJ3OTZ0cWpBaTJWODV1Slp0Mi1fUVk5QWx1MjNXNUdPTzltNjI3OTgxYWhZeWhVU2pveXRzdmNCam5ZMVN3eFl1SGl1UGlzcnU2U3dTRGdHUy1QeXZkZkNHbG44SnZSXzhRLUZsSnNUdkFXVGxlbXhOUENyVU5rZW5SWE1Jc2drRmthdFk4U25yOFNtU3VMbFNUUm5nWVlIZTU5bXYxcXpXeEJTZzM0V0pPR3htcTh20gHeAUFVX3lxTE5Yd1ZvYVZTUUJjQl9GU081c2VlTzJuSjR4cXJrTjZ4QmozZDdOMUtjb2Q4ek9oQXNhNkRxRnlGbG01emxXMGROX3VrTHIyZE1LWF9fOGdacUp6djlTZnh0OEt3cXBsQVY3aXo1RjMxZHlFdVJQUy12cTJKVzVQNnZWLTRhN3d5UlF6cmFwa2dySktyeWNTWlhSY1RMbkFWSVVUYmw2eVRtWDd1NzlUdC14akYyOE91Rmd0UTlPS1NHTVhRSFdCemZWSHZWOHRZZzgxeENsUDllRUZjN3A4UQ?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Sun, 22 Mar 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Prathipadu Election Result 2024 LIVE Updates Highlights: Varupula Satya Prabha of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObjlVUGtLRy1YcFZCNDVfLWdVX25NNDFudnpLWEVaZTNCNVY5aWcxdUpBQ0w2emVvQ3JYVTdrVzkydUh2T1JZN1FjemZySkUtSy0tZVhqVFJJU0hkWjM0OWZzbEZKVlllVTNfSENwX3JuTWJHT3Fmd01NOV9JZEpyVE93NmxCaVkxdlJpa2RSWjUxdENNejlXLUVJclZxZDctT1lOdmx3TnhyMUhyaXpCR2M4UkFUSkFUN1pORVBQV2JyU1c5TjNXSTdvUnhxRm5reUcwYjVDdFhMaXpMWFo3djQtczFZUdIB6wFBVV95cUxQd0lrdFRndm82N3lhV0FidTh1T0ZtSFdyZS02YUxfeHF5c3Z1VlpSTVBNUHlRTzhycVpuSngyNW4zZm9DNWh6TV9mdVFzMkFxVFdibThOVmhKMTlzajdZUks4SktfaUVqaVNHZHJtZnBkYmN5dnVPcDFDVWlsNkpXTUtnQ2YtNng1UkowZjFvcnBXblp5N1laZnhXNTFBYzNxdkp4UGVtelI2M1pJQWJCUDYzTFZMSjFTUV9ENzB4aG8ya1ktVVlpbGhnRWZkSENfaGZlampSZWY0TUljQ1RDNVdyejhQcHpVOVkw?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/proddatur": [
+   {
+    "title": "Proddatur Constituency Election Results 2024: Proddatur Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEkwOGxhd2JLeVFDVTM0dHF0ZlBMUnFMRW51WXFXdlNrbWZVYXNNY185a1hnRk44T2ZXWTJhdzJNUXBrVmlLbnB0YUNmUzN6amg4YTFuV0pyWWI2a281NGlXM1NlWlE0RHdVSUdJSlVnTm9DaE1TVjFnYUFCUWxWVV9aN1lDc1dGSzEyemwtYlM3TWVqUzdEUmxodGVKRXZ6WjdZcG83TnYyclE?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Tue, 19 Mar 2024 06:55:53 GMT"
+   },
+   {
+    "title": "Proddatur Assembly Election Results 2024: Proddatur Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmgwaE5YV3dFVGxKOEtjMGYyNk0yOTVEN0dvQVRRbzNaNElNV3M0dHhJdzRJUWVtMncyaDZSUGJpS2xhZko0anJoYjFMcDZMbTNzZEc3T1dWWTM4WnBnNXFUYkRicEM0US1UZjNyeThsVTdXZjljWVZXUktlMVRmNzkwNVAzZURQYVl5RGN6OElJeUx5Tll0WmJR?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:19:38 GMT"
+   },
+   {
+    "title": "Andhra Pradesh Assembly elections 2024: Complete list of NDA candidates - CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkd5VklrNEdZRGRVN21GcW9hRWc3TnIzcWZBNGNSTG03a3d2ZDJ5bVVQWmJSU3B6M0VDUXlESHRTa2Z6eHpwRnQzY2xIbGVqRHdnbzdPaC1kb1N5OHF3cGQyVjZpODROQnhXZGhTN0tQeGFUaTB2MGVkRWJ1YnYtT25FeTVtR28yMUlNalFHOEFsMDZKWkdqUm90SEhxM0VjR2l3SEFlVEZUMmlSTWFXMHI0QlRwNFJ0UGJTQmZMdWnSAcYBQVVfeXFMT1VCT0dXRmw0RjU5X2VaUER3NG9CYjF2ME43a2xja2JQZjNqZGljVHlkNjVWM3BFbTZJQW9vUlc3MkxNM0ZlRDJIRkI1OFMxWWR4NDRXWVFRanpOc0JZWkZkZUZnTzZnZDVGbHlIaEw4NUY1T3dEMVBDMEh1U20zV2FFYjBqbzctTnZOVEdNbVRjNWVUUVNPRVlSN3drWFdQcGctLWM2Q1JhQjNBbXdEWXJ4aUhBMDk2MU1fXzcydjlfZ3dSVjhn?oc=5",
+    "source": "CNBC TV18",
+    "pubDate": "Wed, 08 May 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/pulivendla": [
+   {
+    "title": "YSRCP names YS Prameelamma for Pulivendula municipal polls amid keen TDP contest - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTlk5eVpQYUc0RHI1dURuSkdpaWhGZEN6OERoazlnQVg3X2lvdmhXQl9UWEVqSEczUGVJMGpHblhXVEd6WmVZcUNKTG1rQjJMOEh2NkJWeGY5MTU4WGp5Z1pia3RfSzM4R25pV3hIel9XQ2FMZ3AtVTBfbFk4cm1oakt2OS1nSUMySGIxY1dQUURqWGdwWWNrRHBsWEJlc0VYeW9MMG5QTTZmQTk2VERtcGp0ZGllNVJIUGtuMDZsdFg2dGR6MTlJOXNBUXZTRTduQ2tnbk4tZ2FVT1JTODRlS9IB7gFBVV95cUxNcEVYeVE2TV8wMGJodDJhd3BpWFdGckFjOGhCTTNUNkZDQTlJbzR5U2F0clVrUndfMjl1dXZQdUZUR2wydExsS3I4ZnVLUUgyV2JDZjNSZjUwUDZ4d2N2amViNWNKNllhd0xRM0llOW4wbDVIRUFFY3NSMG1YRFJPOUlyZDRxc0U5OVdsdldsaVdkeU1rMHRqT1F6UWctVUx4eXQyQXFVNm85aUYyVHhSUldpdDlLRWh0TWJQaDZVakl3eWZZdmxHNDFWMmtzV0ZwZEQ4M2hKYzczSWJIc1hoMEtQNEtUUDF5TUlzWXRB?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Wed, 14 Oct 2026 05:23:57 GMT"
+   },
+   {
+    "title": "*YS Jagan assures fight for public issues during Pulivendula Praja Darbar* - ysrcongress - ysrcongress",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFZYVlZkQi1ZellNOVl0RVRSSWRDLWd1N1dHZ1VGalVHSklEcmtCMGZ1UjMtM050NzROX2RTUDRiT0dXSldnNnNzV2FDYy02aVBCUWlKQ1doZE5iRGxCTzVLM0IxZWpicXdVeTFwMDJYWjRZZXppb0ZTWndSdFc2cC1n0gG8AUFVX3lxTFBmSFdUZXJLVlBSQzRmWi0xSVJ5UXZkVjZXU2hQb3E1R192M2FoYmN1OUJhRWo0UENNUG1pd3J4TkhabHVjanZzOWFDcmQ3V3ZobXJqVGstZkFHSDJKUS1NbDhMc3VHdnJOcm1PRkNXa2Q1c2xyNlBNMGxhQlE5cWt5ZEdCVWFEeTNWMGFndUw1NWRRV0FtVVZBTzlWSUhTQ09LQkpHV0IyUWVYRmF5ZDlTS3NrQlBvYXZubkd3?oc=5",
+    "source": "ysrcongress",
+    "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Jagan conducts Praja Darbar in Pulivendula - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzljX2JQaG5BRDJmNXVVampQZzdZbUswaEJZMGwyeDc2eHZrVERVanEyeG5JYWVLN05kRjlPLU9WLUIyQWRuV0xDVnRZa1pqZnoxSThMNDMtVEhjeVI4STQ0c0Zud1F6TzZOVjlHS2RwUXY5VHk1b2VtRVVnVnRYanFNdWJKSHlmNWdLcWlBMG9sQVllZ0tveWpMcWtZODBKamNRZmlnbFJCZjdZZkUtREI4QkItaDDSAb4BQVVfeXFMUENYTmhqTVpsV2VxYkRUVXZ5alJvYXZJakVsdWZMV2liU2daYVV0MkpSbmkxbVBHak1nS0NkTEgzTEdpcGtweDd5UVYteE1CODlwVlhwMHJ3LXNyZVNxdEx0TzR1YVN4ZXU1Sm1DdlA0QmcxY2tLekRaMTFucG56azNyVGVYRzZiVnVaSElaSHc2b3FiVzJJSW11cFo4N0ZaM0x3UUpzVlo0RjNucl9La2hCc0toNzlwUkR0RVRVUQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+   }
+  ],
+  "mla/punganur": [
+   {
+    "title": "Minister Peddireddi inaugurates 50-bed Regional Hospital at Punganur in Chittoor district - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcjVTaHVnb09ETlJsd0xyeUo2WEJ6bFVacVJFQVcwanc3REVlcllzZ1ZHUEtRbGYxUXp0VzFYV3lfWFA4YldaNW9hR2JHYXFDcy1KX19qMGFNeXV0RHlDSVBGTmFfWHpWdEl0MXVCSmk4cVdCOGVoVndqWjZ3U3hOT0NaWVp0NmhlYUE0S0dveFRUYVFzaXUyX1VTcGNwbmxtMVM4OU1OM2Y3MzREMDJUU1VMNUdLU0RibGRHb0p6M2xhcHlJbWtFVHJMV1Z5dzhUTFBmeHBXUkRUNGF4T3dVRXZxcU96TlZQWHItYUZ4SGZMTmNaZ0HSAfwBQVVfeXFMUERUMzUtQnpLLVZIVDhvdG9wNEhRRTA4UC1LSWtZa3c3Z2pMa2FwWERNRkVSVVVHZjRzU2RjRFFpREFISHI2TVpRMVctbGQ0cXZEZWV0akxMU0d4dVNGalhXV29DbUF0Smg3bThZR2JUbHFIMlgwVXpremx4YW84TFZmYkxVWjk2MkRWeEM0akRTTEhOcWVFOHdzdUxZdDRHZGdIclJjSGYtRDRJTVU5WHVtaml5TDNyNmlZUVBPMkdWU2hBOXNfbl9IODlwM3NYaFJxLV93bkpGelJXb0NyRzNTd3ZKNl9lWEdXekRVZkVOZnY1QUplR0NRcVRQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 18 Oct 2023 07:00:00 GMT"
+   },
+   {
+    "title": "Andhra Pradesh: Net worth of contestants - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEJVNXR0SWNHQjdVRjhLRUlMcENPRkNlZEhyaWdlRnlFbTVFX3p2a2dkQV9zdlJzQ2QyWnBIYWhWSk5YT1Zaekl3ZFd2NHR0UmVTSmlaWHlqR1RmRVV3THZQd3pQMDFUaGpBOFBPZmNkWVBkVldTSHVvX2d6OVpOTWVrRWpEcjJNSWpGMVdydVFpWEhWaVdyLUZGT0phNE9GV3g1YTZFSEJlZ9IBtwFBVV95cUxPdElpWl94b3llRnBrNzkyNVZqVk5GSERzclhtOWtoRXFFWGMzcHJvWmNuU1RWaWJRcjRJRC1STzZhMk80VzdhVmRxZFF2b19iN0pyMUtmRnFucElvREthUUZQUzdJXzBfZ19HRVlHWEN5YWwxZmxzV0p6aEo4R3NDVnJWdmJuMXRjTGR4VUNnVFhhZTVGX2puQzdPajB5MVdic1QwRkZDVjJrbjd2dHhraGVKZ1ZmTW8?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Sat, 20 Apr 2024 07:00:00 GMT"
+   },
+   {
+    "title": "YSRCP MP Midhun Reddy placed under house arrest in Tirupati - The Statesman",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT242X29GQkppLXJUaXZXMV94SmhrQURfMFRLNllMdXVreFpRWU9Db0VmSmtZeGdvQWtUXzUzWmpOZ3lZSmxTMm5Ma2xSTWoyNURlRzgwU2NUc3llc24yODdreTNTWFRCX0lwazE2bG5xZ3FQc28yX1hKaHNCbjNBUk5EdFVxSzlqXzRnRFVMLTNZYTdKSC02WnRTcGtpNnE0WTR4OXNPazJTNHVMRnJ30gG0AUFVX3lxTFBSeU50VmpXaFIzUVBXTUdkZ0FzdThuRk13ZG1yd0VvWmxzRE5kN1hQUWY1LWV4b0pPSWJtQ3NhXzdLelplLUFkMVpPNXV1N01uYkNiSHZqRGJSN0NzOHlBenZrYzBiRXNlVHdqcFFSb3c5c3NYVFg5UEhjek95M2ZIc1ctQWpvY0JDazQ1bEV0NHplLXFobDUyeXJiLXFlcUhIMXZla2loeGR0LWJvLXpzTHBXUg?oc=5",
+    "source": "The Statesman",
+    "pubDate": "Sun, 30 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/puthalapattu-sc": [
+   {
+    "title": "Puthalapattu MLA assures to solve problems faced by journalists - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdThzeDlsbklwcGtrRUVPMFczeXdLRldCOWNrVno2TTJJaVVKcWFQb0RiMW9fUExmd2RiQ2JkX20wdVBSZURMb05kVmJfb3kwVjRxd0F6Qm84dERGenFFUU5VblRvWTBENVdLQ21ubUxGMFVjRHVXUDMzclJSUWo4eEI4Qm9LTk1WZmZSUHUwYWVJZUp4R1NCaERVSVhVZDRHWDJCZXU0QnBkMEhnUXhnZ0VQQ3N1eEl2UzB3Q2RPTU1QWS1kd1RWMzVCQ3RuLVJ2bEdV0gHaAUFVX3lxTE96cWVldXJ6MFQzaDdGcVg0a3AxcGJEaGZzRGMzY3Q5Q1drN2NRZ3YxNi1SdEtka2VlUnZTaWFsMzlDc1VyeDdpUXZjbld0VFlyQ1g1VUlESDhMWFFtbkZ0Wi1jTkhLM2MtTzliaGhielhWS2s5dzlhUm85YVY4OWw2c3VjR0dRYjFkSFJQQ3NwU1g3V2pTUmNjUS1lZ1JJR2R3dDE1d0k3ZWF3dEh3dEhDSVh1c3JnLVM1MmdESlpDOERQTG9hUEVVUlFfVWtOUkppdmtudEp0WEdR?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sun, 16 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Andhra Pradesh: Opposition Claims Biased Action by Police Caused Poll Violence - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVJLUF8yczlVaEs5ajFxcDJ5OVZMZFhINTJEMko0QTVUWGpvbXVDcWRHMVlISzRKS0FjUk1tOHh0ZUpyQVdhd3VCZ2ZRV2J1TEd6T3F0T2JqVkNNclNpZVY3eDBQbFd0NDJvUDNURWtlS19LM25BNXhWSnVIMVQ5bFFxaGNMS3JLejZBeThMenFqVFQyRE9obms5NVpzaEc3a2NRN0FlUkxEbXZkcHRCTkhqTDcyYWhoaFMxRDVMem3SAcYBQVVfeXFMUGp1TWR5eFozbUpxYWhRS3kzemNrYl9XV29wbjZxSHF6Wm5GNnYyV19aT2l2NDVnQVNPSWJmVnBTbkNQYjZLNVAxRXBBT0g5SUdsbTVSNVlXLXNTaWRIa1VkVHhqLXNUS1FWSWFkQmRvMUtjOTIzZjNJQkV5S0lxLUVsSks1MnM4Szd5eHNYUzhWNWRQLTRYZi1yZ1ZKSklSSC1RMGc3aGVBRExOQnZqaldLUDRXTTNMdkdtWUFVczNocFNuN1VB?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Thu, 16 May 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Puthalapatru (SC) constituency in Chittoor district set for a triangular contest - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT3lIaWFZNG5sVUFadnptSURFU1V4UV9wQzVPR21vVFE2UUlsTW04b1VZLWFYTmI4bHYwNEFaTUdyaWVNT3ZNem9qUkhFSUlnXzhSaEZhblhKckJfZk53SUZucXRma1RFMnkyTUdWams3YWhSb3haUk1jcnVFcGxnUlR2emVfVzJ6TEVHM1Q2cFNNM2hoYUZJaEF2dHkyLWxja0cyMzN1NDZsMEduODZsQ2xrVy1YRDZ6a01acm5Jc3FmX2NnRmRSVDdNM2VVTUFLM3NqZWxJNThhdWhmamttUXpibHpBWWc5UzBF0gHwAUFVX3lxTE5sU3FkOWZVcE1meTU1di1xNEJFY1BvYk9ZaHNJWldYLXJCQjZrZmVENDJScWxXdjVjVkxnZTBfd1pFSHQ3aDNXc1VsVzVJcjdjYnI4dS1DN2VQSWFjYjFOMW51UzVqemkzaE1PM0p6OGo0RjRzOWFldks4bzFUNFdiWU51NUtMcU9EV0ZVU0sza1F6bWRoRTc1VFlUbkw5aUNWdUpIN2xQVnNTcXlwdnlfcktPRXZuR0tBV1REaFh4M3RaZ3UycFpUakdOQ1gwdS1wY21DMnp6SFpnVE5oVW16Z3ViaGUzQjJGZklxeEFzRQ?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Fri, 26 Apr 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/puttaparthi": [
+   {
+    "title": "₹1.51 lakh crore investments to transform Puttaparthi: MLA - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGpsTEFpWHl2Rmc4SDdPTjk2ZlhKVmRuSk9tRXBac1RhQ1JiZG1SRVBLWWdHX1NXU20xX3RRdFlWMmRXTkdyenkwd3ZlN25SRUxUaXYtWDQzXzVyY2NZRDlXUTJPbG5KZEJkRUlfanYwTjUzaGtmQ093cmlncEdTUWFxaWNHTUZLQ1hybi1BdUZqTlk4WlU3YlAzOWJjOENRdjdGZ1AxTE8zc0FCMThIZVdPcW1RRUgybXNUU3JGZW11eHQzQUpycNIBzwFBVV95cUxQeFktVHA4MXdtUnRFSEIwRTRoNjZvU0IzQW1jWk9IYzdtTEc5TkZzSUNLaFFla0dwUl84LXFkc2d6OW5XTGV5WFdNZ1VkblYzM08wcVpaSkJRUEJNdG9CY3NvVEdnZmNibi1mdHVyNXVZRzctZFNkM0RiZ1BQalhMQkRGYW9oa3NjTklJaXYtUm9WZk43cjd3ZVl1ZmZNXzZOM2huN0hkWi04ZDJMTHlBRkNVa2hLcGpKdEcyOVYtVjBUaXltOFJTQjNGRzAtVWc?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT"
+   },
+   {
+    "title": "MLA launches new borewells to address drinking water problems in Puttaparthi - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFZNalNXZTFuaTV6ZEVXR3NEdGFNc29XS3dvSjB0engxRkVua1YwQ2x2b2F6YnI4ZDJvNDJGVlQtaXN5S09XTjBFNVotNzVwQUV1eEVwS2hZYkF2LWdsU0dISFNhQ1hnWjZEa3I2RFhMYWYxUG93SVg2ejhNNEcyT19jWWcxWEt1ampic3h1RlhxTDhSd2wzOUJHa1lsY0h6Mm1yaVNYS3BKQVRaSWdKYXBGbzM4S1JMend6cF91bWNoOVpVVnlwLWJ4T0lZVVpFUWlQM1dZX01ZZ0J3SjJsSUROVUXSAesBQVVfeXFMT0ZiMF9fMV9IazJ6akhGUnhoT2E4ak1NRi1GaVdyYkJDemdHbU9LSjdCeUFzUmVkdGNvU2NxMmZldlpEQjh1QmVzV21IUTBaNlVpeGE5MFpPS0xRMy02ZzFFVHRrcWpIbklnTjU5U0lveXFMUzNvSlhEZjlGR3VRUWp4NjQ5aDRNcTJvV1A0VmVxcmFCOFJtWHBGM0Vvcm1aZmJMSDdMNTQwNm82OFJsN1FTUWNnelE1OFhZYnlaNG9DV3Y4b01PeEpUZzh6MURINWhYMmRKeFpnY3JoWDhTTnktYUZsWnRVU3RYNA?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Puttaparthi Constituency Election Results 2024: Puttaparthi Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjBtN3Q3QjkxbnpFalg3VFRoWW40UlE2MkhxMWczSWhSdEFFdkQ4RXNCWVZ3MDlMU3N0VUdFcDU5b2tQaTZ5aFVIS0dHcUl1R1U3SExCQXh4SkdZcE0xdXduQWVRbU4yWl82bWxFNjVXRkI2WWVhRnFJdEw5MUZleDNYbmRSU1hHSzMya1dRemRheXlvbGVWMDdESWNIRVEyT2pLaW1KeDg0S2dNSFE?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 22:09:52 GMT"
+   }
+  ],
+  "mla/rajahmundry-city": [
+   {
+    "title": "Priority to development of temples: MLA Adireddy Srinivas - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGV5U2lnRXVPbEZDM2R2bVg0NGtkaHRPWjQ2enB6VWl3UjhZNUVVNzRTdzNMREN4Y3EwMDdvcnlsNWdHOTlYTndaQXNSVTR4REk5VGR6ZDdia0tORkl1OXRKWWphcWMzYU81QWwyb0dLelFTUGczLWdfbXVNbU1xeE1IdUxZZkRCU1hUeVhWUlltcWFIdFhJN2hBN1BFd09yM2VyNTdLRzAySkhVRGxoOWpabGI2ZzN1N3B1ZDNKekF4SThxT3fSAcsBQVVfeXFMT2p5cFRiN0R0RXVzaWo5V3pLMlN3X19JVnMza0tCZi16Q254SlAzRGRSWElQWWw3Sms1Uzgxa1RBcWFxeExKeEQ3LXVQSnFVc0stV0ltMXpXNm03d09vN3Rfa1NfZjR3b0dhQjd1MmJZYkdrc2NCR3gyZFFLOWdoZE45T0YzamhGUUxFRERWQTJnTldMQTFWd1pzZVgzUjBHaTZqWE12MlhzNkdsdlpVeER0VHB3ZERxTUdGRnVYdDBsV1h4TTAzWUtObE0?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Multipurpose Indoor stadium to be built with Rs.13.76 crore in Rajamahendravaram city - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObVRUa01RblZlQnpqLVF2WjlEdjItOUhRdndKZnJ1eS1Wal9ZaXR6ZVVqZ1BmX3pWWG5COUh6TzdNYWJMSFZNNzI4dEJjRkxfMVgwN2toWHFTRUNaRUxjRFU5RXJvdm5SbElCbVVDbUJPMlAxQ2xoaWlYS2lJNGZ5anVtdTBtbTZ0bHFSWGVmdG16a1RQZGc4OWd3RmFia2tEeVRlQkxVS0JzT2dna3AtWkJjQTd6R0NXYkFNS1MtamJ1LVhOamw1SDIzaWpuME9CcnVVb1NWT2JVRWV3SFZfa3RmV1A2ZkgzbUEwTkpR0gH0AUFVX3lxTFBBUVh2SnczMGk0azNGOW83cy11eXlPMWlHQlFjN1huenBtRmhWOW5zLTJscDJVYVFoZzFxd3ZRNExFekIyXzBjSU9WTUlXcEVOU29RalotOFRLamdHREkzV0wzT1FPTmF2QS0wV2U2RHpIWGxuV2JvNHBSUHpINlgyRnBVZnlNTVZhSHZJaFZBWmdvTDFNY1M5OExodS03a1JCMjNvV1NUWWV1MzU5TFdkcDlQdXhnOGZNRlQxemRtVnJRLVFOaVNZSHl6X2FCY2QtcnpHVThQN0ZuWm1UYlJoWnQteVp4cUg5RmtwUnJmVkdJVGk?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Rs 83-crore STP project under Centre’s Namami Godavari nearing completion - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa09XbXZlcXBnZUloSjlsVzFuWkh1Sks3UmNmRjFHY2UxU1pKMjdNQ2dRQ1QwVnBPdFlSRG03Sld4WDNjbmdSOG0xbFI1MUFXWWRqeUNVcWhJWTg2NTgtekpZanQxT3NDZEY4THZCaUVvWWVvbW1Yc0FpTHZXcGltSWxYeHJLOW5sOVA2UTRjVWtObldUZnE4VDFyaDRZUVFxeTRtVGx1NGw4R1Q4bUVQRTE2U0o3SXBpSTVNTkswOFBGSXZHTFN4OE1zVjloOE9uMDhlMGN30gHjAUFVX3lxTE45VDQ0bjZiMUpsa3V4dTczUWozbzMtMGpyX1FnbVViekdrcndsT0U0RW9BOHJrMS0xd1FXV3BBcmIyM21tWTR1M2EtaTZibW5jQ2VRZl90WXYtM3Z6TVc0MXpXcVBka3plLUZ2MFl5bFYzaHpHWkZ3TlZTS0Y3OEtGNnVmOEJuR19xTW9iWUw4UWpYMnFiM2dOaC1oRnI2NEZOQVkyQ2NCbjE5WTJibWRZcVUxUjdYdWpmdTBGZ3FpNEF1ODhTYjZ4WmhkRGhESUZYQ2paTXV3aXQtMjhuR2NuMFJB?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
+   }
+  ],
+  "mla/rajahmundry-rural": [
+   {
+    "title": "TD registers first victory with Gorantla Butchaiah Chowdary's win - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTMxaEFaaW92SjB0WnY2LVA5ZlJ3ZGRYNU9ueFN4YjcxZmwyU0l1Q0liVjRZYlVWcmFSajVUWW1OcXFYV3NzbTV4QUNiTktxQW13Y1AxeWQ0eXVZRUxjRG9GYUp0eHE5ejVqQk16bzloYTdMUUZlU0d1ZnZiMXEzVnEwZjZIamdhTVhtNVlXMVVscTE5WnpzUXJwTkIzZC1qNG0ydFpISDZ2TEFaT29pRDFweFhISnpsa0cwN0ozbVhncVprUkdYb3psNk1Xa2PSAdQBQVVfeXFMTWs4OGpTN19Rc3pQVWhBdm5jTTlJZFRhV2ItMUVQVEV4TF9zdW9uaDdLSzdrdXFKb1JnNi1PN19Vd1FnRkpNeGxqa2ZISk9PRWZGbTVnTnp4dnhuY2NadkhlanlNZTc1V2JpakZ6djJHOFowa0NvWUF5S3dsU29qUHRVUXc1VFFtdEhMd24wWklSTk9WbG5HU241ZTBzMkJSRDdaZWhfYzJVeElhNkhlV0o2N0NXZ2RrQ0g0X2JYcm9zZGotMjcxQlNqak96eTdyY2RJMms?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Gorantla Butchaiah Chowdary’s Interesting Comments on Ministerial Position - AP7AM",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWhSWVFtVG9mcVg1VFdwa1MwN25RRWRvM3lVSEo3aFRJYjhuVkptOWZCLWlfZW9xV0ZxLXlYb2Z1WlNPV095ZXNwNG1zcGdMOVU2NFVzT19xcTdNVEgxVkpieEwxbW9HWktRWVkxT095cnRpcWlhU0poaGd3UUZHV1JwaFZMM2g1WmRMeHhHS0VLTUFqYTRKTUhzN2xhSjFrS2JMMXNfOA?oc=5",
+    "source": "AP7AM",
+    "pubDate": "Sun, 02 Mar 2025 08:00:00 GMT"
+   },
+   {
+    "title": "Andhra Pradesh: Rajahmundry Rural MLA to leave TDP? - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTZsWWJUaXJSMUxUQlhVQ3A5QUxhamVrUTJmNEZGUS1USVNWeXQ2cWRRWU9ycmlNd1RPZkZ1SnlkY05sakl4a0RxUk9sQUhfaUxVc3VaYzZNRWM3RVZKaVdNT1kzbE1rT2M5U21mUkdOdVJsSy1hRjRkbTE1a0ZILTdUQmZxMmNSUkJpNVdnY3NKallRNk5TOFJKc9IBoAFBVV95cUxPdVpzSURIeW1uc0tBMEx5WENOc09sY2VRbFdreG1IS0F3cjNacmF5V2tGZ29uM2dieGFVXzllV2kxcl94X2tjZzlISTJrZGhyaDFsaHZUNG5jeFhyZlExa0RhWV9MSXhOR2NvZWJxdzZlQmpPbEFNSGtjX21zbGJkUDR6VG43RElheTFCWDJUc0V5QUMxSW96aXQ3bFVTMEtH?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Fri, 20 Aug 2021 07:00:00 GMT"
+   }
+  ],
+  "mla/rajam-sc": [
+   {
+    "title": "Kondru Murali Mohan , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWFQZWVxQkdXWkZENUprYTBLUzVjOHdPcDNZYl9DYzNwaDR1bERTYkhrZ19oSzc0c3NKekZXY1ItMzZxZUhUQmJNMHZma1JLN3pDTTREUW9pSGFJSDlvOEVLYnc1blNqT1BQekt3ZmJ5c2oxUWxvUWdobFVkb1BfVl9hdURBQ3J3anNtQkg4MVM0dw?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sun, 19 Jan 2025 00:01:01 GMT"
+   },
+   {
+    "title": "Rajam (SC) Assembly Election Results 2024: Rajam (SC) Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDNNMkMwb0o4bnNQd1djOEpJVG9xTlI3Uzk0LTF1d2N3bERCLXhsdnZ5Y1VVRDV5OFJSbW1UYTk3WUEtRXZmakpRa0VHQS16Vl9ETC1aVGpWOE9fYU9XU1czTnZaYVgxLUo4RllXenlfenE3NkZhNUxuZV9LYzlmSFdwaHJSOUU2WDNBMmhOcUxtZWxMeldPcg?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:15:43 GMT"
+   },
+   {
+    "title": "Rajam (SC) Assembly election results - News18",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZkJucS1xLThRRjF5dE9Jc19VaWFxWUZWQUROYktzWExtYy1fQ01xblNlNkVBTUVlczVJMHBMUDkxU1ZULWN5dHFNNjlLTTljZkd2VEtIbVlvXzBYLVNZQ0NuZmNFMGhXQlBrdnFfVmxVei14M0hrdmtmMFkwMWRYVGZaSnZsRERNMV9KZXRLV2RCZkNWTmc?oc=5",
+    "source": "News18",
+    "pubDate": "Wed, 02 Oct 2024 21:26:40 GMT"
+   }
+  ],
+  "mla/rajampet": [
+   {
+    "title": "YS Jagan attends wedding - ysrcongress - ysrcongress",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CenVxVWtqcWVwRTI0SEtYZi13TnNjZTBYc1B2YkpraVBZRlV4eF9RRDMxbkc2bExTelFvRUY4SzNocm1kSUZkZHpBa1hKODhHbUFTWThqOEU0bUQ4dUtQenRsNE9INWh5NlBBOU9XVWtwWW1CSG5GTmhR0gG0AUFVX3lxTE1LZ1BaaGlfZW1NLUw5NnNOQTBfNWFQdkxxSmxUSndXZVB4eDU1RDFTbXpIdFNmV3dlYi1Dem16SFlTdWp2em5ISVN5OGE4a2poY1duTnlHSE1CNFNLM1ZUT3JlSEV0aTd4dGhwV2lsTFhIWXd6d1lZeVZaUFlBVVo2S0hYOWxYRHZGM296RUFMMjhJNHZSMVV3VFJWQmxDRkNDNnVhcV9DVzl6eTJXc0RPS0VNTQ?oc=5",
+    "source": "ysrcongress",
+    "pubDate": "Tue, 19 Aug 2025 07:00:00 GMT"
+   },
+   {
+    "title": "Jagan attends wedding reception at Rajampeta - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmhtQXJiekt6VjdYRklaUUR2R09OSDh2aTVmbDRFNUZzR0pCRE1ta29TU1V1dldMd3ZWTGtrOF9tX3p2bGI4WTZEWFNyR1ROZ09NeE0xejJxbV9vdWN0dlkwQndRT3hCR2tUQWhCQ2UtVHBMQU5YMEthZmktWXl4N0luaE9oeWRwaWJPd3BnN1ZMUVY0MGk0a1VxRS16Y09QUTczNE9MM2RfSEw4dEJqNVFBS0tIMjd4ZEHSAcABQVVfeXFMTkVkbnk5UnhidkRYOVVNSmVnc1ZpOXFNQWU5R3FCVDFTeWNRTXR3cVBDUjhKNlZVODlXOUo2N1Q2QmV2VGhwYzVjU1Y1SFNZZmZQZV9HUG95S3NxQ0s2QWRNdlBIdnRHbkZ0VUNIZkMwRDE3ZzZHZE5CdW5kS2FheE05VmhsTGQtcl9rcWVpMU5oWkdUZFF4bnJZcmVVSndOQTRWQ0RRUmhVaEpURzFtYmRXYXZfSTVSbmwyMzZKcWpv?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 19 Aug 2025 07:00:00 GMT"
+   },
+   {
+    "title": "Rajampet TDP candidate Sugavasi resigns from ruling party - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORmxYdG4wRVhtTkFxdGJENzZ1RmIxMlZjYlFDSnYwaVVOc0Rwa3dUemIyRENEbXZiMHVtb2ZPZUNUclV4c3V6MUd5VDVQSzBNVVh1R19UTTlfdDA0dFVzVnVXQXZ0VHZ4TGJDMWQ2ZFV2Rkt1SWhXZFdyOGRVdi1LcXFodWxqSnBFc3U4MkNST0dGZk1sb0pjUWJtYjg0T1N0V0w4T25qeXd1R01ZYW1JbGVIS2liaFpfenJ4d2U5anEzLVJCZ2xlYjhfVGNjdVNi0gHWAUFVX3lxTE1NdFNJQW1rRVc3aTZTQTU0STE2T090TDJuNXh2ajFEbjdvUkZKdXlTeWNJYzl5TVk2NWJ6b1pub0Vab09HYW1FYkdDZnljYkFfWWpuQS1LN2xUZF8xcWNVYW1Pd0V4VE1WSUFMbzU3enpLVFY3eXprc241UTdGQ1NvQVBGcFZRZDJ0ZGUzZUYydU5GOFZ6Rk1mRXZndm1RS1hKeC1QYUduZVBnR1pEc241cm9FeW9EZGw1SWVhTFBLcFlZazdYN29uWnZTYXJtVnMzQTV1OHc?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Sat, 07 Jun 2025 07:00:00 GMT"
+   }
+  ],
+  "mla/rajanagaram": [
+   {
+    "title": "Rajanagaram Constituency Election Results 2024: Rajanagaram Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWhzZ1pLTXNqN3F6ZjJWbjFjMGxUYnBLMWNicDZNYzZCREg4M2pENkQxN29RdkFPTFlXV0YybDF6b1I1M3hoeDlsS1c3UkUyZWF6SUpweGk4LWxjMjdBS3B4YXFkZmRsSFIwWmxaZDRwaU51SUxvdkNSSXY1WUc5TWFvSy1HV2lEd05PNnA5SllIM3RicHJ3WDRzOXkwclNObXQ3QlFBSFUzN1FPeGc?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 11:34:31 GMT"
+   },
+   {
+    "title": "₹21-crore detailed project report prepared for development of Kapavaram Buddhist site - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOckFEZ0VvRDQxRDJmU0xYZVZueTlpYVNCUFdZOWNoVW9EN3pQdWpTWGZ4UVI3ZlJxT20yRGlmcXJCZzN1RUowRDBhWGh4bmgzbzVxajJYRjlIX3czNVBxcXFCRjVmNDhPc1c4cWpFbk1JdHYweWJIQklpOHJJcU40U0c4MFVCaWpwSlZ6RlhBaWRmVkRYdFVTOXg2cHM0UFdSVzZZQTdreU5UcWRfWnpfS0RWSml6RUEyQmtqbFgtTTEta3F5RWtUa2hSV19ZbHFLRkN6d2RUcGw4ZXhjV2FycTdkQUNrcGVfVUNuN2x2c9IB9gFBVV95cUxNLW85MUdzNDhiYl93OE1PM24wMnJBbU1RTFNLTVhhYW5YanZVcmpCbEJic21oOF9vWDZfSXFvWEwzWDdISjJvWjJGa2x3Zzk1U2lOaGtrRXNBQ2JrSFUtWGRqNWJNUmZIcy1vcVY4MzJPSGh0cWMzQi1DankxMGpWUS1oNl9QVkh4aDBmeFpvYW1OSVRsbEF3R3JFMXhWNEtYeGRrU0VwQzBxbjlUZTdSS19UN3NEVHBsS05UYUlMaDVKYVFocThncXJlb2pWSjNHUWxqZlJYQmhiMWVjZ2hzTFRpR0ZnZk5xakJ3NWswc1hDSEVWemc?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sat, 08 Nov 2025 08:00:00 GMT"
+   },
+   {
+    "title": "Rajanagaram Election Result 2024 LIVE Updates Highlights: Bathula Balaramakrishna S/O Gangarao of JSP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbnhRZjBJMl96dk5OdGpxbHNJQlZpMWpvakJnVnpDcU56R3pyT01hR25ycGtFV0tZYzAyTjVSNVRnQ1VfMm1Fb19BalN2VHZZZjdtd0d1NjNrNGxFMlNwUExhazZsYThDNzhVMXVXRlVDOWRBYkk3QVBwTWE3UFVmaTR4YVBEbVp6NDlLRmpUUUVrN0pSVGRUVGowaEpyMXBCZWJsbWloRFFvUUZaMkotZWpCMmhfb05BTFdDcm9hSWJWeEVES080ZHNrSVZEMjRyU2RFREZVUHhOOGVaZWlNbndacGRJbUXSAewBQVVfeXFMTTk1LUpHTjVCVktGRDVQRXZ6bGhDZGxQbUR1U052ZTNlaFA3LXVoQ3VTNEwxRGdHMjgtblJMYVljcnNFemtCcTJVQjNkZ1V3aWhjTjdVS1RwX3JoOXNrZ2JrbzRtZFdlY1FobFFZbG5EZXZPQVQ0c2FodnZSeWczSnQxR1h3enN2QW5LRWtQdmRreDczX1ZaNGpkTnBUZXNKTlZzS0lGVW5NU2pYS1otX0otaG1uaFlSM0tZS1lLdDQtcWtxN0pLckEzTlJ3S2pwVlNsdEI0ZGlWdXJSRnJXT2xDMmtuaDJKQXR5Vko?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/ramachandrapuram": [
+   {
+    "title": "Ramachandrapuram to will become a healthy constituency: Minister - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3hWOHdsRzJZX2g5dzFPS3RHU1I1OWVLZkpORGxkalJpZHhjaDI3bmJjN0YtRG41ekc1Q19PYXlRYW5BUjJ0c2N0d01pWlRKQVJhbE1EZkhHdnJlcDNWaFo1U0dhUVdvbnRYZU80RU9Pc1lHcF81ZmlUMlpqN0x5bXpGa25NLUduZHFpR29rTlNZbktpR003VG5hc2lGUjFZRTd4aDllZ0Q1NFJmMFhjNjR2SjJjY3FfVVZFTHgycGhZMjB0WFB2SjFQYnVWSXPSAdQBQVVfeXFMT1lwZnV1SDRsNFpDOUMwNnpublZGd29ZTld6dmV4X0RYbUJTTlY2UlpjMFBIdWFxSzVZbXZKVWtXU1BmenF1VE0yMWJuQlBsdjB3Z2lidFBoRllpSFhZeXJfckthQzhEWUlZcldiMXNVMjltQnZlZEttZ2FPaW8wLVNuLVlxbkV4cnZQZWVCLWt4NndmNHVKbkowRTBtb0lCRzd6dWF6SlJUM1pFZW5qMU1pX1dYdHBUOFAzT1l1WFJaRml5Nk1CcThFMW9OZWt6Z0FjcUw?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Wed, 08 Jan 2025 08:00:00 GMT"
+   },
+   {
+    "title": "Toll in firecracker unit explosion in Konaseema district of A.P. goes up to eight - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVGJQTm1qc2UwcmhqQ0FCS0N1OWN2QXhuaG81YjhSc1pZSlBmYy1wQ1R0VWRRY1B2a3BPbWJ2VWx1cFNQX2kwRHVOQW5IYnV1c3hwNW1Ddm5majZOZE53NHBLeE9UXzVCSnNfM0lGTGpMTVJ6WTJESnhwVFByTUYtbWhWbTBBbmsxY3VCbUpsZ0p2QlpsVUhHcTBrMFFxN1dlYVEyM3BjeXJDbVVIZ09GS1pMY0FDZGpfaC03MlVxcU5Za2YtYkRjLUxrQV93eG9SYnptX0FjRE9wVXRCVDcyTVNPT0wyaWN60gHvAUFVX3lxTE40Nlo2Q1BMRThXcHdBam9xN1Q4YzNOak9LOV9xNVlBNHk0S0o4aEplMlpPanFxS1hrUk0xWWZXUGh1MnVUOUZsUzAxakJ1dmZNX2xoU3VPYWh5dGxMZDRxXzZwaUNpek1nXzZTb01fR2ZPb2ExaXFVVGxHc3ZnRlVyek9qR19KX3VRRnR4ZFhKY2JGakpEa2duMDFaMV85OFpPY1B6ZGR2TklBQnRxRWJ1Y1Y0Qjc2RUVRSFZUN0YzeEgtdDRUWnpXRENDMGo5b3lXTC1LWGNMRmtHOUZtMzUxWlpZODJCNFRxWjRxcE9j?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Thu, 09 Oct 2025 07:00:00 GMT"
+   },
+   {
+    "title": "Minister warns YSRCP against provocative banners - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTFhNDh4ekp5MUswNkxPazdwS0lvVUdPaHlYVUtHSHdtUWxzRnZ4SHJGM1VtWVcydHFzS2NDbFdGRXFGMTFOUDZ5Z2p6d3hlYWtjUmluRWktSzVXRHZfVnliYkhEV2l4bmxPS0V2S3dPUVJvT1lmQ3Q5VUVndUNDcldDbnVZMVVubEZnNmVkdWY4VjN0bTBqa2JjUC1LSEtYVmE1U0RMXzkxNFBUNU5aTWVoX1B6d9IBwwFBVV95cUxQYl9GbjBYaUxMdng2NTJNQkVTWXNUeEhMSTVfZVdZdnRNcWd0RHlxWTJqSHB5OEpPb0NMcWJIaXc4YTB6QXZaTlZGTmNJQ19ERmt3WmxyQ0pzWktqR1RWM2Ewb3U3X0JYdjhoUWd0UEw0VHh2UHh3QjRFYkVPRERTRy1KOVRGMC1xRWtUclJKaE1ybGM1TkFKWVJEUWJRYlo0Z0ZlMENtMkRZOTNweFRUSnNzYnhFV2NRYWF3MlFmNm5kMWM?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Wed, 04 Jun 2025 07:00:00 GMT"
+   }
+  ],
+  "mla/rampachodavaram-st": [
+   {
+    "title": "AP MLA Donates 1st Month Salary For Right Cause - Gulte",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDhQNk03UmM3VFRQODJRRVRKeUwyWEsxb1EwUTk1SGY5SmQ5cThGZVVsaVNDdTJWSUN6ZG5FOV9GNDJadE9Ddm55MXljbGdWY0JhempUcXZtd0x4NDRlcjhROEFiMGxKcmVHbTIwY09abXY1S09uYlZHeWVyQUZGb01Fd2R4MWN4NjNfYWhveVZ3cTU4Z2fSAZsBQVVfeXFMUE1zUFJwSmdEZXZmQ1AtbXpLTzdiY1VGOWZCWHVBTFZ1aW9ldE9lVzN2dzV1MGRyUDZvd3dKT285cThnc1hsTmd6dkIxaGx2WkN6MHVqY0FfOGpGcXRvU2w0d1N0Vml6cVdJTnVqWnhxRDA3X1h6bS1ESUJrbTlrSmkxcXdnR2ktVjBHckxjbjA3SjUzbTZ0eVFJNzQ?oc=5",
+    "source": "Gulte",
+    "pubDate": "Mon, 05 Aug 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Inspiring Journey – From Anganwadi Teacher To Assembly - Gulte",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTNtT0xCSk1waF9sVWpKZXhFQUdRVVlhV1g0eUxNZFBBWUxiZGFxWkl2VldEWDBaZlpYM1FVaENoc3U4aHktbWpWTjE1Wkd1SGdqZXdaby1pcEoxdkZmX19KeTJBSTBtZ21YUlFWRlp6WWh6Z3hxd0t5M0tuSUJVLUgxaDI4SXpBSGRfWTJDYmYzRVFaWmQ2M3Q2SjbSAaIBQVVfeXFMTmlCQm0ybGt3WGVzVjZUTXYyckRRZGRjUjd0eV9HYTl0RFZqYWxFS1V4bWhwRnFpaFhBQ3NQcUdEaUNfLTF1UUo3X2pKZzRjQ1hkZS1pWHhWTjY5ZFJYOWFNQUJOa1dLald6cDlPNXZqVld3NWRFNnV1Z1Rlc0VJcVFHUmNfV3h2bEVON0hlRmItdHdLRUxWVm14VFNWcHZ2cy13?oc=5",
+    "source": "Gulte",
+    "pubDate": "Thu, 04 Jul 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Who Is Sirisha Bandla Telugu Origin Sirisha Bandla In Next Flight To Space! - Gulte - Gulte",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDlDNXNIajdmWW1RUTE3XzFKNkdiMXFhelVqSkNYQ2xheEl3WTVlbkhRVzE2bEExcV9aZlhnNWlyc05fM3B4UGtia1RYdTl2cURzQXFFekRVRVB5MXR0SVZUaC1TcWhjWm1ZSkRvVUZmVEVYMDhyMENXSEx4cmhmcHF3Nk5GeE5IcEZKTlRkZzDSAZYBQVVfeXFMT1h5MmZhaFo5cGYyZFJmRGNPUlFTZ0Z5a2lmVFZCVWZ2SWM1QWMwd0lKZkxDQzQtaWllZnBRd1hYcVRtbnNGS1lIck5JZ3lzOFZ3eGRfZEF1Q1RyZHNpallfTnJBSGtuVnFYM0dIc1MzZ2NZazY3TTYyUkM4anRLT3k5R3poY0tSUUdfTHFtTnJjUVJ0ejln?oc=5",
+    "source": "Gulte",
+    "pubDate": "Fri, 02 Jul 2021 07:00:00 GMT"
+   }
+  ],
+  "mla/raptadu": [
+   {
+    "title": "MLA Paritala Sunitha Seeks Withdrawal Of Cases Against TD Cadres - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmJoQ2NjSGJpamkxUkdScHN0X0EtX0hWVlJtWFNQdnY2ZHBYTE11WkZjMnlrZkpMUk5IN1Z3UHVIUkhucFFJS3d3ZzFFcU1wQUtLeXRBS0V3dktVM0c2X29INFZHeU91MUJiWGktWU5nazRxV0o3THl2VWxPUENtaFNOZ3BLY1VLaTdVNTlWcjdFSW03RDBmLXNrcDFSem1ORU9qZlhjbVFmWFktNmlHM3BkOHhqWWhIbEdQUEdwOVF6ZzRPdXhsZWk2X0lFMzc40gHWAUFVX3lxTE55TU83SkpLV05yaUV0czRmMGlDTGxNZDhOcEJYTXNmUkllNnUzVmJSTUJaUHNzT05zOG92TzFMNWNzVUFrTlo3RDdCY0xaQ3BKVF85YXV2M21XRG1oZFowRFUtSjFfODEwVTctNVZ6WTV4R0FZMXJQU1liSFVPYUJJTGkzR1Q1bnpHVDY0aHZzUjh5QnBERWRMa25VRHdzOFo5NTNuQmRidEQ1eXk0eEFwREk5aFNSTTVGWTVqZENyNExXc0dXZUJGNzY3b3FEX0JidHB5anc?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Raptadu Constituency Election Results 2024: Raptadu Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFc5cUhRY1didGw3akFOMzg0TTFfQTY3dmwtLXRHR3dCaWZWSEVXWFZhZkFxQ0dvWDkzNmNrVFo0cmVFUU9FeURneVJzT0ZmMV94bFJKMTk1MXo0S0FGQW4yU1JkZktGaEJnLUp4YWZOYjhoaEM4SHhRbUFNalpGdThZcEtQdlBBOUJFU21nQ1FRcjFlMG5wc09IRHZTUE4wTDItN2sxbHo?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 13:10:04 GMT"
+   },
+   {
+    "title": "Paritala Sunitha diverting attention from criminal past - ysrcongress - ysrcongress",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00cHlaY3hUZW04b2RZc3JMMm1raGdVUmJzXzVXakRLVlFOQzJOeVJpOG1LRDctLXpOWmZXNkxLZFlqM2NQazFmZFpUdVFkVzlBUFJfV2ZGbmV0dkRnYzc0REpJeU8wQWRrbmxDeDJjaG56RUdzeWV5b0ZObHHSAbcBQVVfeXFMTVlVRVhsWE1MT2pqRHFGSzVYcGtIRXZMTW9HZVVyZmtXajhDWTdrWERsZzE3OFpWT19kVmJBdWVDYmF4RUZpbVFvdnkzU2lTV1hIUEtTRkZPR2VJSWpVOFpKb3NuYUNvTkJoVXNwYnhlVDhoOENUVEZQSVNERk5LS0xFZ2lSNWNNTnNHN2pfeUxRRlZ1dk4wS2xTLU9FNEZLY3kwSmNNek5NY1ZsS3REZUZKNFEzbUMw?oc=5",
+    "source": "ysrcongress",
+    "pubDate": "Fri, 04 Apr 2025 07:00:00 GMT"
+   }
+  ],
+  "mla/rayachoti": [
+   {
+    "title": "AP seeks Rs 1,000 crore sports projects under Khelo India - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3NJWUJNTzBTNklIYTFPZW54eXg2TDBqdERVSG1zS2dYdktmMWlTU1FPSUZxRGEtc1k1UlBQa043cTh1dGFtM0psV1VxV3dtb2x4bnZKTkE5UUFXWlYzV3FVSS1yTW5LdzZCcXN0Z041TVo0M3VVRU1XZ0RpZDFROXR4WjFTVG9ubzE3M0tjSmNZOG0wMHBYbjVkVG0xdHYxcGJpdXM5SjF0bHhqSjViaEFXdzhvYzhIcnBMTHdhbErSAc4BQVVfeXFMUHktV2J2ekdyT05qcGJfMllfSTItcVJTWGRVWnJlanVLamFrblpCYXBMNEVQb0RGa1gyUmNnaGk1dWpjSHJaVGhzclZLeDUwZHh6QzlBY20zR05BOUQzSGtYakcxVy1iLXpZWjJVcFMtTVFTLXBjRFprRjZKZlE0ZUFiYXJ1ZnNOZ3ctRDU4aFd0MG5zVXdseWpuc0Fyb2s0c3NtSE14em54TmlhbmlNdkJ4MU9iQkVLb3B0eUhUbko4bzZvRGxTZ29EZVdkOXc?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Emotions run high in Andhra Pradesh Cabinet over Annamayya district headquarters issue - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYmtiaVdGUGIyY3hESTZlY1ZpejR1dXE5dWVqZERqcHAtUDN0YTF4alZFeTlpc0JIaF81Y1NPQjlIWWtwTkV3Q2ZnZENQTDRaSlNkTTJ5TUp5YnlyUWt5UUZKQTJzOVF0MjJ0OGJOb0F2NDVETGtHSUdvVWRkM1lyV0FnVGpnbGRXeVVXYVUzM3FFcGpkLTh1ZWZqWS1aOVVaMWlQWkN1dHVJZ0VaRllZc094ckZuQVRqQTkwb2toWW9Hc0RaQS1nTmJpSmNnQ1RvLV9sX2U5eDRlNXNCeXlfWE54eVc1NjNyQjNhNkowV2lWUdIB-AFBVV95cUxPOFBWMXI4bUR3UmZRVjJvTVNLaWttR1ZEMFRvUXdscEt2OW94MWQzN1NXcGNiN2tTNFhYQUZUT0tMQWhvMXBqcG1BUDFzS2Nic2MzbmR4WG00clE3Q0FTNV8zRmZWV2RfLWFfVElKaXhFb2Q1T3hNS3B1ckR1U2hwUVZzNDBKcFdWTlpKdl9DU1NDX2tDTFNEY1VMTXo2aGJQcXBvaUpDRm9Fbi1pSFV2YXk3ZERFWnNhTjV4b1ROSEY0VWd2WV9IVTBwREhCRXd5NlVyU2w4dzlfbWZZZUluNzNVcnRIUWRlbk9kcGlRTHpFa2RmWnViLQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Mon, 29 Dec 2025 08:00:00 GMT"
+   },
+   {
+    "title": "Andhra Minister Ramprasad Reddy breaks down in Cabinet meet over Annamayya HQ shift - The South First",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNXBxcFZaNi1FTEF4ZnpaWG5Ud1JEakR4S1FfUXZEa2k3WlNWYzUtcER0bWFyTm0tVkNtRk93VThtMXppNDJWbzctcWpZOHhoT3MxTkN4Yk03VjRJbTcxRUlDU2d4WkxhX3NDOUxNZnpsTGJ1elVrQlVUT2hfRXYwWFlhYWJIbDF5V2tmR2NoQ1ZjenE5ZEIxTjQ1VTFrV1RnaWROTXVWQUNUbG1Dd2UxWmFycWlxR3Aydjd3d01GLWlSUQ?oc=5",
+    "source": "The South First",
+    "pubDate": "Mon, 29 Dec 2025 08:00:00 GMT"
+   }
+  ],
+  "mla/rayadurg": [
+   {
+    "title": "Krishna Waters to Soon Fill BT Project, Says MLA Srinivasulu - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbldjZHN2TnhGdnk2R0U5NlZkR1ZmVE9lRWZtUzFNdUFHcG50bWxKWTJzdG1mcGNjTEJWNmhUY3Y0X3BZMEF0N0sxRXNUeUtEN0VqRFZ3M3lKWXpzMWRpTTFIQnZ1cENCZVlhWUpreGJWenUzbTJ5OGpVZG91ODZWN1o2dWZxSXZkY0d3Q0NQUC1vVUg0NmdxSHFLTmxmUXp3eEM0ZnBNY19CSS1EekMxUmF1SERqQ2lOUmRfMWRvOWl1WGFZLVgtRDF30gHPAUFVX3lxTFB1Um41NHdRYlFtbTNDRVcwNXJPa3NsbWlQc3FuenNEMkFWbmEzMGVvaXB4ZjloSGF4SEFFZFZWQ3VqaHk3bmFHRXBHeFh6Q292c2IyX010Mmk2VHFIbTdlVmE4SXg4b3I5WjdLdl95UmluMDZmMGNwcndveHNuc0o4M3AyU1RiV2gweGszU3N3NTdFRm5tVlV5bWszQnVnek9CNDUtX1ktTjVhZmhNcFZqeGlnd0xLYTJqU0lDUHM5dXB1akF5clcxUWc1Mng0Yw?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Sun, 06 Jul 2025 07:00:00 GMT"
+   },
+   {
+    "title": "Rayadurg Election Result 2024 LIVE Updates Highlights: Kalava Srinivasulu of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ29renFickQ4bS1oNWo4aFNBN1B2Q3pUNGFhWV9jR3FOT3dQeWMwM2tqQm1IOU1vNXJTOU80VmJaUE5hRTJYY3hOaEFYaWlZUk9yclJfR2M0WkdkUnlvYk5oMVNicFpxY2ZBT3dWRkMyOVBJeFJ4N1U3ZVlWdmZrazMtU2ROMjFzeHNzUmFvRWJuMy1WcURwamVERlBoMUVLTjF0VUZ4YkxHLVlPYi1SNzBEQmllTVBVQWR1T1ptVllrUnhaLWRLUGQ0YnFpeVk1SzhGS1dKejhidEpURXRJS2MySdIB6AFBVV95cUxPLV9HZjFHUWF0aFFzWEwxVmx2VHZsYVN3UGFVNjVQaU10RGFQMWg5OHZ6aVkwNVZEN3lvSjFFX0ZFNkVSdlZDZi1MUEVBWjZWVmJnZWNYdnFaRjhsY2VLbFctbmNiSUN4N3lnLVNFd0ZZNzV0Y1hmZlBwWGJGcjBrS0NNZGxUSGhfaUJaeHh6OU5ZYlpBdG9BWklDRmx6cmFfUlJTVFhCYjZEajIxSXplek10NXFfcjVIMjljYmhtQVRvQjB0c1JVb2hzSTJNcmlYWXd1dnNDYm1qV1g4ZGdxSnhiSFV2Q0t1?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Rayadurg Assembly Election Results 2024: Rayadurg Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTM3SHZaUmZ3eGtZNFl3aWxYRE5iLWZqRGV3dGpNT0MtM2E5UWM5RWk4empxdmJYNTBEX0V0elZqdXhxbVkzVGp5T3hwaG8zX0diZU43MFFHa3FGTHdCS0MzS1BRX3NYMko0a1kyWGdfNnR6aXNVbWZmbmFJRktYS3UzWDVtbjZBU3JJbnhzQkg5MnFEalNJeQ?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:15:45 GMT"
+   }
+  ],
+  "mla/razole-sc": [
+   {
+    "title": "Deva Varaprasad , Janasena Party candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlo1T2ktWVZld1M4UU9qc2JiYzlVYlRqT1plWURJZ21rRjZYYTI2WHlyRmF5bm1sSU9ZWWU4cnlJQzFKZ1pXTnJaLTRaLWIxZnIyU19nWExWcXhpbklrLUFBZG5ENlFYamZYQnBzZ0xYbTRaMno1M3J1eDRrQ1YwWUN5MWwtRlZwLUZfRA?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 11 Nov 2025 22:43:20 GMT"
+   },
+   {
+    "title": "Razole (SC) Constituency Election Results 2024: Razole (SC) Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTNpQTBqbG5XZzlleXBaVUJGZkY4c0RlU2JMNk9weXI4a21pUFdEcG9EaS1SMUxxNGpsbEN0OUNmNkM3VmkyLWFqd1MwS1hWM1c2M3FsU2VIS0dhcjlJY2lHTjNVUTFYVWp0LXVJQy1HQ0J6RXNONzFQVlNZU2owdGRzSlI0QndkQU5SckJDYkt2ODYyNW9ibmh6LUQ3UjlGbTRzbnRHbw?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 11:40:15 GMT"
+   },
+   {
+    "title": "Razole Assembly Election Results 2024: Razole Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWVuTUR0U0txM0xrQjRsekltN0xjQUU1MEFjbHVjTG5lQWxRZGltallpSV9JNWU0bk5GNDNGb0ItYUFDZk9pdlZEUnl5UFctcDI4Qkk4S1BrbDlfMGFzVVFCSzhsSktZU1l4V2x3TTNPR0FfUDdQSzR1NUttZ3RUZllEV1ZWSnVmTUgxZ0psUmtpZ3lXT0E?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:13:45 GMT"
+   }
+  ],
+  "mla/repalle": [
+   {
+    "title": "Rs 65 crore development works launched in Repalle mandal of Andhra's Bapatla district - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVElxd0RTQnlnVDJmOHNkcjZqVlVxQjFnX2pZaWlzYVlZVXRtSTJ1ankyZmhRVE41V19RZEpUV2lxQmVTSUxyZnpzbXRuOHo4dlF6NFB4STRoRzRhMktwR1NUVURMcUJCREs5WWk4dGtRclE4d0NaTDVERjNHenAyU3JFdzA3aGc5RmRnbll4M1pWLUhPVEpYbUdHNi1PSGNPSGRjc3FvV0hGVFNzdmg0elB5ajhpMjBjc3VFQk1fY25sdV8xVzM2eUpldmpqNEdVUGlwZlNZWXhfLVg5Z1RoYmJzc2xDUdIB8wFBVV95cUxOZkVNY3YxTTE5MXZoS3NTczVrUVNRamdtSzI1UGI0M3R2a0dKWkxaZTF5ZmRHY3h0ZzdjcWpPTWVHZU5zOGhKZ3Z1OHMteVFuVV9FTWJGVkRlMkNpY29mWXY4eURZVDFpOUJGSjR3M2FyMkY0QVlTdHVHN1k0SGZ2cllLX2tqc3VCcmNCcm13NzBxQmVSRVhvdTVxU29DY0pUZGFsM3hVY2xvSWVWTVY1LTl2dDZhUFpPa005TzNZN2JoQ0RlajhURk5TOTl5UFNGNjhJYjZZZ0RnSkNfMzJiWmJpY1l4ZkhiZXlleHZ6QlgwMm8?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Snippet: Samantha appeals Repalle voters to elect TDP candidate Anagani - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1ZEVW02RnVHR1lmOEhMb3FIQW81V2VlVWtyaWNCQVdEREVzMmw3VkJhV2pxWG1wZlI5WnF4eDg4bWo4NXB4OTJXRWI1cVZneHFUUVhZY2pHb2picTNqNHNMbUpNMHljS3B4VzdWWTV6WFB4dmlYZUZYYUVKdGdGd25HQmdrS1FSOWZXX1oxdmVubEFpUl9IZlhQYk5rbGdUSk1MY29DQm5OR3RpWTlXV3Q4S3NrODRvd05wVGdwci1JX09wd1Q1Wmp6QlF0MkNRVUpJN2stQk1iN1Zj0gHjAUFVX3lxTFBsTGczT19ZTzJONDVqSFU5RXlOd1E5cHYzUzNlZ3BxX0o2ZWJlNnIzMWpCQjdtaXA1TjFVblZncXE2bDdGRmEtN29ZWVgzSUNZSnc4aHNvcWd0d01uYnVIbFFFcUF2d25fbjl1MmFiSEFxeFFvTTl3Vks0aWV6aGJMRWRyYUkwQkZfUW9mY0dlaFp6LWc3OUY1QWwxc2I3V0NyQzNiQjY5dm03VnJhSjdySkJ0TmFDVnkxRFdJRFhYMFV0SnZsVmFpTkNERnFDQWZzem9Da0M2SVM2SnFnTjdwZmtr?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 10 Apr 2019 07:00:00 GMT"
+   },
+   {
+    "title": "Repalle Constituency Election Results 2024: Repalle Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUE5eWZlbXpuTHdnTGtjaDZScjR2MS1JRHVkalJnY1JaYVB1OWhKWC1Gamd4X25LMWJkc19vNU82NG51R1NTMHFNSFkyd2w5bUdwYzFrTzZwdzBCVEJxN1dZdTlDd1I4RExYc0xZX1NsUEMzSHRtZFFpb1dvQVdFYzRabE5VMzNNM3o3UVNxVlBPYWVxUjBuUG55Q3lJVlp6NkhwS2pHVlc?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 23:35:12 GMT"
+   }
+  ],
+  "mla/salur-st": [
+   {
+    "title": "Salur Election Result 2024 LIVE Updates Highlights: Gummidi Sandhyarani of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3B6MmpYVldFYjA5YldVaVBicVdNN3FLTWpNem5uWXZBTEVqOXcyMHI3U3VvRWd5YVlVX25TNWt1bUNIRm5WdVo0MmFueFJkaThpbjFxTV8yeHRTbVhPTkFmcktUSC1sMHlvbE9LQVB0UWdjUERpOHB1WjBKc0xob0ZCUXI4Rmpnb0V2OFA2Q3EyZlZnb0RZQlljS29CajZVZFVfakhaNHhoeThzcjU0LUpDWkdIY29CbVpYR0g2bER5eW5XSkFKSmlWeHNUNmFZWDFyWm5BcVFWTXRfRDRz0gHkAUFVX3lxTE5aZ25QWlJXYXdlVnl1QkhpbnduUmJsRXhRMTdwMVlOQzlaZjE1eUlMOEY4RVhXOVkwVUZaSnM0QTIwMk9xOTAyTGFXajFGbGFJWFM0Qzl2MzI2N185QUpVZUU2UWxqNEt6X3pIRldRNkpEM3ZEbWVTVnRSdFFzeU5pVTc4YVV4M2Nra0JQenBkYUEwMXhyN0xaQkhKN25iOVR2VEdHV003bFdKV24tUTdxME9UYU1QQmZwRHNaU3VVd2FmZVpuR0YzSFRxc01pYlpkay1aUVpCeFVLUDRwaDN3VkZVaA?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "100-bed hospital in Salur in 3 months: Minister - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUtvdjllbnJzQ3ozTTBvb1h4MkxsTEc0VnY3YmhoRmxxMllwUmx0WkQtWW5uczRwemlDTGthTUlLQUtFMWh3X29IVm9TblZoOEluSVlFMTF6WFhzMG83RlhPVUJ1TVYtZ2VfQ3ZUMUVVb2hqVGVQNHdicEtuZXJPemwtV0RPdUFUdFd3QWlTU3pJTkQwMEljZFdNVXF0UTBsTGdwWXBBNXVNZGxOYmd2UTc0d21jLXZX0gG-AUFVX3lxTE9ZQ0FNVlZmMy1QcFVDSkhVWFZNWEFXOEVHY2IyVDFQWnU5RXNVYU1KTlpYdmNqbzZScnhDWElRUkxvTGFDYkV3TDh2Sk5XczdnMzBaOUpuMW92am9jcW1nMDFOVExUQ3Zzd2NiWFdiNWM5NExOTm9Bak1mMmo0QVhFR3VWamZhZWR1bmZoVld5UU9EY0JmZkpSY1ZDS0luUDlpWU5wRVJFUjVaaGdicnQ0Z2hNTTUtcHpPVWlOa0E?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Sat, 28 Dec 2024 08:00:00 GMT"
+   },
+   {
+    "title": "Salur Assembly election results - News18",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGUtZzRfNkY0Xy1SempOeEVzYTNENUFLRGpVTFJNbGQ0RFpGaHMtd0RIV3B4dGZnbDU0ZUZKb1VqSlhJS004Z3FfUDJ2VWVROTIxN2xJM0MyRUpXR0xpWUlwTGFpam03eGdZNS1kbzZnRUc1ZHVreHh3ajFVSkh6U1p3RWwyUEJaejlibnVzRzZhSDR1M1E?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 08 Oct 2024 23:35:59 GMT"
+   }
+  ],
+  "mla/santhanuthalapadu-sc": [
+   {
+    "title": "Andhra Pradesh government aims ₹220 crore from mining in Prakasam district - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTVNnVnVPRm9vd0h5QzB3eEZUaHFoaG8zbjFSdEFLWnR2RkZaVFdxbGh6UVhROFkwU2x1bHRUOXhCaWJxQXdDbFpUa0pyWnJyblNnMGtSOXBzSG5aQVJfRXZ1aG9hOUxTQ1dJWGNPZXA3NjVtNWYwOTRJbkJ0N2dLdGQzTDZUUGtUaTQ4R3JwaUZSNTdZdzI1XzY4Q0JfM19iM3BhNnJpYW0zVm9zOVBwUlpnVkFzaEdSWnZ1SjdfMlhJbnJBMllubzZ2aW9Za3RFWjRhSGdLb0xldWVRTzBRM9IB5wFBVV95cUxPZ09SeHo0cFdSQTNRWXNwM0NCRUpPRG9GREFfWEhiR2R4bGk1RHgzcXJ5RVdPUmhPYW9SOUFsb052WmFEb2VvM3lubHpDRXA0aEhtTlNtNkd5UHJVbzhDMXhmUmJaaVBmMWhVQlE1bTZUczBUaVgyM3E5MlpwMGU5U1NNcWlUenhlSXBVYTlkNEZFWEI5NTBLckZzbURjc2JBN2RyLWVEWVRydmpSbXhUVWEtSVFtcFhTQjJvYWlneGNYQ2x6QTI3alZJc1pHRnh4T1NhYjhsdUJ6RExtMVd0VU9nNWlMOUk?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
+   },
+   {
+    "title": "Santhanuthalapadu Election Result 2024 LIVE Updates Highlights: Vijay Kumar Bn of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaVB1b3c0T3VQUG03WjZnZ0FqaFZKMUVsbkZfbnFyS2hIV0ttTmdDdzZUb085WGNTa083bjFBRjAtZG5iN0hQcW1hR3VqNmpPX0pQN0ZQaW1mZHR4QncyLXhBemhkazFCWW9yQUh5WV9TR0RNeXdKcU9DZTN2ZHRyYTBnTWtVRndhYmJsNkxDQlNjc1JMQzZiLUstRmF3ejBxS1JDcHNxNTNsNjdpSzQwV2ZwOWVuSEpqMFdMblVTSk8zTy1KUl9pRnMtVGFGYk42dFNvbW9YVWpWR3FIb2pRTzAyTzhXT3VJTVAxMjFrONIB9AFBVV95cUxQclJtWk93a3NkSEQ1NG1YZkJ6TE50V0JYZ25SQjNvMTZJLXBYeHFlTzZQTmZxOUQ3T0dRZ3pKcEZxSUpycGJBMGxsVm9DRGhWdmZSRXVFbV9ZU0xxYldrbGM2YTUzeHNSOEhxVVR0enc1dVY4MWVqWXJVSmxSVmlhd0NCaThOdENTS3RDYk1vdHEyM19IazdxdDQwNjNhbV9MYUdZUFU2eFZ5elNaY0lxNHFxeDVOam0tcl9Wa2pZbVE2bG5pVHVla21MbG00aU1wUWc4MnFqU0tBWWp4RHNHWndIYS02RlZIMldacUh6bGd2eDRV?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Andhra Pradesh Assembly elections 2024: Complete list of NDA candidates - CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkd5VklrNEdZRGRVN21GcW9hRWc3TnIzcWZBNGNSTG03a3d2ZDJ5bVVQWmJSU3B6M0VDUXlESHRTa2Z6eHpwRnQzY2xIbGVqRHdnbzdPaC1kb1N5OHF3cGQyVjZpODROQnhXZGhTN0tQeGFUaTB2MGVkRWJ1YnYtT25FeTVtR28yMUlNalFHOEFsMDZKWkdqUm90SEhxM0VjR2l3SEFlVEZUMmlSTWFXMHI0QlRwNFJ0UGJTQmZMdWnSAcYBQVVfeXFMT1VCT0dXRmw0RjU5X2VaUER3NG9CYjF2ME43a2xja2JQZjNqZGljVHlkNjVWM3BFbTZJQW9vUlc3MkxNM0ZlRDJIRkI1OFMxWWR4NDRXWVFRanpOc0JZWkZkZUZnTzZnZDVGbHlIaEw4NUY1T3dEMVBDMEh1U20zV2FFYjBqbzctTnZOVEdNbVRjNWVUUVNPRVlSN3drWFdQcGctLWM2Q1JhQjNBbXdEWXJ4aUhBMDk2MU1fXzcydjlfZ3dSVjhn?oc=5",
+    "source": "CNBC TV18",
+    "pubDate": "Wed, 08 May 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/sarvepalli": [],
+  "mla/sathyavedu-sc": [
+   {
+    "title": "Adimulam, YSRCP legislator from Satyavedu SC constituency, feels cheated, humiliated - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPODh4Vmt3VWgwUXZZTnBmaWlHbE9iYWw1TjVPVVM0WjNqbnVPbk9FTEE1Qk95MEJhMGhHN01YdnZZUkFKRWlTQ0dLeVdtemlFMFZROFYydU9MRGJvRE5SQmZuX2tNR1JtZDdubE9aNmlzNHBVc3dUY1ZiLXNpS0xFTndscDUzb0lGLXZYLXJMSXBlOHNrdGFZYTNEOXJiN0sxTWJ6MUNsdVVMWnBFS3BrdHctSjFfaDBjcm1jVS1LbWJlNzlJVzQxMmROcEJUTGdPSTdsdWk5a3BEVDBXNXhVeDFHVEI2WWJGQmNZ0gHyAUFVX3lxTFBlZ2NQX2phZHZuV19JaVAtTDZBSUh0VkxCQmd1M0JXdkJLUGVvcjVfRWpHT0JSd2lXT3JwY1VyVWU4RDlDYTVVdlFyNVkxdHZOQ1NwSHVULVh4T1RnZTNaWnhEQkdWQmU3SmNoczNET2VkVFhoTzl6MERsNFp6eUxHN1Vnc3VhR0MwN1NCeURmRVdSbEZCdVhaTUVzZ3RZVG05MHhnRXM1cjBXZnl4Qm5pMGJhUDFERzhxbUVZYlJVc3V3d1Zyd0VBUDd4SGJIZ09IV0ZYanlSbGFwdXdxUl9fME8wTzdTTTVqVG1oMS1EZHBR?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sun, 28 Jan 2024 08:00:00 GMT"
+   },
+   {
+    "title": "Adimulam’s Son Targets TD, Offers to Vacate Seat If Poll Expenses Repaid - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN1JWVGJQQWhETzZLSzA1TDhoWTY1MVgyYl9haEV0TXpIQmJmaWN1cU9hLU1ScEllczh4c2MtQ0xCd3VOdTk4YURIcGNvZUhJZjk4RjNtU2RJZ0R2N1diWEVndUpkN2RSZnkwX1VoTDVEb29RS3dwNmRVSkVXREllb3pCclkxTzlVR3VzUGZKSzVRbUVuci13YXhQRUFKUjgtSlFqVUZsbDlhX2tmVURKODBpa19EVGlaMkVyQjNWSGhrR0lTdWc2VGdXb1VSRUpXeU90ZFN0UmLSAd4BQVVfeXFMTTh5ZmE0V2Q3TTFIUjBiUXdwbnZrU3o3dmRRMVRETy1tUk8yQ0N2WmpPSXFYUnRoVlV3d3JaX3FJMmJILVkxZjRxYlFGV3RVamZYM3NZUkxVeUNJamlUTVRBZ2RlQ3hvTnFTZmhrd0dYU0dlYXdxNEtFRzlNUmg4LVR5QlpGV2FTc3ZnT25JZDdPR3U2emkzMTR1dUNDTDNkX29xLWFVYXZHV3RlMGtZT2U1clBBenY0LTJCTkUzd1FsLXNBZWJhUFdNbmF6OTJpOVNsVFhDU2JScXRicTJn?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT"
+   },
+   {
+    "title": "Satyavedu Election Result 2024 LIVE Updates Highlights: Koneti Adimulam of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRVMyVzJHMlpCZUdWVVZwSm5LTjY4VlliZDJnVDZXVzdnT1hINUJKblZnRHZGc2h0Q0NNQV9hcWpzQzZuMWdRbVlYUWZJelEtM1J3ZUcyVU1NbXI5VUV0SVBVaUN3QWlaT25uOXVYazZQOVJYdHBwSzk2OWstNC1kczRQT1R2ZGdQQWszc3NwMFFtV2MzN0IxMXNaXzVqY1VVdzJjc0tjTTRIY0hlOFQ1OUJKWWZuRlpodDJPdzVON2dPRUVNV05IOGVJRks3Wi1QMkxOMjY3THpxeHcwcXZIYUZLcFfSAeoBQVVfeXFMUDNzWUhFVGF1WDMwOTFhSWZYOUlhNkxEZEwwdlpqRkVQUlY4THlaRmxwQWltS3pLU3d4SE45YXRVVVUwNWRSVzc3eVlfRWVxempkb2kxZHB5ckxhS3NYQ1NqZ0pIdWFiUGxDZVMtWGFNR056alN2LWpJRzEtLVdhc2pKMm94a2VrQVB2SWROS1M1bk5VY2pxMzVBRTFuekVEWWE1ZUZaS2MxVExwVGVRQTBrbDRMN3hfYzBHX2NGMFFBX185dzZkeVZRV3NwQ2k5Y0dNTEVXZ3FPeWxKbnZqRnd3MWZSQjA5emFn?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/sattenapalle": [
+   {
+    "title": "Former Andhra Pradesh BJP president Kanna Lakshminaraya quits party - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTN0MFpDZEhtYndWNDVreUpROWVFMlhCaGdfbFdGWGY5OUNjNWlaT1FJUG4wRDQ2eVlhc1ZHQjRPemRrbnlic1Fxbm9PZHVwamZTVWtadng2YTNXUDhib3lVdHU1RkJLUXRBcDEycy1mSUJTVkczRWw5a1RKLWdpSnVob2I1dFpFMXd4YVA2cXNpMWZrc0poQkhidVVFUFdJWDBUS01nUnpKNTJ4X2ZwUTY4SC1KcXhlQ05TYzhUVzFycGNHZkdmX21Ja0dpVGljRG90SDdlemRzNGhXSkNvMkJLQ3U0LW5kMGZvSXF5ckVZUERyNzRV0gH8AUFVX3lxTFAyNWdEMl81Nk1tcDJQNGF6bngxaWJGVVpVakhaTjVESWFkNG80VlFwN05ZZUJpSFNuZlFoVG4zLUYyaE0ySjZsR3ZfVFAzdm9HWDF1d0JXYm9aa2hwRkpreURSNnlyazhEc1ZES3lzbTV6c29jLW1jY2tFcWdlODBBbXYwSEdPYTcxakhqekNyZnoya1dyTWlrcE9oWHVwZ1FvdG1JanpUYWpBVVhyVHR3bnBVWkREVVZGSGR4dVF1ODlvTWtPRWFaRWFQX0hJZmlRQU9YV3ptYVBiMkpoS19sRl8zcG5mWE5DQXpTNm5MdS0tZDVBUmY3ZVFQRw?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Thu, 16 Feb 2023 08:00:00 GMT"
+   }
+  ],
+  "mla/singanamala-sc": [
+   {
+    "title": "Singanamala (SC) Assembly Election Results 2024 - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy1DdDJjWGNPQ0E4b3E1VWhQWU1uUVpwaXIzZUd5WjFUemw3ZWtZa0paSm84dXV0X3ZrVmEtdEUxQnAzWUpQNHR6OEJXY0tkQzJRNjJtd3NNNE13cS1SX0F4cTZJYzZ3TTZycmRocDliY3oyMXNCbzgwZE9NOVQ1cTRDZEJvTlVRcDEwaGJwVmZRSFdwWW9lZExWMElBTUN1MU0xMEx3RndITzVGTmc?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Tue, 19 Mar 2024 05:22:36 GMT"
+   },
+   {
+    "title": "Singanamala Assembly Election Results 2024: Singanamala Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1NxbHBmUFJMR1FJNi1HdU5meXdVNXRuQ0RQZUlaMkREY19mMUFYYkJlbDl1X3JzbWRKbVpxQ2ltbmlobmJ1VExDLWVnNEhxTmRiSWkxaWdFTnYtVW5QWmlfT1d4WF9veEc0X1lMT3pobVdvZlVQMTZsOGRxb1NBdk1ReHpDeS1zajlmYVZwYXJqVVFNZnpfYUlEVEI?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:21:38 GMT"
+   },
+   {
+    "title": "Anantapur Collector calls for strict enforcement of SC/ST Act - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3Z4WTc2T3Q0QlM1RldaNk9yOUQ3by1zb2JqX3ByejNscFJnbzB5MFBGZVoxdnBMdkJ3WnFMTWk1TFFvSWhJcVFiamFvOGVmSzVtYnVfaXpsSVBHWFIwM2Z1VmhSQTJjWjNjTzQ2VWRlYVZWdGtZWWk5MFIydlZEdFltU2tGSkxNbkJSNUJ4T3g1dXNtNWpZbW9aOEhKeFdxU1RsRG5udlJGM2NqS3dRQXZ3SGxkbGt3MVo2YktjN1NXVTJUN3RZclp3ZUpXVjTSAdYBQVVfeXFMT2tyLTZ5ZE01RXllVEptQTVkS044aXNUbDhYal9OdFk1YldnSzMzS1VnZWQ5b0RYWU50UVZPTHJmZ1pwU19xTGM4Wi1fZHdNb2R5X2JWVE95RUhIbWFQU2dHZVQ3cV9rcGN5R053N0ZLMm9rMFJfa3ZiVkVJVUNPd1lmOFlRYXJTZk80WVRoZnVzOFR0TjVSWTNNYTJVTjlFR2dzb0xrSTgzZ2xzeGlKRGpPWDZkckVUcFctU2JnWEhONFpvVDhrMC1DOUQwTTdJREtUQUFPZw?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Wed, 07 Aug 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/srikakulam": [
+   {
+    "title": "Gondu Shankar , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeURKaEcwVTB0S0VLVGpTZk9TSVloeGtJb2NyejRmbVdQM1dObkZOVzVFY1NlSU1LaXBUVVBFTFlpbVNlOE5xTExvSG5mWWpMMjN0ejY0YzVaNmZNS2ExbDR6cWxQVXBWSWN1dEFtQnZydzRnbkd5Y1hRWWYtM2hIYnFfblRKT29UUUE?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 14 Jan 2025 06:02:52 GMT"
+   },
+   {
+    "title": "Unlike YSRC, TDP chooses young guns over political dynasts in Andhra Pradesh - The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOenJfVklqamdiWU9LelM0b0pPNVRUUm9KQ05ndVdMb3M2bHJ6TklOa0UzTmlZVjhhMjZ3eVlvUlFMbG0yRkhvdmZjVWlLOHBrU0txQndRSHM0VkV4bWtCRUk1ajk3azJoMTgwTXdSRmRzeFlkdFNMRElvS3lidFl6b2VLSWhJMjBCVzQtcnFENjFUSlV3cTBKNkIzQllETDNkRnBDTEJOYXRFenVycDZxYXhqT2ZfWVlwNGNiMGhUM1RYWHZ5ZFJxLURDSEhWQVFKam5iTEtxLW1vd9IB5wFBVV95cUxNZTMwRUdQejJmc1A2c29zb0FPblowbUpwMWZUd3BNQ3dldkhaQ3haVGFCamg5Rm9vQ3o4QmdMTjBMOUpsck83V2pjaTdpT01ocHRIdlk0RmhSNm1hZkRHYm1IUTFfd3gtaXU0MmJELW5IUXh0RE1TTjVFVFZrZlRQRTJBUHRZZ1dJZWVuUS1xcllYWUxLSVdIb3dla19GSnA2YUthOWc0eEp5TzMzVjNBemd0U2U3czdzU0hnVHZPZWZnZVZCNk1vS3NEamhVQjBXd0RTTVBLOUdrbWpTSzl6aUJoYmgzOWc?oc=5",
+    "source": "The New Indian Express",
+    "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Will strive hard for the development of Srikakulam, says TDP’s winning candidate Gondu - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdkFncGUtYjlCU0RtX2VWd24zUGNDLWdrQ1BHaXd1YXhYbUhLVzlBeHFINFd5Znp6NktycHJnbTZKUHVNTWFyd1YyOEo5QnpTTDdTeWkwc0dQcVc5RVdzY3p3RUtYY1JRUDBBd3lXVk1yOE0tYTRxS1F0R0JEcVhiR1B0MjB2UklzYVg1dGNBcnE5bm55d1BIbGkyTUlWeDRYdjR1UkFad0hrVmRXbEV6Z29yQWlhNENzWjZwVVpUeWR3MV9Mdjh5Sk4xRzU0Zk5acFk0QUpJd1B6V2txaFd1ZThSNFNHakppRnR3aVYwd9IB9gFBVV95cUxNR2lRcXJPM2hXNkZ2WDc4MkQ4ZWFpVmlDOWsydW0xYV9mLWJUekJmdEpEMW1VVU1LM2NZaGpDanRFcTZUVzlUTG1SdVlSTlRlcDZ5bUMyd2xzZnJnOGRBTzFhbWVOUHc0ckFVUmFCNi1fakh0UncxTk9Rdm1JVlp2cDQzV3dfaGhNWnBqeWRiTldQSnkxVjJNRUtTV2dDZTBxWTk0TlZweHZrQzF4V041WV9IT1RsTkRLQjFBbEw1WGhjM09vVXMwQy1leVc1eThTUVY5S2Nvd19QaUYtbXBtUkFqQWExRk5QVHN4c0lCQjN1UnJObnc?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/srikalahasti": [],
+  "mla/srisailam": [
+   {
+    "title": "Srisailam Assembly election results - News18",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXN5VHpINjVGZkpzdlBtcVJTbHFoMWRtNkVjOVlEWTg0bG5odXRyZzNYWGF2aTBjeWVzZlNqVDdtUE1hYWVnTnpRODg3ZWRwNHUxWHFvbW1nMUg2RHFpaDZKeVhMQU90NnlyN1BjVnc0eVYweERRWjV1QWZqTGpjNFBETWpVak1oRkM1RjhqZmJsTkhWZzRYenZQZw?oc=5",
+    "source": "News18",
+    "pubDate": "Wed, 02 Oct 2024 11:26:07 GMT"
+   },
+   {
+    "title": "Located on river bank, Srisailam assembly poll revolves around water crisis - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd3pYYXppQWxiVUVZWFZtS18yTTJTS2h0d01aYnByRUlXa2lEbHpQRHRoUEhqN1pMUGx1WERmZTU2WWtFejAwSzkwWjFSbnIyYUJ6UmRQN2Z1TFlrSWVkMnduQ0ZiNUhicktxUXFmNjJCak5peFc1VERaM0UtX3JSbDl5Q2drNXlrUE9aQWVPZm5kQ1FUVkNjSjdSUDBuVVJmWWpyRDdKYnA5TVVZc1lVN2JtOTFwUU1PS25oZi0xX1FENk9RUTJ2ZUhrbUNJRjBtcmlxSVB3d19lN2JueWt0YzRKRzFScW5lTmdZaERsLU04QmRYRWM2VVBTMXDSAYICQVVfeXFMTUM3RzF1VVk3aUsxSjUwR1ZFdi1LSl9HUUNPQ3FLVlJ3TXBHX1ZKVDVnWTV5dWNrWkhNcjlIRjFUU3pLaVhWZHFQeGhVMVZVVTFsTGRyMk9qY2dHWnVwVTFWQjhRTkVMLTVGNlc3d1NUUV9jdjltbWMxM3A4WHdYbXd2bERSY2JQSXVEalFiNHJ0UzdicE5YZTdUdjZPYmhsamFkRnNiSjNqb21TUDNfWFJ3YVhSQlpLSmFIWWNYYzAxdC1uWFQxaG5ZX1dUUUdGVG9wQmpwMVNsdXdLazBpVlBqU2dsOWdqcWlMYk5nQ2Rpcm9kRWoyVEFrQW1maG5Dd1JR?oc=5",
+    "source": "The Economic Times",
+    "pubDate": "Mon, 29 Apr 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Srisailam Election Result 2024 LIVE Updates Highlights: Budda Rajasekhara Reddy of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWtUR3o1aXJnVk8zUERzZVY0YjVFaFA1YWxzeEQ2d01hcUJTNFJWSTFuTGwtYXNEX3ZseWJGTE1VWlBYYXBJenNKRmZZY3RtZG1iTWJqNmRkZ1VlUnpPSnVUbWtsQ2diYVU2dVRoNEo5U3F4SG1jb0tXWHlsVFdFM2hWWUVOX0FsYS1hMHptRmpUUjFTZXdXeWVJUVoxVWYxOFB6emo0STZTbWRkcFBoaDVVR1dOaDI4a0pkRjZnblptWTNPakw5UzJDbGl6Z3VQMEhZc1JzWHl1SjN4R0QwSG9ZWHnSAeoBQVVfeXFMTjZzcDRzUnlqM3R2UTdydWVXcjBmVFJDbDYweUEwcU9BTWZIV2RyTGJWT05DbmxrVGhsWFpyVnNvaG80cGtPV3d4VEZ6RGVMTlRKSUZ3RUpMRjhfcTdsU2ZscDJHUWpiODRnZkIzbHhUZkdSeV9FU1hhNjk0RjRLVmpZWGNqLTQtc0s0ZXZaSHR1TGZHUnotbVlLM3dXUWpRS0JQUTlIMndjM0xHaTEwWXRJWWVwb2lmalhMaEdLQVg5LW14NWdhNG1XYkN0Y3E3d2tBV1kwNU1oRG51cHFXekFFazREbGpkS3ZR?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/srungavarapukota": [
+   {
+    "title": "Construct Central Tribal University at Relli village as per original plan, S. Kota MLA urges Chief Minister Chandrababu Naidu - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQazZzcE9CQ3VyRUxERk54YTllWE9CajlOWVRjNDJUckxHeE1SLVdfYkxBRGNHMEduV3BpR2dGQkdwdVVUVVpEcERzUlhYd29zcS0wTkdXQnpIVnd1NFdKNGFWcnplYzdybW1fNnZHYm5XSm40UV9ZUXY1bU1JWUVENXRnQTdTa2lnVF92N210QkoyNVRMOEJmNW4wN3ZYLVBXam1VZjNQM2h4M0tBQXlqdmw4dnZXTUlpMmNIYnZqT1VUOUhZX0N1ckpyOGxnN2IzcEVCTzlrVTRtTDQ3RjFITEYwT05vWHBMX3Y1b2pUZmVGc29OanM1Vm5LRHVwdU9tNEM2ZVFqZTVGZTRYNkJRa2wxaDdwdlpZdm5SemhSTDV0X3PSAaoCQVVfeXFMUDJ4UjdnMF94MDQxdTdkSWR5TGIyRHl0TVV4emdvQnVUa29rcGpNM25yakNmcUFTNlNZQ3c2SEZzc0xpeURDLUN4UVdNY0hpM1lGLW0tSndyOGJEdmdFM29LajVhV1g3d0VlZ0l6TWtuM25oN2ZUTzVndzVvZ2prZlowWloxR2gzTUtVRnpsTEJWTHZlSWw1ZWZQSFZZZmlDejNsNFdIaV9oOVUtUEVsWGFWclNaaVFkT2xRaUp4M1I1LWE4b1phWW43YmRXRGlLckpTRkp3Q0VSX25pcHZRdHp0T0lQUzg0Tm9fR1gxVHFTYjE4N090UXJMOGZ2WXJnNVUwQWNmRlRDeUswT0ltaThHMlZxX2x6VUxON2t4cVlYbC1nUkRrWDRFdw?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Mon, 24 Jun 2024 07:00:00 GMT"
+   },
+   {
+    "title": "Srungavarapukota Assembly Election Results 2024 - India Today",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZE9WVHVneEdrT1h3THhvTWp6WjExa1lfS19YcXZ1Wl9vZkFyMUwzSG9qUDd1U1VIN0VLTjlzenJCcTBnX3hTWWpRR1F4anZ3V2h6M0RpM05ENFBialRfRWxkYnhaNVFkaS11UmtKeXZjZzRNOWYtUlJNWS1CLVlnR1kxMC1uQUZlLXhZWExWYXI1NmZiejl5SnpnRk56cGdoQXlj?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:25:34 GMT"
+   },
+   {
+    "title": "Srungavarapukota Election Result 2024 LIVE Updates Highlights: Kolla Lalitha Kumari of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd3JuSG1VeEZneUhodU1TcHUxazdIcjg5Y1hmUU55SEFmYlJHNzN5cnY2VTBobGt4Z09HZ3UyN1dVV1RnRlZXTy1Td09RM3ktYzBVN0VSeHdOOU00b285S3J2bk5xdU5WSHhPMkVCR1NfRXlsRTJXSklES2xYYjQwRXlpTG1uZDJxcEVTRk8wdDZWV01ENkJadUZ2emZpakpNc0JXdGJrUWg4aWhpZ1ZubzhKZG5kZ1RpSHc5YW1xd2RnMF9iMjV6Y0F2cV9uZXFFa20yYlRaM3k1dmY2U195VE9Cc01CTWZTbG93TEtR0gHzAUFVX3lxTE04eE04VXJ1M2xpTGhCWDVzaHhBbU5WVmRmNXpMR2pSNzJzMTUxVXgwancxR1dRT3RzbUt2Y3RKQXhlNWV3UGhpOFMxclR6TW10MGhLdFRTanYzeVZTcVNhTzhWa0FXbXpDR2dSd2RXV2pCRFpGSWhtcDRIRnFWVWJJdDdKbGJES2dKWldUUzhaaUw5OGI4SjlrWWhHWlhaWkU3dmJPcDIxdXQxWVhVWm5CYnl3UXIydlM3Nkc0RUd5YjNzS3NVTUxseDBvQnFja2lqNDBFamVtLWh3Z21lR2paUnIyY2hsMVJEbFJQQVdnYzhmOA?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/sullurpeta-sc": [
+   {
+    "title": "Sullurpeta (SC) Constituency Election Results 2024: Sullurpeta (SC) Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkMyV1RDYmQ2aHJGeFMwbDZVaGtBMWc2NHUxNTZuVWNxWFRrSm9hMFVPbDNhc0ZvZG1mdS1jaFVGN3dkdjhYY056cHBfSnR4QW5UeDRhSnRObFFZR2VQN2pfekpGNXJLWFJSTDQ5UTFjN1pNZ0RiV0xCZjFadWZ5dmQyaW5FX2s1bU5zQ254UDUyWHNsNEpPTXVtNFN5ajdHUHMtYXdTbVh6TnNf?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 11:14:46 GMT"
+   },
+   {
+    "title": "Sullurpeta Assembly Election Results 2024: Sullurpeta Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1ktb29CWllKYTc1a3VwRW1KMng3UFdFLVRUbnRxYm9WVi0xdjRRWTBXUzkwVkIwMDJpSHlrTE5HRHJ1SjhnWXpURl94UnZBQU9peEljb1JlSGhWbTh5QXZTOVhkRzd6QkMxQ1d4dUR0dDdwaFdhNGg3THBQZUJfSTZuU3NqM3p0N0l6ZVdiajNIUzQwME9GTHFpRQ?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:19:42 GMT"
+   },
+   {
+    "title": "Sullurpeta Election Result 2024 LIVE Updates Highlights: Nelavala Vijayasree of TDP Wins - News18",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSFFkNjdJQ3dlVTZWQ3paUDUxclJFWFI4aGpuWk5wTWtsUnZnTWNvdkNaWllfMGFua3JScGZRS0ZMYjhMVndNX1dGWHVwT01WMXRUWmVZVUNtbVZtZ3BmQUVJSkc0eDk5YkJGNWpacTlDY3Fad2h0WjI5ZnQtWFI2X29GSzFSdTV6UGFXR01QZGFRWkwzOFRJY092STk5SFVaQ3RwazRqRXAyYjlxWXRzNXJwTkF3ZEYzSnRpaWhsbDNQNnl5bHZtdUMtVDJyZjJBS0lSNkg4LTZ5ZE9QSVpqTEM0azdTZ9IB6wFBVV95cUxQSFpkZDZtUVpmb3F2R0wxOXo5Mlh1VW5xaENCaU1odzJYR2ctdEMxNmc3aDRXX2ZnT2FxaXMyNGNVX09ZZ0gxdjdEU0RkM3AzNVNEdmZha3RyWXdrTlRqY3VYNUZ2LXViU3R2T2dmbi1iMEFEYllDVGNOcWpvbEdZV3NPSlI5cGxlWF9peWp2eEpPbUhIVFY0WXpPMzl2cC1IbnVwYk5DdmJpenB2YUZ5U1h0VGhBd216NE5YaXJySjJBOTE5U2U1MEhBZG5vQjQwcm1fdEFjNUJvZ1hRX1NBV2NJdUxONFg4aXRR?oc=5",
+    "source": "News18",
+    "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT"
+   }
+  ],
+  "mla/tadepalligudem": [
+   {
+    "title": "₹2 Crore Olympic-Size Swimming Pool Inaugurated in Tadepalligudem - Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSkFCbldiS0RaOFVlSUFqak5FeURyczN4UlRhVGE2ZEVPcWVfNWtLcV8wOEhNTWRKQVIwbFBGNG5YWm8xcHpWQnVvVndibkxhTGUteThYZWxjSjRaUjhKcEFBTlR5U1FyVWdpVGRVUkRyVFVmTFNtYzByTUk0ZmdoVk9mSWx3bEpISmVoSm84UkxUVm1PaEVJRWRQbGhUVk1iZC1UdThvazl3VmEzQk9xT1RiNGQ5NmFqUnBDSDJfX2JNRlV3LWw5cjlSQmUwdDNK0gHWAUFVX3lxTE1Cczd1NXpQbTF0NWtRZ1JZQ0lNdlNGSWM1Q3pYcTJheUhaVk9DZTVXdHFORHJzMlhiSVZyQ2pEcmk5aGcxT0JmMENYNXZLQW5kRnhFa1dNTmpUOHJaQzMyZWotSnlxc1NHZGR1ZEFiT2tsOUt2aExRZ1YwWml4YTBvcHA2LS1kdjdMajc1R0g5UmpybUQzZzAwamlWejA3SXB1QW1EbVFsU1A0Rm9XcEJhSUZJR1IyNXBLZHJhbjExMElGdmU2eldneTBzOWRBUGFEMUQ5VkE?oc=5",
+    "source": "Deccan Chronicle",
+    "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   },
+   {
+    "title": "More train halts sought at Tadepalligudem railway station - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPazl3RUZUU0xmd2hsd1oyZVI2d1MxUkZHeG1mbXZBNkFlcmtXNmt5eVFNaVExU2FOSUZpOWRwNUdnRDNXUl9odE42bDljbHp5ZGw1NlZGOTZ2NG1aMHJKRnZ0c25BblpHaU81TGdTZjU3LThSNFUzX1JISk5yY1pXZXFoRTRmRnlndTgtaTdCWjZqaW9rWVQzNG9veFJiQ0dXcE1WUUpaemM2cGU5MnRJc2tSc09UR0ttSnJleU1HYmplWDFzTDk0cWNCY9IB0gFBVV95cUxPWHg2YlV3UE0wTjd3SXhGZkJWclctdWVIVlRUSDFmSU1GTHBkNjZnQkYzSVBRSGZyRTVETEVrMHdTcDVWa2drRVJqVHljbUV0X0dSeDZkNHlJQk5jTW1FeVZhaGFQYWZPaFV0YU9GMEV2VmsxTmxYUm9RMjBuNjNTMkplUGszX1ZXOEdfUnJIWi1QVjVJTHJCRVRfd090YjcwVGxBVmk0c0szVHZNUWJiWEkxTENjdFRqOTR3aF9Dek5NcWQ4Ylo0ZmxZSXNOZUtIbEE?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Fri, 09 Oct 2026 17:41:39 GMT"
+   },
+   {
+    "title": "Tadepalligudem Assembly Election Results 2024: Tadepalligudem Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTl6NEVndmRPY2V1MlFDaUdfcV9lS0pzWERkY2Y5WmZEZFJLMHptRURkUUFZS3dsa2c4QW1tci13WFAwWVlIYU1OMnFTWDJqRmJnVkRfang1eVpuUXBndXIyZXFUbmNMdm9Db0NiQjQxTGV0UzR6S0VkTmw3WXQ0cEFHMU0xSU9fbGpOQzRxZHVHdWFmUWNUa2RRRHhVUVZq?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:23:50 GMT"
+   }
+  ],
+  "mla/tadikonda-sc": [
+   {
+    "title": "Tadikonda (SC) Constituency Election Results 2024: Tadikonda (SC) Assembly Seat Details, MLA Candidates & Winner - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0Z5NUE2TV91ekcyWnl4Z1RTaEU5Z3VuVE5zNjdMVC1lUmZTX3pkNVdRaVZWWjNPZkM2RmhxVnRSZVR6MWZVbUFab2xGbVpnd2E3ZkVydzdTQmpFOEhmbFFTVkF3TE9JcHRIZUc5SFV2bVV4Uk5xOUxUY0VVNW1OaVBIQ1k0dVRqQmgteFcxX3U5TllvRElmVGxfcENpMUpqdExnWnhBbzcteTg?oc=5",
+    "source": "The Times of India",
+    "pubDate": "Mon, 18 Mar 2024 11:06:36 GMT"
+   },
+   {
+    "title": "Tadikonda (SC) Assembly Election Results 2024: Tadikonda (SC) Election Candidates List, Election Date, Vote Share - India Today",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczc4MjZ6QnhqQWpZZXJnTnkwSTZBOG9ZNTY3TElhWTNZZndiVXNpX3ZfUXRjTGhKZFRNbmoyVWlLYVk1Rnc0eGZ0YXZVc3BjV1NaNmpTQ0VHSk5CYmx5ZWtrZmFNaFNqOGt5Zk5xX00wYWg2WmxzNmRnb1d0Sm05Z1ZOZFJJcF9ueElsMk82Mzd3Ui1ubHp0RHU3RUpBQQ?oc=5",
+    "source": "India Today",
+    "pubDate": "Sat, 16 Mar 2024 17:23:45 GMT"
+   },
+   {
+    "title": "TDP-JSP alliance announces candidates in Guntur, Bapatla and Palnadu districts of Andhra Pradesh - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTzZMcm9fZi1aY3ZxbEVSbWM4cmdrTXFLd0pxc29yeXRwRE0tUjdqRk1KZjVNRUZoZVZROXFuQXpUTlV4Q2I0SzNQYTBDcVk0M1A0aUZ0c2Y0bTc1RkIzNjRzQ1g0ZUFMLUxzSlhIV1pBUUVrOTZOaDFMc3pEUmlJaXYyWDZvVWR4MGJxaDVWUEg1eVRsM1JHUEVVZEFZOEE0VnN6ejV4UHZMazV5MjZJd2Q2VTl6RVRaS2pnZnEwZUQxVDhSU0hWdkIxTzk4WTlQY2o5TWxqTkV4d1lnWEs1aEktTVpJUVY0RUpXaDY5VVdRSDJTMlpGdEJzVndiZ9IBhAJBVV95cUxPR2stczR2NjlrQzhyVWl0WUNNQ3h4SGZHclBJMVhjTjlzU3JXTUtSYXVmazRLcTdjMmhDTjNTaFRhWGhCdHgzekFYZmpwSEctdmRuazVFZ1ZSTnRLdEg1a1NLZVVyb203cVdHc2dvTjU1VmluU3ZkREwzQk5kb29ZRUh5cUE4aUdEMXAyYnFkd081NTB3MGVvalU5OWRMbXhITEpYNzJ3NzJuclNwWnNocmpnVmhfTk9XX3BHaGtkOHhPajdPU0Z5VmVDVFNhek5waEFFMDZ3NEN1WGxNMXhtY01MVjI2SlR5Ri1mTFBrOC0xVEExY0FqY2VmLU1Od0ZaZF9McQ?oc=5",
+    "source": "The Hindu",
+    "pubDate": "Sat, 24 Feb 2024 08:00:00 GMT"
+   }
+  ]
+ }
+}

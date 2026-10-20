@@ -1,0 +1,2288 @@
+{
+ "districts": [
+  {
+   "name": "Srikakulam",
+   "name_te": "శ్రీకాకుళం",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 62.9,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 98,
+     "year": "2019-21",
+     "source": "https://www.niti.gov.in/sites/default/files/2022-06/Srikakulam-Andhra%20Pradesh.pdf",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 19.7,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 19.4,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 3383,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 222341,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 143592,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 237.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 58.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Vizianagaram",
+   "name_te": "విజయనగరం",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 59.06,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 99,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 36.4,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 14.2,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 2360,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 300096,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 146262,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 260.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 71.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Parvathipuram Manyam",
+   "name_te": "పార్వతీపురం మన్యం",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 57.36,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Visakhapatnam and Srikakulam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Visakhapatnam and Srikakulam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Visakhapatnam and Srikakulam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 15.4,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 4749,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 165068,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 141808,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 240.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 58.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Alluri Sitharama Raju",
+   "name_te": "అల్లూరి సీతారామ రాజు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 48.34,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Visakhapatnam and East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Visakhapatnam and East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Visakhapatnam and East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 20.7,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 4367,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 177413,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 137051,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 104.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 28.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": "District boundaries changed 31-Dec-2025: Polavaram carved out of Alluri Sitharama Raju. Indicator values below were collected for pre-split (26-district) boundaries and are retained for reference; treat as approximate for the current boundaries."
+  },
+  {
+   "name": "Visakhapatnam",
+   "name_te": "విశాఖపట్నం",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 79.05,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 95,
+     "year": "2019-21",
+     "source": "https://www.niti.gov.in/sites/default/files/2022-06/Visakhapatnam-Andhra Pradesh.pdf",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 31.0,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 0.0,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 466,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 38911,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 483892,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 407.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 136.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Anakapalli",
+   "name_te": "అనకాపల్లి",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 60.55,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Visakhapatnam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Visakhapatnam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Visakhapatnam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 22.4,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 4765,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 264320,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 210214,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 264.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 81.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Kakinada",
+   "name_te": "కాకినాడ",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 67.38,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 16.1,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 1792,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 315836,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 205300,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 254.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 80.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "East Godavari",
+   "name_te": "తూర్పు గోదావరి",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 72.8,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 97,
+     "year": "2019-21",
+     "source": "https://www.niti.gov.in/sites/default/files/2022-06/East Godavari-Andhra Pradesh.pdf",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 23.1,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 6.8,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 3425,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 325336,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 240169,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 370.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 133.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Dr. B.R. Ambedkar Konaseema",
+   "name_te": "డా.బి.ఆర్. అంబేద్కర్ కోనసీమ",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 75.84,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district East Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 17.1,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 8400,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 303095,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 188965,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 313.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 106.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "West Godavari",
+   "name_te": "పశ్చిమ గోదావరి",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 74.69,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 99,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 31.4,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 6.9,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 2761,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 309839,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 234462,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 261.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 108.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Eluru",
+   "name_te": "ఏలూరు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 73.11,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district West Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district West Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district West Godavari.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 18.3,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 7928,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 414660,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 287481,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 436.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 144.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "NTR",
+   "name_te": "ఎన్టీఆర్",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 73.93,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Krishna.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Krishna.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Krishna.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 0.0,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 3067,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 160715,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 276906,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 617.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 214.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Krishna",
+   "name_te": "కృష్ణా",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 74.84,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 99,
+     "year": "2019-21",
+     "source": "https://niti.gov.in/sites/default/files/2022-06/Krishna-Andhra%20Pradesh.pdf",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 29.8,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 0.7,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 3610,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 222954,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 335324,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 382.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 187.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Palnadu",
+   "name_te": "పల్నాడు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 59.81,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Guntur.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Guntur.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Guntur.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 20.7,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 6248,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 148163,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 170807,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 228.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 85.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Guntur",
+   "name_te": "గుంటూరు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 74.15,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 99,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 23.8,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 2.1,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 2622,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 157724,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 232024,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 452.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 215.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Bapatla",
+   "name_te": "బాపట్ల",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 67.28,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Guntur and Prakasam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Guntur and Prakasam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Guntur and Prakasam.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 25.6,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 4538,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 148361,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 196853,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 324.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 108.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Prakasam",
+   "name_te": "ప్రకాశం",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 62.45,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 97,
+     "year": "2019-21",
+     "source": "https://www.niti.gov.in/sites/default/files/2022-06/Prakasam-Andhra Pradesh.pdf",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 22.6,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 20.4,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 1907,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 322444,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 197354,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 310.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 101.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": "District boundaries changed 31-Dec-2025: Markapuram carved out of Prakasam. Indicator values below were collected for pre-split (26-district) boundaries and are retained for reference; treat as approximate for the current boundaries."
+  },
+  {
+   "name": "Sri Potti Sriramulu Nellore",
+   "name_te": "శ్రీ పొట్టి శ్రీరాములు నెల్లూరు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 68.69,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 97,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 29.2,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 5.0,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 3456,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 399171,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 209587,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 338.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 96.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Kurnool",
+   "name_te": "కర్నూలు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 57.1,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 89,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 50.5,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 8.8,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 4560,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 224802,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 174932,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 204.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 72.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Nandyal",
+   "name_te": "నంద్యాల",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 63.7,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Kurnool.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Kurnool.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Kurnool.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 7.7,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 4523,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 260289,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 167084,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 301.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 104.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Ananthapuramu",
+   "name_te": "అనంతపురము",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 63.92,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 95,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 36.0,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 15.1,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 2580,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 361155,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 237407,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 238.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 64.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Sri Sathya Sai",
+   "name_te": "శ్రీ సత్యసాయి",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 63.15,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Anantapur.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Anantapur.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old district Anantapur.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 27.1,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 1095,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 308226,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 198880,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 238.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 68.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "YSR (Kadapa)",
+   "name_te": "వైఎస్ఆర్ (కడప)",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 68.34,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 99,
+     "year": "2019-21",
+     "source": "https://cgspace.cgiar.org/server/api/core/bitstreams/c8d09e36-6770-4ec8-94e0-2a87f1b3811d/content",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 34.4,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 19.6,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 944,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 329890,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 209084,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 312.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 77.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Annamayya",
+   "name_te": "అన్నమయ్య",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 66.6,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts YSR Kadapa and Chittoor.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts YSR Kadapa and Chittoor.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts YSR Kadapa and Chittoor.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 21.0,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 189,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 363698,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 174019,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 252.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 72.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Tirupati",
+   "name_te": "తిరుపతి",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 71.66,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Sri Potti Sriramulu Nellore and Chittoor.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "stunting_under5_pct": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Sri Potti Sriramulu Nellore and Chittoor.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 predates 2022 reorganization; factsheet covers old districts Sri Potti Sriramulu Nellore and Chittoor.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 2.3,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 2015,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 416600,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 251704,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 320.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 67.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Chittoor",
+   "name_te": "చిత్తూరు",
+   "indicators": {
+    "literacy_pct": {
+     "source": "http://cse.ap.gov.in/MISdownload/MIS_REPORT_NOTIFICATION/Educational Statistics 2022-23.pdf",
+     "value": 70.74,
+     "year": 2011
+    },
+    "institutional_births_pct": {
+     "value": 97,
+     "year": "2019-21",
+     "source": "https://www.slideshare.net/slideshow/improving-nutrition-in-andhra-pradesh-trends-in-outcomes-determinants-and-interventions-between-2006-and-2020/250331695",
+     "note": "Pre-2023 district geography."
+    },
+    "stunting_under5_pct": {
+     "value": 27.1,
+     "year": "2019-21",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/175/AS360.pdf?source=pqals",
+     "note": "Pre-2023 district geography (NFHS-5, 2019-21): this district's boundaries changed in the 2023 redistricting; treat as the old district's figure, not the current one."
+    },
+    "infant_mortality": {
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only.",
+     "source": "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml",
+     "value": null,
+     "year": "2019-21"
+    },
+    "dropout_rate_secondary": {
+     "value": 19.6,
+     "year": "2023-24",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU1788_Xu6XGw.pdf?source=pqals | Lok Sabha Unstarred Q No.1788 answered 10.03.2025 (Ministry of Education, MoS Dr. Sukanta Majumdar), Annexure-I, Table 2 'District-wise Dropout rate of Andhra Pradesh'; Source- UDISE+ 2023-24; secondary = classes 9-10 level."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch. No parliamentary annexure or static report found with district-level primary PTR for AP."
+    },
+    "sdg_index_score": {
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Andhra Pradesh districts. NITI's district-level SDG indices cover only the North-Eastern Region states (NER District SDG Index, 1st ed. 2021, 2nd ed. 2023-24) and selected other states; the SDG India Index for AP is state-level only (AP scored 72 in the 2020-21 edition). Two web searches plus an attempted fetch of sdgindiaindex.niti.gov.in found no AP district SDG scores.",
+     "source": null,
+     "value": null,
+     "year": null
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS district reports (nrega.nic.in now redirects to nrega.dord.gov.in, which failed text fetch); parliamentary answers give state totals only (AP: 2413.57 lakh persondays FY 2024-25 as on 31.03.2025, Rajya Sabha USQ 3972 dated 04.04.2025). Not force-fit from other years."
+    },
+    "pmayg_houses_completed": {
+     "value": 245,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": 370206,
+     "year": "2024-12-02",
+     "source": "https://eparlib.sansad.in/bitstream/123456789/2999827/1/AU1722_5DIqRR.pdf | Lok Sabha Unstarred Q No.1722 answered 05/12/2024 (Ministry of Jal Shakti, MoS Shri V. Somanna), Annex-III 'Districtwise coverage of rural households and schools in Andhra Pradesh'; Source: JJM-IMIS; value = rural households with provision of tap water supply as on 02.12.2024 (cumulative, not FY25-only)."
+    },
+    "per_capita_income_inr": {
+     "value": 183089,
+     "year": "2022-23 (FRE)",
+     "source": "https://des.ap.gov.in/jsp/social/DDP_2022-23.pdf"
+    },
+    "crime_rate_per_lakh": {
+     "value": 388.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 77.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv"
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Markapuram",
+   "name_te": "మార్కాపురం",
+   "formed_from": {
+    "parent_district": "Prakasam",
+    "mandals": [
+     "Giddalur",
+     "Bestavaripeta",
+     "Racherla",
+     "Komarolu",
+     "Cumbum",
+     "Ardhaveedu",
+     "Markapuram",
+     "Tarlupadu",
+     "Yerragondapalem",
+     "Pullalacheruvu",
+     "Tripuranthakam",
+     "Dornala",
+     "Peddaaraveedu",
+     "Podili",
+     "Konakanamitla",
+     "Hanumanthunipadu",
+     "Veligandla",
+     "Kanigiri",
+     "Pedacherlopalle",
+     "Chandrasekharapuram",
+     "Pamur"
+    ],
+    "mandal_source": "PR&RD G.O.Ms.No.32 (21 mandals: Markapuram division 15 + Kanigiri division 6); preliminary schedule G.O.Rt.No.1497 (goir.ap.gov.in)",
+    "assembly_constituencies": [
+     "Yerragondapalem (SC)",
+     "Markapuram",
+     "Giddalur",
+     "Kanigiri"
+    ],
+    "go_citation": "G.O.Ms.No.524, Revenue (Lands-IV) Department, dated 30-12-2025, effective 31-12-2025 (formation of Markapuram district; number/date via RBI circular Apr-2026 & GAD G.O.Rt.Nos.2498/2499/2500, gad.ap.gov.in; full schedule pending live-browser retrieval from goir.ap.gov.in)"
+   },
+   "indicators": {
+    "literacy_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2011 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "institutional_births_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2019-21 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "stunting_under5_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2019-21 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2023-24 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "pmayg_houses_completed": {
+     "value": 1784,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2024-12-02 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "per_capita_income_inr": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2022-23 (FRE) predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2022 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2022 predates the district's formation (or still reports the pre-split 26-district geography)."
+    }
+   },
+   "notes": "District formed 31-Dec-2025, carved from Prakasam (21 mandals). All indicators null: no post-formation district-level source published yet.",
+   "name_te_source": "Telugu Wikipedia / TDP official announcements (GOs are English-only; no official Telugu text in GO)"
+  },
+  {
+   "name": "Polavaram",
+   "name_te": "పోలవరం",
+   "formed_from": {
+    "parent_district": "Alluri Sitharama Raju",
+    "mandals": [
+     "Rampachodavaram",
+     "Devipatnam",
+     "Y. Ramavaram",
+     "Addateegala",
+     "Gangavaram",
+     "Maredumilli",
+     "Rajavommangi",
+     "Chinturu",
+     "Nellipaka",
+     "Kunavaram",
+     "V.R.Puram"
+    ],
+    "mandal_source": "PR&RD G.O.Ms.No.37, Mar-2026, citing GO 517 (11 mandals: Rampachodavaram division 7 + Chinturu division 4). Gurtedu UNVERIFIED as 12th mandal (Wikipedia/BizzBuzz claim; official GO treats Gurtedu as a village in Y. Ramavaram)",
+    "assembly_constituencies": [
+     "Rampachodavaram (ST)"
+    ],
+    "go_citation": "G.O.Ms.No.517, Revenue (Lands-IV) Department, dated 30-12-2025, effective 31-12-2025 (formation of Polavaram district; number/date via RBI circular Apr-2026 & GAD G.O.Rt.Nos.2498/2499/2500, gad.ap.gov.in; full schedule pending live-browser retrieval from goir.ap.gov.in)"
+   },
+   "indicators": {
+    "literacy_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2011 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "institutional_births_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2019-21 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "stunting_under5_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2019-21 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2023-24 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: the source predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "pmayg_houses_completed": {
+     "value": 2822,
+     "year": "2016-2026 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3685_Klr4h7.pdf?source=lsapps",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2024-12-02 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "per_capita_income_inr": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2022-23 (FRE) predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2022 predates the district's formation (or still reports the pre-split 26-district geography)."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No published value for the post-31-Dec-2025 district: 2022 predates the district's formation (or still reports the pre-split 26-district geography)."
+    }
+   },
+   "notes": "District formed 31-Dec-2025, carved from Alluri Sitharama Raju (11 mandals; HQ Rampachodavaram). All indicators null: no post-formation district-level source published yet. Not to be confused with Polavaram AC (No. 67), which remains in Eluru district; the dam site village of Polavaram is also excluded from the new district.",
+   "name_te_source": "Telugu Wikipedia / TDP official announcements (GOs are English-only; no official Telugu text in GO). Note: GAD in-charge GOs write variant 'Polaravaram'."
+  }
+ ],
+ "collected_at": "2026-10-16",
+ "geojson_source": "data/ap_districts_28.geojson (28 districts, effective 31-Dec-2025)",
+ "notes": "28-district geography effective 31-Dec-2025: G.O.Ms.No.524 (Markapuram, ex-Prakasam) & G.O.Ms.No.517 (Polavaram, ex-Alluri Sitharama Raju), Revenue (Lands-IV), dated 30-12-2025. New districts carry null indicators with reasons; Prakasam and Alluri Sitharama Raju carry split notes on pre-split values. Eluru unchanged per Revenue Minister's 30-Dec-2025 cabinet briefing (nine districts with no changes)."
+}
