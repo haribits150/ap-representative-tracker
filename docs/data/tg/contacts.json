@@ -1,0 +1,56 @@
+{
+ "contacts": {
+  "mla/asifabad": {
+   "phone": "9848309284",
+   "source": "https://asifabad.telangana.gov.in/constituencies/"
+  },
+  "mla/devarakonda": {
+   "phone": "9440867082",
+   "source": "https://nalgonda.telangana.gov.in/constituencies/"
+  },
+  "mla/khammam": {
+   "address": "16-3-164/2, PNR DUPLEX, GOLLAGUDEM, KHAMMAM URBAN-507002",
+   "source": "https://khammam.telangana.gov.in/public-representatives/"
+  },
+  "mla/madhira": {
+   "address": "H.No.1-835, Government Agriculture Farm, Sundaraiah Nagar, Madhira Road, Khammam District - 507203",
+   "source": "https://khammam.telangana.gov.in/public-representatives/"
+  },
+  "mla/miryalaguda": {
+   "phone": "9959442859",
+   "source": "https://nalgonda.telangana.gov.in/constituencies/"
+  },
+  "mla/munugode": {
+   "phone": "9866911221",
+   "source": "https://nalgonda.telangana.gov.in/constituencies/"
+  },
+  "mla/nakrekal": {
+   "phone": "9963054752",
+   "source": "https://nalgonda.telangana.gov.in/constituencies/"
+  },
+  "mla/nalgonda": {
+   "phone": "9948297777",
+   "source": "https://nalgonda.telangana.gov.in/constituencies/"
+  },
+  "mla/palair": {
+   "address": "H.No.1-29, Narayana Puram Village, Peruvancha (Post), Kalluru Mandal, Khammam District, Telangana Pin Code-507209",
+   "source": "https://khammam.telangana.gov.in/public-representatives/"
+  },
+  "mla/sathupalli": {
+   "address": "H.No.6-2, Venkateswara Talkies Road, Sathupalli, Khammam District. Pin: 507303",
+   "source": "https://khammam.telangana.gov.in/public-representatives/"
+  },
+  "mla/sirpur": {
+   "phone": "9502781218",
+   "source": "https://asifabad.telangana.gov.in/constituencies/"
+  },
+  "mla/vikarabad": {
+   "phone": "040-23233829; Fax: 23232377",
+   "source": "https://www.telangana.gov.in/legislature/legislative-assembly-speaker/"
+  },
+  "mla/wyra": {
+   "address": "H. No. 8-38, Edurugadda Village, Hemachandrapuram, Laxmidevipalli Mandal, Bhadradri-Kothagudem District",
+   "source": "https://khammam.telangana.gov.in/public-representatives/"
+  }
+ }
+}

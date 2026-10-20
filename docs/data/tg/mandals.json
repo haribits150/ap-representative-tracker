@@ -1,0 +1,4279 @@
+{
+ "mandals": [
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Achampet",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Amrabad",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Balmoor",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Charakonda",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Lingal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Padra",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Uppunuthala",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "achampet",
+   "district": "Nagarkurnool",
+   "mandal": "Vangoor",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "adilabad",
+   "district": "Adilabad",
+   "mandal": "Adilabad Rural",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "adilabad",
+   "district": "Adilabad",
+   "mandal": "Adilabad Urban",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "adilabad",
+   "district": "Adilabad",
+   "mandal": "Bela",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "adilabad",
+   "district": "Adilabad",
+   "mandal": "Jainad",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "adilabad",
+   "district": "Adilabad",
+   "mandal": "Mavala",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Addaguduru",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Alair",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Bommalaramaram",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Gundala",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Gundala",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Motakondur",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Rajapet",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Turkapally",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alair",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Yadagirigutta",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "alampur",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Aiza",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "alampur",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Alampur",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "alampur",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Itikyal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "alampur",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Manopad",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "alampur",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Undavelli",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "alampur",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Waddepalle",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "amberpet",
+   "district": "Hyderabad",
+   "mandal": "Amberpet",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "amberpet",
+   "district": "Hyderabad",
+   "mandal": "Himayathnagar",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Medak",
+   "mandal": "Alladurg",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Sangareddy",
+   "mandal": "Andole",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Sangareddy",
+   "mandal": "Munipally",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Sangareddy",
+   "mandal": "Pulkal",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Sangareddy",
+   "mandal": "Raikode",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Medak",
+   "mandal": "Regode",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "andole",
+   "district": "Medak",
+   "mandal": "Tekmal",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "armur",
+   "district": "Nizamabad",
+   "mandal": "Aloor",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "armur",
+   "district": "Nizamabad",
+   "mandal": "Armur",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "armur",
+   "district": "Nizamabad",
+   "mandal": "Donkeshwar",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "armur",
+   "district": "Nizamabad",
+   "mandal": "Makloor",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "armur",
+   "district": "Nizamabad",
+   "mandal": "Nandipet",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Asifabad",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Adilabad",
+   "mandal": "Gadiguda",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Jainoor",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Kerameri",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Lingapur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Adilabad",
+   "mandal": "Narnoor",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Rebbena",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Sirpur_U",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Tiryani",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "asifabad",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Wankidi",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "aswaraopeta",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Allapalli",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "aswaraopeta",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Aswaraopeta",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "aswaraopeta",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Chandrugonda",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "aswaraopeta",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Dammapeta",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "aswaraopeta",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Mulakalapalle",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "bahadurpura",
+   "district": "Hyderabad",
+   "mandal": "Bahadurpura",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Balkonda",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Bheemgal",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Kammarpalle",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Mendora",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Mortad",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Mupkal",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Vailpur",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "balkonda",
+   "district": "Nizamabad",
+   "mandal": "Yergatla",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Kamareddy",
+   "mandal": "Banswada",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Kamareddy",
+   "mandal": "Birkoor",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "munugode",
+   "district": "Nalgonda",
+   "mandal": "Chandur",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Nizamabad",
+   "mandal": "Chandur",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Nizamabad",
+   "mandal": "Kotgiri",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Nizamabad",
+   "mandal": "Mosra",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Kamareddy",
+   "mandal": "Nasurullabad",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Nizamabad",
+   "mandal": "Pothangal",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Nizamabad",
+   "mandal": "Rudrur",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "banswada",
+   "district": "Nizamabad",
+   "mandal": "Varni",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Bellampally Mandal",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Bheemini",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Kannepally",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Kasipet",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Nennel",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Tandur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "tandur",
+   "district": "Vikarabad",
+   "mandal": "Tandur",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "bellampalli",
+   "district": "Mancherial",
+   "mandal": "Vempally",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "bhadrachalam",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Bhadrachalam",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "bhadrachalam",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Cherla",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "bhadrachalam",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Dummugudem",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "bhadrachalam",
+   "district": "Mulugu",
+   "mandal": "Venkatapuram",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "bhadrachalam",
+   "district": "Mulugu",
+   "mandal": "Wazeed",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "bhongir",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Bhongir",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "bhongir",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Bhoodan Pochampally",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "bhongir",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Bibinagar",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "bhongir",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Valigonda",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "bhupalpalle",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Bhupalpalle",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "bhupalpalle",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Chityal",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "bhupalpalle",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Mogullapalle",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "bhupalpalle",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Regonda",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "bhupalpalle",
+   "district": "Hanumakonda",
+   "mandal": "Shayampet",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "bhupalpalle",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Tekumatla",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Bazarhatnoor",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Bheempoor",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Boath",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Gudihathnur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Ichoda",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Neradigonda",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Sirikonda",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Talamadagu",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "boath",
+   "district": "Adilabad",
+   "mandal": "Tamsi",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "bodhan",
+   "district": "Nizamabad",
+   "mandal": "Bodhan",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "bodhan",
+   "district": "Nizamabad",
+   "mandal": "Navipet",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "bodhan",
+   "district": "Nizamabad",
+   "mandal": "Ranjal",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "bodhan",
+   "district": "Nizamabad",
+   "mandal": "Saloora",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "bodhan",
+   "district": "Nizamabad",
+   "mandal": "Yedapalle",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "chandrayangutta",
+   "district": "Hyderabad",
+   "mandal": "GHMC Wards (Ward 18 Part)",
+   "note": "Ward-based AC per ECI Delimitation Order; no direct mandal equivalent. Mandal mapping for Hyderabad ACs is approximate.",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "charminar",
+   "district": "Hyderabad",
+   "mandal": "Charminar",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "chennur",
+   "district": "Mancherial",
+   "mandal": "Bheemaram",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "chennur",
+   "district": "Mancherial",
+   "mandal": "Chennur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "chennur",
+   "district": "Mancherial",
+   "mandal": "Jaipur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "chennur",
+   "district": "Mancherial",
+   "mandal": "Kotapally",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "chennur",
+   "district": "Mancherial",
+   "mandal": "Mandamarri",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "chevella",
+   "district": "Rangareddy",
+   "mandal": "Chevella",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "chevella",
+   "district": "Rangareddy",
+   "mandal": "Moinabad",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "jadcherla",
+   "district": "Mahabubnagar",
+   "mandal": "Nawabpet",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "chevella",
+   "district": "Vikarabad",
+   "mandal": "Nawabpet",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "chevella",
+   "district": "Rangareddy",
+   "mandal": "Shabad",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "chevella",
+   "district": "Rangareddy",
+   "mandal": "Shankarpalle",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "choppadandi",
+   "district": "Rajanna Sircilla",
+   "mandal": "Boinpalle",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "choppadandi",
+   "district": "Karimnagar",
+   "mandal": "Choppadandi",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "choppadandi",
+   "district": "Karimnagar",
+   "mandal": "Gangadhara",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "choppadandi",
+   "district": "Jagtial",
+   "mandal": "Kodimial",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "choppadandi",
+   "district": "Jagtial",
+   "mandal": "Mallial",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "choppadandi",
+   "district": "Karimnagar",
+   "mandal": "Ramadugu",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Adavi devula palli",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Chandampet",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Chinthapalle",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Devarakonda",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Gundlapalle",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Kondamallapally",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Neredugommu",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarakonda",
+   "district": "Nalgonda",
+   "mandal": "Pedda_adiserlapalle",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "devarkadra",
+   "district": "Mahabubnagar",
+   "mandal": "Addakal",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "devarkadra",
+   "district": "Mahabubnagar",
+   "mandal": "Bhoothpur",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "devarkadra",
+   "district": "Mahabubnagar",
+   "mandal": "Devarkadara",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "devarkadra",
+   "district": "Wanaparthy",
+   "mandal": "Kothakota",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Jagtial",
+   "mandal": "Buggaram",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Jagtial",
+   "mandal": "Dharmapuri",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Peddapalli",
+   "mandal": "Dharmaram",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Jagtial",
+   "mandal": "Gollapalle",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Jagtial",
+   "mandal": "Pegadapalle",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Jagtial",
+   "mandal": "Velgatoor",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "dornakal",
+   "district": "Mahabubabad",
+   "mandal": "Chinnagudur",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "dornakal",
+   "district": "Mahabubabad",
+   "mandal": "Danthalapalle",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "dornakal",
+   "district": "Mahabubabad",
+   "mandal": "Dornakal",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "dornakal",
+   "district": "Mahabubabad",
+   "mandal": "Kuravi",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "dornakal",
+   "district": "Mahabubabad",
+   "mandal": "Maripeda",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "dornakal",
+   "district": "Mahabubabad",
+   "mandal": "Narsimhulapet",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Siddipet",
+   "mandal": "Akberpet Bhoompally",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Medak",
+   "mandal": "Chegunta",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Siddipet",
+   "mandal": "Dubbak",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Medak",
+   "mandal": "Masaipet",
+   "note": "Part of mandal in Dubbak AC",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Siddipet",
+   "mandal": "Mirdoddi",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Medak",
+   "mandal": "Narsingi",
+   "note": "Part of mandal in Dubbak AC",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Siddipet",
+   "mandal": "Raipole",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Siddipet",
+   "mandal": "Thoguta",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gadwal",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Gadwal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "gadwal",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Ghattu",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "gadwal",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Kaloor_Timmanadoddi",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "gadwal",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Maldakal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "gadwal",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Rajoli",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Gajwel",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Jagdevpur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Kondapak",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Kukunoorpally",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Medak",
+   "mandal": "Manoharabad",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Markook",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Mulugu",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Mulugu",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Medak",
+   "mandal": "Tupran",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "gajwel",
+   "district": "Siddipet",
+   "mandal": "Wargal",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "ghanpur-station",
+   "district": "Jangaon",
+   "mandal": "Chilpur",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "ghanpur-station",
+   "district": "Hanumakonda",
+   "mandal": "Dharmasagar",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "ghanpur-station",
+   "district": "Jangaon",
+   "mandal": "Lingalaghanpur",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "ghanpur-station",
+   "district": "Jangaon",
+   "mandal": "Raghunathapalle",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "ghanpur-station",
+   "district": "Jangaon",
+   "mandal": "Station Ghanpur",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "ghanpur-station",
+   "district": "Jangaon",
+   "mandal": "Zaffergadh",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "goshamahal",
+   "district": "Hyderabad",
+   "mandal": "Asif Nagar",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Siddipet",
+   "mandal": "Akkannapet",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Hanumakonda",
+   "mandal": "Bheemadevarapalle",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Karimnagar",
+   "mandal": "Chigurumamidi",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Siddipet",
+   "mandal": "Dhoolmitta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Hanumakonda",
+   "mandal": "Elkathurthy",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Siddipet",
+   "mandal": "Husnabad",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Siddipet",
+   "mandal": "Koheda",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Karimnagar",
+   "mandal": "V_Saidapur",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "husnabad",
+   "district": "Hanumakonda",
+   "mandal": "Velair",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "huzurabad",
+   "district": "Karimnagar",
+   "mandal": "Huzurabad",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "huzurabad",
+   "district": "Karimnagar",
+   "mandal": "Jammikunta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "huzurabad",
+   "district": "Hanumakonda",
+   "mandal": "Kamalapur",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "huzurabad",
+   "district": "Karimnagar",
+   "mandal": "Veenavanka",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Garidepally",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Huzurnagar",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Mallareddygudem",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Mattampally",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Mellachervu",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Neredcherla",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "huzurnagar",
+   "district": "Suryapet",
+   "mandal": "Palakeedu",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "ibrahimpatnam",
+   "district": "Rangareddy",
+   "mandal": "Abdullapurmet",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "ibrahimpatnam",
+   "district": "Rangareddy",
+   "mandal": "Hayathnagar",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "ibrahimpatnam",
+   "district": "Rangareddy",
+   "mandal": "Manchal",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "ibrahimpatnam",
+   "district": "Rangareddy",
+   "mandal": "Yacharam",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "jadcherla",
+   "district": "Mahabubnagar",
+   "mandal": "Balanagar",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "kukatpally",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Balanagar",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "jadcherla",
+   "district": "Mahabubnagar",
+   "mandal": "Jadcherla",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "jadcherla",
+   "district": "Mahabubnagar",
+   "mandal": "Midjil",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "jadcherla",
+   "district": "Mahabubnagar",
+   "mandal": "Musapet",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "jadcherla",
+   "district": "Mahabubnagar",
+   "mandal": "Rajapur",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "jagtial",
+   "district": "Jagtial",
+   "mandal": "Beerpur",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "jagtial",
+   "district": "Jagtial",
+   "mandal": "Jagtial",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "jagtial",
+   "district": "Jagtial",
+   "mandal": "Jagtial Rural",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "jagtial",
+   "district": "Jagtial",
+   "mandal": "Raikal",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "jagtial",
+   "district": "Jagtial",
+   "mandal": "Sarangapur",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Sarangapur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "jangaon",
+   "district": "Jangaon",
+   "mandal": "Bachannapeta",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "jangaon",
+   "district": "Siddipet",
+   "mandal": "Cherial",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "jangaon",
+   "district": "Jangaon",
+   "mandal": "Jangaon",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "jangaon",
+   "district": "Jangaon",
+   "mandal": "Narmetta",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "jubilee-hills",
+   "district": "Hyderabad",
+   "mandal": "Shaikpet",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Bichkunda",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Dongli",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Jukkal",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Madnur",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Nizamsagar",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Pedda Kodapgal",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "jukkal",
+   "district": "Kamareddy",
+   "mandal": "Pitlam",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Rangareddy",
+   "mandal": "Amangal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Rangareddy",
+   "mandal": "Kadthal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Nagarkurnool",
+   "mandal": "Kalwakurthy",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Rangareddy",
+   "mandal": "Madgul",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Rangareddy",
+   "mandal": "Talakonapally",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Nagarkurnool",
+   "mandal": "Urkonda",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kalwakurthy",
+   "district": "Nagarkurnool",
+   "mandal": "Veldanda",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Bhiknoor",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Bibipet",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Domakonda",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Kamareddy",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Machareddy",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kothagudem",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Palvancha",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Palvancha",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Rajampet",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "kamareddy",
+   "district": "Kamareddy",
+   "mandal": "Ramareddy",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "karimnagar",
+   "district": "Karimnagar",
+   "mandal": "Karimnagar",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "karimnagar",
+   "district": "Karimnagar",
+   "mandal": "Karimnagar (Rural-I)",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "karimnagar",
+   "district": "Karimnagar",
+   "mandal": "Karimnagar (Rural-II)",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "karwan",
+   "district": "Hyderabad",
+   "mandal": "Golkonda",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "khairatabad",
+   "district": "Hyderabad",
+   "mandal": "Khairtabad",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "khammam",
+   "district": "Khammam",
+   "mandal": "Khammam_Urban",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "khammam",
+   "district": "Khammam",
+   "mandal": "Raghunadhapalem",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Nirmal",
+   "mandal": "Dastuarabad",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Adilabad",
+   "mandal": "Inderavelly",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Mancherial",
+   "mandal": "Jannaram",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Nirmal",
+   "mandal": "Kaddampeddur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Nirmal",
+   "mandal": "Khanapur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "narsampet",
+   "district": "Warangal",
+   "mandal": "Khanapur",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Nirmal",
+   "mandal": "Pembi",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Adilabad",
+   "mandal": "Utnoor",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "kodad",
+   "district": "Suryapet",
+   "mandal": "Ananthagiri",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "kodad",
+   "district": "Suryapet",
+   "mandal": "Chilkur",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "kodad",
+   "district": "Suryapet",
+   "mandal": "Kodad",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "kodad",
+   "district": "Suryapet",
+   "mandal": "Mothey",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "kodad",
+   "district": "Suryapet",
+   "mandal": "Munagala",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "kodad",
+   "district": "Suryapet",
+   "mandal": "Nadigudem",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Vikarabad",
+   "mandal": "Bommaraspet",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "dubbak",
+   "district": "Siddipet",
+   "mandal": "Doulthabad",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Vikarabad",
+   "mandal": "Doulthabad",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Narayanpet",
+   "mandal": "Gundumal",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Vikarabad",
+   "mandal": "Kodangal",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Narayanpet",
+   "mandal": "Kosgi",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Narayanpet",
+   "mandal": "Kottha pally",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "kodangal",
+   "district": "Narayanpet",
+   "mandal": "Maddur",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Maddur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "kollapur",
+   "district": "Nagarkurnool",
+   "mandal": "Kodair",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kollapur",
+   "district": "Nagarkurnool",
+   "mandal": "Kollapur",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kollapur",
+   "district": "Wanaparthy",
+   "mandal": "Pangal",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kollapur",
+   "district": "Nagarkurnool",
+   "mandal": "Peddakothapalle",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "kollapur",
+   "district": "Nagarkurnool",
+   "mandal": "Pentlavelli",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "koratla",
+   "district": "Jagtial",
+   "mandal": "Ibrahimpatnam",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "ibrahimpatnam",
+   "district": "Rangareddy",
+   "mandal": "Ibrahimpatnam",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "koratla",
+   "district": "Jagtial",
+   "mandal": "Korutla",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "koratla",
+   "district": "Jagtial",
+   "mandal": "Mallapur",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "koratla",
+   "district": "Jagtial",
+   "mandal": "Metpalli",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "kothagudem",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Chunchupally",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "kothagudem",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Kothagudem",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "kothagudem",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Laxmidevipalli",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "kothagudem",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Sujathanagar",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "kukatpally",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Kukatpally",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "lal-bahadur-nagar",
+   "district": "Rangareddy",
+   "mandal": "Saroornagar",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "madhira",
+   "district": "Khammam",
+   "mandal": "Bonakal",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "madhira",
+   "district": "Khammam",
+   "mandal": "Chinthakani",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "madhira",
+   "district": "Khammam",
+   "mandal": "Madhira",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "madhira",
+   "district": "Khammam",
+   "mandal": "Mudigonda",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "madhira",
+   "district": "Khammam",
+   "mandal": "Yerrupalem",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Ganagavaram",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Gudur",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Inugurthy",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Kesamudram",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Mahabubabad",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Nellikudur",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Peddavangara",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahabubabad",
+   "district": "Mahabubabad",
+   "mandal": "Seerole",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mahbubnagar",
+   "district": "Mahabubnagar",
+   "mandal": "Chinna_Chintha_Kunta",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "mahbubnagar",
+   "district": "Mahabubnagar",
+   "mandal": "Hanwada",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "mahbubnagar",
+   "district": "Mahabubnagar",
+   "mandal": "Mahabubnagar_Rural",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "mahbubnagar",
+   "district": "Mahabubnagar",
+   "mandal": "Mahabubnagar_Urban",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "mahbubnagar",
+   "district": "Mahabubnagar",
+   "mandal": "Mohammadabad",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "maheshwaram",
+   "district": "Rangareddy",
+   "mandal": "Balapur",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "maheshwaram",
+   "district": "Rangareddy",
+   "mandal": "Kandukur",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "maheshwaram",
+   "district": "Rangareddy",
+   "mandal": "Maheshwaram",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "parkal",
+   "district": "Hanumakonda",
+   "mandal": "Atmakur",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Wanaparthy",
+   "mandal": "Atmakur",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Atmakur (M)",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Suryapet",
+   "mandal": "Atmakur(s)",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Narayanpet",
+   "mandal": "Maganoor",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Narayanpet",
+   "mandal": "Makthal",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Narayanpet",
+   "mandal": "Narva",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "makthal",
+   "district": "Narayanpet",
+   "mandal": "Utkoor",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "malakpet",
+   "district": "Hyderabad",
+   "mandal": "Saidabad",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "malkajgiri",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Alwal",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "malkajgiri",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Malkajgiri",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Siddipet",
+   "mandal": "Bejjanki",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Karimnagar",
+   "mandal": "Ellandakunta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Rajanna Sircilla",
+   "mandal": "Ellanthakunta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Karimnagar",
+   "mandal": "Ganneruvaram",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Karimnagar",
+   "mandal": "Manakondur",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Karimnagar",
+   "mandal": "Shankarapatnam",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "manakondur",
+   "district": "Karimnagar",
+   "mandal": "Thimmapur",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "mancherial",
+   "district": "Mancherial",
+   "mandal": "Dandepally",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "mancherial",
+   "district": "Mancherial",
+   "mandal": "Hajipur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "mancherial",
+   "district": "Mancherial",
+   "mandal": "Luxettipet",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "mancherial",
+   "district": "Mancherial",
+   "mandal": "Mancherial",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "mancherial",
+   "district": "Mancherial",
+   "mandal": "Naspur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Peddapalli",
+   "mandal": "Kamanpur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Kataram",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Maha Mutharam",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Mahadevpur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Malharrao",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Peddapalli",
+   "mandal": "Manthani",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Peddapalli",
+   "mandal": "Mutharam",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Peddapalli",
+   "mandal": "Palakurthy",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Palimela",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "manthani",
+   "district": "Peddapalli",
+   "mandal": "Ramagiri",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Havelighanpur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Medak",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Narsingi",
+   "note": "Part of mandal in Medak AC",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Nizampet",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Papannapet",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Ramayampet",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medak",
+   "district": "Medak",
+   "mandal": "Shankarampet_R",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "medchal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Ghatkesar",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "medchal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Keesara",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "medchal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Medchal",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "medchal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Muduchintalpalli",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "medchal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Shamirpet",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "miryalaguda",
+   "district": "Nalgonda",
+   "mandal": "Damaracherla",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "miryalaguda",
+   "district": "Nalgonda",
+   "mandal": "Madugulapally",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "miryalaguda",
+   "district": "Nalgonda",
+   "mandal": "Miryalaguda",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "miryalaguda",
+   "district": "Nalgonda",
+   "mandal": "Vemulapalle",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Basar",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Bhainsa",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Kubeer",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Kuntala",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Lokeshwaram",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Mudhole",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Narsapur_G",
+   "note": "Part of mandal in Mudhole AC",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mudhole",
+   "district": "Nirmal",
+   "mandal": "Tanoor",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Eturnagaram",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Govindaraopet",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Kannaigudem",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mahabubabad",
+   "mandal": "Kothaguda",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Mangapet",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Sammakka Saralamma Tadvai",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "mulug",
+   "district": "Mulugu",
+   "mandal": "Venkatapur",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "munugode",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Choutuppal",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "munugode",
+   "district": "Nalgonda",
+   "mandal": "Marriguda",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "munugode",
+   "district": "Nalgonda",
+   "mandal": "Munugode",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "munugode",
+   "district": "Nalgonda",
+   "mandal": "Nampalle",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "munugode",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Narayanpur",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "musheerabad",
+   "district": "Hyderabad",
+   "mandal": "Musheerabad",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "nagarjuna-sagar",
+   "district": "Nalgonda",
+   "mandal": "Anumula_Haliya",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nagarjuna-sagar",
+   "district": "Nalgonda",
+   "mandal": "Gurrampode",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nagarjuna-sagar",
+   "district": "Nalgonda",
+   "mandal": "Nidamanur",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nagarjuna-sagar",
+   "district": "Nalgonda",
+   "mandal": "Peddavoora",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nagarjuna-sagar",
+   "district": "Nalgonda",
+   "mandal": "Thripuraram",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nagarjuna-sagar",
+   "district": "Nalgonda",
+   "mandal": "Tirumalagiri_Sagar",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nagarkurnool",
+   "district": "Nagarkurnool",
+   "mandal": "Bijinapalle",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "nagarkurnool",
+   "district": "Nagarkurnool",
+   "mandal": "Nagarkurnool",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "nagarkurnool",
+   "district": "Nagarkurnool",
+   "mandal": "Tadoor",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "nagarkurnool",
+   "district": "Nagarkurnool",
+   "mandal": "Telkapalle",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "nagarkurnool",
+   "district": "Nagarkurnool",
+   "mandal": "Thimmajipeta",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "nakrekal",
+   "district": "Nalgonda",
+   "mandal": "Chityala",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "nakrekal",
+   "district": "Nalgonda",
+   "mandal": "Kattangoor",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "nakrekal",
+   "district": "Nalgonda",
+   "mandal": "Kethepalle",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "nakrekal",
+   "district": "Nalgonda",
+   "mandal": "Nakrekal",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "nakrekal",
+   "district": "Nalgonda",
+   "mandal": "Narketpalle",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "nakrekal",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Ramannapet",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "nalgonda",
+   "district": "Nalgonda",
+   "mandal": "Kangal",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nalgonda",
+   "district": "Nalgonda",
+   "mandal": "Nalgonda",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nalgonda",
+   "district": "Nalgonda",
+   "mandal": "Thipparthi",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "nampally",
+   "district": "Hyderabad",
+   "mandal": "Nampally",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Sangareddy",
+   "mandal": "Kalher",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Sangareddy",
+   "mandal": "Kangti",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Sangareddy",
+   "mandal": "Manoor",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Sangareddy",
+   "mandal": "Nagilgidda",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Sangareddy",
+   "mandal": "Narayankhed",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Medak",
+   "mandal": "Shankarampet_A",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayankhed",
+   "district": "Sangareddy",
+   "mandal": "Sirgapoor",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narayanpet",
+   "district": "Narayanpet",
+   "mandal": "Damaragidda",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "narayanpet",
+   "district": "Narayanpet",
+   "mandal": "Dhanwada",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "narayanpet",
+   "district": "Mahabubnagar",
+   "mandal": "Koilkonda",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "narayanpet",
+   "district": "Narayanpet",
+   "mandal": "Krishna",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "narayanpet",
+   "district": "Narayanpet",
+   "mandal": "Marikal",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "narayanpet",
+   "district": "Narayanpet",
+   "mandal": "Narayanpet",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "narsampet",
+   "district": "Warangal",
+   "mandal": "Chennaraopet",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "narsampet",
+   "district": "Warangal",
+   "mandal": "Duggondi",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "narsampet",
+   "district": "Warangal",
+   "mandal": "Nallabelly",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "narsampet",
+   "district": "Warangal",
+   "mandal": "Narsampet",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "narsampet",
+   "district": "Warangal",
+   "mandal": "Nekkonda",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Chilipched",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Sangareddy",
+   "mandal": "Hathnoora",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Kowdipalle",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Kulcharam",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Masaipet",
+   "note": "Part of mandal in Narsapur AC",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Narsapur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Shivampet",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "narsapur",
+   "district": "Medak",
+   "mandal": "Yeldurthy",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Dilawarpur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Laxmanchanda",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Mamada",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Narsapur_G",
+   "note": "Part of mandal in Nirmal AC",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Nirmal Rural",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Nirmal Urban",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nirmal",
+   "district": "Nirmal",
+   "mandal": "Soan",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Dharpalle",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Dichpalle",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Indalwai",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Jakranpalle",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Mugpal",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Nizamabad_Rural",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-rural",
+   "district": "Nizamabad",
+   "mandal": "Sirkonda",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-urban",
+   "district": "Nizamabad",
+   "mandal": "Nizamabad_North",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "nizamabad-urban",
+   "district": "Nizamabad",
+   "mandal": "Nizamabad_South",
+   "pc": "Nizamabad",
+   "pc_slug": "nizamabad"
+  },
+  {
+   "ac_slug": "palair",
+   "district": "Khammam",
+   "mandal": "Khammam_Rural",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "palair",
+   "district": "Khammam",
+   "mandal": "Kusumanchi",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "palair",
+   "district": "Khammam",
+   "mandal": "Nelakondapalle",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "palair",
+   "district": "Khammam",
+   "mandal": "Thirumalayapalem",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "palakurthi",
+   "district": "Jangaon",
+   "mandal": "Devaruppala",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "palakurthi",
+   "district": "Jangaon",
+   "mandal": "Kodakandla",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "palakurthi",
+   "district": "Jangaon",
+   "mandal": "Palakurthi",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "palakurthi",
+   "district": "Warangal",
+   "mandal": "Rayaparthy",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "palakurthi",
+   "district": "Jangaon",
+   "mandal": "Tharigoppula",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "palakurthi",
+   "district": "Mahabubabad",
+   "mandal": "Thorrur",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "pargi",
+   "district": "Vikarabad",
+   "mandal": "Doma",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "pargi",
+   "district": "Mahabubnagar",
+   "mandal": "Gandeed",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "pargi",
+   "district": "Vikarabad",
+   "mandal": "Kulkacherla",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "pargi",
+   "district": "Vikarabad",
+   "mandal": "Pargi",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "pargi",
+   "district": "Vikarabad",
+   "mandal": "Pudur",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "parkal",
+   "district": "Hanumakonda",
+   "mandal": "Damera",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "parkal",
+   "district": "Warangal",
+   "mandal": "Geesugonda",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "parkal",
+   "district": "Hanumakonda",
+   "mandal": "Nadikuda",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "parkal",
+   "district": "Hanumakonda",
+   "mandal": "Parkal",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "patancheru",
+   "district": "Sangareddy",
+   "mandal": "Ameenpur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "patancheru",
+   "district": "Sangareddy",
+   "mandal": "Gummadidala",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "patancheru",
+   "district": "Sangareddy",
+   "mandal": "Jinnaram",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "patancheru",
+   "district": "Sangareddy",
+   "mandal": "Patancheru",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "patancheru",
+   "district": "Sangareddy",
+   "mandal": "Ramchandrapuram",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "patancheru",
+   "district": "Sangareddy",
+   "mandal": "Vatpally",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Anthergoan",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Elgaid",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Julapalle",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Odela",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Peddapalli",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Srirampur",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "peddapalle",
+   "district": "Peddapalli",
+   "mandal": "Sultanabad",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Annapureddypally",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Aswapuram",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Burgampahad",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Karakagudem",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Manuguru",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "pinapaka",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Pinapaka",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "quthbullapur",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Bachupally",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "quthbullapur",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Dundigal Gandimaisamma",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "quthbullapur",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Quthbullapur",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "rajendranagar",
+   "district": "Rangareddy",
+   "mandal": "Gandipet",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "rajendranagar",
+   "district": "Rangareddy",
+   "mandal": "Rajendranagar",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "rajendranagar",
+   "district": "Rangareddy",
+   "mandal": "Shamshabad",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "ramagundam",
+   "district": "Peddapalli",
+   "mandal": "Ramagundam",
+   "pc": "Peddapalle",
+   "pc_slug": "peddapalle"
+  },
+  {
+   "ac_slug": "sanathnagar",
+   "district": "Hyderabad",
+   "mandal": "Ameerpet",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "sangareddy",
+   "district": "Sangareddy",
+   "mandal": "Kandi",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "sangareddy",
+   "district": "Sangareddy",
+   "mandal": "Kondapur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "sangareddy",
+   "district": "Sangareddy",
+   "mandal": "Sadasivpet",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "sangareddy",
+   "district": "Sangareddy",
+   "mandal": "Sangareddy",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "sathupalli",
+   "district": "Khammam",
+   "mandal": "Kalluru",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "sathupalli",
+   "district": "Khammam",
+   "mandal": "Penuballi",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "sathupalli",
+   "district": "Khammam",
+   "mandal": "Sathupalli",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "sathupalli",
+   "district": "Khammam",
+   "mandal": "Thallada",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "sathupalli",
+   "district": "Khammam",
+   "mandal": "Vemsoor",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "secunderabad",
+   "district": "Hyderabad",
+   "mandal": "Maredpally",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "secunderabad",
+   "district": "Hyderabad",
+   "mandal": "Secunderabad",
+   "pc": "Secunderabad",
+   "pc_slug": "secunderabad"
+  },
+  {
+   "ac_slug": "secunderabad-cantonment",
+   "district": "Hyderabad",
+   "mandal": "Tirumalgiri",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "serilingampally",
+   "district": "Rangareddy",
+   "mandal": "Serilingampally",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Farooqnagar",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Jilled Chowdergudem",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Keshampeta",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Kondurg",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Kothur",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Nandigam",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "shadnagar",
+   "district": "Rangareddy",
+   "mandal": "Shadnagar",
+   "pc": "Mahbubnagar",
+   "pc_slug": "mahbubnagar"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Chinnakodur",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Komuravelli",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Nangnoor",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Narayanaraopet",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Siddipet (Rural)",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "siddipet",
+   "district": "Siddipet",
+   "mandal": "Siddipet (Urban)",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "sircilla",
+   "district": "Rajanna Sircilla",
+   "mandal": "Gambhiraopeta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "sircilla",
+   "district": "Rajanna Sircilla",
+   "mandal": "Mustabad",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "sircilla",
+   "district": "Rajanna Sircilla",
+   "mandal": "Sircilla",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "sircilla",
+   "district": "Rajanna Sircilla",
+   "mandal": "Thangallapalle",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "sircilla",
+   "district": "Rajanna Sircilla",
+   "mandal": "Veernapalle",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "sircilla",
+   "district": "Rajanna Sircilla",
+   "mandal": "Yellareddypeta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Bejjur",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Chintalamanepally",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Dahegaon",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Kagaznagar",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Kouthala",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Penchikalpet",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "sirpur",
+   "district": "Komaram Bheem Asifabad",
+   "mandal": "Sirpur_T",
+   "pc": "Adilabad",
+   "pc_slug": "adilabad"
+  },
+  {
+   "ac_slug": "suryapet",
+   "district": "Suryapet",
+   "mandal": "Chivvemla",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "suryapet",
+   "district": "Suryapet",
+   "mandal": "Penpahad",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "suryapet",
+   "district": "Suryapet",
+   "mandal": "Suryapet",
+   "pc": "Nalgonda",
+   "pc_slug": "nalgonda"
+  },
+  {
+   "ac_slug": "tandur",
+   "district": "Vikarabad",
+   "mandal": "Basheerabad",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "tandur",
+   "district": "Vikarabad",
+   "mandal": "Peddemul",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "tandur",
+   "district": "Vikarabad",
+   "mandal": "Yelal",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Suryapet",
+   "mandal": "Jajireddygudem",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Suryapet",
+   "mandal": "Maddirala",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Yadadri Bhuvanagiri",
+   "mandal": "Mothkur",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Suryapet",
+   "mandal": "Nagaram",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Suryapet",
+   "mandal": "Nuthankal",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Nalgonda",
+   "mandal": "Saligouraram",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Suryapet",
+   "mandal": "Thirumalagiri",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "thungathurthi",
+   "district": "Suryapet",
+   "mandal": "Thungathurthy",
+   "pc": "Bhongir",
+   "pc_slug": "bhongir"
+  },
+  {
+   "ac_slug": "uppal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Kapra",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "uppal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Medipally",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "uppal",
+   "district": "Medchal-Malkajgiri",
+   "mandal": "Uppal",
+   "pc": "Malkajgiri",
+   "pc_slug": "malkajgiri"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Rajanna Sircilla",
+   "mandal": "Chandurthi",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Jagtial",
+   "mandal": "Kathlapur",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Rajanna Sircilla",
+   "mandal": "Konaraopeta",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Jagtial",
+   "mandal": "Medipalle",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Rajanna Sircilla",
+   "mandal": "Rudrangi",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Rajanna Sircilla",
+   "mandal": "Vemulawada",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vemulawada",
+   "district": "Rajanna Sircilla",
+   "mandal": "Vemulawada_Rural",
+   "pc": "Karimnagar",
+   "pc_slug": "karimnagar"
+  },
+  {
+   "ac_slug": "vikarabad",
+   "district": "Vikarabad",
+   "mandal": "Bantwaram",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "gadwal",
+   "district": "Jogulamba Gadwal",
+   "mandal": "Dharur",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "vikarabad",
+   "district": "Vikarabad",
+   "mandal": "Dharur",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "vikarabad",
+   "district": "Vikarabad",
+   "mandal": "Kotepally",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "vikarabad",
+   "district": "Vikarabad",
+   "mandal": "Marpalle",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "vikarabad",
+   "district": "Vikarabad",
+   "mandal": "Mominpet",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "vikarabad",
+   "district": "Vikarabad",
+   "mandal": "Vikarabad",
+   "pc": "Chevella",
+   "pc_slug": "chevella"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Amarchinta",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Chinnambavi",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Jayashankar Bhupalpally",
+   "mandal": "Ghanpur",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Ghanpur (Khilla)",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Gopalpeta",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Madanapur",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Pebbair",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Peddamandadi",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Revally",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Srirangapur",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Veepanagandla",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "wanaparthy",
+   "district": "Wanaparthy",
+   "mandal": "Wanaparthy",
+   "pc": "Nagarkurnool",
+   "pc_slug": "nagarkurnool"
+  },
+  {
+   "ac_slug": "waradhanapet",
+   "district": "Hanumakonda",
+   "mandal": "Hanamkonda",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "waradhanapet",
+   "district": "Hanumakonda",
+   "mandal": "Hasanparthy",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "waradhanapet",
+   "district": "Hanumakonda",
+   "mandal": "Inavole",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "waradhanapet",
+   "district": "Hanumakonda",
+   "mandal": "Kazipet",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "waradhanapet",
+   "district": "Warangal",
+   "mandal": "Parvathagiri",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "waradhanapet",
+   "district": "Warangal",
+   "mandal": "Wardhannapet",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "warangal-east",
+   "district": "Warangal",
+   "mandal": "Sangem",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "warangal-east",
+   "district": "Warangal",
+   "mandal": "Warangal",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "warangal-west",
+   "district": "Warangal",
+   "mandal": "Khila Warangal",
+   "pc": "Warangal",
+   "pc_slug": "warangal"
+  },
+  {
+   "ac_slug": "wyra",
+   "district": "Khammam",
+   "mandal": "Enkuru",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "wyra",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Julurpad",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "wyra",
+   "district": "Khammam",
+   "mandal": "Konijerla",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "wyra",
+   "district": "Khammam",
+   "mandal": "Singareni",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "wyra",
+   "district": "Khammam",
+   "mandal": "Wyra",
+   "pc": "Khammam",
+   "pc_slug": "khammam"
+  },
+  {
+   "ac_slug": "yakutpura",
+   "district": "Hyderabad",
+   "mandal": "Bandlaguda",
+   "pc": "Hyderabad",
+   "pc_slug": "hyderabad"
+  },
+  {
+   "ac_slug": "yellandu",
+   "district": "Mahabubabad",
+   "mandal": "Bayyaram",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "yellandu",
+   "district": "Mahabubabad",
+   "mandal": "Garla",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "yellandu",
+   "district": "Khammam",
+   "mandal": "Kamepalle",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "yellandu",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Tekulapalle",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "yellandu",
+   "district": "Bhadradri Kothagudem",
+   "mandal": "Yellandu",
+   "pc": "Mahabubabad",
+   "pc_slug": "mahabubabad"
+  },
+  {
+   "ac_slug": "yellareddy",
+   "district": "Kamareddy",
+   "mandal": "Gandhari",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "yellareddy",
+   "district": "Kamareddy",
+   "mandal": "Lingampet",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "yellareddy",
+   "district": "Kamareddy",
+   "mandal": "Naga Reddipet",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "yellareddy",
+   "district": "Kamareddy",
+   "mandal": "Sadasivanagar",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "yellareddy",
+   "district": "Kamareddy",
+   "mandal": "Tadwai",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "yellareddy",
+   "district": "Kamareddy",
+   "mandal": "Yellareddy",
+   "pc": "Zahirabad",
+   "pc_slug": "zahirabad"
+  },
+  {
+   "ac_slug": "zahirabad",
+   "district": "Sangareddy",
+   "mandal": "Jharasangam",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "zahirabad",
+   "district": "Sangareddy",
+   "mandal": "Kohir",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "zahirabad",
+   "district": "Sangareddy",
+   "mandal": "Mogudampally",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "zahirabad",
+   "district": "Sangareddy",
+   "mandal": "Nyalkal",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  },
+  {
+   "ac_slug": "zahirabad",
+   "district": "Sangareddy",
+   "mandal": "Zaheerabad",
+   "pc": "Medak",
+   "pc_slug": "medak"
+  }
+ ],
+ "sources": [
+  "https://prsindia.org/files/bills_acts/acts_parliament/2014/the-andhra-pradesh-reorganisation-act,-2014.pdf",
+  "https://en.wikipedia.org/wiki/List_of_mandals_in_Telangana",
+  "https://www.elections.in/telangana/polling-stations/"
+ ]
+}

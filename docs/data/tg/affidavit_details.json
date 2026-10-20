@@ -1,0 +1,1264 @@
+{
+ "mps": [
+  {
+   "name": "Godam Nagesh",
+   "constituency": "Adilabad",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "FIR No. 158/2024, PS-1 Town Adilabad; charges not framed; pending",
+     "ipc_sections": "IPC 188, 294(B); Section 125, Representation of the People Act",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience of public-servant order (IPC 188) and election-meeting conduct violation; no section with 5yr+ max"
+    }
+   ],
+   "education": "Post Graduate — MA (1993), M.Ed (1991), Osmania University, Hyderabad",
+   "assets_current_inr": 30916833,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5395",
+   "notes": "Declared case is pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Vamsi Krishna Gaddam",
+   "constituency": "Peddapalle",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — BSc Science & Management, Purdue University, USA (2010)",
+   "assets_current_inr": 240976163,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5248",
+   "notes": "myneta page states no declared criminal cases. Absent from ADR Lok Sabha 2024 Book 'MPs with Declared Criminal Cases' annexure."
+  },
+  {
+   "name": "Bandi Sanjay Kumar",
+   "constituency": "Karimnagar",
+   "total_cases": 42,
+   "serious_cases": 17,
+   "non_serious_cases": 25,
+   "charges": [
+    {
+     "case_description": "Cr. No. 361 of 2024, Madipally PS; IV Additional MM, Medchal-Malkajgiri at LB Nagar; charges not framed; appeal (Crl. P 3833 of 2024) to quash pending before Telangana High Court",
+     "ipc_sections": "IPC 332, 353, 354, 143, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 354 (assault on woman with intent to outrage modesty): crime against women"
+    },
+    {
+     "case_description": "Cr. No. 360 of 2024, Madipally PS; IV Additional MM, Medchal-Malkajgiri at LB Nagar; charges not framed; appeal (Crl. P 3729 of 2024) to quash pending before Telangana High Court",
+     "ipc_sections": "IPC 332, 353, 143, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332 max 3 years; no section with 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 681 of 2023, II Town PS Karimnagar; JFCM Karimnagar; charges not framed; pending",
+     "ipc_sections": "IPC 153, 188, 171F",
+     "severity": "serious",
+     "severity_basis": "IPC 171F (undue influence/personation at election): electoral offence"
+    },
+    {
+     "case_description": "Cr. No. 340 of 2023, Abdullapurmet PS; VII MM Hayathnagar; charges not framed; pending",
+     "ipc_sections": "IPC 504, 509",
+     "severity": "serious",
+     "severity_basis": "IPC 509 (word/gesture/act intended to insult modesty of a woman): crime against women"
+    },
+    {
+     "case_description": "Cr. No. 250 of 2023, PS KPHB; II AJCA cum X Additional MM, Kukatpally; charges not framed; pending",
+     "ipc_sections": "IPC 153, 504, 505(2), 509, 354",
+     "severity": "serious",
+     "severity_basis": "IPC 354 and 509: crimes against women"
+    },
+    {
+     "case_description": "Cr. No. 234 of 2023, PS Pet Basheerabad; II AJCA cum X Additional MM, Kukatpally; charges not framed; pending",
+     "ipc_sections": "IPC 354A, 504, 509",
+     "severity": "serious",
+     "severity_basis": "IPC 354A (sexual harassment) and 509: crimes against women"
+    },
+    {
+     "case_description": "CC 7347/2023, JFCM Nampally; Cr. No. 211 of 2023, PS Banjara Hills; charges not framed; pending",
+     "ipc_sections": "IPC 354A, 504, 509",
+     "severity": "serious",
+     "severity_basis": "IPC 354A (sexual harassment) and 509: crimes against women"
+    },
+    {
+     "case_description": "Cr. No. 167 of 2023, PS III Town Karimnagar; JFCM Karimnagar; charges not framed; pending",
+     "ipc_sections": "IPC 147, 452, 342, 353, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 452 (house-trespass after preparation for hurt/assault): max 7 years"
+    },
+    {
+     "case_description": "Cr. No. 159 of 2023, PS Cyber Crimes Rachakonda; Section 67 IT Act; JFCM Malkajgiri; charges not framed; pending",
+     "ipc_sections": "IPC 504, 505, 509",
+     "severity": "serious",
+     "severity_basis": "IPC 509: crime against women"
+    },
+    {
+     "case_description": "Cr. No. 67 of 2023, PS Nakerkal; JFCM Nakerkal; charges not framed; pending",
+     "ipc_sections": "IPC 504, 505(1)(b), 509",
+     "severity": "serious",
+     "severity_basis": "IPC 509: crime against women"
+    },
+    {
+     "case_description": "CC 1871/2023, JFCM Hanamkonda; Cr. No. 60 of 2023, PS Kamalapur; Sections 4A, 6 r/w 8 TS Public Examination (Prevention of Malpractices) Act 1997, Section 66D IT Act; charges not framed; appeals (Crl. P 3455 of 2023 and Crl. P 3735 of 2023) pending before Telangana High Court",
+     "ipc_sections": "IPC 120B, 420, 447, 505(1)(b)",
+     "severity": "serious",
+     "severity_basis": "IPC 420 (cheating): max 7 years"
+    },
+    {
+     "case_description": "Cr. No. 47 of 2023, PS Halia; JFCM Nidamanoor; charges not framed; pending",
+     "ipc_sections": "IPC 504, 505(1)(b), 509",
+     "severity": "serious",
+     "severity_basis": "IPC 509: crime against women"
+    },
+    {
+     "case_description": "Cr. No. 40 of 2023, Jogipet; JFCM Jogipet; charges not framed; pending",
+     "ipc_sections": "IPC 505(2), 506",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline: ADR's serious-IPC convention counts 506 as serious); IPC 505(2) max 3 years"
+    },
+    {
+     "case_description": "Cr. No. 36 of 2023, PS Dharoor; JFCM Thandur; charges not framed; pending",
+     "ipc_sections": "IPC 504, 506(1)(2), 509",
+     "severity": "serious",
+     "severity_basis": "IPC 509: crime against women"
+    },
+    {
+     "case_description": "Cr. No. 12 of 2023, Devanpally PS; Section 3 DPPA; Prl. Jr Civil Judge at Kamareddy; charges not framed; pending",
+     "ipc_sections": "IPC 353, 188, 323, 427, 341, 506, 143, 147, 148, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 594 of 2022, PS Hayathnagar; VII MM Hayathnagar; charges not framed; pending",
+     "ipc_sections": "IPC 505(2)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 505(2) max 3 years"
+    },
+    {
+     "case_description": "CC 602 of 2023, JFCM Bhongir; Cr. No. 312 of 2022, Yadagirigutta; Section 7, Religious Institutions (Prevention of Misuse) Act 1988; charges not framed; pending",
+     "ipc_sections": "IPC 504",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory violation; no section with 5yr+ max"
+    },
+    {
+     "case_description": "CC 116 of 2023, JFCM Excise Court, Manoranjan Complex, Hyderabad; Cr. No. 106 of 2022, PS Marriguda; charges not framed; pending",
+     "ipc_sections": "IPC 188, 171C, 171F (book lists '177F', a typographical error for IPC 171F)",
+     "severity": "serious",
+     "severity_basis": "IPC 171C/171F: electoral offences"
+    },
+    {
+     "case_description": "Cr. No. 140 of 2022, PS Nagole; Addl. MM Malkajgiri; charges not framed; pending",
+     "ipc_sections": "IPC 504, 509",
+     "severity": "serious",
+     "severity_basis": "IPC 509: crime against women"
+    },
+    {
+     "case_description": "Cr. No. 69 of 2022, PS Pet Basheerabad; II AJCA cum X Additional MM, Kukatpally; charges not framed; pending",
+     "ipc_sections": "IPC 504, 506",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention)"
+    },
+    {
+     "case_description": "Cr. No. 2 of 2022, Karimnagar II Town PS; Section 51(B) DMA, Section 3 PDPPA; JFCM Karimnagar; charges not framed; pending",
+     "ipc_sections": "IPC 147, 188, 341, 332, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 1 of 2022, Karimnagar II Town PS; Section 51(B) DMA; Prl. Jr Civil Judge at Karimnagar; charges not framed; pending",
+     "ipc_sections": "IPC 147, 188, 341, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 4 of 2024, II Addl. Jr Civil Judge Miryalaguda; Cr. No. 398 of 2021, PS Miryalaguda Rural; Section 51(B) DM Act; charges not framed; pending",
+     "ipc_sections": "IPC 341, 143, 147, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 310 of 2023, Spl. JFCM (Trial of MLAs and MPs), Manoranjan Complex, Hyderabad; Cr. No. 370 of 2021, Huzurabad; charges not framed; pending",
+     "ipc_sections": "IPC 188, 171C, 505(2)",
+     "severity": "serious",
+     "severity_basis": "IPC 171C: electoral offence"
+    },
+    {
+     "case_description": "CC 902 of 2022, II Addl. Jr Civil Judge Miryalaguda; Cr. No. 341 of 2021, PS Miryalaguda I Town; Section 51(B) DM Act; charges not framed; pending",
+     "ipc_sections": "IPC 341, 143, 147, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 294 of 2021, PS Suryapet II Town; FJCM Court Suryapet; charges not framed; pending",
+     "ipc_sections": "IPC 143, 147, 148, 188, 171A, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 171A is definitional, not an offence; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 283 of 2021, PS Nalgonda (R); JFCM Spl. Mobile Nalgonda; charges not framed; pending",
+     "ipc_sections": "IPC 143, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 1164 of 2023, Hon'ble Addl. JFCM at Suryapet; Cr. No. 213 of 2021, PS Chivemla; charges not framed; pending",
+     "ipc_sections": "IPC 341, 188, 34",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 5 of 2024, II Addl. Jr Civil Judge Miryalaguda; Cr. No. 206 of 2021, PS Vemulapally; charges not framed; pending",
+     "ipc_sections": "IPC 143, 147, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 308 of 2023, II Addl. Jr Civil Judge Miryalaguda; Cr. No. 205 of 2021, PS Vemulapally; charges not framed; pending",
+     "ipc_sections": "IPC 332, 188, 143, 147, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 189 of 2021, PS Atmakur (S); Prl. JFCM Suryapet; charges not framed; pending",
+     "ipc_sections": "IPC 143, 324, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 324 max 3 years"
+    },
+    {
+     "case_description": "Cr. No. 188 of 2021, PS Atmakur; Prl. JFCM Suryapet; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Cr. No. 175 of 2021, PS Nereducherla; JFCM Suryapet; charges not framed; pending",
+     "ipc_sections": "IPC 341, 427",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 174 of 2021, PS Nereducherla; JFCM Suryapet; charges not framed; pending",
+     "ipc_sections": "IPC 341, 427",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 173 of 2021, PS Nereducherla; JFCM Suryapet; charges not framed; pending",
+     "ipc_sections": "IPC 143, 147, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 949 of 2023, Addl. JFCM Suryapet; Cr. No. 167 of 2021, PS Penpahad; charges not framed; pending",
+     "ipc_sections": "IPC 188, 34",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 20/2021, PS Mattampalli; Section 7(1)(a) CLA 1932; JFCM Huzurnagar; charges not framed; pending",
+     "ipc_sections": "IPC 143, 144, 147, 148, 332, 333, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 333 (grievous hurt to deter public servant): max 10 years"
+    },
+    {
+     "case_description": "Cr. No. 963 of 2020, PS KBHP Colony; Hon'ble II AJCJ cum X Metropolitan Magistrate at Kukatpally, Cyberabad; charges not framed; pending",
+     "ipc_sections": "IPC 505(1)(b)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 505(1)(b) max 3 years"
+    },
+    {
+     "case_description": "CC 380 of 2022, JFCM (Excise, Manoranjan Complex, Hyderabad); Cr. No. 160 of 2020, PS Market; charges not framed; pending",
+     "ipc_sections": "IPC 505, 171",
+     "severity": "non-serious",
+     "severity_basis": "IPC 171 max 2 years; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 609 of 2022, JFCM Nidamanoor; Cr. No. 63 of 2020, PS Peddavoora; charges not framed; pending",
+     "ipc_sections": "IPC 188, 271, 34",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 139 of 2022, JFC Excise Court, Manoranjan Complex, Hyderabad; Cr. No. 55 of 2019, PS Mallial; charges not framed; appeal (Crl. P 6493 of 2022) pending before Telangana High Court",
+     "ipc_sections": "IPC 188, 171H",
+     "severity": "serious",
+     "severity_basis": "IPC 171H (illegal payments in connection with election): electoral offence"
+    },
+    {
+     "case_description": "CC 1416 of 2021, JFCM Vemulawada; Cr. No. 31 of 2019, PS Boinpally; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    }
+   ],
+   "education": "Post Graduate — MA, Madurai Kamaraj University",
+   "assets_current_inr": 11275000,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5230",
+   "notes": "42 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure. ADR's 'Serious IPC:30 / Other IPC:108' are charge counts, not case counts."
+  },
+  {
+   "name": "Arvind Dharmapuri",
+   "constituency": "Nizamabad",
+   "total_cases": 22,
+   "serious_cases": 2,
+   "non_serious_cases": 20,
+   "charges": [
+    {
+     "case_description": "FIR 274/2022, Abid Road Hyderabad; II ACMM; charges not framed; pending",
+     "ipc_sections": "IPC 505(1)(c), 504",
+     "severity": "non-serious",
+     "severity_basis": "IPC 505 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 238/2022, Miyapur Cyberabad; VIII AMM Kukatpally; charges not framed; pending",
+     "ipc_sections": "IPC 504, 505(1)(b), 505(2)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 505 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 187/2022, Ibrahimpatnam Jagtial; charges not framed; pending",
+     "ipc_sections": "IPC 153A, 295A, 505(1)(2)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153A max 3 years, 295A max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 186/2022, Ibrahimpatnam Jagtial; Section 151 CrPC; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 61/2022, Medchal Cyberabad; Section 67 IT Act 2008; XXII Addl Metropolitan Magistrate Medchal; charges not framed; pending",
+     "ipc_sections": "IPC 294B, 504, 505(2)",
+     "severity": "non-serious",
+     "severity_basis": "No section with 5yr+ max"
+    },
+    {
+     "case_description": "FIR 17/2022, Nizamabad III TN Nizamabad; charges not framed; pending",
+     "ipc_sections": "IPC 153, 153A",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153A max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 17/2022, PS Kukatpally Cyberabad; PJCJ cum VIII AMM Cyberabad Kukatpally; charges not framed; pending",
+     "ipc_sections": "IPC 504, 505(2)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 505(2) max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 8/2022, Banjara Hills Hyderabad; III ACMM; charges framed 16 Oct 2023; pending",
+     "ipc_sections": "IPC 294, 504, 505(1)(b)",
+     "severity": "non-serious",
+     "severity_basis": "No section with 5yr+ max"
+    },
+    {
+     "case_description": "FIR 5/2022, Banjara Hills Hyderabad; Section 67 IT Act 2008; III ACMM; charges framed 22 Dec 2022; pending",
+     "ipc_sections": "IPC 504, 505(2), 153A",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153A max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 4/2022, Banjara Hills Hyderabad; III ACMM Hyderabad; charges framed 06 Feb 2023; pending",
+     "ipc_sections": "IPC 504, 505(2), 506",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR serious-IPC convention); no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 3/2022, Madannapet Hyderabad; Section 3(1)(r) SC ST POA Act 2015; III ACMM; charges not framed; pending",
+     "ipc_sections": "IPC 290, 504",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act offence"
+    },
+    {
+     "case_description": "FIR 03/2022, Hasunabad Siddipet; charges not framed; pending",
+     "ipc_sections": "IPC 153A",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153A max 3 years"
+    },
+    {
+     "case_description": "FIR 02/2022, Korutla Nizamabad; charges not framed; pending",
+     "ipc_sections": "IPC 153A, 295A, 505(1)(2)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153A/295A max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 1/2022, Nandipet Nizamabad; charges not framed; pending",
+     "ipc_sections": "IPC 290, 504",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 1821/2021, Cyber Crime Hyderabad; charges not framed; pending",
+     "ipc_sections": "IPC 504",
+     "severity": "non-serious",
+     "severity_basis": "IPC 504 max 2 years"
+    },
+    {
+     "case_description": "FIR 209/2021, Banjara Hills Hyderabad; Section 151 CrPC; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 42/2020, Nizamabad IV TN Nizamabad; Section 126 OREURPA; I Additional JFCM Nizamabad; charges framed 25 Oct 2023; pending",
+     "ipc_sections": "IPC 126 OREURPA",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory provision; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 29/2020, Nizamabad (R) Nizamabad; Section 215(1)(b) TEMA; II Addl JFCM Nizamabad; charges not framed; pending",
+     "ipc_sections": "IPC 143, 290, 341, 353, 506(2), 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 17/2020, Nizamabad III TN Nizamabad; Sections 208, 209(1)(b) TEMA; I Addl JFCM Nizamabad; charges not framed; pending",
+     "ipc_sections": "Sections 208, 209(1)(b) TEMA",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory provisions; no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 118/2019, Town I Nizamabad; charges not framed; pending",
+     "ipc_sections": "IPC 147, 506, 290, 509, 504, 298, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 509 (word/gesture/act intended to insult modesty of a woman): crime against women"
+    },
+    {
+     "case_description": "FIR 50/2019, Nizamabad TN Nizamabad; I Additional JFCM Nizamabad; charges not framed; pending",
+     "ipc_sections": "IPC 290, 341, 323, 506, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "FIR 86/2012, Ghanpur (W) Warangal; Section 133 OREURPA; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    }
+   ],
+   "education": "Post Graduate — MA Political Science, Janardan Rai Nagar Rajasthan Vidyapeeth (2018)",
+   "assets_current_inr": 1099020273,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5246",
+   "notes": "22 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Suresh Kumar Shetkar",
+   "constituency": "Zahirabad",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "case_description": "Cr. No. 107/2020, Narayankhed PS; JFCM Narayankhed; charges not framed; stay pending before Telangana High Court (IA 02/2020 in CRLP 2385/2020)",
+     "ipc_sections": "IPC 406, 409, 420, 34; Section 156(3) CrPC",
+     "severity": "serious",
+     "severity_basis": "IPC 409 (criminal breach of trust by public servant) and IPC 420 (cheating): max 7 years"
+    }
+   ],
+   "education": "Graduate — BSc Agriculture, Marathwada Agricultural University, Parbhani (1982)",
+   "assets_current_inr": 107711726,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5254",
+   "notes": "Declared case is pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Madhavaneni Raghunandan Rao",
+   "constituency": "Medak",
+   "total_cases": 29,
+   "serious_cases": 4,
+   "non_serious_cases": 25,
+   "charges": [
+    {
+     "case_description": "Cr. No. 393/2020, PS Begumpet Hyderabad; Sections 171B r/w 171E IPC and 123, Representation of the People Act 1951; XI Addl CMM Secunderabad Court; charges not framed; pending",
+     "ipc_sections": "IPC 171B, 171E; Section 123, RP Act 1951",
+     "severity": "serious",
+     "severity_basis": "IPC 171B/171E (bribery): electoral offences"
+    },
+    {
+     "case_description": "Cr. No. 19/2008, PS Ramachandra Puram Cyberabad; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 240/2020, PS Dubbak Siddipet; JFCM Dubbak Court; charges not framed; pending",
+     "ipc_sections": "IPC 143, 188, 341, 34",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 242/2020, PS Siddipet I Town Siddipet; Section 51 DMA; JFCM Siddipet Court; charges not framed; pending",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 08/2023, PS Devanpally Kamareddy; Section 3 PDPPA; JFCM Kamareddy Court; charges not framed; pending",
+     "ipc_sections": "IPC 323, 504, 149, 143, 147, 353, 324",
+     "severity": "non-serious",
+     "severity_basis": "IPC 324 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 126/2021, PS Peddavoora Nalgonda; Section 57 DM Act; JFCM Suryapet Court; charges not framed; pending",
+     "ipc_sections": "IPC 269, 188",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 127/2021, PS Peddavoora Nalgonda; JFCM Suryapet Court; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Cr. No. 193/2022, PS Sangareddy Rural Sangareddy; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "IPC 341, 342, 504, 506, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 06/2022, PS Toopran Medak; Section 151 CrPC; JFCM Medak Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 185/2023, PS Siddipet II Town Siddipet; Section 3(r) SCST Act 2005; JFCM Siddipet Court; charges not framed; pending",
+     "ipc_sections": "SC/ST (POA) Act, Section 3(r)",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act offence"
+    },
+    {
+     "case_description": "Cr. No. 226/2023, PS Dubbak Siddipet; JFCM Dubbak Court; charges not framed; pending",
+     "ipc_sections": "IPC 341, 291, 186, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 47/2012, PS Mulgu Siddipet; Section 151 CrPC; JFCM Gajjwal Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 49/2018, PS Boompally Siddipet; Section 151 CrPC; JFCM Dubbak Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 35/2018, PS Siddipet I Town Siddipet; Section 151 CrPC; Pr. JFCM Siddipet Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 190/2017, PS Siddipet II Town Siddipet; Section 151 CrPC; Addl JFCM Siddipet Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 332/2010, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 52/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 54/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 159/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 255/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 331/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 328/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 425/2011, PS Patancheru Sangareddy; Section 151 CrPC; Addl JFCM Sangareddy Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 20/2021, PS Mattampalli Suryapet; Section 7(1A) PLA 1932; JFCM Suryapet Court; charges not framed; pending",
+     "ipc_sections": "IPC 143, 144, 147, 148, 332, 333, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 333 (grievous hurt to deter public servant): max 10 years"
+    },
+    {
+     "case_description": "Cr. No. 67/2020, PS R.C Puram Cyberabad; Sections 67(A), 84(C) IT Act 2008; JFCM Sangareddy; charges not framed; pending",
+     "ipc_sections": "IPC 376, 328, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 376 (rape): heinous offence, max life imprisonment"
+    },
+    {
+     "case_description": "Cr. No. 685/2019, PS Hayathnagar Rachakonda; XXIV AMM Court Rangareddy; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Cr. No. 409/2023, PS Alwal Hyderabad; Section 151 CrPC; JMM Medchal Court; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 331/2023, PS Dubbak; JFCM Dubbak; charges not framed; pending",
+     "ipc_sections": "IPC 141, 143, 149, 188, 353",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 104/2024, PS Sangareddy; Addl. JFCM Sangareddy; charges not framed; pending",
+     "ipc_sections": "IPC 504",
+     "severity": "non-serious",
+     "severity_basis": "IPC 504 max 2 years"
+    }
+   ],
+   "education": "Graduate Professional — BSc/BEd/LLB/PGDHR, University of Hyderabad (2001)",
+   "assets_current_inr": 220907289,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5239",
+   "notes": "29 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Eatala Rajender",
+   "constituency": "Malkajgiri",
+   "total_cases": 45,
+   "serious_cases": 4,
+   "non_serious_cases": 41,
+   "charges": [
+    {
+     "case_description": "Cr. No. 226/2023, PS Medchal; Section 151 CrPC; Judicial First Class Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 123/2023, PS Saifabad; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 215/2017 dated 02-03-2013, Hon'ble Metropolitan Magistrate Court (Railway Court) Kazipet; Cr. No. 30/2013, Railway Police Kazipet of Warangal District (previously Cr. No. 164/2011, PS Kamalapur, transferred to railway police); charges framed 02 Mar 2013; pending",
+     "ipc_sections": "IPC 143, 147, 188, 290, 341, 506, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 123/2022, PS Munugode; charges not framed; pending",
+     "ipc_sections": "IPC 341, 324, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 324 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 367/2021, PS Huzurabad; Section 67 IT Act; JMFC Huzurabad; charges framed 31 Jan 2022; pending",
+     "ipc_sections": "IPC 171C, 188",
+     "severity": "serious",
+     "severity_basis": "IPC 171C (undue influence at elections): electoral offence"
+    },
+    {
+     "case_description": "CC 470/2022, IInd Addl JMFC Huzurabad; Cr. No. 356/2021, PS Jammikunta; Section 51 BO of DMA Act; charges not framed; pending",
+     "ipc_sections": "IPC 153, 505(2), 188, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 505(2) max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 132/2022, 1st Addl JFCM Huzurabad; Cr. No. 317/2021, PS Huzurabad; Section 51(b) DM Act 2005; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 241/2022, Spl. JFCM Excise Court Hyderabad; Cr. No. 316/2021, PS Jammikunta; Section 51(b) DM Act 2005; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 1140/2021, 1st Addl JFCM Huzurabad; Cr. No. 316/2021, PS Huzurabad; Section 51(b) DM Act 2005; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 235/2022, Spl. JFCM Excise Court Hyderabad; Cr. No. 315/2021, PS Jammikunta; Section 51(b) DM Act 2005; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Cr. No. 222/2021, PS Karimnagar III Town; Section 51(1) DM Act 2005; charges not framed; pending",
+     "ipc_sections": "IPC 341, 188, 290",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 240/2022, JFCM Excise Court Hyderabad; Cr. No. 220/2021, PS Kamalapur; Section 126 OREURPA; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 238/2022, Spl. JFCM Excise Court Hyderabad; Cr. No. 217/2021, PS Kamalapur; Section 126 OREURPA; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 647/2023, IV Addl JMFC Hanamkonda; Cr. No. 215/2021, PS Kamalapur; Section 51(b) DM Act; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 237/2022, IV Addl JMFC Hanamkonda; Cr. No. 199/2021, PS Kamalapur; Section 123(1) RP Act; charges not framed; pending",
+     "ipc_sections": "IPC 188, 171G, 504",
+     "severity": "serious",
+     "severity_basis": "IPC 171G (false statement in connection with election) and Section 123(1) RP Act: electoral offences"
+    },
+    {
+     "case_description": "CC 7753/2022, IV Addl JMFC Hanamkonda; Cr. No. 198/2021, PS Kamalapur; Section 51(1)(B) DM Act; charges not framed; pending",
+     "ipc_sections": "IPC 188, 341, 34",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 7087/2022, IV Addl JMFC Hanamkonda; Cr. No. 79/2021, PS Kamalapur; Sections 3(1) EDA, 51(1)(B) DM Act; charges not framed; pending",
+     "ipc_sections": "IPC 188, 285, 34",
+     "severity": "non-serious",
+     "severity_basis": "Minor sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 1088/2021, 1st Addl JFCM Huzurabad; Cr. No. 329/2020, PS Huzurabad; Section 51(b) DM Act 2005; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Cr. No. 300/2013, PS Saifabad; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 271/2013, PS Abid Road; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 102/2013, PS Subedari; Section 151 CrPC; Executive Magistrate Second Class; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 290/2012, PS Panjagutta; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 251/2012, Railway Police Mancheryal; Section 147 Railway Act; Hon'ble IInd Metropolitan Magistrate Court at Kazipet (Railway Court); charges not framed; pending",
+     "ipc_sections": "IPC 143, 448, 109, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 388/2011, PS Saifabad; Section 151 CrPC; VII MM Court Nampally; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 164/2011, PS Kamalapur; Section 7 Criminal Law Amendment Act 1932, Sections 147, 150(A) Railway Act 1989; charges not framed; pending",
+     "ipc_sections": "IPC 143, 188, 353, 506, 109",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 134/2011, PS Thirumalgiri; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 130/2011, PS Saifabad; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 127/2011, PS Ramagundam; Section 7 Criminal Law Amendment Act, Sections 147, 151 Railways Act; 2nd Addl JFCM Godavarikhani; charges framed 14 Feb 2013; pending",
+     "ipc_sections": "IPC 143, 188, 506, 109, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 126/2011, PS Ramagundam; Section 7 Criminal Law Amendment Act, Sections 147, 151 Railways Act; 2nd Addl JFCM Godavarikhani; charges framed 14 Feb 2013; pending",
+     "ipc_sections": "IPC 143, 188, 506, 109, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 122/2011, PS Huzurabad; Section 151 CrPC; 1st Addl JFCM Huzurabad; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 12/2011, PS Huzurabad; Section 151 CrPC; Addl Judicial First Class Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 1355/2010, PS Banjarahills; Section 151 CrPC; charges not framed; appeal filed (details not shown in ADR source)",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 264/2010, PS Osmania University; Section 151 CrPC; IV Addl MM Court Nampally; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 89/2010, Railway Police Kazipet of Warangal District (previously Cr. No. 169/2009, PS Kamalapur); Hon'ble Metropolitan Magistrate Court (Railway Court) Kazipet; charges not framed; pending",
+     "ipc_sections": "IPC 143, 147, 188, 290, 341, 506, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 79/2010 dated 28-05-2010, PS Mahabubabad Warangal District; Hon'ble Metropolitan Magistrate Court (Railway Court); charges not framed; pending",
+     "ipc_sections": "IPC 147, 148, 332, 307, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 307 (attempt to murder): max life imprisonment"
+    },
+    {
+     "case_description": "Cr. No. 29/2010, PS Mahaboobabad Town; Final Report dated 10-09-2020; charges not framed; pending",
+     "ipc_sections": "IPC 147, 148, 307, 332, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 307 (attempt to murder): max life imprisonment"
+    },
+    {
+     "case_description": "Cr. No. 343/2009, PS Osmania University; Section 151 CrPC; Addl Chief Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 268/2009, PS Karimnagar; Section 151 CrPC; Addl District Metropolitan Magistrate; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 169/2009, PS Kamalapur; charges not framed; pending",
+     "ipc_sections": "IPC 324, 34, 506, 447",
+     "severity": "non-serious",
+     "severity_basis": "IPC 324 max 3 years; IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Cr. No. 294/2008, PS Karimnagar; Section 151 CrPC; 1st Addl JMFC Karimnagar; charges not framed; pending",
+     "ipc_sections": "Section 151 CrPC",
+     "severity": "non-serious",
+     "severity_basis": "Preventive/procedural provision; no 5yr+ max"
+    },
+    {
+     "case_description": "CONVICTED: CC 420/2014, Hon'ble Metropolitan Magistrate Court at Kazipet (Railway Court); Section 147 Railway Act; fine of Rs. 800 imposed; date of conviction 24 May 2018; no appeal",
+     "ipc_sections": "Section 147, Railway Act",
+     "severity": "non-serious",
+     "severity_basis": "Minor railway-offence fine conviction; no 5yr+ max"
+    },
+    {
+     "case_description": "CONVICTED: CC 418/2014, Hon'ble Metropolitan Magistrate Court at Kazipet (Railway Court); Sections 147, 145(b) Railway Act; fine of Rs. 800 imposed; date of conviction 14 Jun 2018; no appeal",
+     "ipc_sections": "Sections 147, 145(b), Railway Act",
+     "severity": "non-serious",
+     "severity_basis": "Minor railway-offence fine conviction; no 5yr+ max"
+    },
+    {
+     "case_description": "CONVICTED: CC 226/2014, Hon'ble Metropolitan Magistrate Court at Kazipet (Railway Court); Sections 147 and 174(a) Railway Act; fine of Rs. 1500 imposed; date of conviction 24 May 2018; no appeal",
+     "ipc_sections": "Sections 147, 174(a), Railway Act",
+     "severity": "non-serious",
+     "severity_basis": "Minor railway-offence fine conviction; no 5yr+ max"
+    },
+    {
+     "case_description": "CONVICTED: CC 157/2012, Hon'ble IV Addl Chief Metropolitan Magistrate; IPC 188; fine of Rs. 100 imposed; date of conviction 30 Jun 2012; no appeal",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "Minor IPC 188 fine conviction; max 6 months"
+    },
+    {
+     "case_description": "CONVICTED: CC 417/2009, Hon'ble Metropolitan Magistrate Court at Kazipet (Railway Court); Section 147 Railway Act; fine of Rs. 800 imposed; date of conviction 14 Jun 2018; no appeal",
+     "ipc_sections": "Section 147, Railway Act",
+     "severity": "non-serious",
+     "severity_basis": "Minor railway-offence fine conviction; no 5yr+ max"
+    }
+   ],
+   "education": "Graduate — BSc, Osmania University (1984)",
+   "assets_current_inr": 540178712,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5238",
+   "notes": "45 declared cases: 40 pending and 5 convicted (minor railway-offence and IPC 188 fines). Pending cases are declared matters — no guilt implied; convicted cases are recorded with their punishments as declared. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "G. Kishan Reddy",
+   "constituency": "Secunderabad",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Others — Diploma in Tool Designs (1975-78), Central Institute of Tool Designs, Balanagar, Hyderabad",
+   "assets_current_inr": 192241721,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5251",
+   "notes": "myneta page states no declared criminal cases. Absent from ADR Lok Sabha 2024 Book 'MPs with Declared Criminal Cases' annexure."
+  },
+  {
+   "name": "Asaduddin Owaisi",
+   "constituency": "Hyderabad",
+   "total_cases": 5,
+   "serious_cases": 0,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "case_description": "Case 566/22, Shoratgarh PS; CJM Sidhart Nagar UP; Allahabad High Court granted stay on 22.03.2023; charges not framed; pending",
+     "ipc_sections": "IPC 153A, 295A, 298",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153A/295A max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 22/2018 (old), CC 138/22 (new); Spl. Metropolitan Sessions Judge Nampally Hyderabad / Addl. JFCM Nampally Hyderabad; FIR 14/16, Mir Chowk PS Hyderabad; charges not framed; appeal filed (details not shown in ADR source)",
+     "ipc_sections": "IPC 143, 341, 427, 323, 506, 188, 109, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "Reg. No. 5011-15, ACJM-II Purnea Bihar; FIR 175/2015, Baisi PS Purnea Bihar; charges not framed; appeal filed (details not shown in ADR source)",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "RCC 532/11, II JMFC Nanded; FIR 70/2010, Itwara PS Nanded Maharashtra; Sections 131, 33, 36, 134 BP Act, Section 133 CrPC; charges not framed; appeal filed (details not shown in ADR source)",
+     "ipc_sections": "IPC 171, 188, 505, 425, 426, 433",
+     "severity": "non-serious",
+     "severity_basis": "IPC 171 max 2 years, 505 max 3 years; borderline: IPC 433 carries up to 7 years, but treated non-serious as the matter concerns a minor mischief/protest provision in context"
+    },
+    {
+     "case_description": "CRP 1729/2022, IX Addl. Sessions Court Varanasi; the learned Magistrate rejected the request for registration of FIR; charges not framed; appeal filed (details not shown in ADR source)",
+     "ipc_sections": "IPC 147, 148, 504, 153A(2), 505(3), 506",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    }
+   ],
+   "education": "Graduate Professional — Bar-at-Law (LLB), Lincoln's Inn, London (1994)",
+   "assets_current_inr": 238766044,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5228",
+   "notes": "5 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Konda Vishweshwar Reddy",
+   "constituency": "Chevella",
+   "total_cases": 4,
+   "serious_cases": 1,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "case_description": "CC 11911/2019, IIIrd Addl. Chief Metropolitan Magistrate Court Nampally; FIR 298/2019, Banjara Hills PS Hyderabad; charges framed 07 Aug 2019; pending for arguments on discharge petition filed by accused Nos. 1 to 3",
+     "ipc_sections": "IPC 332, 342, 506, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332 max 3 years; IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "CC 1612/2023, Ist Addl. Junior Civil Judge cum IX Addl. Metropolitan Magistrate, Ranga Reddy at Kukatpally; FIR 22/2022, Cyber Crime PS Cyberabad; Sections 43, 66 IT Act 2008; charges framed 14 Jun 2023; pending for issuance of fresh summons",
+     "ipc_sections": "IPC 120B",
+     "severity": "non-serious",
+     "severity_basis": "No section with 5yr+ max"
+    },
+    {
+     "case_description": "CC 669/2019, transferred from Vikarabad to Nampally Metropolitan Courts and renumbered as CC 281/2022 before Ist MM, Special JFCM for Excise Cases Hyderabad; FIR 69/2019, Vikarabad PS; charges framed 24 Jul 2019; pending for issuance of fresh summons",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "FIR 157/2020, Dabri PS New Delhi; Metropolitan Magistrate-02, Dwarka Court Complex, South West District Delhi; charges not framed; Delhi High Court quash petition WP (Crl) 197/2023 filed",
+     "ipc_sections": "IPC 420, 468, 471",
+     "severity": "serious",
+     "severity_basis": "IPC 420 (cheating), 468 (forgery for cheating), 471 (using forged document): max 7 years"
+    }
+   ],
+   "education": "Graduate Professional — BE Electrical (Univ of Madras, Guindy, 1983), MS Electrical (NJIT, New Jersey, USA, 1985)",
+   "assets_current_inr": 45682222094,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
+   "notes": "4 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "D. K. Aruna",
+   "constituency": "Mahbubnagar",
+   "total_cases": 6,
+   "serious_cases": 1,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "case_description": "Case 359/2019, Judicial Magistrate of First Class at Gadwal Town, Jogulamba Gadwal District; FIR 188/2018, PS Maldakal, Jogulamba Gadwal Dist; charges framed 30 May 2023; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Judicial Magistrate of First Class at Gadwal Town, Jogulamba Gadwal District; FIR 324/2018, PS Gadwal Town; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Judicial Magistrate of First Class at Narayanpet; FIR 36/2024, PS Utkoor, Narayanpet District; Section 26, TS District Police Act 1329; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "CC 457/2021, Judicial Magistrate of First Class at Gadwal Town; FIR 27/2020, PS Gadwal Town, Jogulamba Gadwal Dist; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "Judicial Magistrate of First Class at Gadwal Town; FIR 23/2020, PS K.T. Doddi, K.T. Doddi Mandal; Section 123, RP Act; charges not framed; pending",
+     "ipc_sections": "IPC 188, 171E, 171H, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 171E (bribery) and 171H (illegal payments in connection with election): electoral offences"
+    },
+    {
+     "case_description": "Judicial Magistrate of First Class at Gadwal Town; FIR 330/2021, PS Gadwal Town, Jogulamba Gadwal District; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    }
+   ],
+   "education": "12th Pass — Intermediate, Madapati Hanumanthu Rao Girls HS, Narayanaguda; SSC (1973-74)",
+   "assets_current_inr": 667569871,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5236",
+   "notes": "6 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Dr. Mallu Ravi",
+   "constituency": "Nagarkurnool",
+   "total_cases": 6,
+   "serious_cases": 1,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "case_description": "CC 43/2024, MP/MLA Court; FIR 290/2022 dated 16.06.2022, PS Panjagutta Telangana; Section 3 PDPPA; charges not framed; pending",
+     "ipc_sections": "IPC 143, 145, 147, 149, 120B, 341, 336, 427, 435, 152, 153, 353, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 435 (mischief by fire/explosive substance): max 7 years"
+    },
+    {
+     "case_description": "CC 470/2023, 1-Spl. JFCM for Excise Cases; FIR 38/2021 dated 19.01.2021, PS Saifabad Telangana; charges not framed; pending",
+     "ipc_sections": "IPC 143, 147, 341, 290, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 3671/2022, Addl. MM cum AJCJ Courts Rangareddy; FIR 1243/2021 dated 02.10.2021, PS L.B Nagar Telangana; Section 7 CLA-1952; charges not framed; pending",
+     "ipc_sections": "IPC 147, 148, 332, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332 max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 340 of 2018, JFCM Court Mahabubnagar; FIR 285/2017 dated 28.08.2017, PS Jadcherla TS; charges not framed; pending",
+     "ipc_sections": "IPC 332, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332 max 3 years"
+    },
+    {
+     "case_description": "JFCM Court Mahabubnagar; FIR Cr. No. 268/2011 dated 13.05.2013, PS Jadcherla TS; Section 3 PDPPA; charges not framed; pending",
+     "ipc_sections": "IPC 143, 353, 379, 332, 323, 324, 224, 506, 427, 153A, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 324 max 3 years; IPC 506 max 2 years (borderline per ADR convention); IPC 153A max 3 years; no 5yr+ max"
+    },
+    {
+     "case_description": "CONVICTED: STC 176/2001, JFCM Court Jadcherla; IPC 285, 186; admonished with warning under Section 360(i) CrPC and directed to execute a bond under Section 360(1) CrPC to maintain good behaviour for one year (released under Sections 3 & 4, Probation of Offenders Act); date of conviction 31 Jul 2004; no appeal",
+     "ipc_sections": "IPC 285, 186",
+     "severity": "non-serious",
+     "severity_basis": "Conviction with admonition/probation only; minor sections, no 5yr+ max"
+    }
+   ],
+   "education": "Graduate Professional — MBBS, DLO, Gandhi Medical College, Osmania University (1981-82)",
+   "assets_current_inr": 523215816,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5241",
+   "notes": "6 declared cases: 5 pending and 1 convicted (admonition/probation under Probation of Offenders Act). Pending cases are declared matters — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Kunduru Raghuveer",
+   "constituency": "Nalgonda",
+   "total_cases": 2,
+   "serious_cases": 0,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "case_description": "FIR 88/2024, PS Miryalaguda II Town, Nalgonda Dist; Judicial First Class Magistrate Miryalaguda; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    },
+    {
+     "case_description": "FIR 119/2021, CC 724/2021, PS Peddavoora, Nalgonda Dist; Section 57, Disaster Management Act; Judicial First Class Magistrate at Nidamanooru; charges not framed; pending",
+     "ipc_sections": "IPC 269, 188",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory sections; no 5yr+ max"
+    }
+   ],
+   "education": "12th Pass — Intermediate, Board of Intermediate Education (1997)",
+   "assets_current_inr": 355731499,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5294",
+   "notes": "2 declared cases, both pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Chamala Kiran Kumar Reddy",
+   "constituency": "Bhongir",
+   "total_cases": 3,
+   "serious_cases": 1,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "case_description": "CC 258/2022, JFCM Nakrekal; FIR 48/2022, PS Shaligouraram; Section 8(b) National Highway Act 1956; charges not framed; pending",
+     "ipc_sections": "IPC 143, 341, 506, 149",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); no 5yr+ max"
+    },
+    {
+     "case_description": "CC 229/2023, Metropolitan Magistrate Criminal Court Nampally; FIR 217/2023, PS Begum Bazar; Sections 21/76 CP Act, Sections 52, 177 MV Act; charges not framed; pending",
+     "ipc_sections": "IPC 171C, 171F, 153, 505(1)(b)(c)",
+     "severity": "serious",
+     "severity_basis": "IPC 171C/171F: electoral offences"
+    },
+    {
+     "case_description": "Court-referred case under Section 156(3) CrPC, filed by a third party over trespass in a property dispute (200 sq. yds); FIR 207/2024, PS Adibhatla; PJCJ cum XV Addl. MM Ibrahimpatnam Court; charges not framed; pending",
+     "ipc_sections": "IPC 447, 427, 506, 34",
+     "severity": "non-serious",
+     "severity_basis": "IPC 506 max 2 years (borderline per ADR convention); property-dispute trespass; no 5yr+ max"
+    }
+   ],
+   "education": "12th Pass — Intermediate, Board of Intermediate Education, AP (1993); Hotel Management, Center of Higher Studies, Farmagusta, Cyprus (1994)",
+   "assets_current_inr": 287211468,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5299",
+   "notes": "3 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Kadiyam Kavya",
+   "constituency": "Warangal",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — MBBS, Deccan Medical College; MD (Pathology), Osmania Medical College, Hyderabad",
+   "assets_current_inr": 15501028,
+   "source_url": "https://adrindia.org/sites/default/files/Lok_Sabha_2024_Book_0.pdf",
+   "notes": "Her myneta.info candidate page could not be located; case count (0) and assets (Rs 1,55,01,028: movable Rs 1,49,12,788 + immovable Rs 5,88,240) taken from the ADR Lok Sabha 2024 Book, which lists no criminal-case entry for her in the 'MPs with Declared Criminal Cases' annexure. Education from public biographical sources (Wikipedia: Osmania Medical College, Hyderabad; MBBS at Deccan Medical College, MD Pathology at Osmania Medical College)."
+  },
+  {
+   "name": "Balram Naik Porika",
+   "constituency": "Mahabubabad",
+   "total_cases": 6,
+   "serious_cases": 2,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "case_description": "STC 2091/2020, 11th Additional Metropolitan Magistrate Kukatpally MM Court; Section 138 NI Act; initiated in Gachibowli Police Station limits; charges not framed; pending",
+     "ipc_sections": "Section 138, Negotiable Instruments Act",
+     "severity": "non-serious",
+     "severity_basis": "NI Act cheque-dishonour provision; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 412/2021, 17th Additional Metropolitan Magistrate Court Saidapet Chennai; PS Saidapet; charges not framed; pending",
+     "ipc_sections": "IPC 363, 384, 385, 386, 387, 506(2)",
+     "severity": "serious",
+     "severity_basis": "IPC 363 (kidnapping) and IPC 386/387 (extortion): heinous, max 7-10 years"
+    },
+    {
+     "case_description": "CC 102/2019, Principal Judicial First Class Magistrate Mahabubabad; Cr. No. 242/2019, Mahbubabad Town Police Station; charges not framed; pending",
+     "ipc_sections": "IPC 188, 341, 149",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 156/2021, Principal Judicial First Class Magistrate Court Mahabubabad; Cr. No. 225/2020, Mahabubabad Town Police Station; charges not framed; pending",
+     "ipc_sections": "IPC 143, 147, 149, 186, 188, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no 5yr+ max"
+    },
+    {
+     "case_description": "CC 43/2024, JFCM Excise Cases, Manoranjan Complex Nampally Hyderabad; Cr. No. 290/2022, Punjagutta Police Station Hyderabad; Section 3 PDPPA; charges not framed; pending",
+     "ipc_sections": "IPC 143, 145, 147, 149, 120B, 341, 336, 427, 435, 152, 153, 353, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 435 (mischief by fire/explosive substance): max 7 years"
+    },
+    {
+     "case_description": "FIR 89/2012, Ghanpur (W) PS; charges not framed; pending",
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "IPC 188 max 6 months"
+    }
+   ],
+   "education": "10th Pass — SSC, Board of Secondary Education (1983)",
+   "assets_current_inr": 29919101,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5297",
+   "notes": "6 declared cases, all pending — no guilt implied. Per-case detail cross-verified against ADR Lok Sabha 2024 Book annexure."
+  },
+  {
+   "name": "Ramasahayam Raghuram Reddy",
+   "constituency": "Khammam",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "case_description": "FIR 389/2023, PS Moinabad; II Additional JFCM-cum-13th Additional Metropolitan Magistrate Court at Rajendra Nagar Hyderabad; Section 123(1) RP Act; charges not framed; pending",
+     "ipc_sections": "IPC 188, 171B, 171E",
+     "severity": "serious",
+     "severity_basis": "IPC 171B/171E (bribery): electoral offences"
+    }
+   ],
+   "education": "Others — BCom, Nizam College, Hyderabad; PG Diploma",
+   "assets_current_inr": 582770537,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5716",
+   "notes": "Declared case is pending — no guilt implied. The myneta page rendered only the asset section for this candidate; per-case detail taken from the ADR Lok Sabha 2024 Book annexure (S.No. 123)."
+  }
+ ],
+ "collected_at": "2026-10-20",
+ "adr_serious_criteria": "Per ADR, \"serious criminal cases\" are: offences for which the maximum punishment is of five years or more; non-bailable offences; electoral offences (e.g. IPC Section 171E or bribery); offences related to losses to the exchequer; assault, murder, kidnap, or rape-related offences; those mentioned in Representation of the People Act (Section 8); offences under the Prevention of Corruption Act; and crimes against women.",
+ "adr_serious_criteria_source": "http://adrindia.org/node/91396",
+ "severity_method": "Serious/non-serious applied from ADR's published 'serious criminal cases' criteria (5+ years max punishment; electoral offences; corruption/loss to exchequer; heinous categories incl. murder/attempt/rape/kidnap; SC/ST POA Act; crimes against women) to the IPC/statute sections listed in each affidavit. myneta.info does not publish ADR's own per-candidate split, so this is a transparent mechanical application, not ADR's official label. Borderline calls are noted per charge. All cases are declared/pending unless stated convicted; none of this implies guilt."
+}

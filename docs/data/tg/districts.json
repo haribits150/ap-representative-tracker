@@ -1,0 +1,2754 @@
+{
+ "districts": [
+  {
+   "name": "Adilabad",
+   "name_te": "ఆదిలాబాద్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 63.46,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 94.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 45.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4560000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 222233,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Bhadradri Kothagudem",
+   "name_te": "భద్రాద్రి కొత్తగూడెం",
+   "indicators": {
+    "literacy_pct": {
+     "value": 66.4,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 28.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4550000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 321281,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Hanumakonda",
+   "name_te": "హనుమకొండ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 76.17,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 99.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf",
+     "note": "NFHS-5 reported this geography as Warangal Urban; renamed Hanumakonda in 2021."
+    },
+    "stunting_under5_pct": {
+     "value": 29.5,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf",
+     "note": "NFHS-5 reported this geography as Warangal Urban; renamed Hanumakonda in 2021."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 1889999,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 199490,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Hyderabad",
+   "name_te": "హైదరాబాద్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 83.25,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.3,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 30.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Hyderabad is fully urban; MGNREGA is not implemented there, so no persondays are reported for it."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 554105,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Jagtial",
+   "name_te": "జగిత్యాల",
+   "indicators": {
+    "literacy_pct": {
+     "value": 60.26,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 94.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 29.9,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 3570000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 205273,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Jangaon",
+   "name_te": "జనగాం",
+   "indicators": {
+    "literacy_pct": {
+     "value": 61.6,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 99.6,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 33.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2730000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 233215,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Jayashankar Bhupalpally",
+   "name_te": "జయశంకర్ భూపాలపల్లి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 58.97,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 99.5,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 32.5,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 1850000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 257851,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Jogulamba Gadwal",
+   "name_te": "జోగులాంబ గద్వాల్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 49.87,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 94.2,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 49.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2110000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 214861,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Kamareddy",
+   "name_te": "కామారెడ్డి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 56.51,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 33.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 3800000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 214230,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Karimnagar",
+   "name_te": "కరీంనగర్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 69.16,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 30.3,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2610000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 250243,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Khammam",
+   "name_te": "ఖమ్మం",
+   "indicators": {
+    "literacy_pct": {
+     "value": 65.95,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.9,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 22.2,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 5460000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 249517,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Komaram Bheem Asifabad",
+   "name_te": "కొమరం భీమ్ ఆసిఫాబాద్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 56.72,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 82.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 38.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 3910000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 221456,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Mahabubabad",
+   "name_te": "మహబూబాబాద్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 57.13,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 33.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4179999,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 212232,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Mahabubnagar",
+   "name_te": "మహబూబ్‍నగర్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 60.97,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 42.6,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2910000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 293823,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Mancherial",
+   "name_te": "మంచిర్యాల",
+   "indicators": {
+    "literacy_pct": {
+     "value": 64.35,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 90.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 25.9,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2700000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 227716,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Medak",
+   "name_te": "మెదక్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 56.12,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.9,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 36.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4070000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 283567,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Medchal-Malkajgiri",
+   "name_te": "మేడ్చల్-మల్కాజ్‍గిరి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 82.48,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.3,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 33.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 60000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 343130,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Mulugu",
+   "name_te": "ములుగు",
+   "indicators": {
+    "literacy_pct": {
+     "value": 62.26,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Mulugu and Narayanpet were created in February 2019, after the NFHS-5 (2019-20) district sampling frame was fixed; the NHSRC Health Dossier 2021 district table covers 31 districts and has no values for them."
+    },
+    "stunting_under5_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Mulugu and Narayanpet were created in February 2019, after the NFHS-5 (2019-20) district sampling frame was fixed; the NHSRC Health Dossier 2021 district table covers 31 districts and has no values for them."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 1590000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 249338,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Nagarkurnool",
+   "name_te": "నాగర్‍కర్నూల్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 54.38,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 35.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 3240000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 229649,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Nalgonda",
+   "name_te": "నల్గొండ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 63.75,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 98.3,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 31.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 6370000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 276273,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Narayanpet",
+   "name_te": "నారాయణపేట",
+   "indicators": {
+    "literacy_pct": {
+     "value": 49.93,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Mulugu and Narayanpet were created in February 2019, after the NFHS-5 (2019-20) district sampling frame was fixed; the NHSRC Health Dossier 2021 district table covers 31 districts and has no values for them."
+    },
+    "stunting_under5_pct": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Mulugu and Narayanpet were created in February 2019, after the NFHS-5 (2019-20) district sampling frame was fixed; the NHSRC Health Dossier 2021 district table covers 31 districts and has no values for them."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 1860000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 207784,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Nirmal",
+   "name_te": "నిర్మల్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 57.77,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 96.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 31.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 5220000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 234640,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Nizamabad",
+   "name_te": "నిజామాబాద్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 64.25,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.3,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 30.5,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4520000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 223282,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Peddapalli",
+   "name_te": "పెద్దపల్లి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 65.52,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 96.5,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 27.5,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2280000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 284661,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Rajanna Sircilla",
+   "name_te": "రాజన్న సిరిసిల్ల",
+   "indicators": {
+    "literacy_pct": {
+     "value": 62.71,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.6,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 22.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 1960000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 213725,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Rangareddy",
+   "name_te": "రంగారెడ్డి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 71.88,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.2,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 37.8,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 1989999,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 1055913,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Sangareddy",
+   "name_te": "సంగారెడ్డి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 64.08,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 93.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 32.9,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4360000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 345478,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Siddipet",
+   "name_te": "సిద్దిపేట",
+   "indicators": {
+    "literacy_pct": {
+     "value": 61.61,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 99.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 28.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 4510000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 278352,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Suryapet",
+   "name_te": "సూర్యాపేట",
+   "indicators": {
+    "literacy_pct": {
+     "value": 64.11,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 95.9,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 29.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 5110000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 248429,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Vikarabad",
+   "name_te": "వికారాబాద్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 57.91,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 95.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 32.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 5920000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 198401,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Wanaparthy",
+   "name_te": "వనపర్తి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 55.67,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 99.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 40.4,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2160000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 227422,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Warangal",
+   "name_te": "వరంగల్",
+   "indicators": {
+    "literacy_pct": {
+     "value": 61.26,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf",
+     "note": "NFHS-5 reported this geography as Warangal Rural."
+    },
+    "stunting_under5_pct": {
+     "value": 36.1,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf",
+     "note": "NFHS-5 reported this geography as Warangal Rural."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2300000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 244278,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Yadadri Bhuvanagiri",
+   "name_te": "యాదాద్రి భువనగిరి",
+   "indicators": {
+    "literacy_pct": {
+     "value": 65.24,
+     "year": 2011,
+     "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Telangana",
+     "note": "Census 2011 (latest census); compiled for the 33-district geography."
+    },
+    "institutional_births_pct": {
+     "value": 97.7,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 38.3,
+     "year": "2019-21",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Telangana.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Telangana: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); parliamentary annexures found give state-wise figures only (e.g. Lok Sabha USQ 192 answered 21.07.2025, Annexure-I, state-wise 2021-22 to 2023-24). The district-wise annexure located (Lok Sabha USQ 1788 answered 10.03.2025) covers Andhra Pradesh only."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level; district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Telangana districts. NITI's district-level SDG indices cover only the North-Eastern Region states and selected other states; the SDG India Index for Telangana is state-level only."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": 2480000,
+     "year": "2024-25 (as on 24.01.2025)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Part-year figure: persondays generated as on 24 January 2025 (Fig 13.1, in lakh, converted to absolute)."
+    },
+    "pmayg_houses_completed": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Telangana did not implement PMAY-G since the scheme's inception on 01.04.2016 (Lok Sabha USQ 1355 answered 11.02.2025; Lok Sabha Starred Q 245). The state runs its own Indiramma housing scheme; linkage of Indiramma houses with PMAY-G began only in October 2026."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); no static district-wise source found. State-level: Telangana has declared 100% Har Ghar Jal (tap connections to all rural households)."
+    },
+    "per_capita_income_inr": {
+     "value": 288599,
+     "year": "2023-24 (current prices)",
+     "source": "https://www.scribd.com/document/841214482/Socio-Economic-Outlook-2025",
+     "note": "Fig 2.7, Directorate of Economics and Statistics, Government of Telangana."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NCRB 'Crime in India' district data reports police jurisdictions, not Telangana's 33 revenue districts (e.g. Hyderabad city is split across three police commissionerates; the Warangal unit covers two revenue districts; five revenue districts have no corresponding unit), so per-lakh rates by revenue district would misattribute crime. Not computed rather than miscomputed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "Same police-jurisdiction vs revenue-district mismatch as crime_rate_per_lakh: NCRB district rows do not map to Telangana's 33 revenue districts, so a per-lakh rate would misattribute crimes against women."
+    }
+   },
+   "notes": ""
+  }
+ ],
+ "collected_at": "2026-10-20",
+ "geojson_source": "data/tg/districts.geojson (33 districts; companion boundary file by parallel worker)",
+ "notes": "33-district geography: October 2016 reorganization (10 -> 31 districts), plus Mulugu and Narayanpet created February 2019; Warangal Urban renamed Hanumakonda in 2021. NFHS-5 (2019-20) district values cover 31 districts (Mulugu and Narayanpet post-date the sampling frame). MGNREGA persondays are part-year (as on 24.01.2025)."
+}

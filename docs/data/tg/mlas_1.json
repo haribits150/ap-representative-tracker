@@ -1,0 +1,5616 @@
+{
+ "mlas": [
+  {
+   "name": "Chikkudu Vamshi Krishna",
+   "constituency": "Achampet",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 46958056,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 58.96,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 49326,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nagarkurnool"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Payal Shanker",
+   "constituency": "Adilabad",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 75007453,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 11,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 35.84,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 6692,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Adilabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Ilaiah Beerla",
+   "constituency": "Alair",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 106639179,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.41,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 49636,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 90.16,
+     "source": "https://www.suryaa.com/suryaa-ap/telangana-english-11339-.html"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana. Alair turnout 90.16% from IANS reporting citing ECI."
+   },
+   "district_context": {
+    "districts": [
+     "Yadadri Bhuvanagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Vijayudu",
+   "constituency": "Alampur",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 5970537,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.88,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 30573,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jogulamba Gadwal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kaleru Venkatesh",
+   "constituency": "Amberpet",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 99565179,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.8,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 24537,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "C. Damodar Rajanarsimha",
+   "constituency": "Andole",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 466629963,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.65,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 28193,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Sangareddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Paidi Rakesh Reddy",
+   "constituency": "Armur",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 212897377,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.9,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 29669,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nizamabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kova Laxmi",
+   "constituency": "Asifabad",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 23335153,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Literate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.97,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22798,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Komaram Bheem Asifabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Adinarayana Jare",
+   "constituency": "Aswaraopeta",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 5697652,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=143"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=143"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=143"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.05,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 28905,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Bhadradri Kothagudem"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Mohammed Mubeen",
+   "constituency": "Bahadurpura",
+   "party": "All India Majlis-E-Ittehadul Muslimeen",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 15045139,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 62.24,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 67025,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Prashanth Reddy Vemula",
+   "constituency": "Balkonda",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 347676992,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.28,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 4533,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nizamabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Srinivas Reddy Parige",
+   "constituency": "Banswada",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 42004690,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.65,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 23464,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Kamareddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Gaddam Vinod",
+   "constituency": "Bellampalli",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1971278877,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.96,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 36878,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mancherial"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Tellam Venkata Rao",
+   "constituency": "Bhadrachalam",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 14579895,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.08,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 5719,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Bhadradri Kothagudem"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kumbam Anil Kumar Reddy",
+   "constituency": "Bhongir",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2118494530,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.4,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 26201,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Yadadri Bhuvanagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Gandra Satyanarayana Rao",
+   "constituency": "Bhupalpalle",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 119012514,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Others",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.55,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 52699,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jayashankar Bhupalpally"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Anil Jadhav",
+   "constituency": "Boath",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 19318616,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.13,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22800,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Adilabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "P. Sudarshan Reddy",
+   "constituency": "Bodhan",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1099778224,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=48"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=48"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=48"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.95,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 3062,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nizamabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Akbar Uddin Owaisi",
+   "constituency": "Chandrayangutta",
+   "party": "All India Majlis-E-Ittehadul Muslimeen",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 187769246,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 64.89,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 81660,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Mir Zulfeqar Ali",
+   "constituency": "Charminar",
+   "party": "All India Majlis-E-Ittehadul Muslimeen",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 101368471,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.05,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22853,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Gaddam Vivekanand",
+   "constituency": "Chennur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 6066786871,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.51,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 37515,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mancherial"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kale Yadaiah",
+   "constituency": "Chevella",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 16467634,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.73,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 268,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Ranga Reddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Medipally Sathyam",
+   "constituency": "Choppadandi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 30030957,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Doctorate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 18,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.62,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 37439,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Karimnagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Balu Naik Nenavath",
+   "constituency": "Devarakonda",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2893192,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.06,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 30021,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nalgonda"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Gavinolla Madhusudan Reddy",
+   "constituency": "Devarkadra",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 46014000,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.31,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 1392,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mahabubnagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Adluri Laxman Kumar",
+   "constituency": "Dharmapuri",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 11871800,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Others",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 13,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.3,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22039,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jagtial"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Jatoth Ram Chander Naik",
+   "constituency": "Dornakal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 118617593,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=74"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=74"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=74"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.01,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 53131,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mahabubabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kotta Prabhakar Reddy",
+   "constituency": "Dubbak",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1974084129,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 56.01,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 53513,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Siddipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Bandla Krishna Mohan Reddy",
+   "constituency": "Gadwal",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 121377279,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.79,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 7036,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jogulamba Gadwal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kalvakuntla Chandrashekar Rao",
+   "constituency": "Gajwel",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 589331800,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 9,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.05,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 45031,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Siddipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kadiyam Srihari",
+   "constituency": "Ghanpur Station",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 45987825,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.13,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 7779,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jangaon"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "T. Raja Singh",
+   "constituency": "Goshamahal",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 40744889,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Literate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 87,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.08,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 21457,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Ponnam Prabhakar",
+   "constituency": "Husnabad",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 118331467,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.84,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 19344,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Siddipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kaushik Reddy Padi",
+   "constituency": "Huzurabad",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 517600000,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.38,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 16873,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Karimnagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Uttam Kumar Reddy Nalamada",
+   "constituency": "Huzurnagar",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 59937719,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 11,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.21,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 44888,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Suryapet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Malreddy Ranga Reddy",
+   "constituency": "Ibrahimpatnam",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 837843903,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=99"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=99"
+    },
+    "criminal_cases_declared": {
+     "value": 9,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=99"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.92,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 36700,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Ranga Reddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Anirudh Reddy Janampalli",
+   "constituency": "Jadcherla",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 485742143,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.3,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 15171,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mahabubnagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Dr. Sanjay",
+   "constituency": "Jagtial",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 156695489,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.83,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 15822,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jagtial"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Palla Rajeshwar Reddy",
+   "constituency": "Jangaon",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 224396786,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Doctorate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.61,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 15783,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jangaon"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "V. Naveen Yadav",
+   "constituency": "Jubilee Hills",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2025",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.83,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 24729,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 48.49,
+     "source": "https://www.newkerala.com/news/o/telangana-congress-wrests-jubilee-hills-seat-brs-690"
+    },
+    "group_notes": "Seat won in the 11 Nov 2025 bypoll (results 14 Nov 2025) by V. Naveen Yadav (INC) after the death of Maganti Gopinath (BRS) on 8 Jun 2025; figures from bypoll result reporting. The 2023 winner's figures are not used since the seat's current occupant differs."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Laxmi Kantha Rao Thota",
+   "constituency": "Jukkal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 81129574,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.19,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 1152,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Kamareddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Narayan Reddy Kasireddy",
+   "constituency": "Kalwakurthy",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 635893778,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 37.41,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 5410,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nagarkurnool"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Katipally Venkata Ramana Reddy",
+   "constituency": "Kamareddy",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 497135869,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 11,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 34.55,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 6741,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Kamareddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Gangula Kamalakar",
+   "constituency": "Karimnagar",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 350809467,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.12,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 3163,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Karimnagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kausar Mohiuddin",
+   "constituency": "Karwan",
+   "party": "All India Majlis-E-Ittehadul Muslimeen",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 23662417,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=1428"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=1428"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=1428"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.42,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 41986,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Danam Nagender",
+   "constituency": "Khairatabad",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 688915252,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.48,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22010,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Tummala Nageswara Rao",
+   "constituency": "Khammam",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 178852568,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.58,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 49381,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Khammam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Vedma Bhojju",
+   "constituency": "Khanapur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2430000,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 52,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 33.79,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 4702,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nirmal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Nalamada Padmavathi Reddy",
+   "constituency": "Kodad",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 59937719,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.19,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 58172,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Suryapet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Anumula Revanth Reddy",
+   "constituency": "Kodangal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 300498852,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 89,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.05,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 32532,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Vikarabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Jupally Krishna Rao",
+   "constituency": "Kollapur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 31889171,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.7,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 29931,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Nagarkurnool"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kalvakuntla Sanjay",
+   "constituency": "Koratla",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 624198700,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.28,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 10305,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Jagtial"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Kunamneni Sambasiva Rao",
+   "constituency": "Kothagudem",
+   "party": "Communist Party of India",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 23339376,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 42.75,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 26547,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Bhadradri Kothagudem"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Madhavaram Krishna Rao",
+   "constituency": "Kukatpally",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 65914257,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=158"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=158"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/candidate.php?candidate_id=158"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.08,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 70387,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Medchal-Malkajgiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Devireddy Sudhir Reddy",
+   "constituency": "Lal Bahadur Nagar",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 215835581,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 37.74,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22305,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Ranga Reddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Bhatti Vikramarka Mallu",
+   "constituency": "Madhira",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 81326605,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.49,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 35452,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Khammam"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Murali Naik Bhukya",
+   "constituency": "Mahabubabad",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 62194707,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.46,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 50171,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mahabubabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Yennam Srinivas Reddy",
+   "constituency": "Mahbubnagar",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 48540794,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.04,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 18738,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Mahbubnagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Patlolla Sabitha Indra Reddy",
+   "constituency": "Maheshwaram",
+   "party": "Bharat Rashtra Samithi",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 92728164,
+     "source": "https://myneta.info/Telangana2023/candidate.php?candidate_id=173"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/Telangana2023/candidate.php?candidate_id=173"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/Telangana2023/candidate.php?candidate_id=173"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Telangana 2023."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.99,
+     "source": "https://en.wikipedia.org/wiki/Maheshwaram_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 26187,
+     "source": "https://en.wikipedia.org/wiki/Maheshwaram_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 56.05,
+     "source": "https://en.wikipedia.org/wiki/Maheshwaram_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share, margin and turnout from the ECI-sourced 2023 results table (Maheshwaram: 125,578 votes). ECI per-AC pages were unreachable; figures cross-checked against the myneta winners index."
+   },
+   "district_context": {
+    "districts": [
+     "Rangareddy"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Vakiti Srihari",
+   "constituency": "Makthal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 13240543,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.88,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 17525,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Narayanpet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  },
+  {
+   "name": "Ahmed Bin Abdullah Balala",
+   "constituency": "Malakpet",
+   "party": "All India Majlis-E-Ittehadul Muslimeen",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana Legislature publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 50000000,
+     "source": "https://archive.org/download/in.gov.telangana.goir.2021-07-02.planning-manuscript-13/planning-manuscript-13.pdf"
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Telangana's Constituency Development Programme (CDP) allocates Rs 5 crore per MLA/MLC constituency per year since 2021-22 (G.O.Ms.No.13, Planning Dept, 2 Jul 2021). Telangana publishes no per-MLA CDP utilization or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 237119989,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/telangana2023/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 42.27,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 26106,
+     "source": "https://en.wikipedia.org/wiki/2023_Telangana_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia results page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data and PRS MLA records sourced from ECI. AC-wise turnout is not published by CEO Telangana."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Telangana_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-20"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2311 @@
+{
+ "mps": [
+  {
+   "name": "Godam Nagesh",
+   "constituency": "Adilabad",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 94,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/godam-nagesh"
+    },
+    "questions_asked": {
+     "value": 154,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/godam-nagesh"
+    },
+    "debates_participated": {
+     "value": 10,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/godam-nagesh"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/godam-nagesh"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 30916833,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.98,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 90652,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 74.03,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Adilabad",
+     "Kumuram Bheem Asifabad",
+     "Nirmal"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Vamsi Krishna Gaddam",
+   "constituency": "Peddapalle",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 88,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/vamsi-krishna-gaddam"
+    },
+    "questions_asked": {
+     "value": 86,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/vamsi-krishna-gaddam"
+    },
+    "debates_participated": {
+     "value": 17,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/vamsi-krishna-gaddam"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/vamsi-krishna-gaddam"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 240976163,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.42,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 131364,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 67.87,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Mancherial",
+     "Jagtial",
+     "Peddapalli"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Bandi Sanjay Kumar",
+   "constituency": "Karimnagar",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/sanjay-kumar-bandi"
+    },
+    "debates_participated": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/sanjay-kumar-bandi"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/sanjay-kumar-bandi"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 11275000,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 42,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.57,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 225209,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 72.54,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Karimnagar",
+     "Rajanna Sircilla",
+     "Siddipet"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Union Minister of State (Home Affairs): PRS participation null."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Arvind Dharmapuri",
+   "constituency": "Nizamabad",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 79,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/arvind-dharmapuri"
+    },
+    "questions_asked": {
+     "value": 140,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/arvind-dharmapuri"
+    },
+    "debates_participated": {
+     "value": 4,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/arvind-dharmapuri"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/arvind-dharmapuri"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1099020273,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": 1074337305,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5246"
+    },
+    "asset_growth_pct": {
+     "value": 2.3,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5246"
+    },
+    "criminal_cases_declared": {
+     "value": 22,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "Asset growth vs most recent prior affidavit listed on the myneta.info candidate page (nominal, not inflation-adjusted). Prior affidavit: Telangana 2023 affidavit."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.02,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 109241,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 71.92,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Nizamabad",
+     "Jagtial"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Asset growth vs Telangana 2023 affidavit."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Suresh Kumar Shetkar",
+   "constituency": "Zahirabad",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 83,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kumar-shetkar"
+    },
+    "questions_asked": {
+     "value": 165,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kumar-shetkar"
+    },
+    "debates_participated": {
+     "value": 9,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kumar-shetkar"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kumar-shetkar"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 107711726,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": 61709110,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5254"
+    },
+    "asset_growth_pct": {
+     "value": 74.55,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5254"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "Asset growth vs most recent prior affidavit listed on the myneta.info candidate page (nominal, not inflation-adjusted). Prior affidavit: Telangana 2018 affidavit."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 42.73,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 46188,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 74.63,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Kamareddy",
+     "Sangareddy"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Asset growth vs Telangana 2018 affidavit."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Madhavaneni Raghunandan Rao",
+   "constituency": "Medak",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 96,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/madhavaneni-raghunandan-rao"
+    },
+    "questions_asked": {
+     "value": 137,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/madhavaneni-raghunandan-rao"
+    },
+    "debates_participated": {
+     "value": 10,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/madhavaneni-raghunandan-rao"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/madhavaneni-raghunandan-rao"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 220907289,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5239"
+    },
+    "assets_prev_inr": {
+     "value": 170537148,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5239"
+    },
+    "asset_growth_pct": {
+     "value": 29.54,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5239"
+    },
+    "criminal_cases_declared": {
+     "value": 29,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5239"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5239"
+    },
+    "group_notes": "Asset growth vs most recent prior affidavit listed on the myneta.info candidate page (nominal, not inflation-adjusted). Prior affidavit: Telangana 2023 affidavit."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 33.99,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 39139,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 75.09,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Siddipet",
+     "Medak",
+     "Sangareddy"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Asset growth vs Telangana 2023 affidavit."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Eatala Rajender",
+   "constituency": "Malkajgiri",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 84,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/eatala-rajender"
+    },
+    "questions_asked": {
+     "value": 190,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/eatala-rajender"
+    },
+    "debates_participated": {
+     "value": 23,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/eatala-rajender"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/eatala-rajender"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 540178712,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": 539428867,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5238"
+    },
+    "asset_growth_pct": {
+     "value": 0.14,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5238"
+    },
+    "criminal_cases_declared": {
+     "value": 45,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "Asset growth vs most recent prior affidavit listed on the myneta.info candidate page (nominal, not inflation-adjusted). Prior affidavit: Telangana 2023 affidavit."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.25,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 391475,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 50.78,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Medchal–Malkajgiri",
+     "Rangareddy",
+     "Hyderabad"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Asset growth vs Telangana 2023 affidavit."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "G. Kishan Reddy",
+   "constituency": "Secunderabad",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/g-kishan-reddy"
+    },
+    "debates_participated": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/g-kishan-reddy"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/g-kishan-reddy"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 192241721,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Others",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.15,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 49944,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 49.04,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Union Minister of Coal and Mines: PRS participation null."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Asaduddin Owaisi",
+   "constituency": "Hyderabad",
+   "party": "All India Majlis-E-Ittehadul Muslimeen",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 86,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/asaduddin-owaisi"
+    },
+    "questions_asked": {
+     "value": 127,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/asaduddin-owaisi"
+    },
+    "debates_participated": {
+     "value": 34,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/asaduddin-owaisi"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/asaduddin-owaisi"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 238766044,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 61.28,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 338087,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 48.48,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Hyderabad"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://radiancenews.com/owaisi-tears-waqf-bill-in-lok-sabha-calls-it-unconstitutional/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://news.webindia123.com/news/Articles/India/20260417/4440165.html"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Konda Vishweshwar Reddy",
+   "constituency": "Chevella",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 94,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/konda-vishweshwar-reddy"
+    },
+    "questions_asked": {
+     "value": 72,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/konda-vishweshwar-reddy"
+    },
+    "debates_participated": {
+     "value": 11,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/konda-vishweshwar-reddy"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/konda-vishweshwar-reddy"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 45682222094,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.34,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 172897,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 56.4,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Rangareddy",
+     "Vikarabad"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "D. K. Aruna",
+   "constituency": "Mahbubnagar",
+   "party": "Bharatiya Janata Party",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 84,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/aruna-d-k"
+    },
+    "questions_asked": {
+     "value": 167,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/aruna-d-k"
+    },
+    "debates_participated": {
+     "value": 27,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/aruna-d-k"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/aruna-d-k"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 667569871,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.66,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 4500,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 72.43,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Narayanpet",
+     "Mahabubnagar",
+     "Rangareddy"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://powercorridors.in/waqf-amendment-bill-clears-lok-sabha-amidst-heated-debate/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "https://uniindia.net/one-nation-one-election-bill-introduced-in-ls-269-mps-vote-in-favour-198-against/india/news/3347705.html"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "Aye",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.newkerala.com/news/a/introduction-constitution-amendment-bill-cleared-ls-after-251-641.htm"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Mallu Ravi",
+   "constituency": "Nagarkurnool",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 94,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/mallu-ravi"
+    },
+    "questions_asked": {
+     "value": 88,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/mallu-ravi"
+    },
+    "debates_participated": {
+     "value": 25,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/mallu-ravi"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/mallu-ravi"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 523215816,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.14,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 94414,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 69.46,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Wanaparthy",
+     "Jogulamba Gadwal",
+     "Nagarkurnool"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Kunduru Raghuveer",
+   "constituency": "Nalgonda",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 64,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kunduru-raghuveer"
+    },
+    "questions_asked": {
+     "value": 67,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kunduru-raghuveer"
+    },
+    "debates_participated": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kunduru-raghuveer"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kunduru-raghuveer"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 355731499,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.5,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 559905,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 74.02,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Nalgonda",
+     "Suryapet"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Chamala Kiran Kumar Reddy",
+   "constituency": "Bhongir",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 88,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/chamala-kiran-kumar-reddy"
+    },
+    "questions_asked": {
+     "value": 161,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/chamala-kiran-kumar-reddy"
+    },
+    "debates_participated": {
+     "value": 32,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/chamala-kiran-kumar-reddy"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/chamala-kiran-kumar-reddy"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 287211468,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.89,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 222170,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 76.78,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Rangareddy",
+     "Nalgonda",
+     "Yadadri Bhuvanagiri",
+     "Suryapet",
+     "Jangaon"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Kadiyam Kavya",
+   "constituency": "Warangal",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 90,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kadiyam-kavya"
+    },
+    "questions_asked": {
+     "value": 106,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kadiyam-kavya"
+    },
+    "debates_participated": {
+     "value": 17,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kadiyam-kavya"
+    },
+    "private_member_bills": {
+     "value": 2,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/kadiyam-kavya"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 15501028,
+     "source": "https://adrindia.org/sites/default/files/Analysis_of_Criminal_Financial_and_other_Details_of_Candidates_Lok_Sabha_Elections_2024_Phase_IV_FinalVer_English.pdf"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://adrindia.org/sites/default/files/Analysis_of_Criminal_Financial_and_other_Details_of_Candidates_Lok_Sabha_Elections_2024_Phase_IV_FinalVer_English.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://www.catchynewsworld.com/kadiyam-kavya/"
+    },
+    "group_notes": "No prior election affidavit located; disclosure from ADR Phase IV candidate analysis (affidavit data obtained from ECI by ADR)."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.85,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 220339,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 68.86,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Jangaon",
+     "Hanumakonda",
+     "Warangal",
+     "Jayashankar Bhupalpally"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "myneta.info winners table did not carry her row; disclosure from ADR Phase IV candidate analysis; 0 criminal cases (not listed among Phase IV candidates with declared cases). Education MBBS/MD (Pathology) mapped to myneta category 'Graduate Professional'."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Balram Naik Porika",
+   "constituency": "Mahabubabad",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 64,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/balram-naik-porika"
+    },
+    "questions_asked": {
+     "value": 38,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/balram-naik-porika"
+    },
+    "debates_participated": {
+     "value": 6,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/balram-naik-porika"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/balram-naik-porika"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 29919101,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": 43570110,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5297"
+    },
+    "asset_growth_pct": {
+     "value": -31.33,
+     "source": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5297"
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "Asset growth vs most recent prior affidavit listed on the myneta.info candidate page (nominal, not inflation-adjusted). Prior affidavit: Lok Sabha 2019 affidavit."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.27,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 349165,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 71.85,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Mahabubabad",
+     "Warangal",
+     "Mulugu",
+     "Bhadradri Kothagudem"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": "Asset growth vs Lok Sabha 2019 affidavit."
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  },
+  {
+   "name": "Ramasahayam Raghuram Reddy",
+   "constituency": "Khammam",
+   "party": "Indian National Congress",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": 77,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/ramasahayam-raghuram-reddy"
+    },
+    "questions_asked": {
+     "value": 142,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/ramasahayam-raghuram-reddy"
+    },
+    "debates_participated": {
+     "value": 18,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/ramasahayam-raghuram-reddy"
+    },
+    "private_member_bills": {
+     "value": 0,
+     "source": "https://prsindia.org/mptrack/18th-lok-sabha/ramasahayam-raghuram-reddy"
+    },
+    "sessions_covered": "Monsoon Session 2026; Budget Session 2026; Winter Session 2025; Monsoon Session 2025; First Session of 18th Lok Sabha; Budget Session 2024 of 18th LS; Budget Session 2025; Winter Session 2024",
+    "data_period": "24-06-2024 to 13-08-2026"
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "fy": "2024-25",
+    "group_notes": "18th-Lok-Sabha cumulative allocation as on 20-Oct-2026: the eSAKSHI public dashboard renders via interactive JS and per-MP entitlement figures could not be retrieved via text reads on 2026-10-20; live-browser pass recommended. Per-MP expenditure and works counts are not published on the public dashboard (national aggregates only); the old mplads.nic.in portal is defunct.",
+    "period": "18th Lok Sabha cumulative, as on 20-Oct-2026"
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 582770537,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "assets_prev_inr": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "education": {
+     "value": "Others",
+     "source": "https://www.myneta.info/LokSabha2024/index.php?action=show_winners&sort=candidate"
+    },
+    "group_notes": "No prior election affidavit on myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 61.29,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "margin_votes": {
+     "value": 467847,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "turnout_pct": {
+     "value": 76.09,
+     "source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    "group_notes": "2024 general election. Winner, votes polled and vote share from the constituency results table; ECI PC-wise result pages (results.eci.gov.in/PcResultGenJune2024/...) returned 404 via text reads (Oct 2026), so the Wikipedia compilation of the ECI result is cited. Margin computed as winner votes minus runner-up votes. Turnout % from the page's turnout table."
+   },
+   "district_context": {
+    "districts": [
+     "Khammam",
+     "Bhadradri Kothagudem"
+    ],
+    "indicators": {}
+   },
+   "meta": {
+    "last_verified": "2026-10-20",
+    "notes": ""
+   },
+   "voting_record": {
+    "votes": [
+     {
+      "bill": "The Waqf (Amendment) Bill, 2025",
+      "date": "2025-04-03",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Passed 288-232",
+      "source": "https://legally-speaking.in/national/lok-sabha-passes-waqf-amendment-bill2025-after-an-intense-12-hour-debate/amp/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 (One Nation One Election)",
+      "date": "2024-12-17",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 269-198",
+      "source": "http://jharkhandmirror.net/one-nation-one-election-bill-introduced-in-lok-sabha-faces-strong-opposition-from-congress-and-other-parties/"
+     },
+     {
+      "bill": "The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026",
+      "date": "2026-04-16",
+      "vote": "No",
+      "basis": "party_whip",
+      "result": "Introduction approved 251-185",
+      "source": "https://www.webjosh.com/article/three-bills-to-tweak-women-s-quota-law-delimitation-panel-introduced-in-lok-sabha-1776329962-27864"
+     }
+    ],
+    "method": "party_whip",
+    "method_note": "The Lok Sabha does not publish member-level division lists. Votes reflect documented party positions and whips, not the official division roll."
+   }
+  }
+ ],
+ "constituency_to_districts": {
+  "Adilabad": [
+   "Adilabad",
+   "Kumuram Bheem Asifabad",
+   "Nirmal"
+  ],
+  "Peddapalle": [
+   "Mancherial",
+   "Jagtial",
+   "Peddapalli"
+  ],
+  "Karimnagar": [
+   "Karimnagar",
+   "Rajanna Sircilla",
+   "Siddipet"
+  ],
+  "Nizamabad": [
+   "Nizamabad",
+   "Jagtial"
+  ],
+  "Zahirabad": [
+   "Kamareddy",
+   "Sangareddy"
+  ],
+  "Medak": [
+   "Siddipet",
+   "Medak",
+   "Sangareddy"
+  ],
+  "Malkajgiri": [
+   "Medchal–Malkajgiri",
+   "Rangareddy",
+   "Hyderabad"
+  ],
+  "Secunderabad": [
+   "Hyderabad"
+  ],
+  "Hyderabad": [
+   "Hyderabad"
+  ],
+  "Chevella": [
+   "Rangareddy",
+   "Vikarabad"
+  ],
+  "Mahbubnagar": [
+   "Narayanpet",
+   "Mahabubnagar",
+   "Rangareddy"
+  ],
+  "Nagarkurnool": [
+   "Wanaparthy",
+   "Jogulamba Gadwal",
+   "Nagarkurnool"
+  ],
+  "Nalgonda": [
+   "Nalgonda",
+   "Suryapet"
+  ],
+  "Bhongir": [
+   "Rangareddy",
+   "Nalgonda",
+   "Yadadri Bhuvanagiri",
+   "Suryapet",
+   "Jangaon"
+  ],
+  "Warangal": [
+   "Jangaon",
+   "Hanumakonda",
+   "Warangal",
+   "Jayashankar Bhupalpally"
+  ],
+  "Mahabubabad": [
+   "Mahabubabad",
+   "Warangal",
+   "Mulugu",
+   "Bhadradri Kothagudem"
+  ],
+  "Khammam": [
+   "Khammam",
+   "Bhadradri Kothagudem"
+  ]
+ },
+ "collected_at": "2026-10-20",
+ "notes": "17 Telangana Lok Sabha MPs (2024 election). Party tally: Indian National Congress 8, Bharatiya Janata Party 8, All India Majlis-E-Ittehadul Muslimeen 1. PRS legislative data covers 24-06-2024 to 13-08-2026; two Union ministers (Bandi Sanjay Kumar, MoS Home Affairs; G. Kishan Reddy, Coal and Mines) have null PRS attendance per PRS's minister policy. MPLADS per-MP entitlement, utilization and works are not retrievable via text reads (eSAKSHI dashboard is JS-driven); live-browser pass recommended. Election figures: ECI PC-wise result pages returned 404 via text reads (Oct 2026), so figures are cited to the Wikipedia compilation of the ECI result with margins recomputed as winner votes minus runner-up votes. Voting records are party-whip-derived from documented party positions, not the official division roll.",
+ "districts_map_basis_33": "33-district geography post-2016 reorganization"
+}

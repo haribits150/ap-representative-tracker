@@ -15,7 +15,7 @@ let LANG = localStorage.getItem('aprt-lang') ||
 /* ---------- multi-state ---------- */
 const STATES = {
   ap: {name:'Andhra Pradesh', name_te:'ఆంధ్రప్రదేశ్', short:'AP', mps:25, mlas:175, districts:28, ready:true},
-  tg: {name:'Telangana', name_te:'తెలంగాణ', short:'TG', mps:17, mlas:119, districts:33, ready:false},
+  tg: {name:'Telangana', name_te:'తెలంగాణ', short:'TG', mps:17, mlas:119, districts:33, ready:true},
 };
 let STATE = 'ap';
 try{ const s = localStorage.getItem('aprt-state'); if(s && STATES[s] && STATES[s].ready) STATE = s; }catch(e){}
@@ -644,7 +644,10 @@ function viewDistrict(slug){
     return ` <span class="juris juris-${j}">${t('juris_'+j)}</span>`; };
   const irow = (label, m, fmt, key) => {
     const f = fmt || fmtN;
-    if(!m || m.value==null) return `<tr><th>${label}${jurisPill(key)}</th><td><span class="pending">${t('data_pending')}</span></td></tr>`;
+    if(!m || m.value==null){
+      const why = m && (m.reason || m.note) ? ` <span class="sub">— ${esc(m.reason || m.note)}</span>` : '';
+      return `<tr><th>${label}${jurisPill(key)}</th><td><span class="pending">${t('data_pending')}</span>${why}</td></tr>`;
+    }
     return `<tr><th>${label}${jurisPill(key)}</th><td>${f(m.value)}${m.year?` <span class="sub">(${esc(m.year)})</span>`:''}${m.note?` <span class="sub">— ${esc(m.note)}</span>`:''}${srcLink(m.source)}</td></tr>`;
   };
   return `
@@ -708,7 +711,8 @@ function viewFind(){
       <select id="find-mandal" onchange="renderFindMandal(this.value)"><option value="">${t('find_mandal_choose')}</option></select></label>` : ''}
     <div id="find-results" style="margin-top:16px"></div>
   </section>
-  <p class="disclaimer">${t('find_note')}</p>`;
+  <p class="disclaimer">${t('find_note')}</p>
+  ${STATE==='tg' ? `<p class="disclaimer">${t('find_note_tg')}</p>` : ''}`;
 }
 window.renderFindMandals = d => {
   const wrap = document.getElementById('find-mandal-wrap');
