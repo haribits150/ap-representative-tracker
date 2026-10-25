@@ -91,7 +91,7 @@
    "district_context": {
     "districts": [
      "Adilabad",
-     "Kumuram Bheem Asifabad",
+     "Komaram Bheem Asifabad",
      "Nirmal"
     ],
     "indicators": {}
@@ -874,7 +874,7 @@
    },
    "district_context": {
     "districts": [
-     "Medchal–Malkajgiri",
+     "Medchal-Malkajgiri",
      "Rangareddy",
      "Hyderabad"
     ],
@@ -2226,7 +2226,7 @@
  "constituency_to_districts": {
   "Adilabad": [
    "Adilabad",
-   "Kumuram Bheem Asifabad",
+   "Komaram Bheem Asifabad",
    "Nirmal"
   ],
   "Peddapalle": [
@@ -2253,7 +2253,7 @@
    "Sangareddy"
   ],
   "Malkajgiri": [
-   "Medchal–Malkajgiri",
+   "Medchal-Malkajgiri",
    "Rangareddy",
    "Hyderabad"
   ],

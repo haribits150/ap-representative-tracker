@@ -9,21 +9,32 @@ let CONTACTS = {contacts: {}};
 let CHANGELOG = {entries: []};
 let MANDALS = {mandals: []};
 let LITE = localStorage.getItem('aprt-lite') === '1';
-let LANG = localStorage.getItem('aprt-lang') ||
-  (((typeof navigator !== 'undefined') && (navigator.language || '').toLowerCase().indexOf('te') === 0) ? 'te' : 'en');
 
 /* ---------- multi-state ---------- */
 const STATES = {
-  ap: {name:'Andhra Pradesh', name_te:'ఆంధ్రప్రదేశ్', short:'AP', mps:25, mlas:175, districts:28, ready:true},
-  tg: {name:'Telangana', name_te:'తెలంగాణ', short:'TG', mps:17, mlas:119, districts:33, ready:true},
+  ap: {name:'Andhra Pradesh', local:'ఆంధ్రప్రదేశ్', lang:'te', langName:'తెలుగు', short:'AP', mps:25, mlas:175, districts:28, ready:true},
+  tg: {name:'Telangana', local:'తెలంగాణ', lang:'te', langName:'తెలుగు', short:'TG', mps:17, mlas:119, districts:33, ready:true},
+  tn: {name:'Tamil Nadu', local:'தமிழ்நாடு', lang:'ta', langName:'தமிழ்', short:'TN', mps:39, mlas:234, districts:38, ready:true},
+  ka: {name:'Karnataka', local:'ಕರ್ನಾಟಕ', lang:'ka', langName:'ಕನ್ನಡ', short:'KA', mps:28, mlas:224, districts:31, ready:true},
 };
 let STATE = 'ap';
 try{ const s = localStorage.getItem('aprt-state'); if(s && STATES[s] && STATES[s].ready) STATE = s; }catch(e){}
-const stateName = () => LANG==='te' ? STATES[STATE].name_te : STATES[STATE].name;
+/* language preference: 'en' or 'reg' (the current state's regional language) */
+let PREF = 'en';
+try{
+  const s = localStorage.getItem('aprt-lang');
+  if(s && s !== 'en') PREF = 'reg';
+  else if(!s && typeof navigator !== 'undefined' && /^(te|ta|ka)/.test((navigator.language||'').toLowerCase())) PREF = 'reg';
+}catch(e){}
+const DL = () => PREF === 'en' ? 'en' : STATES[STATE].lang;
+const stateName = () => DL() === 'en' ? STATES[STATE].name : STATES[STATE].local;
 const brandName = () => `${STATES[STATE].short} Representative Tracker`;
+const dLocal = info => (info && (info.name_local || info.name_te)) || '';
 function applyBrand(){
   document.title = `${brandName()} — Know what your MP did in office`;
   const b = document.querySelector('.brand'); if(b) b.textContent = brandName();
+  const rb = document.getElementById('lang-reg');
+  if(rb) rb.textContent = STATES[STATE].langName;
   document.querySelectorAll('.state-pill').forEach(p=>{
     const k = p.dataset.state;
     p.classList.toggle('active', k===STATE);
@@ -43,7 +54,7 @@ function setState(s){
   }
   return false;
 }
-const t = k => STRINGS[LANG][k] ?? STRINGS.en[k] ?? k;
+const t = k => (STRINGS[DL()] && STRINGS[DL()][k]) ?? STRINGS.en[k] ?? k;
 
 const slugify = s => (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const slugOf = mp => slugify(mp.constituency);
@@ -70,9 +81,10 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const initials = n => (n||'?').split(/\s+/).map(w=>w[0]).slice(0,2).join('').toUpperCase();
 
 function setLang(l){
-  LANG = l; localStorage.setItem('aprt-lang', l);
+  PREF = l;
+  try{ localStorage.setItem('aprt-lang', l); }catch(e){}
   document.getElementById('lang-en').classList.toggle('active', l==='en');
-  document.getElementById('lang-te').classList.toggle('active', l==='te');
+  document.getElementById('lang-reg').classList.toggle('active', l==='reg');
   document.querySelectorAll('[data-nav]').forEach(a=>{
     a.textContent = t('nav_'+a.dataset.nav);
   });
@@ -82,6 +94,7 @@ function setLang(l){
   const lt = document.getElementById('lite-toggle');
   lt.textContent = LITE ? t('lite_on') : t('lite_off');
   lt.title = t('lite_note');
+  applyBrand();
   render();
 }
 window.toggleLite = () => {
@@ -197,7 +210,7 @@ function viewProfile(slug, house){
   </section>
 
   <section class="panel empty-section"><h2>${t('public_money')}</h2>
-    <div class="area-note">${STATE==='tg' ? t('mla_funds_note_tg') : t('mla_funds_note')}</div>
+    <div class="area-note">${t('mla_funds_note_'+STATE) || t('mla_funds_note')}</div>
   </section>` : `
   <section class="panel"><h2>${t('in_house')}</h2><p class="lede">${t('house_lede')}</p>
     <table class="metrics">
@@ -394,7 +407,7 @@ window.openCorrection = (house, slug, districtName) => {
 function viewChangelog(){
   const entries = (CHANGELOG.entries || []).map(e=>`
     <section class="panel"><h2 style="font-size:1rem">${esc(e.date)}</h2>
-      <p>${esc(LANG==='te' ? (e.te || e.en) : e.en)}</p></section>`).join('');
+      <p>${esc(e[DL()] || e.en)}</p></section>`).join('');
   return `<div class="hero"><h1>${t('changelog_title')}</h1><p>${t('changelog_lede')}</p></div>
     <p style="margin-bottom:16px"><button class="correct-btn" onclick="openCorrection('site','home')">${t('correct_title')}</button></p>
     ${entries || `<p>${t('data_pending')}</p>`}`;
@@ -424,13 +437,22 @@ const LEARN_CARDS = [
   en_b:"<b>1.</b> Find your representative by mandal or district. <b>2.</b> Check attendance, questions, funds, and affidavit disclosures — every number has a source. <b>3.</b> Compare two reps side by side. <b>4.</b> Share the card. No adjectives, no rankings — just the record.",
   te_b:"<b>1.</b> మండలం లేదా జిల్లా వారీగా మీ ప్రతినిధిని కనుగొనండి. <b>2.</b> హాజరు, ప్రశ్నలు, నిధులు, అఫిడవిట్ వెల్లడులను చూడండి — ప్రతి సంఖ్యకు మూలం ఉంటుంది. <b>3.</b> ఇద్దరు ప్రతినిధులను పక్కపక్కనే పోల్చండి. <b>4.</b> కార్డ్‌ను షేర్ చేయండి. విశేషణాలు లేవు, ర్యాంకింగ్‌లు లేవు — కేవలం రికార్డు."},
 ];
+const locLearn = () => DL()==='ta' ? (typeof LEARN_TA!=='undefined'?LEARN_TA:null)
+                     : DL()==='ka' ? (typeof LEARN_KA!=='undefined'?LEARN_KA:null) : null;
+const locGloss = () => DL()==='ta' ? (typeof GLOSSARY_TA!=='undefined'?GLOSSARY_TA:null)
+                     : DL()==='ka' ? (typeof GLOSSARY_KA!=='undefined'?GLOSSARY_KA:null) : null;
 function viewLearn(){
-  const cards = LEARN_CARDS.map((c,i)=>`
+  const loc = locLearn();
+  const cards = LEARN_CARDS.map((c,i)=>{
+    const L = loc && loc[i];
+    const title = L ? L.t : (DL()==='te' ? c.te_t : c.en_t);
+    const body = L ? L.b : (DL()==='te' ? c.te_b : c.en_b);
+    return `
     <div class="learn-card" id="learn-${i}">
       <div class="learn-num">${i+1} / ${LEARN_CARDS.length}</div>
-      <h2>${esc(LANG==='te' ? c.te_t : c.en_t)}</h2>
-      <p>${LANG==='te' ? c.te_b : c.en_b}</p>
-    </div>`).join('');
+      <h2>${esc(title)}</h2>
+      <p>${body}</p>
+    </div>`; }).join('');
   const dots = LEARN_CARDS.map((_,i)=>`<span class="learn-dot${i===0?' active':''}" data-i="${i}"></span>`).join('');
   return `
   <div class="hero"><h1>${t('nav_learn')}</h1><p>${t('learn_lede')}</p></div>
@@ -490,9 +512,14 @@ const GLOSSARY = [
  ["SDG India Index","SDG ఇండియా సూచిక","NITI Aayog's scorecard ranking states and districts on sustainable-development goals.","సుస్థిర అభివృద్ధి లక్ష్యాలపై రాష్ట్రాలు, జిల్లాలను ర్యాంక్ చేసే నీతి ఆయోగ్ స్కోర్‌కార్డు."],
 ];
 function viewGlossary(){
-  const items = GLOSSARY.map(([en,te,enb,teb])=>`
-    <section class="panel gloss"><h2>${esc(en)} <span class="gloss-te">${esc(te)}</span></h2>
-    <p>${LANG==='te' ? teb : enb}</p></section>`).join('');
+  const loc = locGloss();
+  const items = GLOSSARY.map(([en,te,enb,teb],i)=>{
+    const L = loc && loc[i];
+    const term2 = L ? L.term : te;
+    const body = L ? L.body : (DL()==='te' ? teb : enb);
+    return `
+    <section class="panel gloss"><h2>${esc(en)} <span class="gloss-te">${esc(term2)}</span></h2>
+    <p>${body}</p></section>`; }).join('');
   return `<div class="hero"><h1>${t('nav_glossary')}</h1><p>${t('glossary_lede')}</p></div>${items}`;
 }
 
@@ -566,7 +593,7 @@ function distInfo(name){
 function viewStates(){
   const cards = Object.keys(STATES).map(k=>{
     const s = STATES[k];
-    const nm = esc(LANG==='te' ? s.name_te : s.name);
+    const nm = esc(s.name) + (s.local && s.local !== s.name ? ` <span style="color:var(--muted);font-weight:400">${esc(s.local)}</span>` : '');
     const counts = `${s.districts} ${t('districts_word')} · ${s.mps} MPs · ${s.mlas} ${t('mlas_word')}`;
     if(!s.ready) return `<div class="mp-card" style="opacity:.55;cursor:default" aria-disabled="true">
         <h3>${nm}</h3><div class="cons">${counts}</div>
@@ -588,8 +615,8 @@ function viewDistricts(){
   <input id="dq" class="search" placeholder="${t('districts_search')}" oninput="filterDistricts(this.value)">
   <div class="mp-grid" style="margin-top:8px" id="dgrid">
     ${ds.map(d=>{ const info = distInfo(d); const n = districtMPs(d).length; const m = districtMLAs(d).length;
-      return `<a class="mp-card" data-name="${esc(d)}${info.name_te?` ${esc(info.name_te)}`:''}" href="#/district/${slugify(d)}">
-        <h3>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400">${esc(info.name_te)}</span>`:''}</h3>
+      return `<a class="mp-card" data-name="${esc(d)}${dLocal(info)?` ${esc(dLocal(info))}`:''}" href="#/district/${slugify(d)}">
+        <h3>${esc(d)}${dLocal(info)?` <span style="color:var(--muted);font-weight:400">${esc(dLocal(info))}</span>`:''}</h3>
         <div class="cons">${n} MP${n===1?'':'s'} \u00b7 ${m} MLA${m===1?'':'s'}</div>
       </a>`; }).join('') || `<p>${t('data_pending')}</p>`}
   </div>`;
@@ -622,7 +649,7 @@ function initMap(){
     onEachFeature: (f, layer)=>{
       const d = fname(f);
       const info = distInfo(d);
-      layer.bindTooltip(esc(info.name_te ? `${d} · ${info.name_te}` : d));
+      layer.bindTooltip(esc(dLocal(info) ? `${d} · ${dLocal(info)}` : d));
       layer.on('click', ()=>{ location.hash = '#/district/' + slugify(d); });
       layer.on('mouseover', ()=>layer.setStyle({fillOpacity:0.3}));
       layer.on('mouseout', ()=>layer.setStyle({fillOpacity:0.12}));
@@ -653,7 +680,7 @@ function viewDistrict(slug){
   return `
   <p><a href="#/">${t('back')}</a></p>
   <div class="profile-head">
-    <h1>${esc(d)}${info.name_te?` <span style="color:var(--muted);font-weight:400;font-size:1.1rem">${esc(info.name_te)}</span>`:''}</h1>
+    <h1>${esc(d)}${dLocal(info)?` <span style="color:var(--muted);font-weight:400;font-size:1.1rem">${esc(dLocal(info))}</span>`:''}</h1>
     <p class="sub">${t('mps_in_district')}: ${mps.length}</p>
     <p><button class="correct-btn" style="margin-left:0" onclick="openCorrection('district','${slug}','${esc(d)}')">${t('correct_title')}</button></p>
   </div>
@@ -707,7 +734,7 @@ function viewFind(){
       <select id="find-dist" onchange="renderFindMandals(this.value)">
         <option value="">${t('find_choose')}</option>${opts}
       </select></label>
-    ${hasM ? `<label class="fld" id="find-mandal-wrap" style="display:none;margin-top:10px">${t('find_mandal_label')}
+    ${hasM ? `<label class="fld" id="find-mandal-wrap" style="display:none;margin-top:10px">${(STATE==='tn'||STATE==='ka') ? t('find_taluk_label') : t('find_mandal_label')}
       <select id="find-mandal" onchange="renderFindMandal(this.value)"><option value="">${t('find_mandal_choose')}</option></select></label>` : ''}
     <div id="find-results" style="margin-top:16px"></div>
   </section>
@@ -777,10 +804,8 @@ window.renderFind = d => {
 };
 
 /* ---------- methodology ---------- */
-function viewMethodology(){
-  const te = LANG==='te';
-  return `<div class="hero"><h1>${t('methodology_title')}</h1></div>
-  <section class="panel">${te ? `
+const METHOD = {
+  te: `
     <h2>మూలాలు</h2>
     <p>సభ రికార్డు: PRS Legislative Research · నిధులు: MPLADS పోర్టల్ · అఫిడవిట్లు: ADR/MyNeta · ఎన్నికల ఫలితాలు: భారత ఎన్నికల సంఘం · జిల్లా గణాంకాలు: Census, NFHS, UDISE+, NITI Aayog SDG Index, పథకాల డాష్‌బోర్డులు.</p>
     <h2>నియమాలు</h2>
@@ -794,8 +819,8 @@ function viewMethodology(){
     <h2>MLAలు</h2>
     <p>175 మంది అసెంబ్లీ సభ్యులు (2024 ఎన్నిక) అదే నియమాలతో ట్రాక్ చేయబడుతున్నారు. AP శాసనసభ MLA వారీగా హాజరు, ప్రశ్నలు, చర్చల డేటాను ప్రచురించదు, రాష్ట్రం MLA వారీగా నిధుల వినియోగ లెక్కలను ప్రచురించదు — ఆ విభాగాలు ఖాళీగానే ఉండి, అదే చెబుతాయి. MLA ఎన్నికల లెక్కలను 16 అక్టోబర్ 2026న భారత ఎన్నికల సంఘం అధికారిక నియోజకవర్గ ఫలితాల పేజీలతో (ఆర్కైవ్ చేసినవి) సరిచూశాము: 175 నియోజకవర్గాలలో 154 ధృవీకరించబడ్డాయి — 147 సరిపోలాయి, 7 సరిచేయబడ్డాయి. 21 నియోజకవర్గాలకు ఆర్కైవ్ చేసిన అధికారిక పేజీ లేదు, కాబట్టి ఆ లెక్కలు ECI-ఆధారిత పట్టికల నుండే కొనసాగుతున్నాయి: ముమ్మిడివరం, రాజోలు (SC), భీమవరం, పెడన, మచిలీపట్నం, పొన్నూరు, వేమూరు (SC), ఆళ్లగడ్డ, పత్తికొండ, మంత్రాలయం, ఆదోని, తాడిపత్రి, రాప్తాడు, హిందూపూర్, పెనుకొండ, పుట్టపర్తి, ధర్మవరం, కదిరి, తంబళ్లపల్లె, పీలేరు, మదనపల్లె.</p>
     <h2>క్రిమినల్ కేసులు: తీవ్రమైనవి vs సాధారణవి</h2>
-    <p>myneta.info అభ్యర్థుల వారీగా ADR తీవ్ర/సాధారణ విభజనను ప్రచురించదు — కాబట్టి తీవ్రత అనేది ADR ప్రచురించిన "తీవ్రమైన క్రిమినల్ కేసులు" ప్రమాణాల యాంత్రిక అనువర్తనం: 5+ సంవత్సరాల శిక్ష పడే నేరాలు; ఎన్నికల నేరాలు; అవినీతి/పన్ను ఎగవేత; SC/ST అత్యాచారాల నిరోధక చట్టం నేరాలు; హత్య, హత్యాయత్నం, అత్యాచారం, కిడ్నాప్ వంటి తీవ్ర వర్గాలు. మిగతావన్నీ — ఆందోళన కేసులు, ట్రాఫిక్ ఉల్లంఘనలు, చిన్న గాయాలు, చిన్న జరిమానాలు — సాధారణంగా లెక్క. ప్రతి అభియోగానికి ఆధారం పేర్కొనబడుతుంది. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు.</p>`
-  : `
+    <p>myneta.info అభ్యర్థుల వారీగా ADR తీవ్ర/సాధారణ విభజనను ప్రచురించదు — కాబట్టి తీవ్రత అనేది ADR ప్రచురించిన "తీవ్రమైన క్రిమినల్ కేసులు" ప్రమాణాల యాంత్రిక అనువర్తనం: 5+ సంవత్సరాల శిక్ష పడే నేరాలు; ఎన్నికల నేరాలు; అవినీతి/పన్ను ఎగవేత; SC/ST అత్యాచారాల నిరోధక చట్టం నేరాలు; హత్య, హత్యాయత్నం, అత్యాచారం, కిడ్నాప్ వంటి తీవ్ర వర్గాలు. మిగతావన్నీ — ఆందోళన కేసులు, ట్రాఫిక్ ఉల్లంఘనలు, చిన్న గాయాలు, చిన్న జరిమానాలు — సాధారణంగా లెక్క. ప్రతి అభియోగానికి ఆధారం పేర్కొనబడుతుంది. ప్రకటించిన కేసులు పెండింగ్ వ్యవహారాలు, శిక్షలు కావు.</p>`,
+  en: `
     <h2>Sources</h2>
     <p>Legislative record: PRS Legislative Research · Funds: MPLADS portal · Affidavits: ADR/MyNeta · Election results: Election Commission of India · District outcomes: Census, NFHS, UDISE+, NITI Aayog SDG India Index, scheme dashboards (MGNREGA, PMAY-G, Jal Jeevan Mission).</p>
     <h2>Rules</h2>
@@ -811,7 +836,14 @@ function viewMethodology(){
     <h2>MLAs</h2>
     <p>All 175 Assembly members (2024 election) are tracked under the same rules. The AP Legislature publishes no per-MLA attendance, questions, or debates data, and the state publishes no per-MLA fund utilization figures — those sections stay visibly empty and say so. MLA election figures were verified on 16 Oct 2026 against the Election Commission of India's official constituency result pages (archived; the ECI site no longer hosts the June 2024 pages): 154 of 175 constituencies verified — 147 match the published figures and 7 were corrected from the official pages. For 21 constituencies no archived official page exists, so those figures remain as compiled from ECI-derived tables: Mummidivaram, Razole (SC), Bhimavaram, Pedana, Machilipatnam, Ponnuru, Vemuru (SC), Allagadda, Pattikonda, Mantralayam, Adoni, Tadipatri, Raptadu, Hindupur, Penukonda, Puttaparthi, Dharmavaram, Kadiri, Thamballapalle, Pileru, Madanapalle.</p>
     <h2>Corrections</h2>
-    <p>Sourced corrections are applied visibly. If a cited source revises a figure, the record is updated with a new verification date.</p>`}
+    <p>Sourced corrections are applied visibly. If a cited source revises a figure, the record is updated with a new verification date.</p>`
+};
+function viewMethodology(){
+  const body = DL()==='ta' && typeof METHOD_TA!=='undefined' ? METHOD_TA
+             : DL()==='ka' && typeof METHOD_KA!=='undefined' ? METHOD_KA
+             : DL()==='te' ? METHOD.te : METHOD.en;
+  return `<div class="hero"><h1>${t('methodology_title')}</h1></div>
+  <section class="panel">${body}
   </section>`;
 }
 
@@ -1003,7 +1035,7 @@ function collapseEmpty(){
   if(head) head.after(btn);
 }
 document.getElementById('lang-en').onclick = ()=>setLang('en');
-document.getElementById('lang-te').onclick = ()=>setLang('te');
+document.getElementById('lang-reg').onclick = ()=>setLang('reg');
 document.getElementById('lite-toggle').onclick = (e)=>{ e.preventDefault(); toggleLite(); };
 window.addEventListener('hashchange', render);
-(async ()=>{ await load(); setLang(LANG); })();
+(async ()=>{ await load(); setLang(PREF); })();
