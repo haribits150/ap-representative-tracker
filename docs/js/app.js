@@ -634,7 +634,7 @@ function initMap(){
     el.innerHTML = `<p style="padding:20px;color:var(--muted)">${LITE ? esc(t('lite_note')) : t('map_unavailable')}</p>`;
     return;
   }
-  const map = L.map('map').setView([15.9, 79.7], 7);
+  const map = L.map('map');
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     {attribution:'© OpenStreetMap contributors', maxZoom: 12}).addTo(map);
   const fname = f => {
@@ -644,7 +644,7 @@ function initMap(){
     const hit = districtList().find(d => norm(d) === norm(cand) || norm(cand).includes(norm(d)));
     return hit || null;
   };
-  L.geoJSON(GEO, {
+  const districtsLayer = L.geoJSON(GEO, {
     style: ()=>({color:'#0e6e6e', weight:1.5, fillColor:'#0e6e6e', fillOpacity:0.12}),
     onEachFeature: (f, layer)=>{
       const d = fname(f);
@@ -655,6 +655,9 @@ function initMap(){
       layer.on('mouseout', ()=>layer.setStyle({fillOpacity:0.12}));
     }
   }).addTo(map);
+  const b = districtsLayer.getBounds();
+  if(b && b.isValid()) map.fitBounds(b, {padding: [10, 10]});
+  else map.setView([15.9, 79.7], 7);
 }
 function viewDistrict(slug){
   const d = districtList().find(x=>slugify(x)===slug);
