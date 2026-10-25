@@ -634,7 +634,7 @@ function initMap(){
     el.innerHTML = `<p style="padding:20px;color:var(--muted)">${LITE ? esc(t('lite_note')) : t('map_unavailable')}</p>`;
     return;
   }
-  const map = L.map('map');
+  const map = L.map('map', {zoomSnap: 0});
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     {attribution:'© OpenStreetMap contributors', maxZoom: 12}).addTo(map);
   const fname = f => {

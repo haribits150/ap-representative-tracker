@@ -16,7 +16,7 @@ body{margin:0;background:var(--paper);color:var(--ink);
 .lang-toggle button{background:transparent;border:0;color:#fff;padding:8px 12px;cursor:pointer;font-size:.9rem}
 .lang-toggle button.active{background:#fff;color:var(--ink);font-weight:600}
 #app{min-height:60vh;padding:24px 16px 48px}
-.map-box{height:420px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
+.map-box{height:560px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
 .map-box .leaflet-container{height:100%;font:inherit}
 .hero{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:28px 24px;margin-bottom:20px}
 .hero h1{margin:0 0 8px;font-size:1.6rem}
@@ -70,7 +70,7 @@ a{color:var(--accent)}
 .house-tabs{display:flex;gap:8px;justify-content:center;margin:12px 0}
 .house-tab{background:#fff;border:2px solid var(--accent);color:var(--accent);
   padding:8px 20px;border-radius:20px;font-size:.95rem;font-weight:600;cursor:pointer}
-.house-tab.active{background:var(--accent);color:#fff}@media (max-width:640px){.map-box{height:300px}}
+.house-tab.active{background:var(--accent);color:#fff}@media (max-width:640px){.map-box{height:380px}}
 .juris{display:inline-block;font-size:.68rem;border-radius:12px;padding:1px 8px;margin-left:6px;font-weight:600;vertical-align:middle}
 .juris-state{background:#e8f5e9;color:#2e7d32}
 .juris-central{background:#e3f2fd;color:#1565c0}
