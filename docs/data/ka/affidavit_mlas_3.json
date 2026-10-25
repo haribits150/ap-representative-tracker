@@ -1,0 +1,963 @@
+{
+ "mlas": [
+  {
+   "name": "Satish Krishna Sail",
+   "constituency": "Karwar",
+   "total_cases": 14,
+   "serious_cases": 8,
+   "non_serious_cases": 6,
+   "charges": [
+    {
+     "ipc_sections": "IPC 120B, 379, 34, 35",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Ankola Police Station; C.C.No-301/12, 302/12, 303/12, 304/12, 305/12, 306/12, 307/12, 308/12, 309/12, 310/12, 311/12, 312/12, 313/12, 314/12; JMFC, Ankola; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 409, 420, 434, 447, 468, 471; Sec 13(2) r/w 13(1)(d) 1988 of P.C. Act.",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "Cr. No. RC 16(A)2012, CBI Bangalore; 105/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 120B, 420",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 17(A)/2012, CBI Bangalore; SPL CC-11/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 120B, 420",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 17(A)/2012, CBI Bangalore; SPL CC-15/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 120B, 420",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 17(A)/2012, CBI Bangalore; SPL CC-37/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 120B, 420",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 17(A)/2012, CBI Bangalore; SPL CC-38/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 120B, 420",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 17(A)/2012, CBI Bangalore; SPL CC-53/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 120B, 420",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 17(A)/2012, CBI Bangalore; SPL CC-54/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 420, 120B; Sec.13(1)(d) and 13 (2) of P.C. Act",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Cr. No. 13(A)/2012, CBI Bangalore; SPL CC-21/2014; City Civil Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "Sec.21 & 22 r/w 37 of Air (Prevention and Control of Pollution) Act",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision",
+     "case_description": "Cr. No. Ankola Police Station; CC No-52/2007, 29.04.2006; JMFC, Ankola; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 341, 427, 149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Karawr Police Station; CC No-675/2009; JMFC, Karwar; charges framed"
+    },
+    {
+     "ipc_sections": "Sections not listed",
+     "severity": "non-serious",
+     "severity_basis": "Civil suit (O.S.) listed in the affidavit pending-cases table; no penal sections listed — treated non-serious",
+     "case_description": "Cr. No. Karwar Police Station; O.S. 15/2011; PRL. Senior Civil Judge and CJM, Karwar; charges framed"
+    },
+    {
+     "ipc_sections": "Sections not listed",
+     "severity": "non-serious",
+     "severity_basis": "Civil suit (O.S.) listed in the affidavit pending-cases table; no penal sections listed — treated non-serious",
+     "case_description": "Cr. No. Karwar Police Station; O.S. 120/2012; Civil Judge and JMFC-II, Karwar; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 506",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Chittakula Police Station; CC No-679/2021; Civil Judge and JMFC II Court Karwar; charges framed"
+    }
+   ],
+   "education": "Graduate (B.Sc. from Government Arts & Science College, Karwar in 1992)",
+   "assets_current_inr": 568440450,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7444",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Dinakar Keshav Shetty",
+   "constituency": "Kumta",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (Pre-University Education, ( Commerce) in 1975 D A.V. Baaliga Commerce College, Kumta)",
+   "assets_current_inr": 43906516,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7491",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Mankala Vaidya",
+   "constituency": "Bhatkal",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Section 64(A) of Karnataka Forest Act 1963 and Forest Protection Act 1980",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision",
+     "case_description": "Cr. No. 120/10-11, 15-12-2010, Forest Dpt, Assitant Conservetor of Forest Bhatkal Sub-Vidhan Bhatkal issued notice to clear forest land; Court of Conservator Forest; charges not framed; appeal filed"
+    }
+   ],
+   "education": "8th Pass (8th from Janata University murdeshwara 1988)",
+   "assets_current_inr": 642419070,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7147",
+   "myneta_name": "Mankal Vaidya",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Bhimanna T. Naik",
+   "constituency": "Sirsi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "5th Pass (7th std govt school besalakoppa ,sirsi ,uttara kannada 1984-85)",
+   "assets_current_inr": 1229747533,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7346",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Arbail Shivaram Hebbar",
+   "constituency": "Yellapur",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 119, 120B, 409, 379, 465, 468, 471, 34; Section 13(1)(c) & 13(1)(d), read with Section 13(2) of he Prevention of Corruption Act; Section 4(1A) read with Section 21(1) of Mines and Minerals (Development and Regulation) Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case CC No. 908/2022; LXXXI Additional City Civil & Sessions Judge, Bangalore City (CCH-82) Special Court exclusively to deal with Criminal Cases related to elected former and sitting MPs/MLAs in the state of Karnataka; charges framed; appeal filed"
+    }
+   ],
+   "education": "10th Pass (SSLC (Secondary School Leaving Certificate) from Janata Vidyalaya Kadatoka, Tq. Honnavar, Uttara Kannada in 1972-73)",
+   "assets_current_inr": 212788863,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7394",
+   "myneta_name": "Arabail Hebbar Shivaram",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Srinivas Mane",
+   "constituency": "Hangal",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.com Degree from Janardan Rai Nagar Rajasthan Vidhyapeeth University Udaipur in 2007)",
+   "assets_current_inr": 101433096,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7286",
+   "myneta_name": "Mane Srinivas",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Yasir Ahmed Khan Pathan",
+   "constituency": "Shiggaon",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A. from Karnatak University in 2003)",
+   "assets_current_inr": 30473731,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9563",
+   "myneta_name": "Pathan Yasirahmedkhan",
+   "notes": "Declared cases are pending matters, not convictions. Elected in the by-election of 13 Nov 2024 after the 2023 winner, Basavaraj Bommai, was elected to the Lok Sabha; figures are from his by-election affidavit on myneta, which declares no criminal cases (his 2023 general-election affidavit had declared 3 cases)."
+  },
+  {
+   "name": "Rudrappa Lamani",
+   "constituency": "Haveri (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B A Karnataka University Dharwad in 1979-82)",
+   "assets_current_inr": 103682530,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6817",
+   "notes": "Declared cases are pending matters, not convictions.",
+   "myneta_name": "Rudrappa Manappa Lamani"
+  },
+  {
+   "name": "Basavaraj Shivannanavar",
+   "constituency": "Byadgi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A-G.H College Karnataka University Dharwad -1978)",
+   "assets_current_inr": 44682045,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6789",
+   "notes": "Declared cases are pending matters, not convictions.",
+   "myneta_name": "Basavaraj Neelappa Shivannanavar"
+  },
+  {
+   "name": "U. B. Banakar",
+   "constituency": "Hirekerur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (LLB University Law College Dharwad in 1984)",
+   "assets_current_inr": 57439041,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7997",
+   "notes": "Declared cases are pending matters, not convictions.",
+   "myneta_name": "Ujaneshwar Basavannappa Banakar"
+  },
+  {
+   "name": "Prakash Koliwad",
+   "constituency": "Ranebennur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (B.E. Malnad Technical College Hassan in 1987-91)",
+   "assets_current_inr": 646462474,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7736",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Krishna Nayaka",
+   "constituency": "Hoovina Hadagali (SC)",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 188, 171C",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Crime No. 45/2023, Huvinahadagali Police Station; Huvinahadagali Court; charges not framed"
+    }
+   ],
+   "education": "Graduate Professional (Engineering Graduate, Vishveshvaraya Technological University, Belagavi.)",
+   "assets_current_inr": 428052937,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7974",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. Nemiraj Naik",
+   "constituency": "Hagaribommanahalli (SC)",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 147, 504, 171, 1, 149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 233/2021, Hagaribommanahalli Police station; CC No. 409/2022 transferred to CC No. 30045/2022; Hagaribommanahalli Senior Civil & JMFC Court transferred to 42 Additional Chief Metropolitan Magistrate Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 171",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 234/2021, Hagaribommanahalli Police station; CC No. 362/2022 transferred to CC No. 30011/2022; Hagaribommanahalli Senior Civil & JMFC Court transferred to 42 Additional Chief Metropolitan Magistrate Court Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 504, 353, 188, 149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 238/2021, Hagaribommanahalli Police Station; CC No. 408/2022 transferred to CC No. 30670/2022; Hagaribommanahalli Senior Civil & JMFC Court transferred to 42 Additional Chief Metropolitan Magistrate Court Bangalore; charges framed"
+    }
+   ],
+   "education": "Graduate (BA from Magad University Patna in april 2006)",
+   "assets_current_inr": 100109183,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8946",
+   "myneta_name": "Nemarajanaik.K",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "H. R. Gaviyappa",
+   "constituency": "Vijayanagara",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 171H; Section 192, 177 of IMV Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Crime No. 44/23, Town Police Station, Hospet; Principal Civil Judge & JMFC, Hospet; charges not framed"
+    }
+   ],
+   "education": "10th Pass (1st PUC 1980-81, Vijayanagara Pre-University College Hospet)",
+   "assets_current_inr": 485349735,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7385",
+   "myneta_name": "H.R.Gaviyappa",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "J. N. Ganesh",
+   "constituency": "Kampli (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (Bachelor of Arts, 2nd Year Incomplete, Vijayanagar University, Hospete - 2003-04)",
+   "assets_current_inr": 88965355,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8059",
+   "myneta_name": "J N Ganesh",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "B. M. Nagaraja",
+   "constituency": "Siruguppa (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "8th Pass (SSLC from Govt. High School, Siruguppa - Failed)",
+   "assets_current_inr": 92962608,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8330",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "B. Nagendra",
+   "constituency": "Bellary Rural (ST)",
+   "total_cases": 42,
+   "serious_cases": 28,
+   "non_serious_cases": 14,
+   "charges": [
+    {
+     "ipc_sections": "IPC 409, 420, 120B; Section 21, 4(1-A) M.MD.R. Act-957; Section 165, 144 Karnataka Forest Act",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case Spl. C 551/2015; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 16, 12 (as listed); MMDR Act 1957 (other-sections column)",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case SPL C 596/2015; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 409, 420, 120B, 21, 23, 4(1), 165R, 16, 12",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 600/2015; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 409, 420, 120B, 17, 02; Section 21, 23, 4(1), 4(1A) MMDR Act 1957; Section 165R, 144 Karnataka Forest Act.  Main Charge Sheet-21.12.2015",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 12/2016; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 409, 420, 120B; Section 21, 4(1), 4(1-A) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 19/2016; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 120B, 20, 11, 22, 02; Section 21, 4(1), 4(A) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 467/2016; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 468, 120B, 15, 04, 13, 07; Section 21, 23, 4(1), 4(1)(A) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 471/2016; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 420, 120B, 511; Section 21, 4(1-A) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 120/2017; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 120B, 165, 144; Section 21, 23, 4(1), 4(1-A) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case SPL C 53/2016; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 379; Section 21, 4(1), 4(1-A) Mines & Miniral Regulation of Development Act 1957",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case SPL C 2179/2022; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 379, 411, 447, 20, 12, 15A; Section 13(2), 13(1)(d) of Prevention of Corruption Act 1988; Section 21, 4(1), 4(1-A), 23 of MMDR Act 1947; Section 24 of Karnataka Forest Act 1963",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case SPL C 135/2013; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 379, 411, 447, 14A; Section 13(2), 13(1)(d) of Prevention of Corruption Act 1988; Section 21, 4(1), 4(1-A) & 23 of MMDR Act 1947; Section 24 of Karnataka Forest Act 1963; Sec.2012BLR",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case SPL C 6/2014; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 379, 411, 447, 13A; Section 13(2), 13(1)(d) of Prevention of Corruption Act 1988; Section 21, 4(1), 4(1-A) & 23 of MMDR Act 1947; Section 24 of Karnataka Forest Act 1963",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case SPL C 21/2014; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 379, 411, 447, 16, 12; Section 13(2), 13(1)(d) of Prevention of Corruption Act 1988; Section 21, 4(1), 4(1-A) & 23 of MMDR Act 1947; Section 24 of Karnataka Forest Act 1963",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case SPL C 105/2014; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 119, 120B, 409, 379, 465, 468, 471, 34, 05, 03; Section 13(1)I, 13(1)(D), 13(2) PC Act; Section 4(1-A), 21(1) Mines And Miniral Regulation of Development Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case SPL C 908/2022; 1386-CCH82 LXXXI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 21, 11",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case EX 3271/2019; 1478-CCH-87 LXXXVI Addl City Civil and Sessions Judge Bengaluru; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 447, 465, 471, 120B, 21, 23",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case CC No 7781/2023; 1354/42- Addl Chief Metropolitan Magistrate Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 21, 44(1)",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case CC No 7924/2023; 1354/42- Addl Chief Metropolitan Magistrate Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "Section 138 of N.I Act",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision",
+     "case_description": "Case CC No 50822/2023; 1202-XXXIII Addl CMM Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 379, 411, 420; Section 21, 23, 4(1), 4(1A) MMDR Act",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case CC No. 65/2022; 1334- Addl Civil Judge and JMFC Ankola and Case Transferred to 82th Addl. Civil 81 and Session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 379, 411, 420; Section 21, 23, 4(1), 4(1A) MMDR Act",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5)",
+     "case_description": "Case CC No.95/2022; 1334- Addl Civil Judge and JMFC Ankola and Case Transferred to 82th Addl Civil 81 and Session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 379, 411; Section 21, 23 MMRD Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case CC No.695/2021; 1334- Addl Civil Judge and JMFC Ankola and Case Transferred to 82th Addl Civil 81 and session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "Section 21, 23 MMDR Act",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision",
+     "case_description": "Case CC No. 1223/2022; 42-Addl Chief Metropolitan Magistrate Bangalore and Case Transferred to 82th Addl Civil 81 and Session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 420, 465, 468, 471, 120B",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "Case CC No.30780/2021; 42-Addl Chief Metropolitan Magistrate Bangalore and Case Transferred to 82th Addl Civil 81 and Session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "Sections not listed",
+     "severity": "non-serious",
+     "severity_basis": "Income Tax proceedings as listed (ITA number given; no IPC sections shown) — treated non-serious",
+     "case_description": "Case Income Tax Cases-ITA 100003/2023; charges framed"
+    },
+    {
+     "ipc_sections": "Sections not listed",
+     "severity": "non-serious",
+     "severity_basis": "Income Tax proceedings as listed (ITA number given; no IPC sections shown) — treated non-serious",
+     "case_description": "Case Income Tax Cases-ITA 100034/2022; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 54, 66",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case Ex.C/150/2021; Prl. Sr Civil Judge & CJM Ballari (O.S. No 86/2012) Prl. Sr. Civil Judge & CJM Hosapete); charges framed"
+    },
+    {
+     "ipc_sections": "IPC 21, 11, 38",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case EX. C/110/2016; Prl. Sr. Civil Judge & CJM Ballari (In O.S. No 256/2013 Prl. Sr. Civil Judge & CJM Ballari; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 02, 11; Director and Appellate Authorities,  Scheduled Castes welfare department\nPVKE Appeal, Dt 02.11.2022",
+     "severity": "non-serious",
+     "severity_basis": "No penal sections listed for this row; the other-sections text names an appeal before the Scheduled Castes welfare department authorities (a department name, not an SC/ST (PoA) Act charge) — treated non-serious (borderline call, explained here)",
+     "case_description": "Case CC No 07/2022; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 420, 465, 457, 468, 471, 120B, 21, 23",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "Case CC No. 25063/2022; 42-Addl Chief Metropolitan Magistrate Bangalore and Case Transferred to 82th Addl Civil 81 and Session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 447, 468, 471, 120B, 21, 23, 4(1), 4, 1a",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "Case CC No. 24429/2022; 42-Addl Chief Metropolitan Magistrate Bangalore and Case Transferred to 82th Addl Civil 81 and Session Judge Bangalore, CH-82 (Special Court) for MP MLA Case; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 21, 23, 4(1), 4, 1A",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Case CC No. 8983/2023; 42- Addl Chief Metropolitan Magistrate Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1) (a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case CC No. 8890/2023; 42-Addl Chief Metropolitan Magistrate Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1) (a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No. 15/2014; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1) (a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No. 26/2015; charges framed"
+    },
+    {
+     "ipc_sections": "Sections not listed",
+     "severity": "non-serious",
+     "severity_basis": "No sections listed for this row (C-report filed 10 Dec 2021) — treated non-serious",
+     "case_description": "Case Crime No. 27/2015, C-Report on 10.12.2021; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1)(a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No. 29/2015; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1)(a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No. 30/2015; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1)(a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No. 31/2015; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1)(a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No. 02/2021; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1)(a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case Crime No.03/2021; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 379, 409, 420, 465, 467, 468, 471, 120B; Section 7, 13(2), 13(1)(d) PC Act 1980; Section 21 & 23, 4(1) 4(1)(a) MMDR Act 1957",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Case number and court not listed on the myneta page; charges framed"
+    }
+   ],
+   "education": "Graduate (B. Com From Veerashaiva College Bellary Gulbarga University In 1993)",
+   "assets_current_inr": 176342135,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7134",
+   "notes": "Declared cases are pending matters, not convictions.",
+   "myneta_name": "B Nagendra"
+  },
+  {
+   "name": "Nara Bharath Reddy",
+   "constituency": "Bellary City",
+   "total_cases": 2,
+   "serious_cases": 2,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 389, 506, 120B, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 389: max punishment life imprisonment (>5)",
+     "case_description": "Cr. No. 0024/2023, N. Bharath Reddy (A2) & Others, Gandhi Nagar Police Station, Ballari; Principal Civil Judge (Jr.Dn) JMFC Court, Ballari; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 420, 465, 468, 471, 406, 114, 182, 191, 192",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "Cr. No. PCR No-74/2022; Principal Civil Judge (Jr.Dn) JMFC Court, Ballari; charges not framed; appeal filed"
+    }
+   ],
+   "education": "Graduate (BBM from Gulbarga University in 2010)",
+   "assets_current_inr": 911821808,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7861",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "E. Annapoorna Tukaram",
+   "constituency": "Sandur (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A. from Kuvempu University in 2014)",
+   "assets_current_inr": 33671404,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9556",
+   "myneta_name": "E Annapoorna",
+   "notes": "Declared cases are pending matters, not convictions. Elected in the by-election of 13 Nov 2024 after the 2023 winner, E. Tukaram, was elected to the Lok Sabha; figures are from her by-election affidavit on myneta."
+  },
+  {
+   "name": "N. T. Srinivas",
+   "constituency": "Kudligi (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate (MD(Ophthalmology) - All India Institute of Medical science (AIIMS), New Delhi in 2004)",
+   "assets_current_inr": 159229538,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7490",
+   "myneta_name": "Srinivas N T",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "N. Y. Gopalakrishna",
+   "constituency": "Molakalmuru (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate (MBA from Mysore University)",
+   "assets_current_inr": 65063394,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7565",
+   "myneta_name": "N.Y.Gopalakrishna",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "T. Raghumurthy",
+   "constituency": "Challakere (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (BE ,Civil ,Government B.D.T College ,Davangere Mysuru University in 1985)",
+   "assets_current_inr": 221827134,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7890",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. C. Veerendra Puppy",
+   "constituency": "Chitradurga",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341, 143, 147, 149, 188, 286, 268",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 0062/2023 dated 03/04/2023 Rural Police Station Chitradurga; Prl. Civil Judge (Junior Division) & JMFC Chitradurga; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 171C, 171E, 188",
+     "severity": "serious",
+     "severity_basis": "IPC 171E: electoral offence (bribery)",
+     "case_description": "Cr. No. 0128/2023 dated 31/03/2023 Rural Police Station Chitradurga; Additional Civil Judge (Junior Division) & JMFC Chitradurga; charges not framed"
+    }
+   ],
+   "education": "Graduate (B.Com from Kuvempu University, HPPC Govt. First Grade College in 1998-99 Challakere 577522)",
+   "assets_current_inr": 1348942076,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7927",
+   "myneta_name": "K.C.Veerendra Puppy",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "D. Sudhakar",
+   "constituency": "Hiriyur",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 120B, 409, 420, 467, 468, 471; Section 13(2) R/w 13(1) and (d) of Prevention of Corruption Act.",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Cr. No. CBI/banking securities and fraud cell, Bengaluru as R.C. No. 1(E) of 2008; SPL. CC No. 171/2009; LXXXI ACC and SJ Bengaluru City (CCH-82); charges framed; appeal filed"
+    },
+    {
+     "ipc_sections": "Sec.7 Religious Institutions (Prevention of Misuse) Act 1988",
+     "severity": "non-serious",
+     "severity_basis": "Religious Institutions (Prevention of Misuse) Act: minor statutory (borderline — communal-misuse provision, max <=5 yrs)",
+     "case_description": "Cr. No. C.R No.095/2018, Abbinahole Police Station Hiriyur Taluk; charges not framed"
+    }
+   ],
+   "education": "Graduate (B.Com Final year Completed in the year 1980-81, National College Shivamoga, University of Mysore)",
+   "assets_current_inr": 1356940368,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7999",
+   "myneta_name": "D Sudakar",
+   "notes": "Declared cases are pending matters, not convictions. Seat vacant as of October 2026: he died on 10 May 2026 and no by-election had been held by October 2026; this entry records the last elected member and his 2023 affidavit."
+  },
+  {
+   "name": "B. G. Govindappa",
+   "constituency": "Hosadurga",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 267; Section 51 Disaster Management Act 2005",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 107/2020, Srirampura PS, Srirampura, Hosadurga Taluk; CC No 1622/2022; Additional Civil Judge and J.M.F.C Court; charges framed"
+    }
+   ],
+   "education": "12th Pass (PUC From JSS College Mysore In 1971-72)",
+   "assets_current_inr": 29098000,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6985",
+   "myneta_name": "B G Govindappa",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. Chandrappa",
+   "constituency": "Holalkere (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (BA in 1979)",
+   "assets_current_inr": 257587486,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7319",
+   "myneta_name": "M.Chandrappa",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "B. Devendrappa",
+   "constituency": "Jagalur (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (PUC Pass- Graduate Education Incomplete, Govt. Arts College, Chithraduraga, In 1983-84)",
+   "assets_current_inr": 21154681,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7804",
+   "myneta_name": "B.Devendrappa",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Latha Mallikarjun",
+   "constituency": "Harapanahalli",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (PUC, G.B.R College ,Huvinahadagali in 1984)",
+   "assets_current_inr": 72929747,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8971",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "B. P. Harish",
+   "constituency": "Harihar",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A- M.S.B.College Davangere -1981)",
+   "assets_current_inr": 57339331,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7799",
+   "myneta_name": "B P Harish",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. S. Mallikarjun",
+   "constituency": "Davanagere North",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Sec.9,40,42,42(a),44,48(a),51,57 of Wild life (Protection) Act 1972 and Sec.200 of Cr.PC",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision",
+     "case_description": "Cr. No. PCR No.933/2022; Crl.Misc No.1460/2022; II Additional District & Sessions judge at Davanagere; charges not framed"
+    }
+   ],
+   "education": "Graduate (B.Com. from M.S.B. College of Commerce, Davangere (Mysore University) in 1990)",
+   "assets_current_inr": 1892037646,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6799",
+   "myneta_name": "S.S.Mallikarjun",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Samarth Shamanur Mallikarjun",
+   "constituency": "Davanagere South",
+   "total_cases": null,
+   "serious_cases": null,
+   "non_serious_cases": null,
+   "charges": [],
+   "education": "BA in Business and Management, University of Exeter, United Kingdom (2020) — per Wikipedia",
+   "assets_current_inr": null,
+   "source_url": null,
+   "notes": "Elected in the by-election of 9 Apr 2026 (declared elected 4 May 2026) after the 2023 winner, Shamanur Shivashankarappa, died on 14 Dec 2025. No myneta candidate page for his by-election affidavit could be found as of Oct 2026: myneta's Karnataka 2023 winners list has no Davanagere South by-election entry and no candidate page for him was located (pages do exist for some other Davanagere South by-election candidates), and he has no earlier myneta affidavit (2026 was his first election). His declared case count and assets therefore could not be verified from myneta and are left null rather than estimated. Declared cases are pending matters, not convictions.",
+   "myneta_name": "Samarth Mallikarjun Shamanur"
+  },
+  {
+   "name": "K. S. Basavanthappa",
+   "constituency": "Mayakonda (SC)",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Sec.- 66 E, Information Technology Act 2000",
+     "severity": "non-serious",
+     "severity_basis": "IT Act: 3-yr cyber offence (borderline)",
+     "case_description": "Cr. No. 0009/2023, Vidyanagar Police Station Dvg,; 3rd Additional Civil Judge, JMFC Davanagere.; charges not framed"
+    }
+   ],
+   "education": "10th Pass (1st PUC ,A.R,G Collage Davangere-1987-88)",
+   "assets_current_inr": 10131523,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7555",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Basavaraju V. Shivaganga",
+   "constituency": "Channagiri",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 448, 323, 504, 506, 149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 0187/2021, Vidyanagar Police Station , Davanagere; 1st Additional Senior Civil Judge nd J.M.F.C. Court Davanagere.; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 341, 506, 149",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 0105/2020, Vidyanagar Police Station , Davanagere; CC No:1349/2021; 1st Additional Senior Civil Judge nd J.M.F.C. Court Davanagere.; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 506, 504, 143, 147, 149; Section 3(1)(r), 3(1),(s),3(2) (V-A) The ST Prevention of Attracities Act 1989.",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. 0066/2019, Vidyanagar Police Station , Davanagere; CC No:3/2020; 2nd Additional Special District And Session Judge Court, Davanagere; charges framed"
+    }
+   ],
+   "education": "Graduate (B.A. A.R.M. Pre-University College, Davanagere In 2001)",
+   "assets_current_inr": 61261704,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7898",
+   "myneta_name": "Basavaraju V Shivaganga",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "D. G. Shanthana Gowda",
+   "constituency": "Honnali",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 107",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. PAR:33/2023 Honnali Police Station,; Honnali Tashildar Court; charges framed; appeal filed"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 323, 307, 504, 506, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 307: attempt to murder",
+     "case_description": "Cr. No. PAR:192/2022 Honnali Police Station; District Court Davanagere; charges framed; appeal filed"
+    }
+   ],
+   "education": "8th Pass (B.Sc. in 1968-69, P.C. Jabin Science College, Karnataka University, Hubli.)",
+   "assets_current_inr": 203970523,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7325",
+   "myneta_name": "Shanthana Gowda.D.G.",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Sharada Puryanaik",
+   "constituency": "Shimoga Rural (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass (1st PUC from DVS Senior College Shimogga 1987-88)",
+   "assets_current_inr": 30098390,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7706",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "B. K. Sangameshwara",
+   "constituency": "Bhadravati",
+   "total_cases": 4,
+   "serious_cases": 2,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 147, 323, 504, 506, 149; Section 3(1)(r), 3(1)(s), 3(2), 5(a) SC/ST Act",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act",
+     "case_description": "Cr. No. Bhadravathi Halenagara Police Station; 25/2021; Honourable 2nd Additional District Court Shimoga; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 323, 504, 506, 34",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Bhadravathi Halenagara Police Station; 26/2021,\nCR No. 157/2021; Honourable 2nd Additional Junior Court Shimoga; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 307, 326",
+     "severity": "serious",
+     "severity_basis": "IPC 307: attempt to murder; IPC 326: max punishment life imprisonment (>5)",
+     "case_description": "Cr. No. Paper Town Police Station, Paper Town Bhadravathi; 74/2010, CC No. SPL CC 828/2018; Janaprathinidhi Court Bangalore, City Civil and Session Judge, Bangalore; charges framed"
+    },
+    {
+     "ipc_sections": "IPC 171H",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs",
+     "case_description": "Cr. No. Paper Town Police Station, Paper Town Bhadravathi; 62/2019, CC No. SPL CC 1295/2021; Janaprathinidhi Court Bangalore; charges framed"
+    }
+   ],
+   "education": "10th Pass (SSLC ,Bhadra High School,Halappa Circle ,Bhadravathi)",
+   "assets_current_inr": 69748411,
+   "source_url": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7866",
+   "myneta_name": "B.K. Sanagameshwara",
+   "notes": "Declared cases are pending matters, not convictions."
+  }
+ ]
+}

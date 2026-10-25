@@ -1,0 +1,518 @@
+{
+ "mps": [
+  {
+   "name": "P. C. Gaddigoudar",
+   "constituency": "Bagalkot",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — BA year 1972 Basaveshwara Kala Mahavidyalaya Bagalot(KVV Dharwad). LLb year 1975 Raja Lakkammagowda Law college Balgaum(KVV Dharwada)",
+   "assets_current_inr": 75855750,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3930",
+   "myneta_name": "Gaddigoudar Parvatgouda Chandangouda",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "P. C. Mohan",
+   "constituency": "Bangalore Central",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 149, 188, 283, 290, 268",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "Crime No. 50/2024, Halasuru Gate Police Station, Bengaluru; charges not framed; pending; further investigation stayed by Karnataka High Court (CRL.P. No. 2771/2024)"
+    },
+    {
+     "ipc_sections": "IPC 171G, 177, 181, 191, 193, 199, 200",
+     "severity": "serious",
+     "severity_basis": "IPC 171G: electoral offence (false statement in connection with an election); IPC 193: max punishment 7 years (>5); IPC 199: max punishment 7 years (>5); IPC 200: max punishment 7 years (>5)",
+     "case_description": "Private complaint PCR No. 46/2019 (no FIR filed), Court of City Civil and Sessions Judge, CCH-82, Bengaluru (Special Court); transferred to XLII Additional Chief Metropolitan Magistrate; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "12th Pass — 2nd PUC, Vijaya College, Jayanagar, Bengaluru 560011, 1981",
+   "assets_current_inr": 813065207,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1866",
+   "notes": "Crime-O-Meter shows 2 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "P C Mohan"
+  },
+  {
+   "name": "Shobha Karandlaje",
+   "constituency": "Bangalore North",
+   "total_cases": 5,
+   "serious_cases": 1,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "ipc_sections": "Sec. 123(3), 123(3A), 125 of RP Act",
+     "severity": "non-serious",
+     "severity_basis": "RP Act provision below Sec 8 (borderline)",
+     "case_description": "CR No. 45/2024 of Cottenpet Police Station Bangalore; Vth Additional CMM Bengaluru; charges not framed; pending; appeal filed"
+    },
+    {
+     "ipc_sections": "IPC 153, 153A, 505(1)(b), 505(2)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "CR No. 24/2024 of Madhurai City Cyber Crime Police Station; charges not framed; pending"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "CR No.The Complainant has filed private complaint before the court hence there is no FIR number; CC.NO.-37087/2021; 42 ACMM Court Bengaluru; charges not framed; pending"
+    },
+    {
+     "ipc_sections": "IPC 153A, 34",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "CR No. 33/2020 Kuttipuram Police Station Malappuram District, Kerala State; The Honble Judicial First Class Magistrate Tiruru; charges not framed; pending"
+    },
+    {
+     "ipc_sections": "Sec 45 (1) of PMLA Act read with section 200 of Crpc for offence under section 3 and 4 prevention of Money Laundering Act.",
+     "severity": "serious",
+     "severity_basis": "Sections 3/4, Prevention of Money-Laundering Act: money-laundering offence carrying max 7 years imprisonment under Sec 4 (borderline: sections are from the affidavit's other-acts column; ADR criteria cover offences with 5+ year max punishment and loss to the exchequer)",
+     "case_description": "Complaint filed by ED under PML Act before the Hon;ble Designated Court Culminated into Spl C.No.124/2014; LXXXI City Civil Court Bengaluru (CCH 82); charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "Post Graduate — Master of Social Services (Social Service) Roshani Nilaya Magalore University 1990. Master of Arts. (Social Service) Correspondence - Open University, Mysore University 1996",
+   "assets_current_inr": 138866909,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2178",
+   "notes": "Crime-O-Meter shows 5 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed."
+  },
+  {
+   "name": "C. N. Manjunath",
+   "constituency": "Bangalore Rural",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — Doctor of Madicine in Cardiology(DM) (Cardioloy) from Kasturba Medical College of Mangalore in the year 1988",
+   "assets_current_inr": 983883816,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2597",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate.",
+   "myneta_name": "Dr C N Manjunath"
+  },
+  {
+   "name": "Tejasvi Surya",
+   "constituency": "Bangalore South",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 153A, 295A; Section- 123(3A), of The Representation of People Act 1950",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "Crime No. 51/2024, Halasuru gate PS, Bengaluru dated 20-3-2024; 6th ACMM, Bengaluru; charges not framed; pending; appeal filed"
+    },
+    {
+     "ipc_sections": "IPC 143, 149, 188, 283, 290, 268",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "Crime No. 50/2024, Halasuru Gate PS, Bengaluru dated 19-3-2024; 6th ACMM, Bengaluru; charges not framed; pending; appeal filed"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 149, 186, 188, 332, 353",
+     "severity": "non-serious",
+     "severity_basis": "IPC 332: max 3 yrs, no serious category (borderline: 3-yr max)",
+     "case_description": "200/2022, Civil Lines PS, New Delhi dated 30-3-2022; CR Case No. 12/2022; Rouse Avenue Courts, New Delhi; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "Graduate Professional — BA, LLB., Bangalore Institute of Legal Studies (Affiliated to Bangalore University) Bengaluru 2013",
+   "assets_current_inr": 41030489,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2629",
+   "notes": "Crime-O-Meter shows 3 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed."
+  },
+  {
+   "name": "Jagadish Shettar",
+   "constituency": "Belgaum",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — LLB (special), JSS sakri law vidyalaya, karnataka university hubbali 1980., B.com, jagadguru gangadhar college of commerce, karnataka university, hubbali 1977",
+   "assets_current_inr": 133815982,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3421",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "E. Tukaram",
+   "constituency": "Bellary",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — PGDBA (Finance), St.Josephs College of Commerce, Bangalore 1993, M.Com., Gulbarga University College, Nandihalli Masters Centre Sandur 1992",
+   "assets_current_inr": 35267209,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3386",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate.",
+   "myneta_name": "E Tukaram"
+  },
+  {
+   "name": "Sagar Eshwar Khandre",
+   "constituency": "Bidar",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — B.B.A. LLB (Honours) - Christ (Deemed to be University) Bangalore 2021",
+   "assets_current_inr": 134373930,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3793",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Ramesh Jigajinagi",
+   "constituency": "Bijapur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — B.A Degree Passed in 1974 New Arts College Viajayapur Karnataka University Dharwad",
+   "assets_current_inr": 516315994,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3797",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Sunil Bose",
+   "constituency": "Chamarajanagar",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 171",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "0181/2017, Rural Police Station Nanjangud, Nanjangud Mysore District; CC 320/2018; PRL. Civil Judge (Jr. Dn) & JMFC Court Nanjangud, Nanjangud Mysore District; charges framed; pending"
+    }
+   ],
+   "education": "12th Pass — Second Year Pre University Examination, Department of Pre University Education, Govt of Karnataka, Sri Sathya Sai Loka Seva Pre University College, Alike Year of Passing 2000",
+   "assets_current_inr": 78466251,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2193",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed."
+  },
+  {
+   "name": "K. Sudhakar",
+   "constituency": "Chikballapur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 499, 500, 501, 34",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years and no ADR serious category",
+     "case_description": "PCR No.220/2020, CC 35460/2022; 42 ACMM Court Bangalore and Special Court; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "Graduate Professional — MBBS Sidharth Medical College,Tumkur,Bangalore University-2003",
+   "assets_current_inr": 334163156,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1881",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "Dr K Sudhakar"
+  },
+  {
+   "name": "Priyanka Jarkiholi",
+   "constituency": "Chikkodi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — Master Of Business Administarion (MBA), Visvesvaraya Technological University, Belagavi, Karnataka, 2021",
+   "assets_current_inr": 91157625,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4024",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate.",
+   "myneta_name": "Priyanka Satish Jarkiholi"
+  },
+  {
+   "name": "Govind Karjol",
+   "constituency": "Chitradurga",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass — SSLC from SS High School, Vijayapura 1971",
+   "assets_current_inr": 43243598,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1886",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate.",
+   "myneta_name": "Govind Makthappa Karjol"
+  },
+  {
+   "name": "Brijesh Chowta",
+   "constituency": "Dakshina Kannada",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Section 127A & 133 of The Representation of People Act 1950",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory provision: no ADR serious category",
+     "case_description": "112/2017 at Hullahalli Police Station, Nanjangud Dated 01.04.2017; CC No. 199/2018; Prl. Civil Judge & JMFC, Nanjangud, Mysuru; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "Graduate — BSc., St. Aloysius college, mangalore university 2002, Cerftificate course in business management of defence officers in Indian institute of management , indore 2010",
+   "assets_current_inr": 7056365,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1889",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "Captain Brijesh Chowta"
+  },
+  {
+   "name": "Prabha Mallikarjun",
+   "constituency": "Davanagere",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — BDS Kuvempu University -1998, PUC PU Board, Karnataka - 1994",
+   "assets_current_inr": 2412803910,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3393",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate.",
+   "myneta_name": "Dr Prabha Mallikarjun"
+  },
+  {
+   "name": "Pralhad Joshi",
+   "constituency": "Dharwad",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — Bachelor of Arts Kadasiddeshwar Arts College Hubli affiliated to the Karnataka University Dharwad 1983",
+   "assets_current_inr": 210960953,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3567",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Radhakrishna",
+   "constituency": "Gulbarga",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 420, 468, 471, 34",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); IPC 468: max punishment 7 years (>5)",
+     "case_description": "280/2014, CCB Police Bangalore; CC No 9564/2019; Add. Chief Metropolitan Magistrate Court Bangalore; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "10th Pass — SSLC(Secondary School Leaving Certificate) From St. Aloysius High School, Cox Town, Bangalore 1978",
+   "assets_current_inr": 533899960,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3398",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed."
+  },
+  {
+   "name": "Shreyas M. Patel",
+   "constituency": "Hassan",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Section 24(D), (E), 104(A) of Karnataka Forest Act",
+     "severity": "non-serious",
+     "severity_basis": "Minor statutory provision: no ADR serious category",
+     "case_description": "F.C. No. 2/2014-15, Assistant Forest Conservator Officer, Subramnya Sub- Division Dakshina Kannada; charges not framed; pending"
+    }
+   ],
+   "education": "Graduate — Bachelor of Business Management, Mahajana First Grade College, Mysuru, 2012",
+   "assets_current_inr": 426710045,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1890",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "Shreyas M Patel"
+  },
+  {
+   "name": "Basavaraj Bommai",
+   "constituency": "Haveri",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — Bachelor of Engineering in Mechanical BVB Engineering College Hubli 580031 1982",
+   "assets_current_inr": 539504552,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3579",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "M. Mallesh Babu",
+   "constituency": "Kolar",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 171H, 149; Sections 3, 6, 7, Religious Institutions (Prevention of Misuse) Act 1988",
+     "severity": "serious",
+     "severity_basis": "IPC 171H: electoral offence; Religious Institutions (Prevention of Misuse) Act: minor statutory (borderline — communal-misuse provision, max <=5 yrs)",
+     "case_description": "Crime NO. 0221/2018 Bangarapete Police Station; C.C.No.255/19 dated 04-05-2018; Principal Civil Judge (Junior Division) & JMFC Court Bangarapete, Kolar District; charges framed; pending; appeal filed"
+    }
+   ],
+   "education": "Post Graduate — MBA DEGREE, BANGALORE UNIVERSITY,, CENTRAL COLLEGE, BANGALORE YEAR OF PASSING APRIL 1997",
+   "assets_current_inr": 238631536,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1894",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "M Mallesh Babu"
+  },
+  {
+   "name": "K. Rajashekar Basavaraj Hitnal",
+   "constituency": "Koppal",
+   "total_cases": 3,
+   "serious_cases": 1,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "Sections 4(1)(1-A), 21(1), 21(2), 44(1), 44(2), 44(3), MMDR Act; Rule 3(1), 42(1) (as listed on page)",
+     "severity": "non-serious",
+     "severity_basis": "MMDR Act Sec 21(1) carries max 5 years (borderline: at, not above, the ADR 5-year threshold; treated non-serious); no other ADR serious category",
+     "case_description": "PCR 424/2022CC3891/2022, .Spl C.4/2024); (Prl JMFC Koppal, know it is committed to Prl District & Session Judge Koppal; charges framed; pending; appeal filed"
+    },
+    {
+     "ipc_sections": "Sections 4(1)(1-A), 21(1), 21(2), 44(1), 44(2), 44(3), MMDR Act; Rule 3(1), 42(1) (as listed on page)",
+     "severity": "non-serious",
+     "severity_basis": "MMDR Act Sec 21(1) carries max 5 years (borderline: at, not above, the ADR 5-year threshold; treated non-serious); no other ADR serious category",
+     "case_description": "PCR 425/2022CC 3305/2022; charges framed; pending; appeal filed"
+    },
+    {
+     "ipc_sections": "IPC 171E",
+     "severity": "serious",
+     "severity_basis": "IPC 171E: electoral offence",
+     "case_description": "77/2024, Karatagi police station,Karatagi Taluk,Koppal District; charges not framed; pending"
+    }
+   ],
+   "education": "12th Pass — PUC-Science JSS College,Dharwad,1997-98",
+   "assets_current_inr": 290429579,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3400",
+   "notes": "Crime-O-Meter shows 3 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "K Rajashekar Basavaraj Hitnal"
+  },
+  {
+   "name": "H. D. Kumaraswamy",
+   "constituency": "Mandya",
+   "total_cases": 3,
+   "serious_cases": 3,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 204, 405, 406, 465, 468, 471, 120B; Section 13(1)(d)(e), Prevention of Corruption Act; Sections 21, 23, 4(1A), MMDR Act; Sections 104, 104(c), Karnataka Forest Act",
+     "severity": "serious",
+     "severity_basis": "IPC 406: max 3 yrs, no serious category (borderline: 3-yr max); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Crime No 63/2011, Karnataka Lokayuktha Police Bengaluru; PCR No 27/2014; Honorable LXXXI Additional City Civil & Sessions Judge Bengaluru CCH -82; charges not framed; pending"
+    },
+    {
+     "ipc_sections": "IPC 420, 465, 467, 468, 120B, 511; Section 13(1)(d) of Prevention of Corruption Act and Section 21(2) and 23 of MMRD Act.",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); IPC 467: max punishment life imprisonment (>5); IPC 468: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Crime No 16/2014, Special Investigation Team, Lokayuktha; Honorable LXXXI Additional City Civil & Sessions Judge Bengaluru CCH -82; charges not framed; pending"
+    },
+    {
+     "ipc_sections": "IPC 409, 418, 420, 120B, 34; Section 13(1)(c), 13(1)(d), 13(2) of Prevention of Corruption Act and Section 3 & 4 of Karnataka Land (Restriction and Transfer) Act.",
+     "severity": "serious",
+     "severity_basis": "IPC 409: max punishment life imprisonment (>5); IPC 420: max punishment 7 years (>5); Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "Crime No 27/2015, Karnataka Lokayuktha Police, Bengaluru; Honorable LXXXI Additional City Civil & Sessions Judge Bengaluru CCH -82; charges not framed; pending"
+    }
+   ],
+   "education": "Graduate — Bachelor of Science 1978 - 79 National College Jayanagar Bangalore University",
+   "assets_current_inr": 2172328789,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2651",
+   "notes": "Crime-O-Meter shows 3 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "H D Kumaraswamy"
+  },
+  {
+   "name": "Yaduveer Krishnadatta Chamaraja Wadiyar",
+   "constituency": "Mysore",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — B.A. From (Double Major in Economics & English) from University of Amherst Massachusetts, USA In 2015",
+   "assets_current_inr": 94688187,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1900",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "G. Kumar Naik",
+   "constituency": "Raichur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — Bachelor Of Engineering, Civil, University Of Vishveshvaraya College Of Engineering, Bengaluru, 1985",
+   "assets_current_inr": 334128505,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3585",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate.",
+   "myneta_name": "G Kumar Naik"
+  },
+  {
+   "name": "B. Y. Raghavendra",
+   "constituency": "Shimoga",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 171F; Section 125 of Representation of the People Act and Section 7 of Religious Institutions (Prevention of Misuse) Act 1988",
+     "severity": "serious",
+     "severity_basis": "IPC 171F: electoral offence; RP Act provision below Sec 8 (borderline)",
+     "case_description": "Cr.No.0124/2024, Dated 23-03-2024, Chitradurga Rural Police Station, Chitradurga; 1st Addl. Civil Judge(Jr.Dn) & JMFC Court, Chitradurga Dist. Chitradurga; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "Graduate — BBM- Bachelor of Business Management from Kuvempu University April 1994",
+   "assets_current_inr": 737145310,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4005",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "B Y Raghavendra"
+  },
+  {
+   "name": "V. Somanna",
+   "constituency": "Tumkur",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "U/S 13(1)(b)(d) & (e) R/W Sec. 13(2) of PC Act",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act: loss to exchequer/corruption",
+     "case_description": "PCR No.31/2013; Honble LXXXI Additional City Civil & Session Judge, Bengaluru City; charges not framed; pending; appeal filed"
+    }
+   ],
+   "education": "Graduate — B.A , V V puram Evening college Visvesvarapuram, Bengaluru. 1971-72 to 1973-74.",
+   "assets_current_inr": 607805215,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1904",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate; the split here is a mechanical application of ADR criteria to the sections listed.",
+   "myneta_name": "V Somanna"
+  },
+  {
+   "name": "Kota Srinivas Poojary",
+   "constituency": "Udupi Chikmagalur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "5th Pass — 7th Standard Shambhavi School Gilliyaru",
+   "assets_current_inr": 29470510,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2323",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Vishweshwar Hegde Kageri",
+   "constituency": "Uttara Kannada",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — B. Com from Karnataka College, Dharwad, Karnataka University 1982",
+   "assets_current_inr": 167409004,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3407",
+   "myneta_name": "Hegde Vishweshwar",
+   "notes": "Page states 'No criminal cases' (Crime-O-Meter). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  }
+ ],
+ "collected_at": "2026-10-24",
+ "adr_serious_criteria": "Per ADR, \"serious criminal cases\" are: offences for which the maximum punishment is of five years or more; non-bailable offences; electoral offences (e.g. IPC Section 171E or bribery); offences related to losses to the exchequer; assault, murder, kidnap, or rape-related offences; those mentioned in Representation of the People Act (Section 8); offences under the Prevention of Corruption Act; and crimes against women.",
+ "adr_serious_criteria_source": "http://adrindia.org/node/91396",
+ "severity_method": "Serious/non-serious applied from ADR's published 'serious criminal cases' criteria (5+ years max punishment; electoral offences; corruption/loss to exchequer; heinous categories incl. murder/attempt/rape/kidnap; SC/ST POA Act; crimes against women) to the IPC/statute sections listed in each affidavit. myneta.info does not publish ADR's own per-candidate split, so this is a transparent mechanical application, not ADR's official label. Borderline calls are noted per charge. All cases are declared/pending unless stated convicted; none of this implies guilt."
+}

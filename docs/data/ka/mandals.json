@@ -1,0 +1,1944 @@
+{
+ "mandals": [
+  {
+   "ac_slug": "nippani",
+   "district": "Belagavi",
+   "mandal": "Nippani",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "chikkodi-sadalga",
+   "district": "Belagavi",
+   "mandal": "Chikkodi",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "athani",
+   "district": "Belagavi",
+   "mandal": "Athani",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "kagwad",
+   "district": "Belagavi",
+   "mandal": "Kagwad",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "kudachi-sc",
+   "district": "Belagavi",
+   "mandal": "Raibag",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "raibag-sc",
+   "district": "Belagavi",
+   "mandal": "Raibag",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "hukkeri",
+   "district": "Belagavi",
+   "mandal": "Hukkeri",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "arabhavi",
+   "district": "Belagavi",
+   "mandal": "Gokak",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "gokak",
+   "district": "Belagavi",
+   "mandal": "Gokak",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "yemkanmardi-st",
+   "district": "Belagavi",
+   "mandal": "Yemkanmardi",
+   "pc": "Chikkodi",
+   "pc_slug": "chikkodi"
+  },
+  {
+   "ac_slug": "belgaum-uttar",
+   "district": "Belagavi",
+   "mandal": "Belagavi",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "belgaum-dakshin",
+   "district": "Belagavi",
+   "mandal": "Belagavi",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "belgaum-rural",
+   "district": "Belagavi",
+   "mandal": "Belagavi",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "khanapur",
+   "district": "Belagavi",
+   "mandal": "Khanapur",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "kittur",
+   "district": "Belagavi",
+   "mandal": "Kittur",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "bailhongal",
+   "district": "Belagavi",
+   "mandal": "Bailhongal",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "saundatti-yellamma",
+   "district": "Belagavi",
+   "mandal": "Saundatti",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "ramdurg",
+   "district": "Belagavi",
+   "mandal": "Ramdurg",
+   "pc": "Belgaum",
+   "pc_slug": "belgaum"
+  },
+  {
+   "ac_slug": "mudhol-sc",
+   "district": "Bagalkot",
+   "mandal": "Mudhol",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "terdal",
+   "district": "Bagalkot",
+   "mandal": "Rabkavi Banhatti",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "jamkhandi",
+   "district": "Bagalkot",
+   "mandal": "Jamkhandi",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "bilgi",
+   "district": "Bagalkot",
+   "mandal": "Bilgi",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "badami",
+   "district": "Bagalkot",
+   "mandal": "Badami",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "badami",
+   "district": "Bagalkot",
+   "mandal": "Guledgudda",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "bagalkot",
+   "district": "Bagalkot",
+   "mandal": "Bagalkote",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "hungund",
+   "district": "Bagalkot",
+   "mandal": "Hungund",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "hungund",
+   "district": "Bagalkot",
+   "mandal": "Ilkal",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "muddebihal",
+   "district": "Vijayapura",
+   "mandal": "Muddebihal",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "muddebihal",
+   "district": "Vijayapura",
+   "mandal": "Talikoti",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "devar-hippargi",
+   "district": "Vijayapura",
+   "mandal": "Devara Hipparagi",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "basavana-bagevadi",
+   "district": "Vijayapura",
+   "mandal": "Basavana Bagewadi",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "basavana-bagevadi",
+   "district": "Vijayapura",
+   "mandal": "Kolhar",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "basavana-bagevadi",
+   "district": "Vijayapura",
+   "mandal": "Nidagundi",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "babaleshwar",
+   "district": "Vijayapura",
+   "mandal": "Babaleshwar",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "bijapur-city",
+   "district": "Vijayapura",
+   "mandal": "Vijayapura",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "nagathan-sc",
+   "district": "Vijayapura",
+   "mandal": "Nagathan",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "indi",
+   "district": "Vijayapura",
+   "mandal": "Indi",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "indi",
+   "district": "Vijayapura",
+   "mandal": "Chadachan",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "sindagi",
+   "district": "Vijayapura",
+   "mandal": "Sindagi",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "sindagi",
+   "district": "Vijayapura",
+   "mandal": "Almel",
+   "pc": "Bijapur",
+   "pc_slug": "bijapur"
+  },
+  {
+   "ac_slug": "afzalpur",
+   "district": "Kalaburagi",
+   "mandal": "Afzalpur",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "jevargi",
+   "district": "Kalaburagi",
+   "mandal": "Jevargi",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "jevargi",
+   "district": "Kalaburagi",
+   "mandal": "Yedrami",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "shorapur-st",
+   "district": "Yadgir",
+   "mandal": "Shorapur",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "shorapur-st",
+   "district": "Yadgir",
+   "mandal": "Hunasagi",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "shahapur",
+   "district": "Yadgir",
+   "mandal": "Shahapur",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "shahapur",
+   "district": "Yadgir",
+   "mandal": "Wadgera",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "yadgir",
+   "district": "Yadgir",
+   "mandal": "Yadgir",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "gurmitkal",
+   "district": "Yadgir",
+   "mandal": "Gurmitkal",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "chittapur-sc",
+   "district": "Kalaburagi",
+   "mandal": "Chittapur",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "chittapur-sc",
+   "district": "Kalaburagi",
+   "mandal": "Kalgi",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "chittapur-sc",
+   "district": "Kalaburagi",
+   "mandal": "Shahabad",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "sedam",
+   "district": "Kalaburagi",
+   "mandal": "Sedam",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "chincholi-sc",
+   "district": "Kalaburagi",
+   "mandal": "Chincholi",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "gulbarga-rural-sc",
+   "district": "Kalaburagi",
+   "mandal": "Kalaburagi",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "gulbarga-dakshin",
+   "district": "Kalaburagi",
+   "mandal": "Kalaburagi",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "gulbarga-uttar",
+   "district": "Kalaburagi",
+   "mandal": "Kalaburagi",
+   "pc": "Gulbarga",
+   "pc_slug": "gulbarga"
+  },
+  {
+   "ac_slug": "aland",
+   "district": "Kalaburagi",
+   "mandal": "Aland",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "basavakalyan",
+   "district": "Bidar",
+   "mandal": "Basavakalyan",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "basavakalyan",
+   "district": "Bidar",
+   "mandal": "Hulsoor",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "humnabad",
+   "district": "Bidar",
+   "mandal": "Humnabad",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "humnabad",
+   "district": "Bidar",
+   "mandal": "Chitaguppa",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "bidar-south",
+   "district": "Bidar",
+   "mandal": "Bidar",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "bidar",
+   "district": "Bidar",
+   "mandal": "Bidar",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "bhalki",
+   "district": "Bidar",
+   "mandal": "Bhalki",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "aurad-sc",
+   "district": "Bidar",
+   "mandal": "Aurad",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "aurad-sc",
+   "district": "Bidar",
+   "mandal": "Kamalnagar",
+   "pc": "Bidar",
+   "pc_slug": "bidar"
+  },
+  {
+   "ac_slug": "raichur-rural-st",
+   "district": "Raichur",
+   "mandal": "Raichur",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "raichur",
+   "district": "Raichur",
+   "mandal": "Raichur",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "manvi-st",
+   "district": "Raichur",
+   "mandal": "Manvi",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "manvi-st",
+   "district": "Raichur",
+   "mandal": "Sirwar",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "devadurga-st",
+   "district": "Raichur",
+   "mandal": "Devadurga",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "lingsugur-sc",
+   "district": "Raichur",
+   "mandal": "Lingsugur",
+   "pc": "Raichur",
+   "pc_slug": "raichur"
+  },
+  {
+   "ac_slug": "sindhanur",
+   "district": "Raichur",
+   "mandal": "Sindhanur",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "maski-st",
+   "district": "Raichur",
+   "mandal": "Maski",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "kushtagi",
+   "district": "Koppal",
+   "mandal": "Kushtagi",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "kanakagiri-sc",
+   "district": "Koppal",
+   "mandal": "Kanakagiri",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "gangawati",
+   "district": "Koppal",
+   "mandal": "Gangawati",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "gangawati",
+   "district": "Koppal",
+   "mandal": "Karatagi",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "yelburga",
+   "district": "Koppal",
+   "mandal": "Yelburga",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "yelburga",
+   "district": "Koppal",
+   "mandal": "Kukanoor",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "koppal",
+   "district": "Koppal",
+   "mandal": "Koppal",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "shirahatti-sc",
+   "district": "Gadag",
+   "mandal": "Shirahatti",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "shirahatti-sc",
+   "district": "Gadag",
+   "mandal": "Laxmeshwar",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "gadag",
+   "district": "Gadag",
+   "mandal": "Gadag",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "gadag",
+   "district": "Gadag",
+   "mandal": "Mundargi",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "ron",
+   "district": "Gadag",
+   "mandal": "Ron",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "ron",
+   "district": "Gadag",
+   "mandal": "Gajendragad",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "nargund",
+   "district": "Gadag",
+   "mandal": "Nargund",
+   "pc": "Bagalkot",
+   "pc_slug": "bagalkot"
+  },
+  {
+   "ac_slug": "navalgund",
+   "district": "Dharwad",
+   "mandal": "Navalgund",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "navalgund",
+   "district": "Dharwad",
+   "mandal": "Annigeri",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "kundgol",
+   "district": "Dharwad",
+   "mandal": "Kundgol",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "dharwad",
+   "district": "Dharwad",
+   "mandal": "Dharwad",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "dharwad",
+   "district": "Dharwad",
+   "mandal": "Alnavar",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "hubli-dharwad-east-sc",
+   "district": "Dharwad",
+   "mandal": "Hubballi",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "hubli-dharwad-central",
+   "district": "Dharwad",
+   "mandal": "Hubballi",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "hubli-dharwad-west",
+   "district": "Dharwad",
+   "mandal": "Hubballi",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "kalghatgi",
+   "district": "Dharwad",
+   "mandal": "Kalghatgi",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "haliyal",
+   "district": "Uttara Kannada",
+   "mandal": "Haliyal",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "haliyal",
+   "district": "Uttara Kannada",
+   "mandal": "Dandeli",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "haliyal",
+   "district": "Uttara Kannada",
+   "mandal": "Supa",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "karwar",
+   "district": "Uttara Kannada",
+   "mandal": "Karwar",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "karwar",
+   "district": "Uttara Kannada",
+   "mandal": "Ankola",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "kumta",
+   "district": "Uttara Kannada",
+   "mandal": "Kumta",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "bhatkal",
+   "district": "Uttara Kannada",
+   "mandal": "Bhatkal",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "bhatkal",
+   "district": "Uttara Kannada",
+   "mandal": "Honnavar",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "sirsi",
+   "district": "Uttara Kannada",
+   "mandal": "Sirsi",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "sirsi",
+   "district": "Uttara Kannada",
+   "mandal": "Siddapur",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "yellapur",
+   "district": "Uttara Kannada",
+   "mandal": "Yellapur",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "yellapur",
+   "district": "Uttara Kannada",
+   "mandal": "Mundgod",
+   "pc": "Uttara Kannada",
+   "pc_slug": "uttara-kannada"
+  },
+  {
+   "ac_slug": "hangal",
+   "district": "Haveri",
+   "mandal": "Hangal",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "shiggaon",
+   "district": "Haveri",
+   "mandal": "Shiggaon",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "shiggaon",
+   "district": "Haveri",
+   "mandal": "Savanur",
+   "pc": "Dharwad",
+   "pc_slug": "dharwad"
+  },
+  {
+   "ac_slug": "haveri-sc",
+   "district": "Haveri",
+   "mandal": "Haveri",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "byadgi",
+   "district": "Haveri",
+   "mandal": "Byadgi",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "hirekerur",
+   "district": "Haveri",
+   "mandal": "Hirekerur",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "hirekerur",
+   "district": "Haveri",
+   "mandal": "Rattihalli",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "ranebennur",
+   "district": "Haveri",
+   "mandal": "Ranebennur",
+   "pc": "Haveri",
+   "pc_slug": "haveri"
+  },
+  {
+   "ac_slug": "hoovina-hadagali-sc",
+   "district": "Vijayanagara",
+   "mandal": "Hoovina Hadagali",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "hagaribommanahalli-sc",
+   "district": "Vijayanagara",
+   "mandal": "Hagaribommanahalli",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "vijayanagara",
+   "district": "Vijayanagara",
+   "mandal": "Hospet",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "kampli-st",
+   "district": "Ballari",
+   "mandal": "Kampli",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "siruguppa-st",
+   "district": "Ballari",
+   "mandal": "Siruguppa",
+   "pc": "Koppal",
+   "pc_slug": "koppal"
+  },
+  {
+   "ac_slug": "bellary-rural-st",
+   "district": "Ballari",
+   "mandal": "Ballari",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "bellary-city",
+   "district": "Ballari",
+   "mandal": "Ballari",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "sandur-st",
+   "district": "Ballari",
+   "mandal": "Sandur",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "kudligi-st",
+   "district": "Vijayanagara",
+   "mandal": "Kudligi",
+   "pc": "Bellary",
+   "pc_slug": "bellary"
+  },
+  {
+   "ac_slug": "molakalmuru-st",
+   "district": "Chitradurga",
+   "mandal": "Molakalmuru",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "challakere-st",
+   "district": "Chitradurga",
+   "mandal": "Challakere",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "chitradurga",
+   "district": "Chitradurga",
+   "mandal": "Chitradurga",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "hiriyur",
+   "district": "Chitradurga",
+   "mandal": "Hiriyur",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "hosadurga",
+   "district": "Chitradurga",
+   "mandal": "Hosadurga",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "holalkere-sc",
+   "district": "Chitradurga",
+   "mandal": "Holalkere",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "jagalur-st",
+   "district": "Davanagere",
+   "mandal": "Jagalur",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "harapanahalli",
+   "district": "Vijayanagara",
+   "mandal": "Harapanahalli",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "harihar",
+   "district": "Davanagere",
+   "mandal": "Harihar",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "davanagere-north",
+   "district": "Davanagere",
+   "mandal": "Davanagere",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "davanagere-south",
+   "district": "Davanagere",
+   "mandal": "Davanagere",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "mayakonda-sc",
+   "district": "Davanagere",
+   "mandal": "Davanagere",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "channagiri",
+   "district": "Davanagere",
+   "mandal": "Channagiri",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "honnali",
+   "district": "Davanagere",
+   "mandal": "Honnali",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "honnali",
+   "district": "Davanagere",
+   "mandal": "Nyamathi",
+   "pc": "Davanagere",
+   "pc_slug": "davanagere"
+  },
+  {
+   "ac_slug": "shimoga-rural-sc",
+   "district": "Shivamogga",
+   "mandal": "Shimoga",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "bhadravati",
+   "district": "Shivamogga",
+   "mandal": "Bhadravati",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "shimoga",
+   "district": "Shivamogga",
+   "mandal": "Shimoga",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "tirthahalli",
+   "district": "Shivamogga",
+   "mandal": "Thirthahalli",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "shikaripura",
+   "district": "Shivamogga",
+   "mandal": "Shikaripura",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "sorab",
+   "district": "Shivamogga",
+   "mandal": "Sorab",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "sagar",
+   "district": "Shivamogga",
+   "mandal": "Sagar",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "sagar",
+   "district": "Shivamogga",
+   "mandal": "Hosanagara",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "byndoor",
+   "district": "Udupi",
+   "mandal": "Byndoor",
+   "pc": "Shimoga",
+   "pc_slug": "shimoga"
+  },
+  {
+   "ac_slug": "kundapura",
+   "district": "Udupi",
+   "mandal": "Kundapura",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "udupi",
+   "district": "Udupi",
+   "mandal": "Udupi",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "udupi",
+   "district": "Udupi",
+   "mandal": "Brahmavara",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "kapu",
+   "district": "Udupi",
+   "mandal": "Kaup",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "karkala",
+   "district": "Udupi",
+   "mandal": "Karkala",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "karkala",
+   "district": "Udupi",
+   "mandal": "Hebri",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "sringeri",
+   "district": "Chikkamagaluru",
+   "mandal": "Sringeri",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "sringeri",
+   "district": "Chikkamagaluru",
+   "mandal": "Koppa",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "sringeri",
+   "district": "Chikkamagaluru",
+   "mandal": "Narasimharajapura",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "mudigere-sc",
+   "district": "Chikkamagaluru",
+   "mandal": "Mudigere",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "mudigere-sc",
+   "district": "Chikkamagaluru",
+   "mandal": "Kalasa",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "chikmagalur",
+   "district": "Chikkamagaluru",
+   "mandal": "Chikmagalur",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "tarikere",
+   "district": "Chikkamagaluru",
+   "mandal": "Tarikere",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "tarikere",
+   "district": "Chikkamagaluru",
+   "mandal": "Ajjampura",
+   "pc": "Udupi Chikmagalur",
+   "pc_slug": "udupi-chikmagalur"
+  },
+  {
+   "ac_slug": "kadur",
+   "district": "Chikkamagaluru",
+   "mandal": "Kadur",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "chiknayakanhalli",
+   "district": "Tumakuru",
+   "mandal": "Chikkanayakanahalli",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "tiptur",
+   "district": "Tumakuru",
+   "mandal": "Tiptur",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "turuvekere",
+   "district": "Tumakuru",
+   "mandal": "Turuvekere",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "kunigal",
+   "district": "Tumakuru",
+   "mandal": "Kunigal",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "tumkur-city",
+   "district": "Tumakuru",
+   "mandal": "Tumakuru",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "tumkur-rural",
+   "district": "Tumakuru",
+   "mandal": "Tumakuru",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "koratagere-sc",
+   "district": "Tumakuru",
+   "mandal": "Koratagere",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "gubbi",
+   "district": "Tumakuru",
+   "mandal": "Gubbi",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "sira",
+   "district": "Tumakuru",
+   "mandal": "Sira",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "pavagada-sc",
+   "district": "Tumakuru",
+   "mandal": "Pavagada",
+   "pc": "Chitradurga",
+   "pc_slug": "chitradurga"
+  },
+  {
+   "ac_slug": "madhugiri",
+   "district": "Tumakuru",
+   "mandal": "Madhugiri",
+   "pc": "Tumkur",
+   "pc_slug": "tumkur"
+  },
+  {
+   "ac_slug": "gauribidanur",
+   "district": "Chikkaballapur",
+   "mandal": "Gauribidanur",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "gauribidanur",
+   "district": "Chikkaballapur",
+   "mandal": "Manchenahalli",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "bagepalli",
+   "district": "Chikkaballapur",
+   "mandal": "Bagepalli",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "bagepalli",
+   "district": "Chikkaballapur",
+   "mandal": "Chelur",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "chikkaballapur",
+   "district": "Chikkaballapur",
+   "mandal": "Chikkaballapura",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "sidlaghatta",
+   "district": "Chikkaballapur",
+   "mandal": "Sidlaghatta",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "chintamani",
+   "district": "Chikkaballapur",
+   "mandal": "Chintamani",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "srinivaspur",
+   "district": "Kolar",
+   "mandal": "Srinivaspur",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "mulbagal-sc",
+   "district": "Kolar",
+   "mandal": "Mulbagal",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "kolar-gold-field-sc",
+   "district": "Kolar",
+   "mandal": "Kolar Gold Field",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "bangarapet-sc",
+   "district": "Kolar",
+   "mandal": "Bangarapet",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "kolar",
+   "district": "Kolar",
+   "mandal": "Kolar",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "malur",
+   "district": "Kolar",
+   "mandal": "Malur",
+   "pc": "Kolar",
+   "pc_slug": "kolar"
+  },
+  {
+   "ac_slug": "yelahanka",
+   "district": "Bengaluru Urban",
+   "mandal": "Yelahanka",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "krishnarajapuram",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore East",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "byatarayanapura",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "yeshwantpur",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "rajarajeshwarinagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "dasarahalli",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "mahalakshmi-layout",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "malleshwaram",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "hebbal",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "pulakeshinagar-sc",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore North",
+   "pc_slug": "bangalore-north"
+  },
+  {
+   "ac_slug": "sarvagnanagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore East",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "c-v-raman-nagar-sc",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore East",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "shivajinagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "shanti-nagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "gandhi-nagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "rajaji-nagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore North",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "govindraj-nagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "vijay-nagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "chamrajpet",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "chickpet",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "basavanagudi",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "padmanabhanagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "b-t-m-layout",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "jayanagar",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "mahadevapura-sc",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore East",
+   "pc": "Bangalore Central",
+   "pc_slug": "bangalore-central"
+  },
+  {
+   "ac_slug": "bommanahalli",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore South",
+   "pc_slug": "bangalore-south"
+  },
+  {
+   "ac_slug": "bangalore-south",
+   "district": "Bengaluru Urban",
+   "mandal": "Bangalore South",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "anekal-sc",
+   "district": "Bengaluru Urban",
+   "mandal": "Anekal",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "hoskote",
+   "district": "Bengaluru North",
+   "mandal": "Hosakote",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "devanahalli-sc",
+   "district": "Bengaluru North",
+   "mandal": "Devanahalli",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "devanahalli-sc",
+   "district": "Bengaluru North",
+   "mandal": "Vijayapura",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "doddaballapur",
+   "district": "Bengaluru North",
+   "mandal": "Doddaballapura",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "nelamangala-sc",
+   "district": "Bengaluru North",
+   "mandal": "Nelamangala",
+   "pc": "Chikballapur",
+   "pc_slug": "chikballapur"
+  },
+  {
+   "ac_slug": "magadi",
+   "district": "Bengaluru South",
+   "mandal": "Magadi",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "ramanagara",
+   "district": "Bengaluru South",
+   "mandal": "Ramanagara",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "kanakapura",
+   "district": "Bengaluru South",
+   "mandal": "Kanakapura",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "kanakapura",
+   "district": "Bengaluru South",
+   "mandal": "Harohalli",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "channapatna",
+   "district": "Bengaluru South",
+   "mandal": "Channapatna",
+   "pc": "Bangalore Rural",
+   "pc_slug": "bangalore-rural"
+  },
+  {
+   "ac_slug": "malavalli-sc",
+   "district": "Mandya",
+   "mandal": "Malavalli",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "maddur",
+   "district": "Mandya",
+   "mandal": "Maddur",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "melukote",
+   "district": "Mandya",
+   "mandal": "Pandavapura",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "mandya",
+   "district": "Mandya",
+   "mandal": "Mandya",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "shrirangapattana",
+   "district": "Mandya",
+   "mandal": "Shrirangapattana",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "nagamangala",
+   "district": "Mandya",
+   "mandal": "Nagamangala",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "krishnarajapet",
+   "district": "Mandya",
+   "mandal": "Krishnarajapete",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "shravanabelagola",
+   "district": "Hassan",
+   "mandal": "Channarayapatna",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "arsikere",
+   "district": "Hassan",
+   "mandal": "Arsikere",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "belur",
+   "district": "Hassan",
+   "mandal": "Belur",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "hassan",
+   "district": "Hassan",
+   "mandal": "Hassan",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "holenarasipur",
+   "district": "Hassan",
+   "mandal": "Holenarasipura",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "arkalgud",
+   "district": "Hassan",
+   "mandal": "Arkalgud",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "sakleshpur-sc",
+   "district": "Hassan",
+   "mandal": "Sakleshpura",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "sakleshpur-sc",
+   "district": "Hassan",
+   "mandal": "Alur",
+   "pc": "Hassan",
+   "pc_slug": "hassan"
+  },
+  {
+   "ac_slug": "belthangady",
+   "district": "Dakshina Kannada",
+   "mandal": "Belthangady",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "moodabidri",
+   "district": "Dakshina Kannada",
+   "mandal": "Moodabidri",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "mangalore-city-north",
+   "district": "Dakshina Kannada",
+   "mandal": "Mangalore",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "mangalore-city-south",
+   "district": "Dakshina Kannada",
+   "mandal": "Mangalore",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "mangalore",
+   "district": "Dakshina Kannada",
+   "mandal": "Mangalore",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "bantval",
+   "district": "Dakshina Kannada",
+   "mandal": "Bantval",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "puttur",
+   "district": "Dakshina Kannada",
+   "mandal": "Puttur",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "sullia-sc",
+   "district": "Dakshina Kannada",
+   "mandal": "Sullia",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "sullia-sc",
+   "district": "Dakshina Kannada",
+   "mandal": "Kadaba",
+   "pc": "Dakshina Kannada",
+   "pc_slug": "dakshina-kannada"
+  },
+  {
+   "ac_slug": "madikeri",
+   "district": "Kodagu",
+   "mandal": "Madikeri",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "madikeri",
+   "district": "Kodagu",
+   "mandal": "Somvarpet",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "madikeri",
+   "district": "Kodagu",
+   "mandal": "Kushalnagar",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "virajpet",
+   "district": "Kodagu",
+   "mandal": "Virajpet",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "virajpet",
+   "district": "Kodagu",
+   "mandal": "Ponnampet",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "periyapatna",
+   "district": "Mysuru",
+   "mandal": "Periyapatna",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "krishnarajanagara",
+   "district": "Mysuru",
+   "mandal": "Krishnarajanagara",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "krishnarajanagara",
+   "district": "Mysuru",
+   "mandal": "Saligrama",
+   "pc": "Mandya",
+   "pc_slug": "mandya"
+  },
+  {
+   "ac_slug": "hunsur",
+   "district": "Mysuru",
+   "mandal": "Hunsur",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "heggadadevankote-st",
+   "district": "Mysuru",
+   "mandal": "Heggadadevankote",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "heggadadevankote-st",
+   "district": "Mysuru",
+   "mandal": "Saragur",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "nanjangud-sc",
+   "district": "Mysuru",
+   "mandal": "Nanjangud",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "chamundeshwari",
+   "district": "Mysuru",
+   "mandal": "Mysore",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "krishnaraja",
+   "district": "Mysuru",
+   "mandal": "Mysore",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "chamaraja",
+   "district": "Mysuru",
+   "mandal": "Mysore",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "narasimharaja",
+   "district": "Mysuru",
+   "mandal": "Mysore",
+   "pc": "Mysore",
+   "pc_slug": "mysore"
+  },
+  {
+   "ac_slug": "varuna",
+   "district": "Mysuru",
+   "mandal": "Mysore",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "varuna",
+   "district": "Mysuru",
+   "mandal": "T. Narasipura",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "t-narasipur-sc",
+   "district": "Mysuru",
+   "mandal": "T. Narasipura",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "hanur",
+   "district": "Chamarajanagar",
+   "mandal": "Hanur",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "kollegal-sc",
+   "district": "Chamarajanagar",
+   "mandal": "Kollegal",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "chamarajanagar",
+   "district": "Chamarajanagar",
+   "mandal": "Chamarajanagar",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "chamarajanagar",
+   "district": "Chamarajanagar",
+   "mandal": "Yelandur",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  },
+  {
+   "ac_slug": "gundlupet",
+   "district": "Chamarajanagar",
+   "mandal": "Gundlupet",
+   "pc": "Chamarajanagar",
+   "pc_slug": "chamarajanagar"
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly",
+  "https://en.wikipedia.org/wiki/Karnataka_Legislative_Assembly",
+  "https://en.wikipedia.org/wiki/Arabhavi_Assembly_constituency",
+  "https://en.wikipedia.org/wiki/Haliyal_Assembly_constituency",
+  "https://en.wikipedia.org/wiki/Sringeri_Assembly_constituency",
+  "https://en.wikipedia.org/wiki/Bhatkal_Assembly_constituency"
+ ]
+}

@@ -1,0 +1,5164 @@
+{
+ "mlas": [
+  {
+   "name": "Manappa D. Vajjal",
+   "constituency": "Lingsugur (SC)",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 307477543,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7511"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7511"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7511"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 33.73,
+     "source": "https://en.wikipedia.org/wiki/Lingsugur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 2809,
+     "source": "https://en.wikipedia.org/wiki/Lingsugur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 68.27,
+     "source": "https://en.wikipedia.org/wiki/Lingsugur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Raichur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Hampanagouda Badarli",
+   "constituency": "Sindhanur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 94013248,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8320"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8320"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8320"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.98,
+     "source": "https://en.wikipedia.org/wiki/Sindhanur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 21942,
+     "source": "https://en.wikipedia.org/wiki/Sindhanur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 73.35,
+     "source": "https://en.wikipedia.org/wiki/Sindhanur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Raichur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Basanagouda Turvihal",
+   "constituency": "Maski (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 29965452,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7554"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7554"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7554"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.76,
+     "source": "https://en.wikipedia.org/wiki/Maski_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 13053,
+     "source": "https://en.wikipedia.org/wiki/Maski_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 71.48,
+     "source": "https://en.wikipedia.org/wiki/Maski_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Raichur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Doddanagouda Hanamagouda Patil",
+   "constituency": "Kushtagi",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 38183033,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7507"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7507"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7507"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.75,
+     "source": "https://en.wikipedia.org/wiki/Kushtagi_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 9646,
+     "source": "https://en.wikipedia.org/wiki/Kushtagi_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.7,
+     "source": "https://en.wikipedia.org/wiki/Kushtagi_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Koppal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Tangadagi Shivaraj Sangappa",
+   "constituency": "Kanakagiri (SC)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 170242177,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7431"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7431"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7431"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.13,
+     "source": "https://en.wikipedia.org/wiki/Kanakagiri_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 42632,
+     "source": "https://en.wikipedia.org/wiki/Kanakagiri_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.81,
+     "source": "https://en.wikipedia.org/wiki/Kanakagiri_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Koppal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "G. Janardhana Reddy",
+   "constituency": "Gangawati",
+   "party": "Kalyana Rajya Pragathi Paksha",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2465142443,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8917"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8917"
+    },
+    "criminal_cases_declared": {
+     "value": 20,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8917"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.42,
+     "source": "https://en.wikipedia.org/wiki/Gangawati_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 8266,
+     "source": "https://en.wikipedia.org/wiki/Gangawati_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 79.14,
+     "source": "https://en.wikipedia.org/wiki/Gangawati_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Koppal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Elected in 2023 for the Kalyana Rajya Pragathi Paksha, which merged with the Bharatiya Janata Party in March 2024."
+   }
+  },
+  {
+   "name": "Basavaraj Rayareddy",
+   "constituency": "Yelburga",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 436418121,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7393"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7393"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7393"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.29,
+     "source": "https://en.wikipedia.org/wiki/Yelburga_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 17181,
+     "source": "https://en.wikipedia.org/wiki/Yelburga_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 79.3,
+     "source": "https://en.wikipedia.org/wiki/Yelburga_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Koppal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Raghavendra Hitnal",
+   "constituency": "Koppal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 146673481,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7470"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7470"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7470"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.43,
+     "source": "https://en.wikipedia.org/wiki/Koppal_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 36260,
+     "source": "https://en.wikipedia.org/wiki/Koppal_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 76.78,
+     "source": "https://en.wikipedia.org/wiki/Koppal_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Koppal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Chandru Lamani",
+   "constituency": "Shirahatti (SC)",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 61483532,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8292"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8292"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8292"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.43,
+     "source": "https://en.wikipedia.org/wiki/Shirahatti_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 28520,
+     "source": "https://en.wikipedia.org/wiki/Shirahatti_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 72.29,
+     "source": "https://en.wikipedia.org/wiki/Shirahatti_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Gadag"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "H. K. Patil",
+   "constituency": "Gadag",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 213550457,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7242"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7242"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7242"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.84,
+     "source": "https://en.wikipedia.org/wiki/Gadag_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 15130,
+     "source": "https://en.wikipedia.org/wiki/Gadag_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 76.47,
+     "source": "https://en.wikipedia.org/wiki/Gadag_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Gadag"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Gurupadagouda Patil",
+   "constituency": "Ron",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 68302000,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7659"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7659"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7659"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.24,
+     "source": "https://en.wikipedia.org/wiki/Ron_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 24688,
+     "source": "https://en.wikipedia.org/wiki/Ron_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 76.7,
+     "source": "https://en.wikipedia.org/wiki/Ron_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Gadag"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "C. C. Patil",
+   "constituency": "Nargund",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 168645182,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6877"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6877"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6877"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.48,
+     "source": "https://en.wikipedia.org/wiki/Nargund_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 1791,
+     "source": "https://en.wikipedia.org/wiki/Nargund_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 80.29,
+     "source": "https://en.wikipedia.org/wiki/Nargund_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Gadag"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "N. H. Konaraddi",
+   "constituency": "Navalgund",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 61406692,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7609"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7609"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7609"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.16,
+     "source": "https://en.wikipedia.org/wiki/Navalgund_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 22199,
+     "source": "https://en.wikipedia.org/wiki/Navalgund_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.3,
+     "source": "https://en.wikipedia.org/wiki/Navalgund_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. R. Patil",
+   "constituency": "Kundgol",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 17202932,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7499"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7499"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7499"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.07,
+     "source": "https://en.wikipedia.org/wiki/Kundgol_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 35341,
+     "source": "https://en.wikipedia.org/wiki/Kundgol_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 83.18,
+     "source": "https://en.wikipedia.org/wiki/Kundgol_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Vinay Kulkarni",
+   "constituency": "Dharwad",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 190270292,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7235"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7235"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7235"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.92,
+     "source": "https://en.wikipedia.org/wiki/Dharwad_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 18037,
+     "source": "https://en.wikipedia.org/wiki/Dharwad_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 77.42,
+     "source": "https://en.wikipedia.org/wiki/Dharwad_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Disqualified with effect from 15 April 2026 following conviction by a Bengaluru sessions court; membership restored in August 2026 after the Karnataka High Court stayed the conviction. The state's challenge was pending before the Supreme Court as of October 2026."
+   }
+  },
+  {
+   "name": "Abbayya Prasad",
+   "constituency": "Hubli-Dharwad East (SC)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 59602725,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7334"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7334"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7334"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.47,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_East_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 32370,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_East_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 71.02,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_East_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Mahesh Tenginakai",
+   "constituency": "Hubli-Dharwad Central",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 14021961,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7771"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7771"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7771"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.27,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_Central_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 34289,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_Central_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 64.64,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_Central_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Arvind Bellad",
+   "constituency": "Hubli-Dharwad West",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1065705489,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8017"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8017"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8017"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.45,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_West_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 38693,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_West_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 65.18,
+     "source": "https://en.wikipedia.org/wiki/Hubli-Dharwad_West_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Santosh Lad",
+   "constituency": "Kalghatgi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1388295352,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7428"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7428"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7428"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.86,
+     "source": "https://en.wikipedia.org/wiki/Kalghatgi_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 14357,
+     "source": "https://en.wikipedia.org/wiki/Kalghatgi_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 83.4,
+     "source": "https://en.wikipedia.org/wiki/Kalghatgi_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Dharwad"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "R. V. Deshpande",
+   "constituency": "Haliyal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 3632113405,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7284"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7284"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7284"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.08,
+     "source": "https://en.wikipedia.org/wiki/Haliyal_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 3623,
+     "source": "https://en.wikipedia.org/wiki/Haliyal_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.8,
+     "source": "https://en.wikipedia.org/wiki/Haliyal_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Uttara Kannada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Satish Krishna Sail",
+   "constituency": "Karwar",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 568440450,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7444"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7444"
+    },
+    "criminal_cases_declared": {
+     "value": 14,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7444"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.15,
+     "source": "https://en.wikipedia.org/wiki/Karwar_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 2138,
+     "source": "https://en.wikipedia.org/wiki/Karwar_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 74.84,
+     "source": "https://en.wikipedia.org/wiki/Karwar_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Uttara Kannada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Dinakar Keshav Shetty",
+   "constituency": "Kumta",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 43906516,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7491"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7491"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7491"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.37,
+     "source": "https://en.wikipedia.org/wiki/Kumta_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 676,
+     "source": "https://en.wikipedia.org/wiki/Kumta_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.8,
+     "source": "https://en.wikipedia.org/wiki/Kumta_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Uttara Kannada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Mankala Vaidya",
+   "constituency": "Bhatkal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 642419070,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7147"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7147"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7147"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.45,
+     "source": "https://en.wikipedia.org/wiki/Bhatkal_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 32671,
+     "source": "https://en.wikipedia.org/wiki/Bhatkal_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.59,
+     "source": "https://en.wikipedia.org/wiki/Bhatkal_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Uttara Kannada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Bhimanna T. Naik",
+   "constituency": "Sirsi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1229747533,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7346"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7346"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7346"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.89,
+     "source": "https://en.wikipedia.org/wiki/Sirsi_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 8712,
+     "source": "https://en.wikipedia.org/wiki/Sirsi_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 80.16,
+     "source": "https://en.wikipedia.org/wiki/Sirsi_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Uttara Kannada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Arbail Shivaram Hebbar",
+   "constituency": "Yellapur",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 212788863,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7394"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7394"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7394"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.69,
+     "source": "https://en.wikipedia.org/wiki/Yellapur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 4004,
+     "source": "https://en.wikipedia.org/wiki/Yellapur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 82.49,
+     "source": "https://en.wikipedia.org/wiki/Yellapur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Uttara Kannada"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Expelled from the Bharatiya Janata Party in May 2025; sits as an independent. Party shown is the party under which he was elected in 2023."
+   }
+  },
+  {
+   "name": "Srinivas Mane",
+   "constituency": "Hangal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 101433096,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7286"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7286"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7286"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.76,
+     "source": "https://en.wikipedia.org/wiki/Hangal_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 21945,
+     "source": "https://en.wikipedia.org/wiki/Hangal_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 84.64,
+     "source": "https://en.wikipedia.org/wiki/Hangal_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Haveri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Yasir Ahmed Khan Pathan",
+   "constituency": "Shiggaon",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 30473731,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9563"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9563"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9563"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.64,
+     "source": "https://en.wikipedia.org/wiki/Shiggaon_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 13448,
+     "source": "https://en.wikipedia.org/wiki/Shiggaon_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 80.67,
+     "source": "https://en.wikipedia.org/wiki/Shiggaon_Assembly_constituency"
+    },
+    "group_notes": "By-election figures are ECI-published results tabulated on the Wikipedia constituency page; cross-checked against ECI-reported results in press coverage."
+   },
+   "district_context": {
+    "districts": [
+     "Haveri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Won Nov 2024 bypoll after Basavaraj Bommai resigned on election to Lok Sabha."
+   }
+  },
+  {
+   "name": "Rudrappa Lamani",
+   "constituency": "Haveri (SC)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 103682530,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6817"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6817"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6817"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.73,
+     "source": "https://en.wikipedia.org/wiki/Haveri_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 11915,
+     "source": "https://en.wikipedia.org/wiki/Haveri_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 77.92,
+     "source": "https://en.wikipedia.org/wiki/Haveri_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Haveri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Basavaraj Shivannanavar",
+   "constituency": "Byadgi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 44682045,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6789"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6789"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6789"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.58,
+     "source": "https://en.wikipedia.org/wiki/Byadgi_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 23841,
+     "source": "https://en.wikipedia.org/wiki/Byadgi_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 84.22,
+     "source": "https://en.wikipedia.org/wiki/Byadgi_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Haveri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "U. B. Banakar",
+   "constituency": "Hirekerur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 57439041,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7997"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7997"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7997"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.53,
+     "source": "https://en.wikipedia.org/wiki/Hirekerur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 15020,
+     "source": "https://en.wikipedia.org/wiki/Hirekerur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 85.85,
+     "source": "https://en.wikipedia.org/wiki/Hirekerur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Haveri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Prakash Koliwad",
+   "constituency": "Ranebennur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 646462474,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7736"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7736"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7736"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 37.21,
+     "source": "https://en.wikipedia.org/wiki/Ranibennur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 9800,
+     "source": "https://en.wikipedia.org/wiki/Ranibennur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 81.43,
+     "source": "https://en.wikipedia.org/wiki/Ranibennur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Haveri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Krishna Nayaka",
+   "constituency": "Hoovina Hadagali (SC)",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 428052937,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7974"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7974"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7974"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.81,
+     "source": "https://en.wikipedia.org/wiki/Hoovina_Hadagali_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 1444,
+     "source": "https://en.wikipedia.org/wiki/Hoovina_Hadagali_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 78.37,
+     "source": "https://en.wikipedia.org/wiki/Hoovina_Hadagali_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Vijayanagara"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Nemiraj Naik",
+   "constituency": "Hagaribommanahalli (SC)",
+   "party": "Janata Dal (Secular)",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 100109183,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8946"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8946"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8946"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.44,
+     "source": "https://en.wikipedia.org/wiki/Hagaribommanahalli_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 11344,
+     "source": "https://en.wikipedia.org/wiki/Hagaribommanahalli_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 82.79,
+     "source": "https://en.wikipedia.org/wiki/Hagaribommanahalli_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Vijayanagara"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "H. R. Gaviyappa",
+   "constituency": "Vijayanagara",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 485349735,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7385"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7385"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7385"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.99,
+     "source": "https://en.wikipedia.org/wiki/Vijayanagara_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 33723,
+     "source": "https://en.wikipedia.org/wiki/Vijayanagara_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 72.53,
+     "source": "https://en.wikipedia.org/wiki/Vijayanagara_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Vijayanagara"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "J. N. Ganesh",
+   "constituency": "Kampli (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 88965355,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8059"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8059"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8059"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.21,
+     "source": "https://en.wikipedia.org/wiki/Kampli_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 24091,
+     "source": "https://en.wikipedia.org/wiki/Kampli_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 84.88,
+     "source": "https://en.wikipedia.org/wiki/Kampli_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Ballari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "B. M. Nagaraja",
+   "constituency": "Siruguppa (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 92962608,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8330"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8330"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8330"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.05,
+     "source": "https://en.wikipedia.org/wiki/Siruguppa_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 37032,
+     "source": "https://en.wikipedia.org/wiki/Siruguppa_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 77.56,
+     "source": "https://en.wikipedia.org/wiki/Siruguppa_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Ballari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "B. Nagendra",
+   "constituency": "Bellary Rural (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 176342135,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7134"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7134"
+    },
+    "criminal_cases_declared": {
+     "value": 42,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7134"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 56.84,
+     "source": "https://en.wikipedia.org/wiki/Bellary_Rural_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 29300,
+     "source": "https://en.wikipedia.org/wiki/Bellary_Rural_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 76.7,
+     "source": "https://en.wikipedia.org/wiki/Bellary_Rural_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Ballari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Nara Bharath Reddy",
+   "constituency": "Bellary City",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 911821808,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7861"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7861"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7861"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.47,
+     "source": "https://en.wikipedia.org/wiki/Bellary_City_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 37863,
+     "source": "https://en.wikipedia.org/wiki/Bellary_City_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 69.01,
+     "source": "https://en.wikipedia.org/wiki/Bellary_City_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Ballari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "E. Annapoorna Tukaram",
+   "constituency": "Sandur (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 33671404,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9556"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9556"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=9556"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.25,
+     "source": "https://en.wikipedia.org/wiki/Sandur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 9649,
+     "source": "https://en.wikipedia.org/wiki/Sandur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 76.22,
+     "source": "https://en.wikipedia.org/wiki/Sandur_Assembly_constituency"
+    },
+    "group_notes": "By-election figures are ECI-published results tabulated on the Wikipedia constituency page; cross-checked against ECI-reported results in press coverage."
+   },
+   "district_context": {
+    "districts": [
+     "Ballari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Won Nov 2024 bypoll after E. Tukaram resigned on election to Lok Sabha."
+   }
+  },
+  {
+   "name": "N. T. Srinivas",
+   "constituency": "Kudligi (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 159229538,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7490"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7490"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7490"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 63.95,
+     "source": "https://en.wikipedia.org/wiki/Kudligi_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 54350,
+     "source": "https://en.wikipedia.org/wiki/Kudligi_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 80.4,
+     "source": "https://en.wikipedia.org/wiki/Kudligi_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Vijayanagara"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "N. Y. Gopalakrishna",
+   "constituency": "Molakalmuru (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 65063394,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7565"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7565"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7565"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.81,
+     "source": "https://en.wikipedia.org/wiki/Molakalmuru_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 22149,
+     "source": "https://en.wikipedia.org/wiki/Molakalmuru_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 83.46,
+     "source": "https://en.wikipedia.org/wiki/Molakalmuru_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Chitradurga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "T. Raghumurthy",
+   "constituency": "Challakere (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 221827134,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7890"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7890"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7890"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.16,
+     "source": "https://en.wikipedia.org/wiki/Challakere_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 16450,
+     "source": "https://en.wikipedia.org/wiki/Challakere_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 80.69,
+     "source": "https://en.wikipedia.org/wiki/Challakere_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Chitradurga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. C. Veerendra Puppy",
+   "constituency": "Chitradurga",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1348942076,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7927"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7927"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7927"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.84,
+     "source": "https://en.wikipedia.org/wiki/Chitradurga_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 53300,
+     "source": "https://en.wikipedia.org/wiki/Chitradurga_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 77.96,
+     "source": "https://en.wikipedia.org/wiki/Chitradurga_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Chitradurga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "D. Sudhakar",
+   "constituency": "Hiriyur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1356940368,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7999"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7999"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7999"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.02,
+     "source": "https://en.wikipedia.org/wiki/Hiriyur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 30322,
+     "source": "https://en.wikipedia.org/wiki/Hiriyur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 82.17,
+     "source": "https://en.wikipedia.org/wiki/Hiriyur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Chitradurga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Died on 10 May 2026; the seat was vacant as of 24 October 2026 with the bypoll awaited. Entry records the last elected MLA."
+   }
+  },
+  {
+   "name": "B. G. Govindappa",
+   "constituency": "Hosadurga",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 29098000,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6985"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6985"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6985"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.36,
+     "source": "https://en.wikipedia.org/wiki/Hosadurga_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 32816,
+     "source": "https://en.wikipedia.org/wiki/Hosadurga_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 84.87,
+     "source": "https://en.wikipedia.org/wiki/Hosadurga_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Chitradurga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. Chandrappa",
+   "constituency": "Holalkere (SC)",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 257587486,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7319"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7319"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7319"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.02,
+     "source": "https://en.wikipedia.org/wiki/Holalkere_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 5682,
+     "source": "https://en.wikipedia.org/wiki/Holalkere_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 83.86,
+     "source": "https://en.wikipedia.org/wiki/Holalkere_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Chitradurga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "B. Devendrappa",
+   "constituency": "Jagalur (ST)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 21154681,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7804"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7804"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7804"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 32.44,
+     "source": "https://en.wikipedia.org/wiki/Jagalur_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 874,
+     "source": "https://en.wikipedia.org/wiki/Jagalur_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 81.19,
+     "source": "https://en.wikipedia.org/wiki/Jagalur_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Latha Mallikarjun",
+   "constituency": "Harapanahalli",
+   "party": "Independent",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 72929747,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8971"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8971"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=8971"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.56,
+     "source": "https://en.wikipedia.org/wiki/Harapanahalli_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 13845,
+     "source": "https://en.wikipedia.org/wiki/Harapanahalli_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 81.8,
+     "source": "https://en.wikipedia.org/wiki/Harapanahalli_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Vijayanagara"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Elected as an Independent in 2023; later joined the Indian National Congress."
+   }
+  },
+  {
+   "name": "B. P. Harish",
+   "constituency": "Harihar",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 57339331,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7799"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7799"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7799"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 37.94,
+     "source": "https://en.wikipedia.org/wiki/Harihar_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 4304,
+     "source": "https://en.wikipedia.org/wiki/Harihar_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 81.19,
+     "source": "https://en.wikipedia.org/wiki/Harihar_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. S. Mallikarjun",
+   "constituency": "Davanagere North",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1892037646,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6799"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6799"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=6799"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 56.0,
+     "source": "https://en.wikipedia.org/wiki/Davanagere_North_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 24472,
+     "source": "https://en.wikipedia.org/wiki/Davanagere_North_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 69.62,
+     "source": "https://en.wikipedia.org/wiki/Davanagere_North_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Samarth Shamanur Mallikarjun",
+   "constituency": "Davanagere South",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2026",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Won the April 2026 by-election; affidavit figures had not been published on myneta.info (ADR) as of October 2026."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.95,
+     "source": "https://en.wikipedia.org/wiki/Davanagere_South_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 5708,
+     "source": "https://en.wikipedia.org/wiki/Davanagere_South_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 68.55,
+     "source": "https://en.wikipedia.org/wiki/Davanagere_South_Assembly_constituency"
+    },
+    "group_notes": "By-election figures are ECI-published results tabulated on the Wikipedia constituency page; cross-checked against ECI-reported results in press coverage."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Won Apr 2026 bypoll (polling 9 April 2026, result 4 May 2026) after Shamanur Shivashankarappa died on 14 December 2025."
+   }
+  },
+  {
+   "name": "K. S. Basavanthappa",
+   "constituency": "Mayakonda (SC)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 10131523,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7555"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7555"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7555"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.83,
+     "source": "https://en.wikipedia.org/wiki/Mayakonda_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 33302,
+     "source": "https://en.wikipedia.org/wiki/Mayakonda_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 84.89,
+     "source": "https://en.wikipedia.org/wiki/Mayakonda_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Basavaraju V. Shivaganga",
+   "constituency": "Channagiri",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 61261704,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7898"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7898"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7898"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.03,
+     "source": "https://en.wikipedia.org/wiki/Channagiri_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 16435,
+     "source": "https://en.wikipedia.org/wiki/Channagiri_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 83.47,
+     "source": "https://en.wikipedia.org/wiki/Channagiri_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "D. G. Shanthana Gowda",
+   "constituency": "Honnali",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 203970523,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7325"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7325"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7325"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.31,
+     "source": "https://en.wikipedia.org/wiki/Honnali_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 17560,
+     "source": "https://en.wikipedia.org/wiki/Honnali_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 85.56,
+     "source": "https://en.wikipedia.org/wiki/Honnali_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Davanagere"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Sharada Puryanaik",
+   "constituency": "Shimoga Rural (SC)",
+   "party": "Janata Dal (Secular)",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 30098390,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7706"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7706"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7706"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.74,
+     "source": "https://en.wikipedia.org/wiki/Shimoga_Rural_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 15142,
+     "source": "https://en.wikipedia.org/wiki/Shimoga_Rural_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 85.17,
+     "source": "https://en.wikipedia.org/wiki/Shimoga_Rural_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Shivamogga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "B. K. Sangameshwara",
+   "constituency": "Bhadravati",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2023",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislative Assembly publishes no per-MLA attendance, questions, or debates data."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": 20000000,
+     "source": "https://archive.citykemp.com/2018/03/03/mlalad-fund-utilization-report-of-27-bengaluru-assembly-constituencies/"
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Karnataka Legislators' Local Area Development Scheme (KLLADS) allocates Rs 2 crore per MLA constituency per year. Karnataka publishes no per-MLA utilisation or works data publicly."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 69748411,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7866"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7866"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/karnataka2023/candidate.php?candidate_id=7866"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR). Charge-level details not yet compiled for MLAs."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 42.63,
+     "source": "https://en.wikipedia.org/wiki/Bhadravati_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 2705,
+     "source": "https://en.wikipedia.org/wiki/Bhadravati_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 73.22,
+     "source": "https://en.wikipedia.org/wiki/Bhadravati_Assembly_constituency"
+    },
+    "group_notes": "Winner, vote share and margin are ECI-published figures tabulated on the Wikipedia constituency page (ECI's results.eci.gov.in per-AC pages are offline as of Oct 2026); cross-checked against myneta/ADR winner data. Turnout is the ECI figure tabulated on the same page."
+   },
+   "district_context": {
+    "districts": [
+     "Shivamogga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Karnataka_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  }
+ ]
+}

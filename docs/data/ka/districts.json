@@ -1,0 +1,2590 @@
+{
+ "districts": [
+  {
+   "name": "Bagalkot",
+   "name_local": "ಬಾಗಲಕೋಟೆ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 68.82,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 95.2,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 48.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 3130,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 249478,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 116.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 22.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Ballari",
+   "name_local": "ಬಳ್ಳಾರಿ",
+   "indicators": {
+    "literacy_pct": {
+     "value": null,
+     "year": 2011,
+     "source": null,
+     "reason": "Census 2011 (latest census) published a literacy figure only for the pre-2021 district geography; no official literacy figure has been published for the current district boundaries."
+    },
+    "institutional_births_pct": {
+     "value": 95.7,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Pre-split district geography (NFHS-5, 2019-20): Ballari district as surveyed included the area that became Vijayanagara district in 2021."
+    },
+    "stunting_under5_pct": {
+     "value": 36.1,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Pre-split district geography (NFHS-5, 2019-20): Ballari district as surveyed included the area that became Vijayanagara district in 2021."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 220,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 293985,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 127.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 22.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": "Vijayanagara district was carved out of Ballari in 2021 (notified 18 Nov 2020; inaugurated 2 Oct 2021). NFHS-5 and Census 2011 figures predate the split; see indicator notes."
+  },
+  {
+   "name": "Belagavi",
+   "name_local": "ಬೆಳಗಾವಿ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 73.48,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 97.5,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 32.8,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 553,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 162987,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 134.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000. Sum of Belagavi District and Belagavi City police units. The source dataset also files the K.G.F. police unit (Kolar district) under Belagavi; it is counted under Kolar here."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 24.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Bengaluru North",
+   "name_local": "ಬೆಂಗಳೂರು ಉತ್ತರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 77.93,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Reported as 'Bangalore Rural' in NFHS-5; the district was renamed Bengaluru North in 2025 (boundaries unchanged)."
+    },
+    "stunting_under5_pct": {
+     "value": 36.6,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Reported as 'Bangalore Rural' in NFHS-5; the district was renamed Bengaluru North in 2025 (boundaries unchanged)."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 156,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25. Listed as 'Bengaluru Rural' in the annexure (pre-rename name)."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 404138,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication). Listed as 'Bangalore Rural' in the survey tables (pre-rename name)."
+    },
+    "crime_rate_per_lakh": {
+     "value": null,
+     "year": "2022",
+     "source": null,
+     "reason": "NCRB 'Crime in India' districtwise data for 2022 has no separate row for Bengaluru Rural (now Bengaluru North) district; its cases are not reported as a distinct district unit in the published districtwise table, so no rate is computed."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": null,
+     "year": "2022",
+     "source": null,
+     "reason": "NCRB 'Crime in India' districtwise data for 2022 has no separate row for Bengaluru Rural (now Bengaluru North) district; its cases are not reported as a distinct district unit in the published districtwise table, so no rate is computed."
+    }
+   },
+   "notes": "Renamed from Bengaluru Rural in 2025 (Karnataka Cabinet approval, 2 July 2025); boundaries unchanged. Pre-2025 sources report this district as Bengaluru Rural / Bangalore Rural."
+  },
+  {
+   "name": "Bengaluru Urban",
+   "name_local": "ಬೆಂಗಳೂರು ನಗರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 87.67,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 31.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 207,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25. Listed as 'Bengaluru' in the annexure."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 738910,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 360.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000. NCRB reports Bengaluru as two units (Bengaluru City and Bengaluru District), summed here; the statewide Karnataka Railways unit is excluded."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 41.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Bidar",
+   "name_local": "ಬೀದರ್",
+   "indicators": {
+    "literacy_pct": {
+     "value": 70.51,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 36.8,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 2848,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 163298,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 184.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 22.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Chamarajanagar",
+   "name_local": "ಚಾಮರಾಜನಗರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 61.43,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 32.2,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1038,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 259387,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 167.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 36.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Chikkaballapur",
+   "name_local": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 69.76,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 31.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 133,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 231154,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 205.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 35.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Chikkamagaluru",
+   "name_local": "ಚಿಕ್ಕಮಗಳೂರು",
+   "indicators": {
+    "literacy_pct": {
+     "value": 79.25,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 98.4,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 27.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 694,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 444472,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 242.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 48.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Chitradurga",
+   "name_local": "ಚಿತ್ರದುರ್ಗ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 73.71,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 98.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 36.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 53,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 198950,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 244.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 58.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Dakshina Kannada",
+   "name_local": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 88.57,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 25.1,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1187,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 556059,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 181.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 22.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Davanagere",
+   "name_local": "ದಾವಣಗೆರೆ",
+   "indicators": {
+    "literacy_pct": {
+     "value": null,
+     "year": 2011,
+     "source": null,
+     "reason": "Census 2011 (latest census) published a literacy figure only for the pre-2021 district geography; no official literacy figure has been published for the current district boundaries."
+    },
+    "institutional_births_pct": {
+     "value": 98.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Pre-2021 district geography (NFHS-5, 2019-20): includes Harapanahalli taluk, transferred to Vijayanagara district in 2021."
+    },
+    "stunting_under5_pct": {
+     "value": 38.4,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Pre-2021 district geography (NFHS-5, 2019-20): includes Harapanahalli taluk, transferred to Vijayanagara district in 2021."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1024,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 209655,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 206.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 37.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": "Harapanahalli taluk was transferred from Davanagere to the new Vijayanagara district in 2021. NFHS-5 figures are for the pre-transfer geography; see indicator notes."
+  },
+  {
+   "name": "Dharwad",
+   "name_local": "ಧಾರವಾಡ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 80.0,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.7,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 45.2,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1387,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 261563,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 173.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 27.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Gadag",
+   "name_local": "ಗದಗ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 75.12,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 96.2,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 45.2,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 230,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 194453,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 99.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 17.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Hassan",
+   "name_local": "ಹಾಸನ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 76.07,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 27.1,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 2,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 294272,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 261.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 38.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Haveri",
+   "name_local": "ಹಾವೇರಿ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 77.4,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 97.2,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 29.9,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 7,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 184111,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 150.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 21.2,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Kalaburagi",
+   "name_local": "ಕಲಬುರಗಿ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 64.85,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 88.7,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 34.5,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 195,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 143610,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 164.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 27.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Kodagu",
+   "name_local": "ಕೊಡಗು",
+   "indicators": {
+    "literacy_pct": {
+     "value": 82.61,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 98.4,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 30.4,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1167,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 294898,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 244.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 30.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Kolar",
+   "name_local": "ಕೋಲಾರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 74.39,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.6,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 31.1,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 267,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 215255,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 213.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000. Includes the K.G.F. (Kolar Gold Fields) police unit, which lies in Kolar district; the source dataset files that row under Belagavi."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 30.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Koppal",
+   "name_local": "ಕೊಪ್ಪಳ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 68.09,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 90.7,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 49.1,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 6,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 161491,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 156.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 31.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Mandya",
+   "name_local": "ಮಂಡ್ಯ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 70.4,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.5,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 24.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 42,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 306448,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 267.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 50.4,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Mysuru",
+   "name_local": "ಮೈಸೂರು",
+   "indicators": {
+    "literacy_pct": {
+     "value": 72.79,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 27.5,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 497,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 239296,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 232.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 37.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Raichur",
+   "name_local": "ರಾಯಚೂರು",
+   "indicators": {
+    "literacy_pct": {
+     "value": 59.56,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 88.9,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 39.8,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 455,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 166371,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 133.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 37.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Bengaluru South",
+   "name_local": "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 69.22,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Reported as 'Ramanagara' in NFHS-5; the district was renamed Bengaluru South on 23 May 2025 (boundaries unchanged)."
+    },
+    "stunting_under5_pct": {
+     "value": 15.6,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf",
+     "note": "Reported as 'Ramanagara' in NFHS-5; the district was renamed Bengaluru South on 23 May 2025 (boundaries unchanged)."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 302,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25. Listed as 'Ramanagara' in the annexure (pre-rename name)."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 277619,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication). Listed as 'Ramanagara' in the survey tables (pre-rename name)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 383.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000. NCRB lists this district as 'Ramanagara' (pre-rename name)."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 67.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": "Renamed from Ramanagara on 23 May 2025 (notification under s.4(4A), Karnataka Land Revenue Act 1964); headquarters remains Ramanagara; boundaries unchanged. Pre-2025 sources report this district as Ramanagara."
+  },
+  {
+   "name": "Shivamogga",
+   "name_local": "ಶಿವಮೊಗ್ಗ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 80.45,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.7,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 29.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 9,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 349177,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 261.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 51.7,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Tumakuru",
+   "name_local": "ತುಮಕೂರು",
+   "indicators": {
+    "literacy_pct": {
+     "value": 75.14,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 100.0,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 40.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 0,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 302707,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 206.0,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 28.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Udupi",
+   "name_local": "ಉಡುಪಿ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 86.24,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 98.9,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 23.1,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1566,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 533469,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 198.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 18.9,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Uttara Kannada",
+   "name_local": "ಉತ್ತರ ಕನ್ನಡ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 84.06,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 99.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 29.6,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 930,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 266619,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 161.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 27.8,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Vijayanagara",
+   "name_local": "ವಿಜಯನಗರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": null,
+     "year": 2011,
+     "source": null,
+     "reason": "Census 2011 (latest census) published a literacy figure only for the pre-2021 district geography; no official literacy figure has been published for the current district boundaries."
+    },
+    "institutional_births_pct": {
+     "value": null,
+     "year": "2019-20",
+     "source": null,
+     "reason": "NFHS-5 (2019-20) predates the district's formation in 2021; the area was surveyed as part of Ballari district (Harapanahalli taluk as part of Davanagere), so no NFHS-5 figure exists for Vijayanagara district."
+    },
+    "stunting_under5_pct": {
+     "value": null,
+     "year": "2019-20",
+     "source": null,
+     "reason": "NFHS-5 (2019-20) predates the district's formation in 2021; the area was surveyed as part of Ballari district (Harapanahalli taluk as part of Davanagere), so no NFHS-5 figure exists for Vijayanagara district."
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 0,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 165546,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 132.6,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000. NCRB lists this district as 'Vijayanagar'."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 22.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio. NCRB lists this district as 'Vijayanagar'."
+    }
+   },
+   "notes": "Karnataka's 31st district, formed in 2021 from Ballari district (Hosapete, Kudligi, Hagaribommanahalli, Kotturu, Hoovina Hadagali taluks) plus Harapanahalli taluk from Davanagere; headquarters Hosapete. Most pre-2021 statistical series cover its area within Ballari/Davanagere."
+  },
+  {
+   "name": "Vijayapura",
+   "name_local": "ವಿಜಯಪುರ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 67.15,
+     "year": 2011,
+     "source": "https://karnataka.pscnotes.com/geography-karnataka/population-of-karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 91.8,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 45.9,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1013,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 163431,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 131.3,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 25.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  },
+  {
+   "name": "Yadgir",
+   "name_local": "ಯಾದಗಿರಿ",
+   "indicators": {
+    "literacy_pct": {
+     "value": 51.83,
+     "year": 2011,
+     "source": "https://etrace.in/census/state/karnataka/",
+     "note": "Census 2011 (latest census)."
+    },
+    "institutional_births_pct": {
+     "value": 93.3,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "stunting_under5_pct": {
+     "value": 57.6,
+     "year": "2019-20",
+     "source": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Karnataka.pdf"
+    },
+    "infant_mortality": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NFHS-5 district key-indicator factsheets do not report mortality indicators (no IMR/NNMR/U5MR at district level); IMR published at state/national level only."
+    },
+    "dropout_rate_secondary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise secondary dropout published for Karnataka: UDISE+ releases district figures only via the JS-based dashboard (udiseplus.gov.in); published UDISE+ report tables and parliamentary annexures give state-wise figures only (Karnataka secondary dropout 22.1% in 2023-24, state level)."
+    },
+    "pupil_teacher_ratio_primary": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise primary PTR published: UDISE+ releases PTR only at national/state level (Karnataka primary PTR 22 in 2023-24, state level); district report cards are generated on-demand via the JS-based UDISE+ dashboard (udiseplus.gov.in), unreadable via text fetch."
+    },
+    "sdg_index_score": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "NITI Aayog has not published district-level SDG Index scores for Karnataka districts: the Ministry of Planning confirmed in the Lok Sabha (USQ 4246) that 'district-level disaggregation is not part of the SDG India Index framework'; Karnataka's SDG India Index score is state-level only (75 in the 2023-24 edition). NITI's district SDG indices cover only the North-Eastern Region states."
+    },
+    "mgnrega_persondays_fy25": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "No district-wise FY 2024-25 persondays published: the Ministry of Rural Development publishes district figures only in the session/JS-based NREGAsoft MIS reports; parliamentary answers for Karnataka give average days of employment per household by district (Lok Sabha USQ 265 answered 22.07.2025) and state totals only (Karnataka: 1311.64 lakh persondays in FY 2024-25, Rajya Sabha Starred Question 221). Not derived from average-days figures, which would require household counts that are not published district-wise."
+    },
+    "pmayg_houses_completed": {
+     "value": 1411,
+     "year": "as on 09.12.2022 (cumulative since 01.04.2016)",
+     "source": "https://sansad.in/getFile/loksabhaquestions/annex/1710/AU931.pdf?source=pqals | Lok Sabha Unstarred Q No.931, Annexure-I 'District-wise number of houses built/constructed under PMAY-G in the State of Karnataka as on 9.12.2022'; Source: AwaasSoft",
+     "note": "Cumulative since 01.04.2016, not FY2024-25."
+    },
+    "jjm_tap_connections": {
+     "value": null,
+     "year": null,
+     "source": null,
+     "reason": "District-wise cumulative tap connections are published only on the JS-driven JJM-IMIS dashboard (ejalshakti.gov.in); the Ministry of Jal Shakti confirmed (Rajya Sabha USQ 4060) that Karnataka's district-wise JJM coverage is available only through that portal (JJMState.aspx). No static district-wise source found. State level: 87.51 lakh of 101.31 lakh rural households had tap water supply as on 27.11.2025 (86.38%)."
+    },
+    "per_capita_income_inr": {
+     "value": 146364,
+     "year": "2023-24",
+     "source": "https://data.opencity.in/dataset/987307b6-be14-4d83-80eb-f85fdd35851c/resource/4f8b31cf-4630-4a14-bd41-35e9db790314/download/cbe00f61-937e-469e-99be-900f7ac5f27f.csv",
+     "note": "Per capita income (NDDP at factor cost, current prices), Directorate of Economics and Statistics, Government of Karnataka, via Economic Survey of Karnataka 2024-25 district tables (OpenCity republication)."
+    },
+    "crime_rate_per_lakh": {
+     "value": 112.1,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = IPC cases reported in 2022 (NCRB districtwise data; district total = sum of its police registration circles, city and district units, excluding railway police units) / Census 2011 population of the current district geography x 100,000."
+    },
+    "crimes_against_women_per_lakh": {
+     "value": 25.5,
+     "year": "2022",
+     "source": "https://github.com/nishantrajx/ipc-crime-data-analysis/raw/refs/heads/main/data/districtwise-ipc-crimes-2017-onwards.csv",
+     "note": "Computed from published counts: rate = cases under women-specific IPC heads (rape, attempt to rape, assault on women with intent to outrage modesty incl. sexual-harassment sub-heads, insult to modesty, cruelty by husband/relatives, dowry deaths, kidnapping/abduction for marriage, procuration/importation of girls, voyeurism, stalking) reported in 2022 (NCRB districtwise data) / Census 2011 female population x 100,000; female population derived from the published Census 2011 total population and sex ratio."
+    }
+   },
+   "notes": ""
+  }
+ ],
+ "collected_at": "2026-10-24",
+ "geojson_source": "data/ka/districts.geojson (31 districts; KGIS district boundaries, 2022 edits, incl. Vijayanagara)",
+ "notes": "31-district geography: Vijayanagara created as the 31st district in 2021 (carved out of Ballari, plus Harapanahalli taluk from Davanagere). Two 2025 renames are reflected: Ramanagara -> Bengaluru South (notified 23 May 2025) and Bengaluru Rural -> Bengaluru North (Cabinet approval 2 July 2025); older sources cited here use the former names, flagged in indicator notes. Boundaries: KGIS (Karnataka State Remote Sensing Applications Centre) district layer as mirrored at github.com/adarsh-dayanand/karnataka-geoJson (District.json; KGIS attributes with LGD codes, feature edits to Aug 2022), reprojected from UTM Zone 43N to WGS84 and simplified for web display; KGIS names 'Kalburgi', 'Kolara', 'Chamarajanagara', 'Chikkaballapura', 'Bengaluru (Urban)' and 'Bengaluru (Rural)' were mapped to the official district names used here. NFHS-5 (2019-20) covers the 30 pre-2021 districts; Ballari and Davanagere values are pre-split geography and Vijayanagara is null for survey/census indicators that predate its formation. District indicators are contextual outcomes only and are not attributable to any individual representative."
+}
