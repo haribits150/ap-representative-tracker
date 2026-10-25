@@ -1,188 +1,175 @@
 {
+ "generated": "2026-10-25",
+ "house": "Tamil Nadu Legislative Assembly",
+ "count": 39,
  "mlas": [
   {
    "name": "A. Arunmozhithevan",
    "constituency": "Bhuvanagiri",
-   "total_cases": 0,
+   "total_cases": 1,
    "serious_cases": 0,
-   "non_serious_cases": 0,
-   "charges": [],
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143; Section 4(1), Tamil Nadu Open Places (Prevention of Disfigurement) Act, 1959",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order and disfigurement sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC 255/2025, District Munsif cum Judicial Magistrate Court, Parangipettai; FIR Crime No. 103/2021, Bhuvanagiri Police Station; charges framed 12 March 2021"
+    }
+   ],
    "education": "Graduate Professional",
-   "assets_current_inr": 39466325,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+   "assets_current_inr": 50169063,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1150",
+   "notes": "Declared cases are pending matters, not convictions."
   },
   {
-   "name": "K. A. Pandian",
+   "name": "M. Thamimun Ansari",
    "constituency": "Chidambaram",
-   "total_cases": 0,
+   "total_cases": 2,
    "serious_cases": 0,
-   "non_serious_cases": 0,
-   "charges": [],
-   "education": "Post Graduate",
-   "assets_current_inr": 62079604,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 27/2022, Race Course Police Station, Coimbatore; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 290; Section 41(6)(a), Tamil Nadu City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 428/2023, Melapalayam Police Station, Tirunelveli; charges not framed"
+    }
+   ],
+   "education": "Post Graduate — M.A (Distance Education), Annamalai University, Chidambaram-2022",
+   "assets_current_inr": 13817257,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1393",
+   "notes": "Declared cases are pending matters, not convictions."
   },
   {
-   "name": "Sinthanai Selvan",
+   "name": "L.E. Jothimani",
    "constituency": "Kattumannarkoil (SC)",
    "total_cases": 1,
    "serious_cases": 0,
    "non_serious_cases": 1,
    "charges": [
     {
-     "ipc_sections": "IPC 147, 341, 188",
+     "ipc_sections": "IPC 143, 341",
      "severity": "non-serious",
      "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "FIR 648/2012, Sankarapuram Police Station; charges framed 06 Aug 2012; pending"
+     "case_description": "FIR 0225/2023, Kattumannarkoil Police Station; charges not framed"
     }
    ],
-   "education": "Others — DME, Thandhai Periyar EVR Govt. Polytechnic, Vellore, 1984",
-   "assets_current_inr": 9562905,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1251",
+   "education": "Others — PUC From PACHAYAPPAS COLLEGE, MADRAS, YEAR: 1979 & ENGINEERING TRADE IN MECHANIC, (DIESEL) NCVT YEAR: 1984, CHENNAI PORT TRUST",
+   "assets_current_inr": 8547835,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1170",
    "notes": "Declared cases are pending matters, not convictions."
   },
   {
-   "name": "M. Panneerselvam",
+   "name": "R. Senthilselvan",
    "constituency": "Sirkazhi (SC)",
-   "total_cases": 11,
-   "serious_cases": 1,
-   "non_serious_cases": 10,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 188, 269, 341",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "CR. No:1059/2020,  \nMayiladuthurai PS; Judicial Magistrate Court, Mayiladuthurai; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 269, 341",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr.NO:1458/2020, \nSirkazhli PS; Judicial Magistrate Court, Sirkazhli; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.No:1137/2020\nSirkazhli PS; Judicial Magistrate Court, Sirkazhil.; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 269, 341",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr.No:610/2020\nSirkazhli PS; JM Court, Sirkazhil; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 153(A)(1)(a), 341, 504",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.No;5/2020\nSirkazhli PS; JM, Sirkazhli; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 294b, 353, 506(2)",
-     "severity": "serious",
-     "severity_basis": "IPC 506(ii): criminal intimidation (threat to cause death/grievous hurt), max 7 years",
-     "case_description": "Cr.NO:402/2019\nSirkazhli PS; JM Court, Sirkazhli; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.NO:188/2019\nSirkazhli PS; JM Court,Sirkazhli; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.No:74//2018\nSirkazhli PS; JM Court, Sirkazhli; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "Section- .",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.No:82/2017\nSirkazhli PS; JM Court, Sirkazhli; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "Section- .",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.No:223/2016\nSirkazhli PS; JM Court , Sirkazhli.; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "Section- .",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr.NO:124/2013\n Sirkazhli PS; JM Court, Sirkazhli; charges not framed; pending"
-    }
-   ],
-   "education": "Post Graduate",
-   "assets_current_inr": 20890000,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2025",
-   "notes": "Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "S. Rajakumar",
-   "constituency": "Mayiladuthurai",
-   "total_cases": 1,
-   "serious_cases": 0,
-   "non_serious_cases": 1,
-   "charges": [
-    {
-     "ipc_sections": "Sec 138, Negotiable Instruments Act",
-     "severity": "non-serious",
-     "severity_basis": "NI Act Sec 138 (cheque dishonour): maximum 2 years; no ADR serious category applies",
-     "case_description": "CONVICTED — CC No 10171/2014, Fast Track Court; convicted 14 Feb 2020; sentence 1 year imprisonment and Rs 1,42,320 fine; appeal C.A. 73/2020 before 16th Addl. Sessions Judge, Chennai, pending. This is a declared conviction, not merely a pending allegation."
-    }
-   ],
-   "education": "Post Graduate — MA, Annamalai University, Chidambaram",
-   "assets_current_inr": 82782454,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1862",
-   "notes": "The single declared case is a conviction recorded in the affidavit's 'Cases where Convicted' table (appeal pending); it is not a pending allegation."
-  },
-  {
-   "name": "Nivedha M. Murugan",
-   "constituency": "Poompuhar",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
-   "charges": [],
-   "education": null,
-   "assets_current_inr": null,
-   "source_url": null,
-   "notes": "The myneta.info Tamil Nadu 2021 candidate page could not be retrieved: retried 2026-10-24 across all myneta winners-list sort orders, candidate search and ADR's 2021 winners analysis (which covered only 224 of 234 MLAs; this member is among those not analysed), so the declared case count, education and assets could not be verified. Declared cases are allegations, not convictions."
-  },
-  {
-   "name": "J. Mohamed Shanavas",
-   "constituency": "Nagapattinam",
-   "total_cases": 1,
-   "serious_cases": 0,
-   "non_serious_cases": 1,
-   "charges": [
-    {
-     "ipc_sections": "IPC 153A(1)(a), 153A(1)(b), 505(1)(b), 505(1)(c)",
-     "severity": "non-serious",
-     "severity_basis": "IPC 153A/505: promoting enmity / public-mischief statements; as charged, maximum 3 years (153A reaches 5 years only in the place-of-worship form, not specified in the affidavit — borderline call, flagged)",
-     "case_description": "Cr. No. 7/2020, CBCID SIP Egmore; Metropolitan Magistrate Court, Egmore; charges not framed; pending"
-    }
-   ],
-   "education": "12th Pass — Govt High School, Thakkalai, 1999",
-   "assets_current_inr": 2785391,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1894",
-   "notes": "Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "V. P. Nagaimaali",
-   "constituency": "Kilvelur (SC)",
    "total_cases": 0,
    "serious_cases": 0,
    "non_serious_cases": 0,
    "charges": [],
-   "education": "Graduate Professional",
-   "assets_current_inr": 1938170,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
+   "education": "Post Graduate",
+   "assets_current_inr": 15082517,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
    "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "Y. N. Jamal Mohamed Younoos",
+   "constituency": "Mayiladuthurai",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": 92778413,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions. Case count (0) and total assets are from ADR's Tamil Nadu 2026 winners analysis of the same affidavit data; his myneta candidate page exists but could not be retrieved for this entry, so his declared education is not recorded here rather than guessed."
+  },
+  {
+   "name": "Nivedha M Murugan",
+   "constituency": "Poompuhar",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Railways Act Sections 147, 174",
+     "severity": "non-serious",
+     "severity_basis": "Railway trespass/penalty sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC No. 441/2017, Judicial Magistrate No. 1, Mayiladuthurai; FIR Crime No. 41/17, Mayiladuthurai Railway Police Station; charges not framed"
+    }
+   ],
+   "education": "8th Pass",
+   "assets_current_inr": 135246965,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1347",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M.H.Jawahirullah",
+   "constituency": "Nagapattinam",
+   "total_cases": 5,
+   "serious_cases": 3,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "BNS 126(2), 132, 190, 191(2); Section 3, Tamil Nadu Open Places (Prevention of Damage) Act",
+     "severity": "serious",
+     "severity_basis": "BNS 132: assault or criminal force to deter a public servant from discharge of duty — assault-related, non-bailable; an ADR serious category",
+     "case_description": "FIR 590/2024, Chengalpattu Taluk Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 132, 190, 191(2), 191(3), 296(b), 351(3); Section 3, Tamil Nadu Prevention of Damage to Public Property Act",
+     "severity": "serious",
+     "severity_basis": "BNS 132 (assault on public servant) and BNS 191(3)/351(3) fall in ADR serious categories / carry 5+ years",
+     "case_description": "FIR 591/2021, Chengalpattu Taluk Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 153, 341, 283; Section 41, Tamil Nadu City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 47/2020, Thillai Nagar Police Station, Trichy; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC No. 114/2020, Judicial Magistrate 1, Thanjavur; FIR 56/2018, Ammapet Police Station, Thanjavur; charges framed 27 March 2018"
+    },
+    {
+     "ipc_sections": "IPC 120B; Foreign Contribution (Regulation) Act 1973 Sections 4(1)(e) r/w 23, 6 r/w 23, 11 r/w 23",
+     "severity": "serious",
+     "severity_basis": "FCRA offences concerning prohibited foreign contributions / loss to the exchequer; treated as serious, mirroring his 2021 file entry",
+     "case_description": "CONVICTED — CC 1123/2004, Chief Additional Metropolitan Magistrate, Egmore, Chennai; convicted 30 September 2011; sentenced to 1 year rigorous imprisonment and a Rs 10,000 fine; appeal SLP (Crl) No. 6845/2025 pending before the Supreme Court"
+    }
+   ],
+   "education": "Doctorate — Ph.D From University Of Madras, Chennai, Year - 2008, M.Phil From University Of Madras, Chennai, Year - 2000, MBA From University Of Madras, Chennai, Year - 1983",
+   "assets_current_inr": 52848161,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1199",
+   "notes": "Declared cases are pending matters, not convictions. One declared case is a conviction, not a pending matter: CC 1123/2004 under the Foreign Contribution (Regulation) Act, convicted 30 September 2011 (1 year rigorous imprisonment and Rs 10,000 fine); appeal pending before the Supreme Court."
+  },
+  {
+   "name": "T. Latha",
+   "constituency": "Kilvelur (SC)",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "BNS 181(2), 126(2) (as printed on the candidate page; the ADR brief lists BNS 126(2))",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC 668/2024, District Munsif cum Judicial Magistrate, Vedaranyam; FIR 109/2024, Thalaigniyiru Police Station; charges framed 2 January 2026"
+    }
+   ],
+   "education": "10th Pass — 10th Class Government High School, Kilukuddy, 1994",
+   "assets_current_inr": 5809497,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=733",
+   "notes": "Declared cases are pending matters, not convictions."
   },
   {
    "name": "O. S. Manian",
@@ -191,649 +178,320 @@
    "serious_cases": 0,
    "non_serious_cases": 0,
    "charges": [],
-   "education": "Others",
-   "assets_current_inr": 16087930,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+   "education": "12th Pass",
+   "assets_current_inr": 22461605,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions. Constituency is spelled VEDHARANYAM on myneta."
   },
   {
    "name": "K. Marimuthu",
    "constituency": "Thiruthuraipoondi (SC)",
-   "total_cases": 3,
+   "total_cases": 0,
    "serious_cases": 0,
-   "non_serious_cases": 3,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 341, 336, 270, 188",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "FIR 107/2021, Kottur PS; STC 186/2021, JM Court Mannargudi No. 2; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "FIR 61/2017, Kottur PS; STC 1183/2020, JM Court Mannargudi No. 2; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "FIR 58/2019, Vikrapandiyan PS; STC 738/2020, JM Court Mannargudi No. 2; charges framed; pending"
-    }
-   ],
-   "education": "12th Pass — Govt. Higher Sec. School, Kottur",
-   "assets_current_inr": 330460,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1677",
-   "notes": "Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "T. R. B. Rajaa",
-   "constituency": "Mannargudi",
-   "total_cases": 2,
-   "serious_cases": 0,
-   "non_serious_cases": 2,
-   "charges": [
-    {
-     "ipc_sections": "IPC 341, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "CR. No 1276/2020, Nagapattinam Town PS; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143",
-     "severity": "non-serious",
-     "severity_basis": "Unlawful assembly only; no section carries 5+ years",
-     "case_description": "FIR 224/2017, Mannargudi Town PS; STC No 334/2020, JM Thiruvarur; quash petition Crl. OP No 771/2021 pending before Madras High Court"
-    }
-   ],
-   "education": "Post Graduate — Master of Science in Counseling Psychology, University of Madras",
-   "assets_current_inr": 418159401,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=115",
-   "notes": "Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "Kalaivanan Poondi K.",
-   "constituency": "Thiruvarur",
-   "total_cases": 49,
-   "serious_cases": 6,
-   "non_serious_cases": 43,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 268, 506(ii), 188, 120B, 452",
-     "severity": "serious",
-     "severity_basis": "IPC 452: house-trespass after preparation for hurt (up to 10 years); IPC 506(ii): criminal intimidation",
-     "case_description": "Cr. No. 284/2011, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 379, 436, 506(ii); Sec 3(1) PPDL Act",
-     "severity": "serious",
-     "severity_basis": "IPC 436: mischief by fire/explosive (up to 10 years/life); PPDL Act Sec 3: 5-year offence",
-     "case_description": "Cr. No. 331/2011, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 10/2012, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1683/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 129/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 379, 436, 506(ii); Sec 3(1) PPDL Act",
-     "severity": "serious",
-     "severity_basis": "IPC 436: mischief by fire/explosive (up to 10 years/life); PPDL Act Sec 3: 5-year offence",
-     "case_description": "Cr. No. 311/2011, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 325/2018, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1481/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1594/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1671/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1672/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1677/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1678/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1679/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1680/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1684/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1685/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 11/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 106/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 107/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 108/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 109/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 110/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 112/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 113/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 114/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 115/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 128/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 130/2021, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 78/2017, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 183/2020, Koradachery PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 342/2017, Thiruvarur Nagaram PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 46/2018, Thiruvarur Nagaram PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 2064/2020, Thiruvarur Nagaram PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 166/2021, Thiruvarur Nagaram PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 336, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 267/2021, Thiruvarur Nagaram PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 447, 448, 403, 506(ii)",
-     "severity": "serious",
-     "severity_basis": "IPC 506(ii): criminal intimidation — on ADR's serious list / non-bailable",
-     "case_description": "Cr. No. 13/2011, Thiruvarur District PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 54/2020, Thiruvarur District PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 62/2019, Thiruvarur District PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 171H, 188, 341",
-     "severity": "serious",
-     "severity_basis": "IPC 171H: electoral offence (illegal payments in connection with an election) per ADR criteria",
-     "case_description": "Cr. No. 167/2019, Thiruvarur District PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 336, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1492/2020, Thiruvarur Taluk PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 155/2021, Thiruvarur Taluk PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 294B, 307, 332; Sec 207 MV Act; Sec 3(1) PPD Act 1984",
-     "severity": "serious",
-     "severity_basis": "IPC 307: attempt to murder — heinous, 5+ years; PPD Act Sec 3: 5-year offence",
-     "case_description": "Cr. No. 174/2021, Thiruvarur Taluk PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 270, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1977/2020, Kudavasal PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 148/2015, Thiruthuraipoondi PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 269",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 633/2020, Thirukuvalai PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 269",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1276/2020, Nagapattinam PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 268/2018, Mannarkudi PS; charges framed (per affidavit); no appeal; pending"
-    },
-    {
-     "ipc_sections": "IPC 147; Railways Act Sec 174A",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 752/2016, Thanjavur Railway PS; charges framed (per affidavit); no appeal; pending"
-    }
-   ],
-   "education": "12th Pass",
-   "assets_current_inr": 30830904,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=671",
-   "notes": "All 49 charges transcribed from the myneta candidate page's pending-cases table; the convicted-cases table states 'No Cases'. Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "R. Kamaraj",
-   "constituency": "Nannilam",
-   "total_cases": 1,
-   "serious_cases": 0,
-   "non_serious_cases": 1,
-   "charges": [
-    {
-     "ipc_sections": "IPC 448, 183, 186, 189",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Crime no 549/2017 Abiramapuram Police Station Mylapore District; 23rd Metropolitan Magistrate Court, Saidapet Chennai; charges not framed; pending"
-    }
-   ],
-   "education": "Post Graduate — M.A (History) from Annamalai University In 2006",
-   "assets_current_inr": 31306770,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=228",
-   "notes": "Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "Govi Chezhiaan",
-   "constituency": "Thiruvidaimarudur (SC)",
-   "total_cases": null,
-   "serious_cases": null,
-   "non_serious_cases": null,
+   "non_serious_cases": 0,
    "charges": [],
    "education": null,
-   "assets_current_inr": null,
-   "source_url": null,
-   "notes": "The myneta.info Tamil Nadu 2021 candidate page could not be retrieved: retried 2026-10-24 across all myneta winners-list sort orders, candidate search and ADR's 2021 winners analysis (which covered only 224 of 234 MLAs; this member is among those not analysed), so the declared case count, education and assets could not be verified. Declared cases are allegations, not convictions."
+   "assets_current_inr": 716326,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions. Case count (0) and total assets are from ADR's Tamil Nadu 2026 winners analysis of the same affidavit data; his 2026 myneta candidate page could not be retrieved for this entry, so his declared education is not recorded here rather than guessed. Note: he declared 3 cases in 2021; the 2026 affidavit declares none."
   },
   {
-   "name": "G. Anbalagan",
-   "constituency": "Kumbakonam",
-   "total_cases": 6,
-   "serious_cases": 0,
-   "non_serious_cases": 6,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 188/2018, East PS Kumbakonnam; STC No. 2433/19, Date 27.07.2018; Criminal Justice Court Kumbakonnam; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 29/2018, West PS Kumbakonnam; STC.NO.2320/20; Criminal Justice Court Kumbakonnam; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr. No. 1736/2020, West PS Kumbakonnam; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270, 341",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr. No. 1732/2020, West PS Kumbakonnam; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr. No. 1512/2020, PS Kumbakonnam, Thanjavur District; charges framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270, 188",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr. No. 1395/2020, Nachiyar Police Station Kumbakonnam; charges framed; pending"
-    }
-   ],
-   "education": "10th Pass",
-   "assets_current_inr": 417302510,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=106",
-   "notes": "Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "M. H. Jawahirullah",
-   "constituency": "Papanasam",
+   "name": "S. Kamaraj",
+   "constituency": "Mannargudi",
    "total_cases": 1,
    "serious_cases": 1,
    "non_serious_cases": 0,
    "charges": [
     {
-     "ipc_sections": "IPC 120B; Foreign Contribution (Regulation) Act, 1976 — Sec 4(1)(e), 3, 11, 23",
+     "ipc_sections": "IPC 109, 436; Section 4, Tamil Nadu Prevention of Damage to Public Property Act",
      "severity": "serious",
-     "severity_basis": "FCRA 1976 offence (acceptance of foreign contribution without registration/prior permission), maximum punishment up to 5 years; offence related to a statutory economic-regulatory regime",
-     "case_description": "CONVICTED — CC 1123/2004, Addl. Chief Metropolitan Magistrate Court, Egmore, Chennai; convicted 30 Sep 2011; sentence 1 year RI and Rs 10,000 fine; appeal Crl. R.C. No. 836/2017 — sentence suspended, revision pending before Madras High Court. This is a declared conviction, not merely a pending allegation."
+     "severity_basis": "IPC 436: mischief by fire or explosive substance (punishable up to 10 years/life) — an ADR serious category",
+     "case_description": "FIR Cr.No. 681/2017, Mannargudi Town Police; charges not framed"
     }
    ],
-   "education": "Doctorate — Ph.D., University of Madras, Chennai, 2008; M.Phil., University of Madras, Chennai, 2000",
-   "assets_current_inr": 27569226,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1940",
-   "notes": "The single declared case is a conviction recorded in the affidavit's 'Cases where Convicted' table (sentence suspended on revision); it is not a pending allegation."
-  },
-  {
-   "name": "Durai Chandrasekaran",
-   "constituency": "Thiruvaiyaru",
-   "total_cases": 10,
-   "serious_cases": 0,
-   "non_serious_cases": 10,
-   "charges": [
-    {
-     "ipc_sections": "IPC 343, 341, 353, 269; Section 3(1) oF TNPP (PDL) Act.",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr. No. 48/2021, Tamil University P.S. Thanjavur; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 43/2018, Thanjavur West P.S.; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 436/2017, Thanjavur West P.S.; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 168/2017, Thanjavur West P.S.; S.T.C. No. 342/2019; JM No.1 Thanjavur; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 99/2017, Thiruvaiyaru P.S.; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 151",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 40/2017, Thanjavur West P.S.; S.T.C. No 632/2019; JM No.1 Thanjavur; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 981/2017, Thanjavur West P.S.; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 413/2015, Thanjavur West P.S.; S.T.C. No. 344/2019; JM No.1 Thanjavur; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 294B, 353, 506(1), 355, 511",
-     "severity": "non-serious",
-     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 570/2009, Thanjavur West P.S.; S.T.C.No. 343/2019; JM No.1 Thanjavur; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "Section 147 and 174(a) of Railway Act.",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 32/2017, RPF Thanjavur; CC.No. 6/2020; J M NO.II THANJAVUR; charges not framed; appeal filed; pending"
-    }
-   ],
-   "education": "Graduate Professional",
-   "assets_current_inr": 32695819,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=158",
+   "education": "Post Graduate — M.Com., B.Ed., Thiruvika Government College, Thiruvarur, Bharathidasan University (1989); B.Ed., Annamalai University (1990)",
+   "assets_current_inr": 213857390,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1190",
    "notes": "Declared cases are pending matters, not convictions."
   },
   {
-   "name": "T. K. G. Neelamegam",
-   "constituency": "Thanjavur",
-   "total_cases": 5,
+   "name": "Kalaivanan Poondi K.",
+   "constituency": "Thiruvarur",
+   "total_cases": 1,
    "serious_cases": 0,
-   "non_serious_cases": 5,
+   "non_serious_cases": 1,
    "charges": [
     {
-     "ipc_sections": "IPC 143, 341, 353, 269; Section 3(1) of TNPP(PDL) Act., Case filed not Taken in Court",
+     "ipc_sections": "Section 4(1), Tamil Nadu Open Places (Prevention of Disfigurement) Act",
      "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Cr. No. 48/2021, Tamil Univercity,Police Station thanjavur; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "Section 4(A)(1b)TNOPPD Act., Case filed not Taken in Court",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 1758/2020, Thanjavur West Police Station; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188; Referred",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 362/2018, Thanjavur West Police Station; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188; Case filed not Taken in Court",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 164/2018 Thanjavur West Police Station; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "., Case filed not Taken in Court",
-     "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Cr. No. 93/2018 Thanjavur west police station; charges not framed; pending"
+     "severity_basis": "Disfigurement/public-order section; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC 1238/2025, Thiruvarur Criminal Court, District Court Complex, Thiruvarur; FIR Cr. No. 429/2021, Thiruvarur Police Station; charges framed 25 September 2025"
     }
    ],
-   "education": "8th Pass",
-   "assets_current_inr": 9607836,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=660",
+   "education": "12th Pass — 12th From Koratacherry Govt Higher Secondary School In 1980-81",
+   "assets_current_inr": 110682300,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=731",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. Kamaraj",
+   "constituency": "Nannilam",
+   "total_cases": 5,
+   "serious_cases": 1,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 0477/2024, Thiruvarur Town Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "Section 4(1), Tamil Nadu Open Places (Prevention of Disfigurement) Act",
+     "severity": "non-serious",
+     "severity_basis": "Disfigurement/public-order section; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 0178/2024, Peralam Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 120B; Prevention of Corruption Act Sections 13(2) r/w 13(1)(e) and 13(2) r/w 13(1)(b)",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act offences — an ADR serious category",
+     "case_description": "Special SC No. 1/2024, Principal Sessions Court, Thiruvarur; FIR Crime No. 4/2022, Vigilance & Anti-Corruption, Thiruvarur; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 270, 271, 341; Section 3, Epidemic Diseases Act; Section 51(b), Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 0049/2022, Nannilam Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 448, 183, 186, 189",
+     "severity": "non-serious",
+     "severity_basis": "House-trespass/obstruction sections as classified by ADR/myneta; no section falls in an ADR serious category",
+     "case_description": "23rd Metropolitan Magistrate, Saidapet, Chennai; FIR Crime No. 549/2017, Abiramapuram Police Station; charges not framed"
+    }
+   ],
+   "education": "Post Graduate — M.A. (History) - Annamalai University (2006)",
+   "assets_current_inr": 24403104,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1132",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Govi Chezhiaan",
+   "constituency": "Thiruvidaimarudur (SC)",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 153, 143, 188, 153B, 505(1)(b), 153A(1)(b), 153A(1)(c)",
+     "severity": "serious",
+     "severity_basis": "IPC 153A: promoting enmity between different groups — a non-bailable offence in an ADR serious category",
+     "case_description": "CC No. 316/2024, Judicial Magistrate Court No. 1, Thanjavur; FIR C.No. 97/2018, Bandhanallur Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC No. 416/2025, Judicial Magistrate Court No. 1, Thanjavur; FIR C.No. 107/2018, Thiruvidaimarudur Police Station; charges framed 12 December 2025"
+    }
+   ],
+   "education": "Doctorate — Ph.D. From University Of Chennai, Year 2011 & M.Phil From Annamalai University, Chidambaram, Year 2007",
+   "assets_current_inr": 13845832,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=174",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Vinoth",
+   "constituency": "Kumbakonam",
+   "total_cases": 8,
+   "serious_cases": 0,
+   "non_serious_cases": 8,
+   "charges": [
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 0546/2025, Kumbakonam East Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 0145/2025, Kumbakonam East Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 75/2026, Kumbakonam East Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 207/2025, Kumbakonam East Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 62/2025, Kumbakonam East Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 557/2025, Kumbakonam West Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 317/2025, Kumbakonam West Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2)",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 78/2025, Kumbakonam West Police Station; charges not framed"
+    }
+   ],
+   "education": "12th Pass — 12th Pass From Sri. Kumara Guruparar Higher Secondary School Aduthurai, B.E- Dropout From Government Engineering College, Kumbakonam in 2016",
+   "assets_current_inr": 1857820,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=816",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A.M. Shahjahan",
+   "constituency": "Papanasam",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 1394/2020, Kumbakonam East Police Station; case recorded as referred; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 147, 153A, 323, 341, 355, 506(i)",
+     "severity": "serious",
+     "severity_basis": "IPC 153A: promoting enmity between different groups — a non-bailable offence in an ADR serious category",
+     "case_description": "CC No. 51/2025, Civil and Criminal Magistrate Court, Thiruvidaimarudur; FIR 183/2015, Thiruneelakudi Police Station; charges framed 8 October 2025"
+    }
+   ],
+   "education": "Graduate — B.Sc., (November 1993) Jamal Mohamed College, Trichy, Bharathidasan University, Trichy",
+   "assets_current_inr": 55355830,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=776",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Durai. Chandrasekaran",
+   "constituency": "Thiruvaiyaru",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "Railways Act 1989, Sections 180A, 147, 174(a)",
+     "severity": "non-serious",
+     "severity_basis": "Railway offence sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "CC No. 1352/2025, Special Court & CJM No. 1, Thanjavur (for MPs/MLAs); FIR 32/2017, Thanjavur Railway Junction; charges not framed"
+    }
+   ],
+   "education": "Graduate Professional — LLB Bangalore University 1988; Tamilnadu Bar Council Enrolment No 65/1990",
+   "assets_current_inr": 142153595,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=170",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. Vijaysaravanan",
+   "constituency": "Thanjavur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "BNS 223, 292",
+     "severity": "non-serious",
+     "severity_basis": "Disobedience/obscenity sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR Crime No. 52/2026, Sengipatti Police Station, Thanjavur; charges not framed"
+    }
+   ],
+   "education": "10th Pass — SSLC Uma Maheshwara Higher Secondary Karanthai Thanjavur-1991",
+   "assets_current_inr": 2945030,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1014",
    "notes": "Declared cases are pending matters, not convictions."
   },
   {
    "name": "R. Vaithilingam",
    "constituency": "Orathanadu",
-   "total_cases": 0,
-   "serious_cases": 0,
-   "non_serious_cases": 0,
-   "charges": [],
-   "education": "12th Pass",
-   "assets_current_inr": 32767707,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+   "total_cases": 5,
+   "serious_cases": 4,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 120B; Prevention of Corruption Act Section 13(2) r/w 13(1)(d)",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act offences — an ADR serious category",
+     "case_description": "Principal District Court, Chennai; FIR ECIR/CEZO-1/16/2024, Enforcement Directorate, Chennai Zone; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 109; Prevention of Corruption Act Section 13(2) r/w 13(1)(e)",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act offences — an ADR serious category",
+     "case_description": "Principal District Court, Thanjavur; FIR 5/2024, Thanjavur Vigilance & Anti-Corruption; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 120B; Prevention of Corruption Act Sections 7, 12, 13(2) r/w 13(1)(d)",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act offences — an ADR serious category",
+     "case_description": "Special Judge for Prevention of Corruption Act cases, Chennai; FIR 1/2024, Chennai City-V, Vigilance & Anti-Corruption Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 454, 380, 409, 427, 506(2)",
+     "severity": "serious",
+     "severity_basis": "IPC 454 (up to 10 years), IPC 380 (up to 7 years) and IPC 409 (up to life) carry 5+ years — an ADR serious category",
+     "case_description": "18th Metropolitan Magistrate, Saidapet, Chennai; FIR 213/2022, Royapettah Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269; Section 3, Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "2nd Metropolitan Magistrate, Egmore, Chennai; FIR Crime No. 715/2021, Thiruvallikeni Police Station; charges not framed"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": 29393571,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Declared cases are pending matters, not convictions. Per-case detail and total assets are from ADR's Tamil Nadu 2026 winners annexure, drawn from the same affidavit myneta republishes; his 2026 myneta candidate page could not be retrieved for this entry, so his declared education is not recorded here rather than guessed."
   },
   {
    "name": "K. Annadurai",
    "constituency": "Pattukkottai",
-   "total_cases": 6,
+   "total_cases": 2,
    "serious_cases": 0,
-   "non_serious_cases": 6,
+   "non_serious_cases": 2,
    "charges": [
     {
-     "ipc_sections": "IPC 341, 143, 188, 269",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Crime No. 1449/2020 PATTUKOTTAI P.S; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 188, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Crime No. 1335/2020 ADHIRAMPATTINAM P.S; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 188, 269",
-     "severity": "non-serious",
-     "severity_basis": "COVID-era protest sections; no section carries 5+ years",
-     "case_description": "Crime No.  1302/2020 MADHUKOOR P.S; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
+     "ipc_sections": "IPC 143, 188, 341",
      "severity": "non-serious",
      "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Crime No.  102/2020 PATTUKOTTAI P.S; charges not framed; pending"
+     "case_description": "FIR 13/2018, Madukkur Police Station; charges not framed"
     },
     {
-     "ipc_sections": "IPC 143, 341; Section- 153(A)(1)(a) The Juvenile Justice Act 2015 & Section- 4(1)TNQ",
+     "ipc_sections": "Section 32(2), Police Act",
      "severity": "non-serious",
-     "severity_basis": "Minor statutory / protest / public-order provisions; no section carries 5+ years and none falls in an ADR serious category",
-     "case_description": "Crime No. 101/2020 PATTUKOTTAI P.S; charges not framed; pending"
-    },
-    {
-     "ipc_sections": "Section 32(2), Police Law (as printed in the affidavit)",
-     "severity": "non-serious",
-     "severity_basis": "Police Act Sec 32(2): minor public-order provision; the punishment imposed was 42 days' imprisonment; no ADR serious category applies",
-     "case_description": "CONVICTED — C.C. No. 826/1986, Pattukottai Sub-District Court; convicted 20 Jan 1987; punishment 42 days; no appeal filed. This is a declared conviction, not merely a pending allegation."
+     "severity_basis": "Police Act penalty offence; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "CONVICTED — Case No. 826/1986, Pattukkottai Sub-divisional Judicial Court; convicted 20 January 1987; 42 days imprisonment; no appeal filed"
     }
    ],
-   "education": "Graduate Professional",
-   "assets_current_inr": 18232530,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1973",
-   "notes": "Five pending cases and one convicted case transcribed from the myneta candidate page's pending and convicted tables: the convicted case (C.C. No. 826/1986) is a declared conviction from 1987 (42 days' imprisonment, Police Act Sec 32(2); no appeal filed); the other five are pending matters, not convictions."
+   "education": "Graduate Professional — Bachelor of Law From University of Madras in November 1981, B.Sc From University of Madras in May 1978",
+   "assets_current_inr": 16977035,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1124",
+   "notes": "Declared cases are pending matters, not convictions. One declared case is a conviction, not a pending matter: Case No. 826/1986 under Section 32(2) of the Police Act, convicted 20 January 1987 (42 days imprisonment; no appeal)."
   },
   {
    "name": "N. Ashokkumar",
@@ -843,40 +501,113 @@
    "non_serious_cases": 0,
    "charges": [],
    "education": "10th Pass",
-   "assets_current_inr": 61020192,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
+   "assets_current_inr": 48453612,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
    "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
   },
   {
-   "name": "M. Chinnadurai",
+   "name": "N. Subramanian",
    "constituency": "Gandarvakottai (SC)",
-   "total_cases": 0,
-   "serious_cases": 0,
+   "total_cases": 1,
+   "serious_cases": 1,
    "non_serious_cases": 0,
-   "charges": [],
-   "education": "8th Pass — 10th fail, GOVT Higher School, Gandarvakottai, 1982",
-   "assets_current_inr": 473200,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1851",
-   "notes": "No criminal cases declared in the candidate's affidavit (MyNeta Crime-O-Meter: none). Declared cases are allegations, not convictions."
+   "charges": [
+    {
+     "ipc_sections": "IPC 420, 109; Prevention of Corruption Act Sections 13(2), 13(1)(d)(ii)",
+     "severity": "serious",
+     "severity_basis": "IPC 420: cheating (up to 7 years) and Prevention of Corruption Act offences — ADR serious categories",
+     "case_description": "Judicial Magistrate-III, Salem; FIR 1/2023, Salem City Police CCB; charges not framed"
+    }
+   ],
+   "education": "10th Pass — SSLC From Government (Board) High School, Manapparai in 1971-72",
+   "assets_current_inr": 16578000,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1375",
+   "notes": "Declared cases are pending matters, not convictions."
   },
   {
    "name": "C. Vijayabaskar",
    "constituency": "Viralimalai",
-   "total_cases": 1,
-   "serious_cases": 0,
-   "non_serious_cases": 1,
+   "total_cases": 12,
+   "serious_cases": 5,
+   "non_serious_cases": 7,
    "charges": [
     {
-     "ipc_sections": "IPC 143, 188, 323, 294B, 506(i)",
+     "ipc_sections": "BNS 189(2), 126(2)",
      "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 61/2011, Illuppur Police Station; STC No. 333/2019; charges framed (date as declared: 8 April 2011); pending"
+     "severity_basis": "Unlawful-assembly/wrongful-restraint sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 430/2024, Thirukokarnam Police Station, Pudukkottai; Criminal Justice Arbitration Court 1, Pudukkottai; Cr.M.P. No. 70/2026 pending; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 283",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 339/2023, City Police Station, Pudukkottai; Cr.M.P. No. 69/2026; charges not framed"
+    },
+    {
+     "ipc_sections": "Prevention of Money-Laundering Act Sections 3, 4",
+     "severity": "serious",
+     "severity_basis": "PMLA money-laundering offences (up to 7 years); offences causing loss to the exchequer fall in an ADR serious category",
+     "case_description": "ECIR/CEZO_II/16/2023, Enforcement Directorate, Chennai; Cr. No. 04/2021, Spl. S.C. No. 1/2023, Principal District Sessions Court, Pudukkottai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 283, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 362/2022, City Police Station, Pudukkottai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 290, 291; Section 41(6), Madras City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "C.C. No. 16/2024, XII Additional Sessions Judge cum Special Judge for CBI Cases, Chennai; FIR 302/2022 / RC08(A)/2018/CBI/AC-III; Triplicane/Nungambakkam Police Station, Chennai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 283, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 157/2022, City Police Station, Pudukkottai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 120B, 420, 468, 471; Prevention of Corruption Act Section 7(a)",
+     "severity": "serious",
+     "severity_basis": "IPC 420/468 (up to 7 years) and Prevention of Corruption Act offences — ADR serious categories",
+     "case_description": "FIR 01/2022, Vigilance & Anti-Corruption, Chennai City-V; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269, 270, 283; Section 51(b), Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 1385/2021, City Police Station, Pudukkottai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269; Section 3, Epidemic Diseases Act; Section 41(A)(b), City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "COVID-era protest/public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 715/2021, Triplicane Police Station, Chennai; charges not framed"
+    },
+    {
+     "ipc_sections": "Prevention of Money-Laundering Act Sections 3, 4",
+     "severity": "serious",
+     "severity_basis": "PMLA money-laundering offences (up to 7 years); offences causing loss to the exchequer fall in an ADR serious category",
+     "case_description": "ECIR/CEZO-II/34/2021, Enforcement Directorate, Chennai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 120B; Prevention of Corruption Act Sections 13(2), 13(1)(b)",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act offences — an ADR serious category",
+     "case_description": "FIR 04/2021, Vigilance & Anti-Corruption, Pudukkottai; Cr. No. 4/2021, Spl. S.C. No. 1/2023; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 120B; Prevention of Corruption Act Sections 7, 11, 12, 13(2), 13(1)(d)",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act offences — an ADR serious category",
+     "case_description": "C.C. No. 16/2024; FIR RC08(A)/2018/CBI/AC-III, New Delhi; charges not framed"
     }
    ],
-   "education": "Graduate Professional — MBBS, Rajah Muthiah Medical College, 2000",
-   "assets_current_inr": 615084428,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2109",
-   "notes": "Charge details from the candidate's ECI affidavit as published by MyNeta (ADR). Declared cases are pending matters, not convictions."
+   "education": "Graduate Professional — M.B.B.S. From Raja Muthiah Medical College, Annamalai University, Chidambaram In 1999-2000",
+   "assets_current_inr": 519554069,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1324",
+   "notes": "Declared cases are pending matters, not convictions. The April 2026 winner resigned after the election and the seat is vacant; the by-election has been stayed by the Madras High Court. Figures are from his April 2026 election affidavit. The affidavit also records Crl.O.P.(MD) No. 14250/2025 as quashed on 6 November 2025 in a connected matter (Cr.No. 339/2023)."
   },
   {
    "name": "V. Muthuraja",
@@ -885,861 +616,268 @@
    "serious_cases": 0,
    "non_serious_cases": 0,
    "charges": [],
-   "education": "Graduate Professional — M.B.B.S., Salem Vinayaka Medical College, December 2001, Tamil Nadu Dr. MGR Medical University",
-   "assets_current_inr": 91218510,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1991",
-   "notes": "No criminal cases declared in the candidate's affidavit (MyNeta Crime-O-Meter: none). Declared cases are allegations, not convictions."
+   "education": "Graduate Professional",
+   "assets_current_inr": 123262577,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
   },
   {
    "name": "S. Regupathy",
    "constituency": "Thirumayam",
-   "total_cases": 23,
-   "serious_cases": 3,
-   "non_serious_cases": 20,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 341, 269, 270, 271; Disaster Management Act Section 51(b)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 507/2020, Tirumayam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 283, 269, 270; Disaster Management Act Section 51(b)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 1576/2020, Aranthangi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 489/2020, Tirumayam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270, 271",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 429/2020, Tirumayam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 475/2020, Ponnamaravathy Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 269, 270; Disaster Management Act Section 51(b)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 1087/2020, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 269, 270; Disaster Management Act Section 51(b)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 631/2020, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 504, 506(1), 294B; Information Technology Act Section 67",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 352/2019, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 118/2018, Vadakadu Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 137/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 104/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 105/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341, 353; Criminal Law (Amendment) Act Section 7(1)(a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 59/2018, Illuppur (Ezhupur) Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 87/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 251/2019, Judicial Magistrate No. 1, Pudukkottai; FIR No. 26/2018, Ponnamaravathy Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 140/2018, Aranthangi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 11/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 97/2017, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 69/2017, Ponnamaravathy Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 294B, 341, 506(2); Prevention of Damage to Public Property Act Section 3",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "STC No. 250/2019, Judicial Magistrate No. 1, Pudukkottai; FIR No. 33/2017, Tirumayam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 341, 506(2)",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "STC No. 252/2019, Judicial Magistrate No. 1, Pudukkottai; FIR No. 32/2017, Tirumayam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 294B (printed as 295B in the ADR reproduction), 323, 506(1)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 332/2019, Judicial Magistrate No. 1, Pudukkottai; FIR No. 62/2011, Illuppur Police Station; charges framed: Yes, 1 December 2011; pending"
-    },
-    {
-     "ipc_sections": "Prevention of Corruption Act Section 13(2) read with 13(1)(e)",
-     "severity": "serious",
-     "severity_basis": "Charges under the Prevention of Corruption Act are expressly within the ADR serious-offence criteria.",
-     "case_description": "CMP Nos. 1216–1219/2006 cum SC No. 3/2006, Special Court for Vigilance and Anti-Corruption cum CJM, Pudukkottai; FIR No. 9/2002, DVAC, Pudukkottai; as declared, the candidate was discharged in this matter in 2013 and an appeal is pending (Supreme Court Criminal Appeals 613/2015 and 614/2015)"
-    }
-   ],
-   "education": "Graduate Professional — B.L., Law College, Chennai, University of Chennai, 1973",
-   "assets_current_inr": 153261761,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions."
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional",
+   "assets_current_inr": 260688193,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
   },
   {
    "name": "Siva V. Meyyanathan",
    "constituency": "Alangudi",
-   "total_cases": 29,
-   "serious_cases": 1,
-   "non_serious_cases": 28,
-   "charges": [
-    {
-     "ipc_sections": "CrPC Section 151",
-     "severity": "non-serious",
-     "severity_basis": "Preventive provision of the Code of Criminal Procedure, not a substantive offence; does not meet the ADR serious-offence criteria.",
-     "case_description": "Crime No. 328/2017, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 137/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 104/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 87/2018, Pudukkottai City Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 655/2017, Aranthangi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 1725/2020, Aranthangi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 353, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 505/2018, Aranthangi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "CrPC Section 151",
-     "severity": "non-serious",
-     "severity_basis": "Preventive provision of the Code of Criminal Procedure, not a substantive offence; does not meet the ADR serious-offence criteria.",
-     "case_description": "Crime No. 63/2017, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 219/2018, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 369/2017, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 662/2020, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 665/2020, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 80/2017, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 269, 283, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 437/2020, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 101/2018, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 348/2017, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 63/2018, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 341, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 755/2020, Alangudi Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 217/2017, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 433/2020, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 283, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 530/2020, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 505/2020, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 289/2020, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 32/2018, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 189, 294B, 253, 284, 448, 500, 504, 353",
-     "severity": "serious",
-     "severity_basis": "IPC Section 253 (possession of Indian coin known to be altered) is a non-bailable coinage offence — ADR serious criterion: non-bailable offences; ADR's own tally records one serious IPC charge for this candidate, arising from this case.",
-     "case_description": "Crime No. 32/2019, Keeramangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341, 283, 269",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 567/2020, Vadakadu Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 118/2018, Vadakadu Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 76/2017, Vadakadu Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341, 353; Criminal Law (Amendment) Act Section 7(1)(a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 59/2018, Illuppur Police Station; charges framed: No; pending"
-    }
-   ],
-   "education": "Post Graduate — MCA, Bharathidasan University, 1996",
-   "assets_current_inr": 13459578,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions. ADR's own tally records one serious IPC charge for this candidate (IPC Section 253, in the 25th case listed)."
-  },
-  {
-   "name": "T. Ramachandran",
-   "constituency": "Aranthangi",
-   "total_cases": 0,
-   "serious_cases": 0,
-   "non_serious_cases": 0,
-   "charges": [],
-   "education": "Graduate Professional — B.B.A., Western Michigan University, USA, 2014",
-   "assets_current_inr": 14251126,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3295",
-   "notes": "No criminal cases declared in the candidate's affidavit (MyNeta Crime-O-Meter: none). Declared cases are allegations, not convictions."
-  },
-  {
-   "name": "S. Mangudi",
-   "constituency": "Karaikudi",
-   "total_cases": 9,
-   "serious_cases": 5,
-   "non_serious_cases": 4,
-   "charges": [
-    {
-     "ipc_sections": "Tamil Nadu Open Places (Prevention of Disfigurement) Act Section 4(A)(1a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 102952/2015, Karaikudi court; Crime No. 206/2014, Karaikudi North Police Station; charges framed: Yes, 23 July 2019; pending"
-    },
-    {
-     "ipc_sections": "Tamil Nadu Open Places (Prevention of Disfigurement) Act Section 4(A)(1a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 102951/2015, Karaikudi court; Crime No. 207/2014, Karaikudi North Police Station; charges framed: Yes, 23 July 2019; pending"
-    },
-    {
-     "ipc_sections": "Tamil Nadu Open Places (Prevention of Disfigurement) Act Section 4(A)(1a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 102948/2015, Karaikudi court; Crime No. 225/2014, Karaikudi North Police Station; charges framed: Yes, 23 July 2019; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 323, 336, 427, 506(2)",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "Crime No. 570/2016, Karaikudi North Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 294B, 341, 506(2); TNPPDL Act Section 3(1)",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "Crime No. 114/2018, Karaikudi North Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 294B, 341, 506(2); TNPPDL Act Section 3(1)",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "Crime No. 115/2018, Karaikudi North Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 323, 294B, 506(2), 188, 270",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "CC No. 29/2021, Karaikudi court; Crime No. 329/2020, Karaikudi North Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 294B, 506(2); SC/ST (Prevention of Atrocities) Act Section 3(1) read with 3(1)(s)",
-     "severity": "serious",
-     "severity_basis": "Charges include IPC Section 506(ii) (up to 7 years) together with the SC/ST (Prevention of Atrocities) Act — ADR serious criteria.",
-     "case_description": "Crime No. 794/2020, Karaikudi North Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "CrPC Section 107",
-     "severity": "non-serious",
-     "severity_basis": "Preventive provision of the Code of Criminal Procedure, not a substantive offence; does not meet the ADR serious-offence criteria.",
-     "case_description": "Crime No. 42/2020, Devakottai Police Station; charges framed: No; pending"
-    }
-   ],
-   "education": "Graduate — B.Sc., Alagappa Arts College, Karaikudi, Madurai Kamaraj University, 1986–1989",
-   "assets_current_inr": 53887265,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "K. R. Periyakaruppan",
-   "constituency": "Tiruppattur (Sivaganga)",
-   "total_cases": 18,
-   "serious_cases": 5,
-   "non_serious_cases": 13,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 269, 270, 283, 290, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 582/2020, Tiruppattur Town Police Station; Judicial Magistrate-cum-District Munsif Court, Tiruppattur; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 294B, 506(I)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 502/2020, Kalaiyarkovil Police Station; Judicial Magistrate No. 1 Court, Sivagangai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 269, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 168/2020, Thirukostiyur Police Station; Judicial Magistrate-cum-District Munsif Court, Tiruppattur; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 20/2018, B3 Fort Police Station, Chennai; 7th Metropolitan Magistrate, George Town, Chennai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 1338/2018, Judicial Magistrate No. 1, Sivagangai; Crime No. 600/2017, Sivagangai Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341 (as declared, later altered to Sections 143, 341)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 141/2017, Tiruppattur Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341; Railways Act Section 174(a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 1339/2018, Judicial Magistrate No. 1, Sivagangai; Crime No. 58/2017, Sivagangai Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 909/2016, Sivagangai Taluk Police Station; Judicial Magistrate No. II, Sivagangai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 286, 290; Motor Vehicles Act Section 177",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 1462/2019, Judicial Magistrate No. 1, Sivagangai; Crime No. 134/2016, Tiruppattur Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 294B, 506(I)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 426/2019; Crime No. 132/2016, Tiruppattur Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188; Motor Vehicles Act Section 177",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 102/2016, Tiruppattur Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 294B, 307, 323, 324, 341, 506(II); TNPPDL Act Section 3",
-     "severity": "serious",
-     "severity_basis": "IPC Section 307 (attempt to murder) — ADR serious criterion: assault/murder offences punishable with 5 or more years.",
-     "case_description": "SC No. 23/2018, Principal District Court, Sivagangai; Crime No. 54/2016, Pallathur Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 120B, 147, 148, 188, 294B, 323, 506(II)",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "CC No. 424/2019, Judicial Magistrate No. 1, Sivagangai; Crime No. 52/2016, Thirukostiyur Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188; Motor Vehicles Act Section 177",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 35/2016, Thirukostiyur Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 148, 353; TNPPDL Act Section 3(i)",
-     "severity": "serious",
-     "severity_basis": "Tamil Nadu Public Property (Prevention of Damage and Loss) Act, Section 3, is punishable with imprisonment up to 5 years — counted serious under the ADR maximum-punishment criterion (borderline: exactly 5 years).",
-     "case_description": "PRC No. 32/2015, Judicial Magistrate-cum-District Munsif Court, Tiruppattur; Crime No. 397/2015, Tiruppattur Town Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 171(H)",
-     "severity": "serious",
-     "severity_basis": "Electoral offence (IPC Chapter IXA / Representation of the People Act) — ADR serious criterion: offences relating to elections.",
-     "case_description": "STC No. 1466/2019, Judicial Magistrate No. 1, Sivagangai; Crime No. 38/2012, S.V. Mangalam Police Station; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "Prevention of Corruption Act Section 13(2) read with 13(1)(c)",
-     "severity": "serious",
-     "severity_basis": "Charges under the Prevention of Corruption Act are expressly within the ADR serious-offence criteria.",
-     "case_description": "SC No. 83/2019, Principal District Court, Sivagangai; Crime No. 1/2012, Vigilance and Anti-Corruption, Sivagangai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188; Motor Vehicles Act Section 178(1)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 1465/2019, Judicial Magistrate No. 1, Sivagangai; Crime No. 14/2011, Thirukostiyur Police Station; charges framed: No; pending"
-    }
-   ],
-   "education": "Graduate — B.Com., New College, University of Madras, 1977–1980",
-   "assets_current_inr": 87031084,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "P. R. Senthilnathan",
-   "constituency": "Sivaganga",
-   "total_cases": 1,
-   "serious_cases": 1,
-   "non_serious_cases": 0,
-   "charges": [
-    {
-     "ipc_sections": "IPC 147, 148, 341, 294B, 506(ii); Prevention of Damage to Public Property Act Section 3",
-     "severity": "serious",
-     "severity_basis": "IPC Section 506(ii) (criminal intimidation by threat to cause death or grievous hurt) is punishable with imprisonment up to 7 years — ADR serious criterion: offences punishable with 5 or more years.",
-     "case_description": "SC No. 77/2019, Principal District Sessions Court, Sivaganga; Pallathur Police Station (as reproduced in ADR's Sitting MLAs report); pending"
-    }
-   ],
-   "education": "Graduate Professional",
-   "assets_current_inr": 72008344,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions. ADR's printed 'Serious IPC' tally for this candidate is 0; the case is classified serious here because IPC 506(ii) carries up to 7 years' imprisonment (see severity_basis). Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "A. Tamilarasi",
-   "constituency": "Manamadurai (SC)",
-   "total_cases": 8,
-   "serious_cases": 1,
-   "non_serious_cases": 7,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 341, 283, 290; Tamil Nadu City Police Act Section 71(A)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 690/2019, C2 Subramaniapuram Police Station, Madurai; FIR stage, Judicial Magistrate No. IV, Madurai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "CrPC Section 151",
-     "severity": "non-serious",
-     "severity_basis": "Preventive provision of the Code of Criminal Procedure, not a substantive offence; does not meet the ADR serious-offence criteria.",
-     "case_description": "Crime No. 451/2018, E3 Anna Nagar Police Station, Madurai; FIR stage, Judicial Magistrate No. IV, Madurai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 147, 188, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 432/2020, E3 Anna Nagar Police Station, Madurai; FIR stage, Judicial Magistrate No. IV, Madurai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 285, 290 (sections as printed in the ADR reproduction)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 331/2018, C4 Thilagar Thidal Police Station, Madurai; FIR stage, Judicial Magistrate No. II, Madurai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 290",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 52/2021, D2 Sellur Police Station, Madurai; FIR stage, Judicial Magistrate No. II, Madurai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "Prevention of Corruption Act Section 13(2), 13(1)(e)",
-     "severity": "serious",
-     "severity_basis": "Charges under the Prevention of Corruption Act are expressly within the ADR serious-offence criteria.",
-     "case_description": "SC No. 1/2019, Principal District Court, Madurai; Crime No. 8/2012, Vigilance and Anti-Corruption, Madurai; charges framed: Yes, 5 July 2016; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 270, 290",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 54/2021, D2 Sellur Police Station, Madurai; FIR stage, Judicial Magistrate No. II, Madurai; charges framed: No; pending"
-    },
-    {
-     "ipc_sections": "IPC 151, 269, 291, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "Crime No. 3/2021, South Gate Police Station, Madurai; FIR stage, Judicial Magistrate No. VI, Madurai; charges framed: No; pending"
-    }
-   ],
-   "education": "Graduate — B.Com., Madurai Kamaraj University, 1998",
-   "assets_current_inr": 21845568,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions."
-  },
-  {
-   "name": "P. Selvam",
-   "constituency": "Melur",
-   "total_cases": 0,
-   "serious_cases": 0,
-   "non_serious_cases": 0,
-   "charges": [],
-   "education": "Graduate",
-   "assets_current_inr": 19019770,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "No criminal cases declared in the candidate's affidavit (MyNeta Crime-O-Meter: none). Declared cases are allegations, not convictions. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "P. Moorthy",
-   "constituency": "Madurai East",
-   "total_cases": 3,
-   "serious_cases": 0,
-   "non_serious_cases": 3,
-   "charges": [
-    {
-     "ipc_sections": "IPC 147, 294B, 448, 506(1)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 521/2020, Oomachikulam Police Station; Judicial Magistrate No. V, Madurai; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 290",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 47/2020, Judicial Magistrate, Melur; FIR No. 576/2019, Othakkadai Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 256/2018, Tallakulam Police Station; Judicial Magistrate No. II, Madurai; pending"
-    }
-   ],
-   "education": "12th Pass",
-   "assets_current_inr": 113569676,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "A. Venkatesan",
-   "constituency": "Sholavandan (SC)",
-   "total_cases": 0,
-   "serious_cases": 0,
-   "non_serious_cases": 0,
-   "charges": [],
-   "education": "Graduate",
-   "assets_current_inr": 16361245,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "No criminal cases declared in the candidate's affidavit (MyNeta Crime-O-Meter: none). Declared cases are allegations, not convictions. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "G. Thalapathi",
-   "constituency": "Madurai North",
-   "total_cases": 12,
-   "serious_cases": 0,
-   "non_serious_cases": 12,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 341, 353, 291, 505(1)(b), 109; Tamil Nadu Open Places (Prevention of Disfigurement) Act Section 4(1)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "CC No. 1068/2020, Judicial Magistrate No. I, Madurai; FIR No. 1067/2019, B1 Vilakkuthoon Police Station; charges framed: Yes, 17 December 2020; pending"
-    },
-    {
-     "ipc_sections": "IPC 109, 120B, 143, 290, 341, 353",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "CC No. 651/2019; FIR No. 651/2019, B5 Southgate Police Station; quash petition Crl. O.P. 3376/2021 noted in the affidavit; pending"
-    },
-    {
-     "ipc_sections": "IPC 109, 120B, 143, 290, 341, 353",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "CC No. 66/2021; FIR No. 652/2019, B5 Southgate Police Station; quash petition Crl. O.P. 3374/2021 noted in the affidavit; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 291, 270",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 1189/2020, B5 Southgate Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 151, 269, 283",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 1184/2020, B6 Jaihindpuram Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 151, 269, 283",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 1491/2020, B6 Jaihindpuram Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 290, 269; Epidemic Diseases Act Section 3",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 711/2020, C1 Thideer Nagar Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 341 (printed as 841 in the ADR reproduction), 266, 290",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 690/2019, C2 Thideer Nagar Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 34; Railways Act Section 174(a)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 282/2018, C4 Thilagar Thidal Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 341, 143, 188",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 709/2018, E3 Anna Nagar Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 269, 290; Epidemic Diseases Act Section 3",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 4/2021, Nagamalai Pudukkottai Police Station; pending"
-    },
-    {
-     "ipc_sections": "IPC 269, 290; Epidemic Diseases Act Section 3",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 5/2021, Nagamalai Pudukkottai Police Station; pending"
-    }
-   ],
-   "education": "10th Pass",
-   "assets_current_inr": 135925170,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "M. Boominathan",
-   "constituency": "Madurai South",
-   "total_cases": 2,
-   "serious_cases": 0,
-   "non_serious_cases": 2,
-   "charges": [
-    {
-     "ipc_sections": "TNPPDL Act Section 4",
-     "severity": "non-serious",
-     "severity_basis": "Only Section 4 of the Tamil Nadu Public Property (Prevention of Damage and Loss) Act is cited, with no IPC sections; Section 4 (mischief) is graded below the 5-year threshold applied to Section 3 of the same Act — borderline call, counted non-serious; ADR also records Serious IPC 0 for this candidate.",
-     "case_description": "STC No. 26/2016, Judicial Magistrate No. IV, Madurai; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188; Madras City Police Act Section 74",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "STC No. 2404/2020, Judicial Magistrate No. VI, Madurai; pending"
-    }
-   ],
-   "education": "5th Pass",
-   "assets_current_inr": 70007388,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions. ADR records Serious IPC 0 for this candidate. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "Palanivel Thiagarajan",
-   "constituency": "Madurai Central",
-   "total_cases": 4,
-   "serious_cases": 0,
-   "non_serious_cases": 4,
-   "charges": [
-    {
-     "ipc_sections": "IPC 143, 270, 290; Epidemic Diseases Act Section 3",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 20/2021, D2 Sellur Police Station, Madurai; pending"
-    },
-    {
-     "ipc_sections": "IPC 151, 291, 270; Epidemic Diseases Act Section 3",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 16/2021, B1 Vilakkuthoon Police Station, Madurai; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 283, 290; Tamil Nadu City Police Act Sections 73, 71A(1)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 690/2019, C2 Subramaniapuram Police Station, Madurai; pending"
-    },
-    {
-     "ipc_sections": "IPC 143, 188, 341",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "FIR No. 870/2017, C3 SS Colony Police Station, Madurai; pending"
-    }
-   ],
-   "education": "Doctorate",
-   "assets_current_inr": 388953333,
-   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
-   "notes": "Charge details as declared in the candidate's ECI affidavit, reproduced in ADR's 'Tamil Nadu Assembly Election 2021 – Sitting MLAs Report' (ADR/MyNeta analysis). Declared cases are pending matters, not convictions. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
-  },
-  {
-   "name": "Sellur K. Raju",
-   "constituency": "Madurai West",
-   "total_cases": 1,
-   "serious_cases": 0,
-   "non_serious_cases": 1,
-   "charges": [
-    {
-     "ipc_sections": "Drugs and Cosmetics Act Section 18(c) read with Section 27(d)",
-     "severity": "non-serious",
-     "severity_basis": "Does not meet the ADR serious-offence criteria (no charge punishable with imprisonment of 5 years or more, no non-bailable offence, and no electoral, corruption, exchequer-loss or crime-against-women charge).",
-     "case_description": "CONVICTED: STC No. 1049/2008, Judicial Magistrate Court No. 2, Madurai; sentenced on 20 July 2010 to imprisonment till the rising of the court and a fine of Rs 1,500, as declared in the affidavit"
-    }
-   ],
-   "education": "Graduate — B.Sc. (Chemistry), Thiyagarajar College, Madurai Kamaraj University, 1973–76",
-   "assets_current_inr": 64904706,
-   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=110",
-   "notes": "Charge details from the candidate's ECI affidavit as published by MyNeta (ADR). Declared cases are pending matters, not convictions. The declared case ended in a conviction, as declared in the affidavit itself."
-  },
-  {
-   "name": "V. V. Rajan Chellappa",
-   "constituency": "Thiruparankundram",
    "total_cases": 0,
    "serious_cases": 0,
    "non_serious_cases": 0,
    "charges": [],
    "education": "Post Graduate",
-   "assets_current_inr": 65433366,
-   "source_url": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default",
-   "notes": "No criminal cases declared in the candidate's affidavit (MyNeta Crime-O-Meter: none). Declared cases are allegations, not convictions. Education shown is the MyNeta category; the detailed education string from the affidavit was not captured."
+   "assets_current_inr": 32387043,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "J. Mohamed Farvas",
+   "constituency": "Aranthangi",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "BNS 189(2), 285",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful-assembly/public-nuisance sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "STC No. 72/2026, Criminal Judicial Magistrate Court 1; FIR 0251/2025, City Police Station, Pudukkottai; charges not framed"
+    }
+   ],
+   "education": "Graduate Professional — B.A., L.L.B.,(Hons) National Law School, 2014-2019",
+   "assets_current_inr": 95577280,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=979",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Dr. T. K. Prabhu",
+   "constituency": "Karaikudi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate",
+   "assets_current_inr": 113983087,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "R. Seenivasa Sethupathy",
+   "constituency": "Tiruppattur (Sivaganga)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate",
+   "assets_current_inr": 19023335,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions. This is the Tiruppattur seat in Sivaganga district (spelled TIRUPPATHUR on myneta), won by a reported margin of 1 vote; not the Tiruppattur seat in Tirupathur district."
+  },
+  {
+   "name": "A. Kulanthai Rani",
+   "constituency": "Sivaganga",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate",
+   "assets_current_inr": 16003657,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "D. Elangovan",
+   "constituency": "Manamadurai (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate",
+   "assets_current_inr": 1214400,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "P. Viswanathan",
+   "constituency": "Melur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 153",
+     "severity": "non-serious",
+     "severity_basis": "IPC 153 (wantonly giving provocation) carries under 5 years and is not in an ADR serious category",
+     "case_description": "CC.No.1062/2023, Judicial First Class Magistrate No. 1, Kannur, Kerala; FIR Crime No. 891/2023, Kannur Town Police Station, Kerala; charges not framed"
+    }
+   ],
+   "education": "Graduate — B.A. Degree From Madras University on March 1989",
+   "assets_current_inr": 36370840,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1193",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Karthikeyan",
+   "constituency": "Madurai East",
+   "total_cases": 3,
+   "serious_cases": 2,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 120B, 420, 467, 468, 471",
+     "severity": "serious",
+     "severity_basis": "IPC 420 (up to 7 years), IPC 467 (up to life) and IPC 468 (up to 7 years) — cheating/forgery offences in ADR serious categories",
+     "case_description": "Judicial Magistrate-I, Madurai District Court; FIR Crime No. 26/2024, Central Crime Branch, Madurai City; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 294b, 323, 506(i)",
+     "severity": "non-serious",
+     "severity_basis": "Rioting/hurt sections as classified by ADR/myneta; no section falls in an ADR serious category",
+     "case_description": "Judicial Magistrate Court, Thirumangalam, Madurai District; FIR Crime No. 347/2008, Austinpatti Police Station; charges framed 21 November 2025"
+    },
+    {
+     "ipc_sections": "IPC 399, 402",
+     "severity": "serious",
+     "severity_basis": "IPC 399: making preparation to commit dacoity (up to 10 years) and IPC 402 (up to 7 years) carry 5+ years",
+     "case_description": "Judicial Magistrate-VI, Madurai District Court; FIR Crime No. 309/2003, Avaniapuram Police Station, Madurai City; charges framed 9 June 2006"
+    }
+   ],
+   "education": "Graduate Professional",
+   "assets_current_inr": 73106112,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=948",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. V. Karuppaiah",
+   "constituency": "Sholavandan (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate",
+   "assets_current_inr": 32900000,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "A. Kallanai",
+   "constituency": "Madurai North",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "BNS 189(3), 126(2), 292",
+     "severity": "serious",
+     "severity_basis": "BNS 189(3): joining or continuing in an unlawful assembly after it has been commanded to disperse — treated as serious in the ADR/myneta classification",
+     "case_description": "FIR 265/2025, Madurai City V2 Avaniapuram Police Station; Judicial Magistrate Court-VI, Kanam; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 151, 269, 109",
+     "severity": "non-serious",
+     "severity_basis": "Public-order sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 1449/2020, C2 Subramaniapuram Police Station, Madurai City; Judicial Magistrate Court-IV, Kanam; charges not framed"
+    }
+   ],
+   "education": "Graduate — B.Com (CA), Saurashtra College, Madurai Kamaraj University, April 2005",
+   "assets_current_inr": 21275925,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=256",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. M. Gopison",
+   "constituency": "Madurai South",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate",
+   "assets_current_inr": 20331305,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "Madhar Badhurudeen",
+   "constituency": "Madurai Central",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass",
+   "assets_current_inr": 25930000,
+   "source_url": "https://myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default",
+   "notes": "Myneta Crime-O-Meter: no criminal cases declared. Declared cases are allegations, not convictions."
+  },
+  {
+   "name": "S. R. Thangapandi",
+   "constituency": "Madurai West",
+   "total_cases": 3,
+   "serious_cases": 1,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "BNS 189(3), 126(2), 292",
+     "severity": "serious",
+     "severity_basis": "BNS 189(3): joining or continuing in an unlawful assembly after it has been commanded to disperse — treated as serious in the ADR/myneta classification",
+     "case_description": "FIR 265/2025, Madurai City, Avaniapuram Police Station; charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 126(2), 189(2), 270, 285, 292",
+     "severity": "non-serious",
+     "severity_basis": "Wrongful-restraint/unlawful-assembly/nuisance sections; no section carries 5+ years and none falls in an ADR serious category",
+     "case_description": "FIR 125/2025, T2 Sellur Police Station, Madurai; charges not framed"
+    },
+    {
+     "ipc_sections": "IPC 147, 294B; Section 4, Tamil Nadu Prohibition of Harassment of Women Act",
+     "severity": "non-serious",
+     "severity_basis": "IPC 147/294B and Section 4 of the Tamil Nadu Prohibition of Harassment of Women Act (maximum 3 years); not counted in ADR's serious-charge classification",
+     "case_description": "FIR 312/2019, Madurai City D2, Sellur Police Station; charges not framed"
+    }
+   ],
+   "education": "8th Pass — 8th Passed from Bharathiya Corporation Higher Secondary School, T.P Koil, Madurai in 1994",
+   "assets_current_inr": 24437257,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=951",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. Nirmalkumar",
+   "constituency": "Thiruparankundram",
+   "total_cases": 2,
+   "serious_cases": 2,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "BNS 105, 110, 125(b), 223; Section 3, Tamil Nadu Public Property (Prevention of Damage & Loss) Act, 1992",
+     "severity": "serious",
+     "severity_basis": "BNS 105: culpable homicide not amounting to murder (up to 10 years/life) and BNS 110: attempt to commit culpable homicide — ADR serious categories",
+     "case_description": "FIR 855/2025, Karur Town Police Station, transferred to the CBI (FIR No. RC2172025S0022 dated 18 October 2025, CBI/AC-II, New Delhi); charges not framed"
+    },
+    {
+     "ipc_sections": "BNS 192, 353(1)(b), 353(2)",
+     "severity": "serious",
+     "severity_basis": "BNS 353(2) falls in ADR's serious-charge classification for this affidavit",
+     "case_description": "FIR CCB 314/2024, Cyber Crime Branch, Chennai; charges not framed"
+    }
+   ],
+   "education": "Post Graduate",
+   "assets_current_inr": 262622612,
+   "source_url": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=956",
+   "notes": "Declared cases are pending matters, not convictions. Per-case detail is from ADR's Tamil Nadu 2026 winners annexure (drawn from the same affidavit myneta republishes); the candidate page's case table could not be fully extracted."
   }
  ]
 }
