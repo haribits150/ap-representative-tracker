@@ -1,0 +1,1156 @@
+{
+ "mps": [
+  {
+   "name": "Sasikanth Senthil",
+   "constituency": "Thiruvallur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional — Graduate, Bachelor of Engineering . REC trichy, Bharathidasan University-2000.",
+   "assets_current_inr": 22107297,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1464",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Kalanidhi Veeraswamy",
+   "constituency": "Chennai North",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — M.S. (General Surgery) From Sri Ramachandra Medical College, Tamil Nadu Dr.MGR Medical University, Year-1999 & M.Ch. (Plastic Surgery) From Stanley Medical College, Tamil Nadu Dr. MGR Medical University, Year-2001",
+   "assets_current_inr": 610614066,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1081",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Thamizhachi Thangapandian",
+   "constituency": "Chennai South",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Doctorate — Degree of Doctor of Philosophy (Ph.d.) University of Madras, Year 2010",
+   "assets_current_inr": 148658298,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=100",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Dayanidhi Maran",
+   "constituency": "Chennai Central",
+   "total_cases": 4,
+   "serious_cases": 4,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "case_description": "Cr. No. CR.No 1415/2020 Thudiyalur police station Coimbatore Dt.19.05.2020; CRL.O.P.No 7840 OF 2020 & CRL.O.P 7844 OF 2020; Honourable High court of Madras; charges not framed",
+     "ipc_sections": "Section-  3(1)(U), Sec- 3(1)(v)SC/ST Prevention of Atrocities Amendment Act- 2015",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act charges"
+    },
+    {
+     "case_description": "Cr. No. CR No 643/2020,\nVariety Hall Road Police Station Coimbatore City Dt.-18.05.2020; CRLO.P.No.7841OF 2020 & CRLO.P.No.7845 OF 2020; Honourable High court of Madras; charges not framed",
+     "ipc_sections": "Section- 3(1)(U), Sec- 3(1)(R)SC/ST Prevention of Atrocities Amendment Act- 2015",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act charges"
+    },
+    {
+     "case_description": "Cr. No. CR No 189/2020 CCB-I Chennai CCB\nDated 16-05-2020; charges not framed",
+     "ipc_sections": "Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act- 2015",
+     "severity": "serious",
+     "severity_basis": "SC/ST (Prevention of Atrocities) Act charges"
+    },
+    {
+     "case_description": "Cr. No. RC/DST/2013/A/0019/ CBI/STF/DLI SR.SUPDT of Police CBI/STF New Delhi Dt.-23.07.2013; C.C.No 10/2019; Sessions Judge Special Court No II for Trial of Cases Related to Members of Parliament an Members of Legislative Assembly of Tamilnadu Singara Velar Maligai Chennai; charges framed",
+     "ipc_sections": "IPC 409, 467, 471, 477A, 120B(1); Section- 13(2) 13(1)(C) Sec- 13(1)(D) of P.C Act 1988",
+     "severity": "serious",
+     "severity_basis": "IPC 409 criminal breach of trust (max life imprisonment); IPC 467 forgery of valuable security (max life imprisonment); IPC 477A falsification of accounts (max 7 years)"
+    }
+   ],
+   "education": "Graduate — HSLC at Don Bosco Matriculation higher scondary school Egmore Chennai completed in 1985 and Graduated in Bachelor of Arts Economics from Loyola College, Madras University Chennai completed in 1989",
+   "assets_current_inr": 170770037,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1043",
+   "notes": "Crime-O-Meter shows 4 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "T. R. Baalu",
+   "constituency": "Sriperumbudur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — B.Sc,University Of Madras,1989,Chennai",
+   "assets_current_inr": 457302056,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=184",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "G. Selvam",
+   "constituency": "Kancheepuram",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — M.Phil From Algappa University Karaikudi 2013",
+   "assets_current_inr": 23615126,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=134",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "S. Jagathrakshakan",
+   "constituency": "Arakkonam",
+   "total_cases": 2,
+   "serious_cases": 2,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "case_description": "Cr. No. 3/2016 CBCID -HQRS Head Quarter Chennai (This FIR has been quashed by the Honble High Court in Crl.O.P.No.12986 of 2020 vide order dated 23-09-2022)- As against the quashing of FIR, the Defacto Complainant filed SLP before the Supreme Court, wherein leave; The jurisdictional Magistrate is Judicial Magistrate Court Chengalpet No.1; charges not framed; appeal filed",
+     "ipc_sections": "IPC 420, 465, 467, 468, 471, 120B",
+     "severity": "serious",
+     "severity_basis": "IPC 420 cheating (max 7 years); IPC 467 forgery of valuable security (max life imprisonment); IPC 468 forgery for cheating (max 7 years)"
+    },
+    {
+     "case_description": "Cr. No. 2/2016 CBCID- HQRS- Head Quarter Chennai (This FIR has been quashed by the Honble High Court in Crl.O.P.No.12985 of 2020 vide order dated 23-09-2022) As against the quashing of FIR, the Defacto Complainant filed SLP before the Supreme Court, wherein leave; The jurisdictional Magistrate is Judicial Magistrate Court Chengalpet No.1; charges not framed; appeal filed",
+     "ipc_sections": "IPC 420, 465, 466, 467, 468, 471, 120B",
+     "severity": "serious",
+     "severity_basis": "IPC 420 cheating (max 7 years); IPC 466 forgery of court record (max 7 years); IPC 467 forgery of valuable security (max life imprisonment)"
+    }
+   ],
+   "education": "10th Pass — 11th From Government Higher Secondary School, Valudavur-605502 Board High School,1967",
+   "assets_current_inr": 534587828,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=533",
+   "notes": "Crime-O-Meter shows 2 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "D. M. Kathir Anand",
+   "constituency": "Vellore",
+   "total_cases": 5,
+   "serious_cases": 3,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "case_description": "Case CC. No. 344/2020, Re numbered on 20.11.2020 From CC. No. 499/2016; Judicial Magistrate No.1 Vellore; charges not framed; appeal filed",
+     "ipc_sections": "Section- 276-CC and 276-C(2) of the Income Tax Act 1961",
+     "severity": "serious",
+     "severity_basis": "Income Tax Act Sec 276C/276CC (max 7 years; loss to exchequer)"
+    },
+    {
+     "case_description": "Cr. No. 205/2019, Katpadi Police Station; C.C. No.382/2023; Judicial Magistrate No.1 Vellore; charges not framed",
+     "ipc_sections": "IPC 171B, 171E, 353, 341, 201, 109; Sec.125A(i) of Representation of Peoples Act 1951",
+     "severity": "serious",
+     "severity_basis": "electoral offence (IPC 171B) per ADR criteria; electoral offence (IPC 171E) per ADR criteria"
+    },
+    {
+     "case_description": "Cr. No. 112/2017,Katpadi Police Station; charges not framed",
+     "ipc_sections": "Section 151, Cr.P.C.",
+     "severity": "non-serious",
+     "severity_basis": "Preventive provision, not a penal charge"
+    },
+    {
+     "case_description": "Cr. No. 76/2017, Katpadi Police Station; charges not framed",
+     "ipc_sections": "Section 151, Cr.P.C.",
+     "severity": "non-serious",
+     "severity_basis": "Preventive provision, not a penal charge"
+    },
+    {
+     "case_description": "Cr. No. Cr. No. 9/2002, Directorate of Vigilance and ani Corruption; Special case No. 1/2004; Additional District and Sessions Judge, Vellore; charges framed; appeal filed",
+     "ipc_sections": "IPC 109, 471, 477, 34, 201; Section- 13(1)(d)(ii), 13(1)(e), 13(2) of the Prevention of Corruption Act-1988",
+     "severity": "serious",
+     "severity_basis": "IPC 477 (max 7 years); Prevention of Corruption Act charges"
+    }
+   ],
+   "education": "Post Graduate — MBA From Baldwin and Wallace College USA in Year 1997",
+   "assets_current_inr": 887965643,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=216",
+   "notes": "Crime-O-Meter shows 5 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "K. Gopinath",
+   "constituency": "Krishnagiri",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass — SSLC 1978",
+   "assets_current_inr": 123405500,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1531",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "A. Mani",
+   "constituency": "Dharmapuri",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. P1 Police Station Dharmapuri District; Crime No. 157/2019; Judicial Magistrate Court 1 Dharmapuri; charges not framed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Graduate Professional — B.L., Central Law College, Madras University, Salem 1993",
+   "assets_current_inr": 86564403,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=121",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "C. N. Annadurai",
+   "constituency": "Tiruvannamalai",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — B. Com From Pachaiyappas Arts College, Chennai University In 1995",
+   "assets_current_inr": 203686311,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1155",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "M. S. Tharaniventhan",
+   "constituency": "Arani",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass — 10 Class - Govt High School, Nelliyankulam",
+   "assets_current_inr": 17161977,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=703",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "D. Ravikumar",
+   "constituency": "Villupuram",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Doctorate — Bachelor of Arts - 1980, Bachelor Law., Annamalai University - 1984 Master of Arts Thanhavur, Tamil University - 2010 and Phd. Doctor Of Philosophy - Thanjavur Tamil University - 2018",
+   "assets_current_inr": 9787136,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=221",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "D. Malaiyarasan",
+   "constituency": "Kallakurichi",
+   "total_cases": 4,
+   "serious_cases": 0,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "case_description": "Cr. No. CC No. 2518/2020, Kallakurichi Police Station; Honble Criminal & Judicial Court Judge No. 1, Kallakurichi; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. CC No. 1950/2020, Kallakurichi Police Station; Honble Criminal & Judicial Court Judge No. 1, Kallakurichi; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. CC No. 357/2018, Aathur Police Station; STC 265/2020; Honble Criminal & Judicial Court Judge No. 1, Vilzhupuram; charges framed",
+     "ipc_sections": "Section 147, 174(a) Railway act",
+     "severity": "non-serious",
+     "severity_basis": "Railways Act minor provision: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. CC No. 422/2016, Thiyaga Thurugam Police Station; Honble Criminal & Judicial Court Judge No. 1, Kallakurichi; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — Diplomo in Co-operattion Cuddalore - May 1997. M.Com., (Banking and Insurance Management ) Annamalai University Annamalai Nagar , (Chithambaram) - 2020-2021",
+   "assets_current_inr": 8716980,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=133",
+   "notes": "Crime-O-Meter shows 4 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "T. M. Selvaganapathy",
+   "constituency": "Salem",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 569/2013 Veeranam PS; CC.230/2016; Judicial Magistrate court No.IV, Salem; charges framed",
+     "ipc_sections": "IPC 147, 148, 294B, 323, 506",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — M.A, Jawaharlal Nehru university, Delhi, 1981 and LLB Delhi university, 1985",
+   "assets_current_inr": 754021976,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=176",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "V. S. Matheswaran",
+   "constituency": "Namakkal",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "case_description": "Cr. No. 86/2016, Sendhamangalam Police Station, Namakkal Dist; STC No. 1812/2022; JM Court No.1 Namakkal; charges framed",
+     "ipc_sections": "IPC 294b, 323",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 149/2016, Valavandhinadu Police Station Namakkal Dist; charges not framed",
+     "ipc_sections": "IPC 294b, 323, 447, 427, 506(1)",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "CONVICTED — FIR 163/2016, Nallipalayam PS, Namakkal; STC No. 723/2018, JM Court No. 1, Namakkal; convicted 12 Jul 2018; fine Rs 250 imposed; altered charge sheet proceeded only under IPC 294(b)",
+     "ipc_sections": "IPC 294(b), 353, 355, 506(1) (charge sheet altered to 294(b) only)",
+     "severity": "non-serious",
+     "severity_basis": "IPC 294(b): max 3 months; no section carrying 5+ years"
+    }
+   ],
+   "education": "10th Pass — 10th Passed From Govt Higher Secondary School, Muthukapatty in the year 1988",
+   "assets_current_inr": 47297973,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=164",
+   "notes": "Crime-O-Meter shows 3 declared criminal cases: 2 pending plus 1 convicted (2018, fine Rs 250). Pending cases are declared/pending only — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "K. E. Prakash",
+   "constituency": "Erode",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate — B.A (Eco) College of Arts and Science College Gobichettipalayam 1996",
+   "assets_current_inr": 100426890,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=127",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "K. Subbarayan",
+   "constituency": "Tiruppur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 592/2018, C2 Race Course Police Station, Coimbatore; STC No.4306/2021; Criminal Justice-1, Court; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "10th Pass — SSLC From K.Subramania Chettiar High School, Tiruppur 1965",
+   "assets_current_inr": 10431271,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=204",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "A. Raja",
+   "constituency": "Nilgiris",
+   "total_cases": 7,
+   "serious_cases": 2,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "case_description": "Case FPA-PMLA-6239/CHN/2023 against the attachment order of ECIR/CEZO-11/01/2019 registered by Deputy Director of Enforcement Chennai Zone in Money Laundering Tribunal, New Delhi; charges not framed",
+     "ipc_sections": "IPC 3, 4",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. RC MAI 2015 A 0037 dated 18.08.2015-CBI/ACB/Chenai; CC 23 of 2022; Special Court II, Additional Special Judge for Trial of criminal cases related to elected MP, MLAs. Tamil Nadu, Chennai; charges not framed",
+     "ipc_sections": "IPC 109; U/s 13 (2) r/w 13 (1) (e) of Prevention of Corruption Act 1988 under section 13 (2) r/w 13(1) e of prevention of Corruption Act",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act charges"
+    },
+    {
+     "case_description": "Cr. No. ECIR No/ECIR/CEZO-11/01/2019 dated 11.01.2019, Deputy Director of Enforcement Chennai Zone; charges not framed",
+     "ipc_sections": "IPC 3, 4",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 811/2018 dated 07.12.2018, Perambalur Police Station; charges not framed",
+     "ipc_sections": "IPC 503, 504, 505(1), 506(1)",
+     "severity": "non-serious",
+     "severity_basis": "Speech/public-order sections (IPC 153A/295A/505 type, max 3 years): no section carrying 5+ years (borderline — outside ADR serious categories)"
+    },
+    {
+     "case_description": "Cr. No. 126/2018 dated 05.04.2018, Ariyalur Police Station; STC No.348/2018,; Judicial Magistrate No 1, Ariyalur; charges not framed",
+     "ipc_sections": "IPC 143, 188, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. ECIR/31/DZ/2010 dated 09.03.2010, PS. Directorate of Enforcement, Delhi Zone, New Delhi; CC 1/2014; In the court of Sh. OP. Saini, Special Judge CBI -04/ PMLA (2G Spectrum Cases), Patiala House, New Delhi; charges framed; appeal filed",
+     "ipc_sections": "IPC 4",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. RC-DAI-2009-A-0045 dated 21.10.2009, P.S. CBI, ACB, New Delhi; CC 1/2011; Sh. O.P Saini, Special Judge CBI-04/ PMLA (2G Spectrum Cases), Patiala House, New Delhi; charges framed; appeal filed",
+     "ipc_sections": "IPC 120B, 420, 409, 468, 471, 193; Sec. 7 or in the alternatives 11, 12 and 13(1)(d) of PC Act",
+     "severity": "serious",
+     "severity_basis": "IPC 420 cheating (max 7 years); IPC 409 criminal breach of trust (max life imprisonment); IPC 468 forgery for cheating (max 7 years)"
+    }
+   ],
+   "education": "Graduate Professional — Bachelor of Law, Madurai Kamaraj University-1987, Bachelor of Science from Bharathidasan University in 1984",
+   "assets_current_inr": 69362170,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1167",
+   "notes": "Crime-O-Meter shows 7 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Ganapathi P. Rajkumar",
+   "constituency": "Coimbatore",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "CONVICTED — CC No. 3/2010 in Crime No. 382/2008, Judicial Magistrate No. II, Coimbatore; convicted 20 Jan 2011; fine Rs 200 imposed; appeal (CA No. 35/2011) dismissed 30 Jun 2011, fine confirmed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order sections: no section carrying 5+ years"
+    }
+   ],
+   "education": "Doctorate — Ph.D In Journalism & Mass Communication In 2015 From Bharathiar University, Coimbatore, M.A. In 1988 From PSG Collage of Arts & Science Collage, Coimbatore",
+   "assets_current_inr": 890397608,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1352",
+   "notes": "Crime-O-Meter shows 1 declared criminal case: 0 pending, 1 convicted (2011, fine Rs 200; appeal dismissed). myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "K. Eswarasamy",
+   "constituency": "Pollachi",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. Crime No. 1343/2020 Madathukulam Police Station Tiruppur (DT); STC No. 337/2021; District Munsif Cum Judicial Magistrate, Madathukulam; charges framed",
+     "ipc_sections": "IPC 353",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "10th Pass — SSLC (State Board of TamilNadu) and Bridge Course (Manommaniam Sundaranar University 2015)",
+   "assets_current_inr": 345276957,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=174",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "R. Sachithanandam",
+   "constituency": "Dindigul",
+   "total_cases": 9,
+   "serious_cases": 0,
+   "non_serious_cases": 9,
+   "charges": [
+    {
+     "case_description": "Cr. No. 1115/2021 City North Police Station, Dindigul; C.C. 80/2022, Cr.No. 1115/2021; J.M.2 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 283, 286",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 831/2021,  City North Police Station, Dindigul; STC. No. 1175/2023, CR No 831/2021; J.M. 2 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 283, 270",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 2484/2020, City North Police Station, Dindigul; C.C. 59/2022 CR No 2484/2020; J.M.2 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 283, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 2176/2020, City North Police Station, Dindigul; C.C. No. 66/2022, Cr.No. 2176/2020; J.M. 2, Dindigul; charges not framed",
+     "ipc_sections": "IPC 147, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 1385/2020, City West Police Station, Dindigul; STC. No. 2000/23 Cr. No. 1385/2020; J.M. 1 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 1083/2020, Thadicombu Police Station; C.C. No 273/2022, Cr. No. 1083/2020; J.M. 2 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 622/2018, City North Police Station; C.C. No 666/2021, Cr. No. 622/2018; J.M. 2 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 188, 341; Section 174(a) Railway Act 1989",
+     "severity": "non-serious",
+     "severity_basis": "Railways Act minor provision: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 427/2018,  City West Police Station; C.C. 5/2020, Cr. No. 427/2018; J.M.1 Dindigul; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 392/2023 Palani Nagar Police Station, Palani; charges not framed",
+     "ipc_sections": "IPC 143, 341, 283",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Graduate — B.Sc From GTN Arts College, Dindigul In 1987-1990",
+   "assets_current_inr": 2597479,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=834",
+   "notes": "Crime-O-Meter shows 9 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "S. Jothimani",
+   "constituency": "Karur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 20/2020, Puthanatham PS Trichy Dist; charges not framed",
+     "ipc_sections": "IPC 143, 341, 283, 153A(1), 505(1)",
+     "severity": "non-serious",
+     "severity_basis": "Speech/public-order sections (IPC 153A/295A/505 type, max 3 years): no section carrying 5+ years (borderline — outside ADR serious categories)"
+    }
+   ],
+   "education": "Post Graduate — M.Phil. from Annamalai university 2005",
+   "assets_current_inr": 15352373,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1264",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Durai Vaiko",
+   "constituency": "Tiruchirappalli",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — MBA from PSG College of Technology, Coimbatore In 1994",
+   "assets_current_inr": 359084317,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=196",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Arun Nehru",
+   "constituency": "Perambalur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — Master of Science in Civil Engineering From Bradley University, Illinois, United States of America, Year-2007",
+   "assets_current_inr": 816197502,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=16",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Thol. Thirumavalavan",
+   "constituency": "Chidambaram",
+   "total_cases": 7,
+   "serious_cases": 2,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "case_description": "Cr. No. Peraiyur Madurai; CC No.39/2021; DM Cum JM, Peraiyur Madurai; charges not framed; appeal filed",
+     "ipc_sections": "IPC 120B, 295A, 298, 500, 509; Sec.67 IT Act",
+     "severity": "serious",
+     "severity_basis": "IPC 509: crime against women"
+    },
+    {
+     "case_description": "Cr. No. 268/2019 Perampalur; STC-909/2023; JM.1 Perambalur; charges not framed",
+     "ipc_sections": "IPC 286; Sec. 4/[1] TNOPDL Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 24/2019 Ariyalur; STC-1064/2021; J.M.1, Ariyalur; charges not framed",
+     "ipc_sections": "IPC 143, 341, 171(1); Sec.3(5), 3-A TN Town Nuisance Act 1889",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 31/3014 Urulayanpett; CC No. 83/2018; JM.II Integrated Court Complex Puducherry; charges not framed",
+     "ipc_sections": "IPC 153A, 295, 504, 505",
+     "severity": "non-serious",
+     "severity_basis": "Speech/public-order sections (IPC 153A/295A/505 type, max 3 years): no section carrying 5+ years (borderline — outside ADR serious categories)"
+    },
+    {
+     "case_description": "Cr. No. 729/2012 Mamallapuram Chengalpatu; SC-23/2023; PDJ Chengalpattu; charges not framed",
+     "ipc_sections": "IPC 147, 447; Sec.3(1) TNPPDL Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 448/2003. Mayiladuthurai G.N Nagai District; SC-41/2022; J.M.I. Mayiladuthurai; charges not framed",
+     "ipc_sections": "IPC 147, 148, 188, 332, 307; Sec.31 of TNPPDL Act",
+     "severity": "serious",
+     "severity_basis": "IPC 307 attempt to murder"
+    },
+    {
+     "case_description": "Cr. No. 56/2018 Ammapet, G.N Thanjavur District; STC 114/2020; JM.1 Thanjavur; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Doctorate — Ph.D from Manonmaniam Sundaranar University, Tirunelveli 2018",
+   "assets_current_inr": 24455903,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=816",
+   "notes": "Crime-O-Meter shows 7 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "M. K. Vishnu Prasad",
+   "constituency": "Cuddalore",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "case_description": "Cr. No. 220/2011, Cheyyar PS Thiruvannamalai district; CC 570/2019, STC No 346/2011 Date 06/05/2011; Judicial Magistrate Court, Cheyyar Transferred to Judicial Magistarte No 1 Thiruvannamalai; charges framed",
+     "ipc_sections": "IPC 143, 188, 171F, 171C(2); Section 123(ii) of the Representation of Peoples Act. 1951",
+     "severity": "serious",
+     "severity_basis": "electoral offence (IPC 171F) per ADR criteria; electoral offence (IPC 171C) per ADR criteria"
+    }
+   ],
+   "education": "Graduate Professional — MBBS ( Bachelor of Medicine and Bachelor of Surgery), Madras Medical College - Chennai 1995",
+   "assets_current_inr": 251978580,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=554",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "R. Sudha",
+   "constituency": "Mayiladuthurai",
+   "total_cases": 10,
+   "serious_cases": 0,
+   "non_serious_cases": 10,
+   "charges": [
+    {
+     "case_description": "Cr. No. 557/2021, Date 04.10.2021, Central Madras, Anna Salai Chennai, District; CC No 794/2022; charges not framed",
+     "ipc_sections": "IPC 143, 269; Section 41 TNCP Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 2713/2020, Date 21.12.2020, Town North (Dindigal), Dindigal District; charges not framed",
+     "ipc_sections": "IPC 143, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 185/2019, Date 18.09.2019, Tiruppattur Town Police Station(Tiruppattur); charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 388/2022, Date 16.06.2022, Guindy Police Station Adayar Distt.; charges not framed",
+     "ipc_sections": "IPC 143, 151, 341, 353; Section 40(1) TN City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 219/23, Guindy Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 151, 285; Section 41(6) CP Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 140/23, Chintadripet Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 149; Section 41(6) CP Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 593/21, Nungambakkam Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269; Section 41 CP Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 1056/2020, Anna Salai Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269, 285",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 10/2024, Anna Salai Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 141; Section 41(6) TNCP Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 1730/2020 North Brach PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269; Section 41(IV) TNCP Act",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — PG Diploma in Juvenile Justice & Juvenile Psychology, University of Madras In 2019, B.A.B.L from Dr. Ambedkar Law College, University of Madras Chennai In 1994",
+   "assets_current_inr": 3862830,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1575",
+   "notes": "Crime-O-Meter shows 10 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "V. Selvaraj",
+   "constituency": "Nagapattinam",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. RPF/ Thanjavur Crime No 33/2017; CC No 07/2020; Spl. Judicial 1st Class Magistrate, (Railways) Thanjavur; charges not framed",
+     "ipc_sections": "Section 147, 174(a) R. Act 1989",
+     "severity": "non-serious",
+     "severity_basis": "Railways Act minor provision: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — MA From A. Veeraiya Vandaiyar Memorial Pushpam College, Thanjavur Road In 1989",
+   "assets_current_inr": 11062368,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=161",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "S. Murasoli",
+   "constituency": "Thanjavur",
+   "total_cases": 6,
+   "serious_cases": 0,
+   "non_serious_cases": 6,
+   "charges": [
+    {
+     "case_description": "Cr. No. C.No.965/2020 Nadukkavery Police Station, Thanjavur District; C.No.965/2020; charges not framed",
+     "ipc_sections": "IPC 143, 147, 341, 188, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. C.No.958/2020 Nadukkavery Police Station, Thanjavur District; C.No.958/2020; charges not framed",
+     "ipc_sections": "IPC 143, 147, 341, 188, 269, 270; Sec 4 (1) of TNOPPD Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. C.No.957/2020 Nadukkavery Police Station, Thanjavur District; C.No.957/2020; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269, 270, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. C.No.1467/2020, Ayyampettai PS, Thanjavur District; C.No.1467/2020,; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. C.No.48/2021, University PS, Thanjavur District; C.No.48/2021,; charges not framed",
+     "ipc_sections": "IPC 143, 341, 353, 269; Sec 3 (1) of TNPPDL Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. C.No.1307/2020 Thanjavur Taluk PS, Thanjavur District; C.No.1307/2020; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Graduate Professional — L.L.B- Dr,Ram Manohar Lohia College of Law, Bangalore, Bangalore university, 2008, B.sc.Rajas Serfoji Govt. Arts and Science college, 2001, 12th std, Rajahs Higher Secondary School, Thanjavur, 1997 and 10th std , private, 1194",
+   "assets_current_inr": 20734393,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1451",
+   "notes": "Crime-O-Meter shows 6 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "K. Navaskani",
+   "constituency": "Ramanathapuram",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 49/2019, Kamuthi Police Station; STC NO.2869/2022; Judicial Magistrate Court No.1, Ramanathapuram; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "12th Pass — Higher Secondary Board Examination in SBK Higher Secondary School Aruppukkottai Tamil Nadu in the year 1996",
+   "assets_current_inr": 761430420,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=234",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Karti P. Chidambaram",
+   "constituency": "Sivaganga",
+   "total_cases": 11,
+   "serious_cases": 10,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. RC-DAI-2011-A-0022\nCBI ACB, NEW Delhi; CBI/205/2019; Kaveri Baweja Special Judge PC Act. CBI - 09 (MPs/MLAs Cases), RADC; charges not framed",
+     "ipc_sections": "IPC 120B; Section 7, 12 and Section 13(2) r/w 13(1)(d) of Prevention of Corruption Act. 1988",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act charges"
+    },
+    {
+     "case_description": "Cr. No. RC 220 2017 E 0011 CBI/EOU.IV/EO-II, New Delhi; CBI/417/2019; Kaveri Baweja Special Judge PC Act. CBI - 09 (MPs/MLAs Cases), RADC; charges not framed",
+     "ipc_sections": "IPC 120B, 420, 468, 471; Section 9 & 13(2) r/w 13(1)(d) Prevention of Corruption Act. 1988",
+     "severity": "serious",
+     "severity_basis": "IPC 420 cheating (max 7 years); IPC 468 forgery for cheating (max 7 years); Prevention of Corruption Act charges"
+    },
+    {
+     "case_description": "Cr. No. ECIR/05/DZ/2012, Deputy Director, Directorate of Enforcement, Head Quarter office, New Delhi; CT. Case No. 18/2019; Kaveri Baweja Special Judge PC Act. CBI - 09 (MPs/MLAs Cases), RADC; charges not framed",
+     "ipc_sections": "Section 3/4 Prevention of Money Laundering Act. 2002",
+     "severity": "serious",
+     "severity_basis": "PMLA Sec 3/4 money laundering (max 7 years)"
+    },
+    {
+     "case_description": "Cr. No. ECIR/07/HUI/2017, Assistant Director/Joint Director (HIU), Directorate of Enforcement, Head Office, New Delhi; CT Case No. 08/2020; Kaveri Baweja Special Judge PC Act. CBI - 09 (MPs/MLAs Cases), RADC; charges not framed",
+     "ipc_sections": "Section 3/4 Prevention of Money Laundering Act. 2002",
+     "severity": "serious",
+     "severity_basis": "PMLA Sec 3/4 money laundering (max 7 years)"
+    },
+    {
+     "case_description": "Case E.O.C.No.266/2018 CC No 15/2019; Special Court No 1 for trail of the criminal cases related to MP/MLAs; charges not framed; appeal filed",
+     "ipc_sections": "Sections 276 C (1), 277and 278 of the Income Tax Act 196",
+     "severity": "serious",
+     "severity_basis": "Income Tax Act Sec 276C/276CC (max 7 years; loss to exchequer)"
+    },
+    {
+     "case_description": "Cr. No. RC 220 2022 E0006\n\nEOU-IV/EO-II New Delhi; charges not framed",
+     "ipc_sections": "IPC 120B, 477A; Section 8 and 9 of the Prevention of Corruption Act 1988",
+     "severity": "serious",
+     "severity_basis": "IPC 477A falsification of accounts (max 7 years); Prevention of Corruption Act charges"
+    },
+    {
+     "case_description": "Cr. No. ECIR/HIU-1/09/2022\nAssistant Director HIU-I Directorate of Enforcment Head Quarters Office, New Delhi; CT Case No 5/2024; Kaveri Baweja Special Judge PC Act. CBI - 09 (MPs/MLAs Cases), RADC; charges not framed",
+     "ipc_sections": "Section 3/4 Prevention of Money Laundering Act.",
+     "severity": "serious",
+     "severity_basis": "PMLA Sec 3/4 money laundering (max 7 years)"
+    },
+    {
+     "case_description": "Cr. No. No.50 of 2014 dated 25.03.2014.\nSub-Inspector of Police Station, Tiruppathur, Sivagangai Dt.; 03 of 2014; Judicaial Magistrate Court, Tirupaathur; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 2172015A0111, CBI AC-II, New Delhi; Final Report 1 daed 01/06/2018; Additional Chief Judicial Magistrate Court, CBI CASES, Jaipur; charges not framed",
+     "ipc_sections": "IPC 120B, 420, 467, 468, 471",
+     "severity": "serious",
+     "severity_basis": "IPC 420 cheating (max 7 years); IPC 467 forgery of valuable security (max life imprisonment); IPC 468 forgery for cheating (max 7 years)"
+    },
+    {
+     "case_description": "Cr. No. ECIR/01/HIU/2015 Assistant Director, (PMLA) HIU Directorate of Enforcement, New Delhi; charges not framed",
+     "ipc_sections": "Section 3/4 Prevention of Money Laundering Act 2002",
+     "severity": "serious",
+     "severity_basis": "PMLA Sec 3/4 money laundering (max 7 years)"
+    },
+    {
+     "case_description": "Case CC No.4484/2018; Chief Metropolitan Magistrate Egmore, Chennai; charges not framed; appeal filed",
+     "ipc_sections": "Section 50 Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act of 2015",
+     "severity": "serious",
+     "severity_basis": "Black Money Act Sec 50 (max 10 years; loss to exchequer)"
+    }
+   ],
+   "education": "Graduate Professional — Bachelor of Arts (Law) from Cambridge University, U.K 1995 & BBA From University of Texas, Austin, U.S.A., Year-1993",
+   "assets_current_inr": 962744048,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=181",
+   "notes": "Crime-O-Meter shows 11 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Thanga Tamilselvan",
+   "constituency": "Theni",
+   "total_cases": 17,
+   "serious_cases": 0,
+   "non_serious_cases": 17,
+   "charges": [
+    {
+     "case_description": "Cr. No. Crime No 887/2020, Rayapanpatti, Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269, 283, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 810/2020, Rayapanpatti Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269, 283, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 809/2020, Rayapanpatti Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269, 283, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime no 61/2022, Bodinayakanur Town Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269; Section- 3 of ED Act; Sec. 4A (1a) of TNOPPD Act; 51 of DM Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 49/2022, Bodinayakanur Town Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269; Section- 3 of ED Act; Sec. 4A (1a) of TNOPPD Act; Sec. 51 of DM Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime no 48/2022, Bodinayakanur Town Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269; Section- 3 of ED Act; Sec. 4A (1a) of TNOPPD Act; Sec. 51 of DM Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 323/2019, Bodinayakanur Town Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 286, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime no 87/2021, Bodinayakanur Taluk Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 77/2021, Bodinayakanur Taluk Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269, 283, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime no 9/2021, Bodinayakanur Taluk Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 8/2021, Bodinayakanur Taluk Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 2238/2020, Bodinayakanur Taluk Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 104/2011, Bodinayakanur Taluk Police Station; charges not framed",
+     "ipc_sections": "Section- 4AA (1a) of TNOPPD Act",
+     "severity": "non-serious",
+     "severity_basis": "TN public-property-damage statute (5-year max — borderline, not over 5): no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 57/2022, Theni Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 269, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 720/2018, Andipatti Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 205/2016, Andipatti Police Station; charges not framed",
+     "ipc_sections": "IPC 143, 188, 286; Section- 179, 201(1) MV Act",
+     "severity": "non-serious",
+     "severity_basis": "IPC 201 depends on the underlying offence (not stated) — borderline; no other section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. Crime No 67/2021, Palanichettipatti Police Station; charges not framed",
+     "ipc_sections": "IPC 447",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — MA., Socialogy, Chennai University 1989",
+   "assets_current_inr": 49850594,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1225",
+   "notes": "Crime-O-Meter shows 17 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "S. Venkatesan",
+   "constituency": "Madurai",
+   "total_cases": 3,
+   "serious_cases": 1,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "case_description": "Cr. No. 474/2019, D1 Thallakulam (S&O), Madurai, Municipality; Crmp 3596/2021; Criminal Justice Arbitration Court No. II (JM2), Madurai; charges not framed",
+     "ipc_sections": "IPC 143, 171H; Section 179 MV Act",
+     "severity": "serious",
+     "severity_basis": "electoral offence (IPC 171H) per ADR criteria"
+    },
+    {
+     "case_description": "Case CC 3066/2024; 42, Additional Chief Metropolitan Magistrate, Bengaluru; charges not framed",
+     "ipc_sections": "IPC 153, 298, 500",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Case WP (Civil) 1001/2023; Honble Supreme Court, New Delhi; charges not framed",
+     "ipc_sections": "Writ Petition (C) 1001/2023 — no IPC sections listed",
+     "severity": "non-serious",
+     "severity_basis": "Civil writ petition before the Supreme Court (filed by Jagannath B); not a criminal charge"
+    }
+   ],
+   "education": "12th Pass — +2 (Higher Secondary) Muthukula Thevar Higher Secondary School, Thiruparangkundram 1988",
+   "assets_current_inr": 20536639,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1568",
+   "notes": "Crime-O-Meter shows 3 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "B. Manickam Tagore",
+   "constituency": "Virudhunagar",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 143/11, Tirunagar Police Station, Madurai District, Tamilnadu; CC No.197/2011, CC No.787/2019; Judicial Magistrate Court No.VI, Madurai transferred to Judicial Magistrate Court; charges framed",
+     "ipc_sections": "IPC 143, 188, 294b, 353, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Graduate Professional — LLB from Bangalore University in 1998",
+   "assets_current_inr": 61719802,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=230",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Kanimozhi Karunanidhi",
+   "constituency": "Thoothukkudi",
+   "total_cases": 2,
+   "serious_cases": 2,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "case_description": "Cr. No. 01/14 ECIR No.31/DZ/2010 \nEnforcement Department New Delhi; CC 1/2014; Special Court Judge Mr O P Saini 2G Cases Patiala House New Delhi; charges framed; appeal filed",
+     "ipc_sections": "Sec. 3, r/w  4 Prevention of Unlawful Money Transfer Act",
+     "severity": "serious",
+     "severity_basis": "money-laundering charge under ED ECIR case (statute as named on myneta; Sec 4 max 7 years)"
+    },
+    {
+     "case_description": "Cr. No. RC DAI.A 0045 Date 21.10.2009\nInvestigation Department Police Station CBICG Complex New Delhi; CC 1/2011; Special Court Judge Mr O P Saini 2G Cases Patiala House New Delhi; charges framed; appeal filed",
+     "ipc_sections": "IPC 120B, 420, 409, 468, 471, 193; Sec. 7 or 11,12,13(2) 13(1)(d)  r/w Prevention of Corruption Act 1988",
+     "severity": "serious",
+     "severity_basis": "IPC 420 cheating (max 7 years); IPC 409 criminal breach of trust (max life imprisonment); IPC 468 forgery for cheating (max 7 years)"
+    }
+   ],
+   "education": "Graduate — Bachelor of Arts Gem Economics Ethiraj College for Women (Chennai University) in 1994",
+   "assets_current_inr": 604056590,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=566",
+   "notes": "Crime-O-Meter shows 2 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Rani Srikumar",
+   "constituency": "Tenkasi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate — M.D. (Anesthesiology) In 2019 & MBBS In 2006 from Dr. MGR Medical University",
+   "assets_current_inr": 21375000,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1440",
+   "notes": "Page states 'No criminal cases'. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "C. Robert Bruce",
+   "constituency": "Tirunelveli",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 187/2024, Thuckalay Police Station; Crime No. 187/2024; charges not framed",
+     "ipc_sections": "IPC 143, 341, 290",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — B.L. - Ambedkar Law University 1986, M.L. - Madras University 2023",
+   "assets_current_inr": 92662888,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1480",
+   "notes": "Crime-O-Meter shows 1 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  },
+  {
+   "name": "Vijay Vasanth",
+   "constituency": "Kanniyakumari",
+   "total_cases": 8,
+   "serious_cases": 0,
+   "non_serious_cases": 8,
+   "charges": [
+    {
+     "case_description": "Cr. No. 99/2023 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 290, 341",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 785/2021 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270, 283, 290, 341; Section 3-ED ACT 1897",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 74/2021 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270, 283, 290, 341, 71, 73; Section 3-ED ACT 1897",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 1053/2020 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270, 283, 290, 341; Section 71(XI), 73 TNCP ACT; Section 3 ED Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 507/2021 MARTHANDAM POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270; Section 3-ED ACT 1897",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 445/2021 VADASERI POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270, 283, 341; Section 3-ED ACT 1897",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 380/2021 NESAMONY NAGAR POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270; Section 3- ED ACT 1897",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    },
+    {
+     "case_description": "Cr. No. 186/2024 THUCKALAY POLICE STATION, KANNIYAKUMARI DISTRICT; charges not framed",
+     "ipc_sections": "IPC 143, 341, 290",
+     "severity": "non-serious",
+     "severity_basis": "Protest/public-order, traffic, simple hurt, or minor statutory violations: no section carrying 5+ years"
+    }
+   ],
+   "education": "Post Graduate — MA in International Business Administration from Regents Business School London 2006",
+   "assets_current_inr": 642730752,
+   "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=940",
+   "notes": "Crime-O-Meter shows 8 declared criminal case(s); 'Cases where Convicted' table shows 'No Cases'. All are declared/pending — no guilt implied. myneta.info does not show ADR's serious/non-serious split for this candidate."
+  }
+ ],
+ "collected_at": "2026-10-24",
+ "adr_serious_criteria": "Per ADR, \"serious criminal cases\" are: offences for which the maximum punishment is of five years or more; non-bailable offences; electoral offences (e.g. IPC Section 171E or bribery); offences related to losses to the exchequer; assault, murder, kidnap, or rape-related offences; those mentioned in Representation of the People Act (Section 8); offences under the Prevention of Corruption Act; and crimes against women.",
+ "adr_serious_criteria_source": "http://adrindia.org/node/91396",
+ "severity_method": "Serious/non-serious applied from ADR's published 'serious criminal cases' criteria (5+ years max punishment; electoral offences; corruption/loss to exchequer; heinous categories incl. murder/attempt/rape/kidnap; SC/ST POA Act; crimes against women) to the IPC/statute sections listed in each affidavit. myneta.info does not publish ADR's own per-candidate split, so this is a transparent mechanical application, not ADR's official label. Borderline calls are noted per charge. All cases are declared/pending unless stated convicted; none of this implies guilt."
+}

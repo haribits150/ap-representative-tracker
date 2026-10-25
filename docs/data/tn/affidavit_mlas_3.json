@@ -1,0 +1,1072 @@
+{
+ "mlas": [
+  {
+   "name": "T. Udhayasuriyan",
+   "constituency": "Sankarapuram",
+   "total_cases": 38,
+   "serious_cases": 0,
+   "non_serious_cases": 38,
+   "charges": [
+    {
+     "case_description": "Case 77/2017,Shankapuram P.s.; JM court sankarapuram; charges not framed",
+     "ipc_sections": "IPC 151",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 663/2017,Shankarpuram P.S.; JM court,Sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 200/2018, Shankarpuram P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1242/20ZO,Shankarpuram P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1399/2020, Shankarpuram  P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 147, 341, 270, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1445/2020, Shankarpuram P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 188, 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1446/2020, Shankarpuram  P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 188, 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1688/2020,Shankarpuram P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 147, 341, 270, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1691/2020,Shankarpuram P.S.; JM court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 147, 341, 270, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1713/2020,Shankarpuram P.S.; JM Court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 147, 341, 270, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1731/2020,Shankarpuram P.S.; JM Court, sankarapuram; charges not framed",
+     "ipc_sections": "IPC 143, 270, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 2307/2020,Ullundrupet. P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 2676/2020, Ullundrupet. P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1415/2020,E.K0TTAI PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 20/2018,FORT PSCR; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 358/2018,Salem RPF PS.; JM-1 COURT,VILLUPURAM; charges not framed",
+     "ipc_sections": "U/s -147,174(A) RAILWAYS ACT",
+     "severity": "non-serious",
+     "severity_basis": "Railways Act: minor statutory (trespass/nuisance/obstruction)"
+    },
+    {
+     "case_description": "Case 148/2017,KALLAKURICHI  PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 192/2016,KALLAKURICHI  PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 235",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 319/2017,KALLAKURICHI  PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 319/2017,KALLAKURICHI  PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 216/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 232/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 232/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 238/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 243/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 245/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 276/2018,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188, 283, 285",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1969/2020,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 2676/2020,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 2677/2020,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 2678/2020,KALLAKURICHI PS; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 240/2018,CHINNASALEM PS; charges not framed",
+     "ipc_sections": "IPC 147, 448, 294b, 353, 225, 506",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 60/2018,CHINNASALEM PS; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1220/2020,KACHIRAYAPALAYAM PS; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188; Sec- 51 of  DM Act.",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1328/2020,KACHIRAYAPALAYAM PS; charges not framed",
+     "ipc_sections": "IPC 341, 143, 188, 269; section- 3 OF ED Act; 51 of DM Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1329/2020,KACHIRAYAPALAYAM PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269; section- 3 OF ED Act; 51 of DM Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 1330/2020,KACHIRAYAPALAYAM PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 269; section- 3 OF ED Act; 51 of DM Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Case 52/2017,THIRUNAVALUR   PS; charges not framed",
+     "ipc_sections": "IPC 143, 188, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Graduate (B.Sc from Chennai Precidency college Madaras Univercity.Tamilnadu in 1986)",
+   "assets_current_inr": 88192627,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2011",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. Senthilkumar",
+   "constituency": "Kallakurichi (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (12th Std from Govt Higher Secondary School, Kallakurichi Board of Secondary Education Tamil Nadu in April 1993)",
+   "assets_current_inr": 5491198,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=450",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. Nallathambi",
+   "constituency": "Gangavalli (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "5th Pass (8th Class Fail from Panchayat Primary School Govindampalayam in 1978)",
+   "assets_current_inr": 5631971,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=409",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. P. Jayasankaran",
+   "constituency": "Attur (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Others (D.M.E Graduate Muthammal Polytechnic College 1991)",
+   "assets_current_inr": 56114528,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=67",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "G. Chitra",
+   "constituency": "Yercaud (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "5th Pass (5th From Elementry School, Vellore,Yercardu In 1991)",
+   "assets_current_inr": 16904643,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=310",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. Mani",
+   "constituency": "Omalur",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. Case no: 31/2021 Tholachampatti Police Station, Omalur Circle, Salem Dist.,; Judicial Criminal Judge Court Omalur; charges not framed",
+     "ipc_sections": "IPC 294b, 323, 324, 355, 506",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Graduate Professional (LLB Bengaluru University May 2007)",
+   "assets_current_inr": 49871511,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2655",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Sadhasivam",
+   "constituency": "Mettur",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. 408/05, Mettur Police Station, Salem; CC No. 4/2007; Criminal Arbitration Court-I Mettur, Salem Dist; charges framed",
+     "ipc_sections": "IPC 188, 353, 355, 294b",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 2/2018, Dharmapuri Land Crapping Police Station, Dharampuri District; charges not framed",
+     "ipc_sections": "IPC 120B, 420, 465, 467, 468, 471",
+     "severity": "serious",
+     "severity_basis": "IPC 420: max punishment 7 years (>5); IPC 467: max punishment 100 years (>5); IPC 468: max punishment 7 years (>5)"
+    }
+   ],
+   "education": "Post Graduate (M.A from Annamalai University In 2009)",
+   "assets_current_inr": 27812072,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1877",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Edappadi K. Palaniswami",
+   "constituency": "Edappadi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.Sc from Srivasavi College, Erode (Chennai University In 1976)",
+   "assets_current_inr": 67037269,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=88",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Sundararajan",
+   "constituency": "Sankari",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A from Tamilnadu Open University Chennai In 2019)",
+   "assets_current_inr": 30307813,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=175",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Arul Ramadas",
+   "constituency": "Salem (West)",
+   "total_cases": 7,
+   "serious_cases": 2,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "case_description": "Cr. No. B1 Town Police Station; Cr.No 1212/2008; charges not framed",
+     "ipc_sections": "IPC 147, 294b, 452, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 452: max punishment 7 years (>5)"
+    },
+    {
+     "case_description": "Cr. No. B1 Town Police Station; Cr.No- 132/2016; charges not framed",
+     "ipc_sections": "IPC 171H, 188",
+     "severity": "serious",
+     "severity_basis": "IPC 171H: electoral offence (illegal payments at elections) — ADR serious category; protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. B1 Town Police Station; Cr.No.24/2021; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. B1 Town Police Station; Cr.No.90/2021; charges not framed",
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. D4 Steel Plant Police Station; Cr.No.1265/2020; charges not framed",
+     "ipc_sections": "IPC 143, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. D2 Pallapatti Police Station; Cr.No.331/2013; charges not framed",
+     "ipc_sections": "IPC 147, 341, 188; Section-7(1)(a) CLA Act-1932",
+     "severity": "non-serious",
+     "severity_basis": "Criminal Law Amendment Act: public-order provision"
+    },
+    {
+     "case_description": "Cr. No. Salem RPF; Cr.No.379/2018; charges not framed",
+     "ipc_sections": "Section-147 & 174 (a) Railway Act 1989",
+     "severity": "non-serious",
+     "severity_basis": "Railways Act: minor statutory (trespass/nuisance/obstruction)"
+    }
+   ],
+   "education": "Graduate (B.Sc Chemistry From Vinayaga Mission University Ariyanoor, Salem In Year-2012)",
+   "assets_current_inr": 54304970,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=177",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. Rajendran",
+   "constituency": "Salem (North)",
+   "total_cases": 16,
+   "serious_cases": 1,
+   "non_serious_cases": 15,
+   "charges": [
+    {
+     "case_description": "Cr. No. Cr.No-246/2021, Annathanapatti PS Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 269, 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-1188/2020, Kichippalayam PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 269, 149, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-1183/2020, Alazhapuram PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 269, 143",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-1055/2020, Salem Town PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 269, 143",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-299/2018, Pallappatti PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-297/2018, Pallappatti PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-181/2018, Pallappatti PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-169/2017, Pallappatti PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "Sec.  . Act.",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-45/2017, Salem Town PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "Sec.  . Act.",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-457/2017, Salem Town PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "Sec.  . Act.",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-453/2017, Salem Town PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-534/2016, Suramangalam PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "Sec.  . Act.",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-512/2016, Salem Town PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "Sec.  . Act.",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-339/2015, Hasthampatti PS, Salem City; Magistrate Court; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-519/2013, Karippatti PS, Salem Rural; Session Court; charges not framed",
+     "ipc_sections": "IPC 147, 148, 341, 324, 307, 506",
+     "severity": "serious",
+     "severity_basis": "IPC 307: attempt to murder"
+    },
+    {
+     "case_description": "Cr. No. Cr.No-1383/2011, Salem Town PS, Salem City; Cr No 113/2011; JM No 1 Salem, Session Court; charges not framed",
+     "ipc_sections": "IPC 143, 341, 188; Sec. 7(1)(a) CRLA Act.",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Graduate Professional (Bachelor of Law from Government Law College, Trichi in 1983-1986, B.A. from Gurunanak College, Chennai in 1980-1983)",
+   "assets_current_inr": 26063861,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=184",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "E. Balasubramanian",
+   "constituency": "Salem (South)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.Com, Choudaswari College Salem 10 Chennai University 1977-80)",
+   "assets_current_inr": 35609566,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=179",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. Rajamuthu",
+   "constituency": "Veerapandi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A From Salem Saudeswari College University of Chennai in 1991)",
+   "assets_current_inr": 36450974,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2100",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. Mathiventhan",
+   "constituency": "Rasipuram (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (M D (General Medicine) from Mahathma Ganthi Medical Collage and Resesearsh Insitute, Pandicherry In 2013)",
+   "assets_current_inr": 52243724,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1998",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. Ponnusamy",
+   "constituency": "Senthamangalam (ST)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "8th Pass (9th from Kollimalai Vazhavanthinaadu high school (Pazhangudienar Undu Uraivida) In1966)",
+   "assets_current_inr": 7665424,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2014",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "P. Ramalingam",
+   "constituency": "Namakkal",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate (M.Com From Annamalai University Chidambaram, Year -1989)",
+   "assets_current_inr": 275560913,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1906",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Sekar",
+   "constituency": "Paramathi Velur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (SCSM Polytechnic collage moganoor -1990)",
+   "assets_current_inr": 22661492,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=573",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "E. R. Eswaran",
+   "constituency": "Tiruchengodu",
+   "total_cases": 5,
+   "serious_cases": 1,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "case_description": "Cr. No. 70/2011 Nallipalayam, Namakkal; charges not framed",
+     "ipc_sections": "IPC 147, 148, 341, 307; Section 3(1) of PPD Act",
+     "severity": "serious",
+     "severity_basis": "IPC 307: attempt to murder"
+    },
+    {
+     "case_description": "Cr. No. 450/13, Paramathi, Namakkal; charges not framed",
+     "ipc_sections": "IPC 147, 148, 294B, 323, 324, 506",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 1325/2020, Marandahalli, Dharmpuri; charges not framed",
+     "ipc_sections": "IPC 143, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 105/2021, Mallasamuthiram, Namakkal; charges not framed",
+     "ipc_sections": "IPC 151",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 439/2016 Namakkal; charges not framed",
+     "ipc_sections": "IPC 147, 188, 285, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Graduate Professional (Bachelor of Engineering (Mechanical Department)-1983 Government Engineering College, Salem/University of Madras)",
+   "assets_current_inr": 409477265,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=149",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "P. Thangamani",
+   "constituency": "Kumarapalayam",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass (PUC Failed from Erodu Arts Collage, Chennai University 1976-77)",
+   "assets_current_inr": 18681256,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=105",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "V. C. Chandhirakumar",
+   "constituency": "Erode (East)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "12th Pass (S.S.L.C - Studied in Sengunthar Higher Secondary School Erode - 1981-82)",
+   "assets_current_inr": 25593902,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=4388",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Muthusamy",
+   "constituency": "Erode (West)",
+   "total_cases": 9,
+   "serious_cases": 0,
+   "non_serious_cases": 9,
+   "charges": [
+    {
+     "case_description": "Cr. No. 6/2021, Vellode P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 271, 291; Sec.51(b) Disaster Management Act 2005",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 423/2020, Vellode P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 271, 291; Sec.51(b) Disaster Management Act 2005",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 1079/2020, Erode Taluk P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270; Sec.51(b) Disaster Management Act 2005 & Sec.4 of TNOPPD Act",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 382/2020, Vellode P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 271, 291; Sec.51(b) Disaster Management Act 2005",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 977/2020, Erode Town PS; STC No.309/2021; Judicial Magistrate No.1 of Erode; charges not framed",
+     "ipc_sections": "IPC 143, 269, 270; Sec.51(b) Disaster Management Act 2005",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 781/2020, Chithode P.S.; charges not framed",
+     "ipc_sections": "IPC 269, 270, 109; Sec.51(b) Disaster Management Act 2005 & Sec.3 of Epidemic Disease Act",
+     "severity": "non-serious",
+     "severity_basis": "Epidemic Diseases Act: minor statutory (borderline)"
+    },
+    {
+     "case_description": "Cr. No. 745/2020, Erode South P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 271, 291; Sec.51(b) Disaster Management Act 2005",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 59/2020, Erode North P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 341, 290",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 328/2017, Karumathampatti P.S.; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Post Graduate (M.A. From Sri Venkateswara University-1979)",
+   "assets_current_inr": 136862340,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1040",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "C. Saraswathi",
+   "constituency": "Modakkurichi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (M.B.B.S. From Madras University-1968 & D.C.H. From Madras University, Year-1972)",
+   "assets_current_inr": 118779515,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1879",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "N. Kayalvizhi",
+   "constituency": "Dharapuram (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate (B.Ed., Chennai University Chennai 1994, M.Com Year 1993)",
+   "assets_current_inr": 41707053,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=4053",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. P. Saminathan",
+   "constituency": "Kangayam",
+   "total_cases": 3,
+   "serious_cases": 1,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "case_description": "Cr. No. 2/2012, Tirupur PS; charges not framed",
+     "ipc_sections": "IPC 342, 294b, 323, 387, 420, 506, 120B",
+     "severity": "serious",
+     "severity_basis": "IPC 387: max punishment 7 years (>5); IPC 420: max punishment 7 years (>5)"
+    },
+    {
+     "case_description": "Cr. No. 745/2020, Kithodu PS; charges not framed",
+     "ipc_sections": "IPC 143, 271, 291",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 328/2017, Karumathampatti PS; charges not framed",
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Graduate (BA (Sociology) from P.S..G College of Arts & Science Coimbatore, April 1986)",
+   "assets_current_inr": 210797652,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=454",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Jayakumar",
+   "constituency": "Perundurai",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Others (DCM-Erode Cooperative Management Company -2001-2002)",
+   "assets_current_inr": 87219470,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=586",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. C. Karuppannan",
+   "constituency": "Bhavani",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass (SSLC from GBHSS Kavindapadi)",
+   "assets_current_inr": 181870779,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=371",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. G. Venkatachalam",
+   "constituency": "Anthiyur",
+   "total_cases": 9,
+   "serious_cases": 0,
+   "non_serious_cases": 9,
+   "charges": [
+    {
+     "case_description": "Cr. No. 5/2021,\nAnthiyur PS; charges not framed",
+     "ipc_sections": "IPC 271, 291",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 779/2020,\nAnthiyur PS; charges not framed",
+     "ipc_sections": "IPC 143, 269, 271, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 772/2020,\nAnthiyur Ps; charges not framed",
+     "ipc_sections": "IPC 143, 269, 271, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 719/2020,\nAnthiyur PS; charges not framed",
+     "ipc_sections": "IPC 143, 269, 271, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 612/2020,\nAnthiyur PS; charges not framed",
+     "ipc_sections": "IPC 271, 291",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 504/2020,\nAnthiyur PS; charges not framed",
+     "ipc_sections": "IPC 271, 291",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 502/2020,\nAnthiyur PS; charges not framed",
+     "ipc_sections": "IPC 271, 291",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 335/2017,\nAnthiyur PS; STC No.180/2018, Case renumbered as STC No.77/2020; Judicial Magistrate No.II Bhavani; charges framed",
+     "ipc_sections": "IPC 188, 290, 291, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. 190/2016,\nAnthiyur PS; STC No.167/2018 Case renumbered as STC No.306/20201; Judicial Magistrate No.I Erode; charges framed",
+     "ipc_sections": "IPC 143, 188, 285",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "10th Pass (10th std- Government Boys Hr.Sce.School-1975)",
+   "assets_current_inr": 42951409,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=801",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. A. Sengottaiyan",
+   "constituency": "Gobichettipalayam",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass (SSLC in Municipality Higher Secondary School,Gobichettipalayam in 1966)",
+   "assets_current_inr": 123914561,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=416",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. Bannari",
+   "constituency": "Bhavanisagar (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A. Tamil from Annamalai University, DDE, Chidambaram in 2009)",
+   "assets_current_inr": 2548917,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=876",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. Ganesh",
+   "constituency": "Udhagamandalam",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "case_description": "Cr. No. FIR No.8484177 Ooty Town Central,(B-1 Police station).Ooty; STC No.880/2919; Judicial Magistrate Court,Ooty; charges framed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "Post Graduate (M.A. Madras University 1988, LL.B.,K.N.Naga Gowda law University, Karnataka 2012, B.A. government Art College,Ooty,The Nilgiris 1986, +2 St.Anthony Higher Secondary School,Coonoor, the Nilgiris 1981, SSLC Government HIgher Secondary School, Melur Hosatty,)",
+   "assets_current_inr": 21567308,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2086",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Pon. Jayaseelan",
+   "constituency": "Gudalur (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate Professional (B.L. From Coimbatur Govt. Law College Dr. Ambedkar Law University, Year-2000)",
+   "assets_current_inr": 3110871,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1075",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. Ramachandran",
+   "constituency": "Coonoor",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "case_description": "Cr. No. Cr. No. 72/2013 Wellington Police Station; SC No. 15/2021; District Session Court, Ootacamund; charges framed",
+     "ipc_sections": "IPC 147, 148, 448, 332; Section 3(1) of TNPPDL Act.",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr. No. 729/2017 Ooty Town Central B1-Police Station; STC No. 1033/2018; Judicial Magistrate Court, Ootacamund; charges framed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Cr. No. 132/2016 Kotagiri Police Station; STC No. 877/2019; Judicial Magistrate Court, Kotagiri; charges framed",
+     "ipc_sections": "Section 4(A)(1)(b) of TNOPPD Act. 1959",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    }
+   ],
+   "education": "12th Pass (PUC from Govt. Arts and Science College, Udhagamandalam in 1969-1970)",
+   "assets_current_inr": 105441336,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=284",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. K. Selvaraj",
+   "constituency": "Mettupalayam",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B. A (Geogarphy) Government of arts and sciences, coimbatore-1981)",
+   "assets_current_inr": 10470989,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=118",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "P. Dhanapal",
+   "constituency": "Avanashi (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Post Graduate (Master Degree (History) From Salem Government Art College, Salem -1975 Year)",
+   "assets_current_inr": 49443148,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=68",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. N. Vijayakumar",
+   "constituency": "Tiruppur (North)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "5th Pass (6th Pass From Govt. Praimary School, Iyamkalipalayam)",
+   "assets_current_inr": 24287144,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2075",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "K. Selvaraj",
+   "constituency": "Tiruppur (South)",
+   "total_cases": 4,
+   "serious_cases": 0,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "case_description": "Cr. No. Tiruppur South Police Station ,175/2019; Criminals Court No.II; charges not framed",
+     "ipc_sections": "Sec.127(1) of R.P. Act",
+     "severity": "non-serious",
+     "severity_basis": "minor statutory provision"
+    },
+    {
+     "case_description": "Cr. No. Tiruppur South Police Station ,716/2019; Criminals Court No.II; charges not framed",
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Tiruppur North Police Station ,955/2016; Criminals Court No.I; charges framed",
+     "ipc_sections": "IPC 341, 147, 188, 285",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    },
+    {
+     "case_description": "Cr. No. Tiruppur North Police Station , 2462/2020; Criminals Court No.I; charges not framed",
+     "ipc_sections": "IPC 143, 188, 341, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "protest/public-order or minor sections; no section >5 yrs"
+    }
+   ],
+   "education": "5th Pass (5th From Vasavi School, Perumal Koil Street ,Tirupur In 1966)",
+   "assets_current_inr": 25357510,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=144",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. S. M. Anandan",
+   "constituency": "Palladam",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass (Beshap Upakarasamy Tirupur year 1979)",
+   "assets_current_inr": 79705395,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=567",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "V. P. Kandasamy",
+   "constituency": "Sulur",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Graduate (B.A. from University of Chennai, Sikkanna College of Arts and Sciences Tirupur in 1979)",
+   "assets_current_inr": 43893608,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=165",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "G. Arunkumar",
+   "constituency": "Kavundampalayam",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass (SSLC.Pioneer Mills Hr.Sec.Periyanaickenpalayam,Coimbatore.)",
+   "assets_current_inr": 36589365,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=491",
+   "notes": "Declared cases are pending matters, not convictions."
+  }
+ ]
+}

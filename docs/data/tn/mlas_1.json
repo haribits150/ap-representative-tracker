@@ -1,0 +1,5432 @@
+{
+ "mlas": [
+  {
+   "name": "T. J. Govindarajan",
+   "constituency": "Gummidipoondi",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 74880993,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 56.94,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 50938,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.84,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tiruvallur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Durai Chandrasekar",
+   "constituency": "Ponneri (SC)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 6671323,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1985"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1985"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1985"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.94,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 9689,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.68,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tiruvallur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. Chandran",
+   "constituency": "Tiruttani",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 44932385,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=728"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=728"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=728"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.72,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 29253,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 79.85,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tiruvallur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "V. G. Raajendran",
+   "constituency": "Thiruvallur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "ADR did not analyse this candidate: the affidavit available on the ECI website was unclear (ADR Sitting MLAs Report), and no myneta candidate data was available; disclosure fields are therefore null rather than estimated."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.27,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22701,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.91,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tiruvallur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. Krishnaswamy",
+   "constituency": "Poonamallee (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 131317837,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=599"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=599"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=599"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 56.72,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 94110,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 73.62,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tiruvallur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. M. Nasar",
+   "constituency": "Avadi",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 113357880,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=367"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=367"
+    },
+    "criminal_cases_declared": {
+     "value": 29,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=367"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.94,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 55275,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 67.96,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tiruvallur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Ganapathy",
+   "constituency": "Maduravoyal",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 8530700,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=533"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=533"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=533"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.29,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 31721,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 60.56,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Joseph Samuel",
+   "constituency": "Ambattur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 13801888,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1828"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1828"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1828"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.67,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 42146,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 62.52,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. Sudharsanam",
+   "constituency": "Madavaram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 372661072,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 22,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.04,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 57071,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 66.6,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. P. Shankar",
+   "constituency": "Thiruvottiyur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 45420547,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2052"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2052"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2052"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.34,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 37661,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 65.36,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "J. John Ebenezer",
+   "constituency": "Dr. Radhakrishnan Nagar",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1580302,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1013"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1013"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1013"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.2,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 42479,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 71.12,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "R. D. Sekar",
+   "constituency": "Perambur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 12891842,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=580"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=580"
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=580"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.53,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 54976,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 63.43,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. K. Stalin",
+   "constituency": "Kolathur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 88875339,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=504"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=504"
+    },
+    "criminal_cases_declared": {
+     "value": 47,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=504"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 60.86,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 70384,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 61.66,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. Vetriazhagan",
+   "constituency": "Villivakkam",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 232762681,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1783"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1783"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1783"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.83,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 37237,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 56.43,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "P. Sivakumar",
+   "constituency": "Thiru-Vi-Ka-Nagar (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 20516556,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1556"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1556"
+    },
+    "criminal_cases_declared": {
+     "value": 15,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1556"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 61.13,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 55013,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 60.93,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "I. Paranthamen",
+   "constituency": "Egmore (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 11246806,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1025"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1025"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1025"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.71,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 38768,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 61.75,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Idream R. Murthy",
+   "constituency": "Royapuram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 1121958217,
+     "source": "https://myneta.info/TamilNadu2021/index.php?action=summary&subAction=candidates_analyzed&sort=asset"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/TamilNadu2021/index.php?action=summary&subAction=candidates_analyzed&sort=asset"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/TamilNadu2021/index.php?action=summary&subAction=candidates_analyzed&sort=asset"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.16,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 27779,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 62.91,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "P. K. Sekar Babu",
+   "constituency": "Harbour",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 21054762,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=422"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=422"
+    },
+    "criminal_cases_declared": {
+     "value": 25,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=422"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 58.35,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 27274,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 57.83,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Udhayanidhi Stalin",
+   "constituency": "Chepauk-Thiruvallikeni",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 290777932,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=256"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=256"
+    },
+    "criminal_cases_declared": {
+     "value": 22,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=256"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 67.89,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 69355,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 58.7,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Ezhilan Naganathan",
+   "constituency": "Thousand Lights",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 11851770,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1563"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1563"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1563"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.88,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 24001,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 56.62,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. K. Mohan",
+   "constituency": "Anna Nagar",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2112099843,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.49,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 27445,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 57.71,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. M. V. Prabhakara Raja",
+   "constituency": "Virugampakkam",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 22276366,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2112"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2112"
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2112"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.97,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 18367,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 57.97,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Ma. Subramanian",
+   "constituency": "Saidapet",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "ADR did not analyse this candidate: the affidavit available on the ECI website was unclear (ADR Sitting MLAs Report), and no myneta candidate data was available; disclosure fields are therefore null rather than estimated."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.02,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 29408,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 57.46,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "J. Karunanithi",
+   "constituency": "Thiyagarayanagar",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 34408856,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2054"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2054"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2054"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.57,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 137,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 56.36,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Dha. Velu",
+   "constituency": "Mylapore",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "ADR did not analyse this candidate: the affidavit available on the ECI website was unclear (ADR Sitting MLAs Report), and no myneta candidate data was available; disclosure fields are therefore null rather than estimated."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.58,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 12633,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 56.71,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "JMH Aassan Maulaana",
+   "constituency": "Velachery",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 117841833,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1726"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1726"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1726"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.76,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 4352,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 56.17,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. Aravind Ramesh",
+   "constituency": "Sholinganallur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 285905344,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2022"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2022"
+    },
+    "criminal_cases_declared": {
+     "value": 22,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2022"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.18,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 35405,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 55.57,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "T. M. Anbarasan",
+   "constituency": "Alandur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 82572457,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info. Education is not stated in the sources used and is left null."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.12,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 40571,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 61.1,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chennai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Selvaperunthagai",
+   "constituency": "Sriperumbudur (SC)",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 275457744,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2028"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2028"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2028"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.65,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 10879,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.68,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Kanchipuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "I. Karunanithi",
+   "constituency": "Pallavaram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 10008315,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=209"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=209"
+    },
+    "criminal_cases_declared": {
+     "value": 12,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=209"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.49,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 37781,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 61.02,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. R. Raja",
+   "constituency": "Tambaram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 274169999,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=654"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=654"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=654"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.93,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 36824,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 59.9,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. Varalakshmi",
+   "constituency": "Chengalpattu",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 414445408,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "Others",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.64,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 26665,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 63.97,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. S. Balaji",
+   "constituency": "Thiruporur",
+   "party": "Viduthalai Chiruthaigal Katchi",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 31099633,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3846"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3846"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3846"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.44,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 1947,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 76.96,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. Babu",
+   "constituency": "Cheyyur (SC)",
+   "party": "Viduthalai Chiruthaigal Katchi",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 158917070,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=928"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=928"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=928"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.2,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 4042,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.75,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Maragatham Kumaravel",
+   "constituency": "Madurantakam (SC)",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 37609491,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=530"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=530"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=530"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.62,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 3570,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 81.97,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Chengalpattu"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Sundar",
+   "constituency": "Uthiramerur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 31557810,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=749"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=749"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=749"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.38,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 1622,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 80.83,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Kanchipuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "C. V. M. P. Ezhilarasan",
+   "constituency": "Kancheepuram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 71455672,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=453"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=453"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=453"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.77,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 11999,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.2,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Kanchipuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. Ravi",
+   "constituency": "Arakkonam (SC)",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 11574232,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=267"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=267"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=267"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.82,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 27169,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 75.41,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Ranipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. M. Munirathinam",
+   "constituency": "Sholingur",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 703268591,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3695"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3695"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3695"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.18,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 24878,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 80.6,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA. Note: the results table's stated margin (24,878) differs from the difference between the winner's and runner-up's tabulated votes (26,698); the table's stated margin is used."
+   },
+   "district_context": {
+    "districts": [
+     "Ranipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Durai Murugan",
+   "constituency": "Katpadi",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 308092291,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 6,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.71,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 746,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.43,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Vellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "R. Gandhi",
+   "constituency": "Ranipet",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 479413150,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.79,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 16498,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.63,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Ranipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "J. L. Eswarappan",
+   "constituency": "Arcot",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 131771131,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=819"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=819"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=819"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.52,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 19958,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 79.93,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Ranipet"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "P. Karthikeyan",
+   "constituency": "Vellore",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 176182388,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=752"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=752"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=752"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.86,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 9181,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.96,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Vellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. P. Nandakumar",
+   "constituency": "Anaikattu",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 260878527,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.11,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 6360,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.05,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Vellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "M. Jaganmoorthy",
+   "constituency": "Kilvaithinankuppam (SC)",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 13351510,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1279"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1279"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1279"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.57,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 10582,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 76.63,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Vellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "V. Amulu",
+   "constituency": "Gudiyatham (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 3375763,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1852"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1852"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1852"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.45,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 6901,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.94,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Vellore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "G. Sendhil Kumar",
+   "constituency": "Vaniyambadi",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 24029751,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=139"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=139"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=139"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.33,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 4904,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 75.93,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupathur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. C. Vilwanathan",
+   "constituency": "Ambur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 38635845,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=352"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=352"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=352"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.86,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 20232,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.59,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupathur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Devaraji",
+   "constituency": "Jolarpet",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 29704329,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1855"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1855"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1855"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.57,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 1091,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 81.52,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupathur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "A. Nallathambi",
+   "constituency": "Tiruppattur (Tirupathur)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 19536484,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2070"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2070"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2070"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.91,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 28240,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.72,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Tirupathur"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "T. M. Tamilselvam",
+   "constituency": "Uthangarai (SC)",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 4576885,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=140"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=140"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=140"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.96,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 28387,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.99,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Krishnagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "D. Mathiazhagan",
+   "constituency": "Bargur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 718767086,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.17,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 12614,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 79.64,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Krishnagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. Ashok Kumar",
+   "constituency": "Krishnagiri",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 3612824,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=102"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=102"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=102"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.38,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 794,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.92,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Krishnagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. P. Munusamy",
+   "constituency": "Veppanahalli",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 123538973,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.87,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 3054,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 81.38,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Krishnagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "Y. Prakaash",
+   "constituency": "Hosur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 78553505,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.65,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 12367,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.53,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Krishnagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "T. Ramachandran",
+   "constituency": "Thalli",
+   "party": "Communist Party of India",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 51896937,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "criminal_cases_declared": {
+     "value": 25,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 62.18,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 56226,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.23,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Krishnagiri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "K. P. Anbalagan",
+   "constituency": "Palacode",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 188304297,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info. Education is not stated in the sources used and is left null."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.28,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 28100,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 87.03,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Dharmapuri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "G. K. Mani",
+   "constituency": "Pennagaram",
+   "party": "Pattali Makkal Katchi",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 7323252,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=202"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=202"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=202"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.46,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 21186,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 85.22,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Dharmapuri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  },
+  {
+   "name": "S. P. Venkateshwaran",
+   "constituency": "Dharmapuri",
+   "party": "Pattali Makkal Katchi",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "The Tamil Nadu Legislative Assembly publishes a member directory and proceedings, but no per-MLA dataset of attendance, questions asked, debates participated in or private member bills; none was found as of October 2026."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's Member of Legislative Assembly Constituency Development Scheme (MLACDS) provides Rs.3 crore per constituency per year (Tamil Nadu Rural Development and Panchayat Raj Department: https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_details_view.php?tabular_content_id=NQ==&page_id=Ng==), but only state-wide aggregate figures are published; no per-MLA utilisation data is published, so all values are null."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 13597461,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=998"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=998"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=998"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from the candidate's 2021 election affidavit as analysed by ADR/myneta.info."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.6,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 26860,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 80.56,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election results (ECI data as tabulated on Wikipedia). No by-election was held in this constituency during the 2021-26 term; the 2021 winner is the sitting MLA."
+   },
+   "district_context": {
+    "districts": [
+     "Dharmapuri"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24"
+   }
+  }
+ ]
+}

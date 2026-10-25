@@ -1,0 +1,4080 @@
+{
+ "mandals": [
+  {
+   "ac_slug": "gummidipoondi",
+   "district": "Tiruvallur",
+   "mandal": "Gummidipoondi",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "gummidipoondi",
+   "district": "Tiruvallur",
+   "mandal": "Uthukottai",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "ponneri-sc",
+   "district": "Tiruvallur",
+   "mandal": "Ponneri",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "tiruttani",
+   "district": "Tiruvallur",
+   "mandal": "Pallipattu",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "tiruttani",
+   "district": "Tiruvallur",
+   "mandal": "RK Pet",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "tiruttani",
+   "district": "Tiruvallur",
+   "mandal": "Tiruttani",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "thiruvallur",
+   "district": "Tiruvallur",
+   "mandal": "RK Pet",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "thiruvallur",
+   "district": "Tiruvallur",
+   "mandal": "Tiruttani",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "thiruvallur",
+   "district": "Tiruvallur",
+   "mandal": "Tiruvallur",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "poonamallee-sc",
+   "district": "Tiruvallur",
+   "mandal": "Poonamallee",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "poonamallee-sc",
+   "district": "Tiruvallur",
+   "mandal": "Tiruvallur",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "poonamallee-sc",
+   "district": "Tiruvallur",
+   "mandal": "Uthukottai",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "avadi",
+   "district": "Tiruvallur",
+   "mandal": "Avadi",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "avadi",
+   "district": "Tiruvallur",
+   "mandal": "Poonamallee",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "maduravoyal",
+   "district": "Chennai",
+   "mandal": "Avadi",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "maduravoyal",
+   "district": "Chennai",
+   "mandal": "Maduravoyal",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "ambattur",
+   "district": "Chennai",
+   "mandal": "Ambattur",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "ambattur",
+   "district": "Chennai",
+   "mandal": "Avadi",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "madavaram",
+   "district": "Chennai",
+   "mandal": "Avadi",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "madavaram",
+   "district": "Chennai",
+   "mandal": "Madhavaram",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "madavaram",
+   "district": "Chennai",
+   "mandal": "Ponneri",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "madavaram",
+   "district": "Chennai",
+   "mandal": "Tiruvottiyur",
+   "pc": "Thiruvallur",
+   "pc_slug": "thiruvallur"
+  },
+  {
+   "ac_slug": "thiruvottiyur",
+   "district": "Chennai",
+   "mandal": "Tiruvottiyur",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "dr-radhakrishnan-nagar",
+   "district": "Chennai",
+   "mandal": "Perambur",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "dr-radhakrishnan-nagar",
+   "district": "Chennai",
+   "mandal": "Tondiarpet",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "perambur",
+   "district": "Chennai",
+   "mandal": "Perambur",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "kolathur",
+   "district": "Chennai",
+   "mandal": "Ayanavaram",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "villivakkam",
+   "district": "Chennai",
+   "mandal": "Ambattur",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "villivakkam",
+   "district": "Chennai",
+   "mandal": "Aminjikarai",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "thiru-vi-ka-nagar-sc",
+   "district": "Chennai",
+   "mandal": "Ayanavaram",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "thiru-vi-ka-nagar-sc",
+   "district": "Chennai",
+   "mandal": "Perambur",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "egmore-sc",
+   "district": "Chennai",
+   "mandal": "Egmore",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "egmore-sc",
+   "district": "Chennai",
+   "mandal": "Purasawalkam",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "royapuram",
+   "district": "Chennai",
+   "mandal": "Tondiarpet",
+   "pc": "Chennai North",
+   "pc_slug": "chennai-north"
+  },
+  {
+   "ac_slug": "harbour",
+   "district": "Chennai",
+   "mandal": "Tondiarpet",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "chepauk-thiruvallikeni",
+   "district": "Chennai",
+   "mandal": "Mylapore",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "thousand-lights",
+   "district": "Chennai",
+   "mandal": "Egmore",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "thousand-lights",
+   "district": "Chennai",
+   "mandal": "Mylapore",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "anna-nagar",
+   "district": "Chennai",
+   "mandal": "Aminjikarai",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "anna-nagar",
+   "district": "Chennai",
+   "mandal": "Purasawalkam",
+   "pc": "Chennai Central",
+   "pc_slug": "chennai-central"
+  },
+  {
+   "ac_slug": "virugampakkam",
+   "district": "Chennai",
+   "mandal": "Aminjikarai",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "virugampakkam",
+   "district": "Chennai",
+   "mandal": "Maduravoyal",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "virugampakkam",
+   "district": "Chennai",
+   "mandal": "Mambalam",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "saidapet",
+   "district": "Chennai",
+   "mandal": "Guindy",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "thiyagarayanagar",
+   "district": "Chennai",
+   "mandal": "Mambalam",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "mylapore",
+   "district": "Chennai",
+   "mandal": "Mylapore",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "velachery",
+   "district": "Chennai",
+   "mandal": "Guindy",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "velachery",
+   "district": "Chennai",
+   "mandal": "Velachery",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "sholinganallur",
+   "district": "Chennai",
+   "mandal": "Pallavaram",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "sholinganallur",
+   "district": "Chennai",
+   "mandal": "Sholinganallur",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "sholinganallur",
+   "district": "Chennai",
+   "mandal": "Tambaram",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "sholinganallur",
+   "district": "Chennai",
+   "mandal": "Vandalur",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "sholinganallur",
+   "district": "Chennai",
+   "mandal": "Velachery",
+   "pc": "Chennai South",
+   "pc_slug": "chennai-south"
+  },
+  {
+   "ac_slug": "alandur",
+   "district": "Chennai",
+   "mandal": "Alandur",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "sriperumbudur-sc",
+   "district": "Kanchipuram",
+   "mandal": "Kundrathur",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "sriperumbudur-sc",
+   "district": "Kanchipuram",
+   "mandal": "Poonamallee",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "sriperumbudur-sc",
+   "district": "Kanchipuram",
+   "mandal": "Sriperumbudur",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "pallavaram",
+   "district": "Chengalpattu",
+   "mandal": "Alandur",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "tambaram",
+   "district": "Chengalpattu",
+   "mandal": "Pallavaram",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "tambaram",
+   "district": "Chengalpattu",
+   "mandal": "Tambaram",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "tambaram",
+   "district": "Chengalpattu",
+   "mandal": "Vandalur",
+   "pc": "Sriperumbudur",
+   "pc_slug": "sriperumbudur"
+  },
+  {
+   "ac_slug": "chengalpattu",
+   "district": "Chengalpattu",
+   "mandal": "Chengalpattu",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "chengalpattu",
+   "district": "Chengalpattu",
+   "mandal": "Thiruporur",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "thiruporur",
+   "district": "Chengalpattu",
+   "mandal": "Chengalpattu",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "thiruporur",
+   "district": "Chengalpattu",
+   "mandal": "Thiruporur",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "thiruporur",
+   "district": "Chengalpattu",
+   "mandal": "Tirukalukundram",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "cheyyur-sc",
+   "district": "Chengalpattu",
+   "mandal": "Cheyyur",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "cheyyur-sc",
+   "district": "Chengalpattu",
+   "mandal": "Tirukalukundram",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "madurantakam-sc",
+   "district": "Chengalpattu",
+   "mandal": "Madurantakam",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "uthiramerur",
+   "district": "Kanchipuram",
+   "mandal": "Kancheepuram",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "uthiramerur",
+   "district": "Kanchipuram",
+   "mandal": "Uthiramerur",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "uthiramerur",
+   "district": "Kanchipuram",
+   "mandal": "Walajabad",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "kancheepuram",
+   "district": "Kanchipuram",
+   "mandal": "Kancheepuram",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "kancheepuram",
+   "district": "Kanchipuram",
+   "mandal": "Walajabad",
+   "pc": "Kancheepuram",
+   "pc_slug": "kancheepuram"
+  },
+  {
+   "ac_slug": "arakkonam-sc",
+   "district": "Ranipet",
+   "mandal": "Arakkonam",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "arakkonam-sc",
+   "district": "Ranipet",
+   "mandal": "Nemili",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "sholingur",
+   "district": "Ranipet",
+   "mandal": "Arakkonam",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "sholingur",
+   "district": "Ranipet",
+   "mandal": "Nemili",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "sholingur",
+   "district": "Ranipet",
+   "mandal": "Sholingur",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "sholingur",
+   "district": "Ranipet",
+   "mandal": "Walajah",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "katpadi",
+   "district": "Vellore",
+   "mandal": "K V Kuppam",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "katpadi",
+   "district": "Vellore",
+   "mandal": "Katpadi",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "katpadi",
+   "district": "Vellore",
+   "mandal": "Sholingur",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "katpadi",
+   "district": "Vellore",
+   "mandal": "Walajah",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "ranipet",
+   "district": "Ranipet",
+   "mandal": "Sholingur",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "ranipet",
+   "district": "Ranipet",
+   "mandal": "Walajah",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "arcot",
+   "district": "Ranipet",
+   "mandal": "Anaicut",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "arcot",
+   "district": "Ranipet",
+   "mandal": "Arcot",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "arcot",
+   "district": "Ranipet",
+   "mandal": "Kalavai",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "arcot",
+   "district": "Ranipet",
+   "mandal": "Vellore",
+   "pc": "Arakkonam",
+   "pc_slug": "arakkonam"
+  },
+  {
+   "ac_slug": "vellore",
+   "district": "Vellore",
+   "mandal": "Anaicut",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "vellore",
+   "district": "Vellore",
+   "mandal": "Vellore",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "anaikattu",
+   "district": "Vellore",
+   "mandal": "Anaicut",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "anaikattu",
+   "district": "Vellore",
+   "mandal": "Vellore",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "kilvaithinankuppam-sc",
+   "district": "Vellore",
+   "mandal": "Gudiyatham",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "kilvaithinankuppam-sc",
+   "district": "Vellore",
+   "mandal": "K V Kuppam",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "kilvaithinankuppam-sc",
+   "district": "Vellore",
+   "mandal": "Katpadi",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "kilvaithinankuppam-sc",
+   "district": "Vellore",
+   "mandal": "Pernambut",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "gudiyatham-sc",
+   "district": "Vellore",
+   "mandal": "Ambur",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "gudiyatham-sc",
+   "district": "Vellore",
+   "mandal": "Gudiyatham",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "gudiyatham-sc",
+   "district": "Vellore",
+   "mandal": "Pernambut",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "vaniyambadi",
+   "district": "Tirupathur",
+   "mandal": "Vaniyambadi",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "ambur",
+   "district": "Tirupathur",
+   "mandal": "Ambur",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "ambur",
+   "district": "Tirupathur",
+   "mandal": "Anaicut",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "ambur",
+   "district": "Tirupathur",
+   "mandal": "Vaniyambadi",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "ambur",
+   "district": "Tirupathur",
+   "mandal": "Vellore",
+   "pc": "Vellore",
+   "pc_slug": "vellore"
+  },
+  {
+   "ac_slug": "jolarpet",
+   "district": "Tirupathur",
+   "mandal": "Natrampalli",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "jolarpet",
+   "district": "Tirupathur",
+   "mandal": "Thirupathur",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "jolarpet",
+   "district": "Tirupathur",
+   "mandal": "Vaniyambadi",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "tiruppattur-sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Karaikudi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "tiruppattur-tirupathur",
+   "district": "Tirupathur",
+   "mandal": "Natrampalli",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "tiruppattur-sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Sigampunari",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "tiruppattur-tirupathur",
+   "district": "Tirupathur",
+   "mandal": "Thirupathur",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "tiruppattur-sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Thirupattur",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "uthangarai-sc",
+   "district": "Krishnagiri",
+   "mandal": "Pochampalli",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "uthangarai-sc",
+   "district": "Krishnagiri",
+   "mandal": "Uthangarai",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "bargur",
+   "district": "Krishnagiri",
+   "mandal": "Bargur",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "bargur",
+   "district": "Krishnagiri",
+   "mandal": "Krishnagiri",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "bargur",
+   "district": "Krishnagiri",
+   "mandal": "Pochampalli",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "krishnagiri",
+   "district": "Krishnagiri",
+   "mandal": "Bargur",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "krishnagiri",
+   "district": "Krishnagiri",
+   "mandal": "Krishnagiri",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "veppanahalli",
+   "district": "Krishnagiri",
+   "mandal": "Anchetty",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "veppanahalli",
+   "district": "Krishnagiri",
+   "mandal": "Bargur",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "veppanahalli",
+   "district": "Krishnagiri",
+   "mandal": "Denkanikottai",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "veppanahalli",
+   "district": "Krishnagiri",
+   "mandal": "Hosur",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "veppanahalli",
+   "district": "Krishnagiri",
+   "mandal": "Krishnagiri",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "veppanahalli",
+   "district": "Krishnagiri",
+   "mandal": "Shoolagiri",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "hosur",
+   "district": "Krishnagiri",
+   "mandal": "Hosur",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "hosur",
+   "district": "Krishnagiri",
+   "mandal": "Shoolagiri",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "thalli",
+   "district": "Krishnagiri",
+   "mandal": "Anchetty",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "thalli",
+   "district": "Krishnagiri",
+   "mandal": "Denkanikottai",
+   "pc": "Krishnagiri",
+   "pc_slug": "krishnagiri"
+  },
+  {
+   "ac_slug": "palacode",
+   "district": "Dharmapuri",
+   "mandal": "Karimangalam",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "palacode",
+   "district": "Dharmapuri",
+   "mandal": "Palacode",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "pennagaram",
+   "district": "Dharmapuri",
+   "mandal": "Karimangalam",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "pennagaram",
+   "district": "Dharmapuri",
+   "mandal": "Palacode",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "pennagaram",
+   "district": "Dharmapuri",
+   "mandal": "Pennagaram",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Dharmapuri",
+   "mandal": "Dharmapuri",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "dharmapuri",
+   "district": "Dharmapuri",
+   "mandal": "Nallampalli",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "pappireddippatti",
+   "district": "Dharmapuri",
+   "mandal": "Dharmapuri",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "pappireddippatti",
+   "district": "Dharmapuri",
+   "mandal": "Nallampalli",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "pappireddippatti",
+   "district": "Dharmapuri",
+   "mandal": "Pappireddipatti",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "harur-sc",
+   "district": "Dharmapuri",
+   "mandal": "Harur",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "harur-sc",
+   "district": "Dharmapuri",
+   "mandal": "Pappireddipatti",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "chengam-sc",
+   "district": "Tiruvannamalai",
+   "mandal": "Chengam",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "chengam-sc",
+   "district": "Tiruvannamalai",
+   "mandal": "Jamunamarathoor",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "chengam-sc",
+   "district": "Tiruvannamalai",
+   "mandal": "Thandarampet",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "tiruvannamalai",
+   "district": "Tiruvannamalai",
+   "mandal": "Kilpennathur",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "tiruvannamalai",
+   "district": "Tiruvannamalai",
+   "mandal": "Thandarampet",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "tiruvannamalai",
+   "district": "Tiruvannamalai",
+   "mandal": "Tiruvannamalai",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kilpennathur",
+   "district": "Tiruvannamalai",
+   "mandal": "Kilpennathur",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kilpennathur",
+   "district": "Tiruvannamalai",
+   "mandal": "Tiruvannamalai",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kalasapakkam",
+   "district": "Tiruvannamalai",
+   "mandal": "Chengam",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kalasapakkam",
+   "district": "Tiruvannamalai",
+   "mandal": "Chetpet",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kalasapakkam",
+   "district": "Tiruvannamalai",
+   "mandal": "Jamunamarathoor",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kalasapakkam",
+   "district": "Tiruvannamalai",
+   "mandal": "Kalasapakkam",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "kalasapakkam",
+   "district": "Tiruvannamalai",
+   "mandal": "Polur",
+   "pc": "Tiruvannamalai",
+   "pc_slug": "tiruvannamalai"
+  },
+  {
+   "ac_slug": "polur",
+   "district": "Tiruvannamalai",
+   "mandal": "Chetpet",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "polur",
+   "district": "Tiruvannamalai",
+   "mandal": "Kalasapakkam",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "polur",
+   "district": "Tiruvannamalai",
+   "mandal": "Polur",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "polur",
+   "district": "Tiruvannamalai",
+   "mandal": "Vandavasi",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "arani",
+   "district": "Tiruvannamalai",
+   "mandal": "Arni",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "arani",
+   "district": "Tiruvannamalai",
+   "mandal": "Cheyyar",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "arani",
+   "district": "Tiruvannamalai",
+   "mandal": "Vembakkam",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "cheyyar",
+   "district": "Tiruvannamalai",
+   "mandal": "Cheyyar",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "cheyyar",
+   "district": "Tiruvannamalai",
+   "mandal": "Vembakkam",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "vandavasi-sc",
+   "district": "Tiruvannamalai",
+   "mandal": "Vandavasi",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "gingee",
+   "district": "Villupuram",
+   "mandal": "Gingee",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "gingee",
+   "district": "Villupuram",
+   "mandal": "Melmalaiyanur",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "mailam",
+   "district": "Villupuram",
+   "mandal": "Gingee",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "mailam",
+   "district": "Villupuram",
+   "mandal": "Marakkanam",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "mailam",
+   "district": "Villupuram",
+   "mandal": "Melmalaiyanur",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "mailam",
+   "district": "Villupuram",
+   "mandal": "Tindivanam",
+   "pc": "Arani",
+   "pc_slug": "arani"
+  },
+  {
+   "ac_slug": "tindivanam-sc",
+   "district": "Villupuram",
+   "mandal": "Marakkanam",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "tindivanam-sc",
+   "district": "Villupuram",
+   "mandal": "Tindivanam",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "vanur-sc",
+   "district": "Villupuram",
+   "mandal": "Vanur",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "vanur-sc",
+   "district": "Villupuram",
+   "mandal": "Vikkiravandi",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "vanur-sc",
+   "district": "Villupuram",
+   "mandal": "Viluppuram",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "villupuram",
+   "district": "Villupuram",
+   "mandal": "Vikkiravandi",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "villupuram",
+   "district": "Villupuram",
+   "mandal": "Viluppuram",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "vikravandi",
+   "district": "Villupuram",
+   "mandal": "Vikkiravandi",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "vikravandi",
+   "district": "Villupuram",
+   "mandal": "Viluppuram",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "tirukkoyilur",
+   "district": "Kallakurichi",
+   "mandal": "Kandachipuram",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "tirukkoyilur",
+   "district": "Kallakurichi",
+   "mandal": "Thiruvennainallur",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "tirukkoyilur",
+   "district": "Kallakurichi",
+   "mandal": "Tirukkoyilur",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "tirukkoyilur",
+   "district": "Kallakurichi",
+   "mandal": "Vanapuram",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "ulundurpettai",
+   "district": "Kallakurichi",
+   "mandal": "Ulundurpet",
+   "pc": "Villupuram",
+   "pc_slug": "villupuram"
+  },
+  {
+   "ac_slug": "rishivandiyam",
+   "district": "Kallakurichi",
+   "mandal": "Kalvarayan Hills",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "rishivandiyam",
+   "district": "Kallakurichi",
+   "mandal": "Kandachipuram",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "rishivandiyam",
+   "district": "Kallakurichi",
+   "mandal": "Sankarapuram",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "rishivandiyam",
+   "district": "Kallakurichi",
+   "mandal": "Thiruvennainallur",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "rishivandiyam",
+   "district": "Kallakurichi",
+   "mandal": "Tirukkoyilur",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "rishivandiyam",
+   "district": "Kallakurichi",
+   "mandal": "Vanapuram",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "sankarapuram",
+   "district": "Kallakurichi",
+   "mandal": "Chinnaselam",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "sankarapuram",
+   "district": "Kallakurichi",
+   "mandal": "Kallakurichi",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "sankarapuram",
+   "district": "Kallakurichi",
+   "mandal": "Kalvarayan Hills",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "sankarapuram",
+   "district": "Kallakurichi",
+   "mandal": "Sankarapuram",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "kallakurichi-sc",
+   "district": "Kallakurichi",
+   "mandal": "Chinnaselam",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "kallakurichi-sc",
+   "district": "Kallakurichi",
+   "mandal": "Kallakurichi",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "gangavalli-sc",
+   "district": "Salem",
+   "mandal": "Attur",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "gangavalli-sc",
+   "district": "Salem",
+   "mandal": "Gangavalli",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "gangavalli-sc",
+   "district": "Salem",
+   "mandal": "Pethanaickenpalayam",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "gangavalli-sc",
+   "district": "Salem",
+   "mandal": "Thalaivasal",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "attur-sc",
+   "district": "Salem",
+   "mandal": "Attur",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "attur-sc",
+   "district": "Salem",
+   "mandal": "Pethanaickenpalayam",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "attur-sc",
+   "district": "Salem",
+   "mandal": "Thalaivasal",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Attur",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Pethanaickenpalayam",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Salem",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Salem South",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Salem West",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Thalaivasal",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Valapady",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "yercaud-st",
+   "district": "Salem",
+   "mandal": "Yercaud",
+   "pc": "Kallakurichi",
+   "pc_slug": "kallakurichi"
+  },
+  {
+   "ac_slug": "omalur",
+   "district": "Salem",
+   "mandal": "Kadayampatti",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "omalur",
+   "district": "Salem",
+   "mandal": "Omalur",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "mettur",
+   "district": "Salem",
+   "mandal": "Mettur",
+   "pc": "Dharmapuri",
+   "pc_slug": "dharmapuri"
+  },
+  {
+   "ac_slug": "edappadi",
+   "district": "Salem",
+   "mandal": "Edappadi",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "edappadi",
+   "district": "Salem",
+   "mandal": "Mettur",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "sankari",
+   "district": "Salem",
+   "mandal": "Kadayampatti",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "sankari",
+   "district": "Salem",
+   "mandal": "Omalur",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "sankari",
+   "district": "Salem",
+   "mandal": "Sankari",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "salem-west",
+   "district": "Salem",
+   "mandal": "Kadayampatti",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-west",
+   "district": "Salem",
+   "mandal": "Omalur",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-west",
+   "district": "Salem",
+   "mandal": "Salem",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-west",
+   "district": "Salem",
+   "mandal": "Salem South",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-west",
+   "district": "Salem",
+   "mandal": "Salem West",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-north",
+   "district": "Salem",
+   "mandal": "Salem",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-north",
+   "district": "Salem",
+   "mandal": "Salem South",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-north",
+   "district": "Salem",
+   "mandal": "Salem West",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-south",
+   "district": "Salem",
+   "mandal": "Salem",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-south",
+   "district": "Salem",
+   "mandal": "Salem South",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "salem-south",
+   "district": "Salem",
+   "mandal": "Salem West",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "veerapandi",
+   "district": "Salem",
+   "mandal": "Salem",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "veerapandi",
+   "district": "Salem",
+   "mandal": "Salem South",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "veerapandi",
+   "district": "Salem",
+   "mandal": "Salem West",
+   "pc": "Salem",
+   "pc_slug": "salem"
+  },
+  {
+   "ac_slug": "rasipuram-sc",
+   "district": "Namakkal",
+   "mandal": "Rasipuram",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "senthamangalam-st",
+   "district": "Namakkal",
+   "mandal": "Kolli Hills",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "senthamangalam-st",
+   "district": "Namakkal",
+   "mandal": "Mohanur",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "senthamangalam-st",
+   "district": "Namakkal",
+   "mandal": "Namakkal",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "senthamangalam-st",
+   "district": "Namakkal",
+   "mandal": "Rasipuram",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "senthamangalam-st",
+   "district": "Namakkal",
+   "mandal": "Sendamangalam",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "namakkal",
+   "district": "Namakkal",
+   "mandal": "Kolli Hills",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "namakkal",
+   "district": "Namakkal",
+   "mandal": "Mohanur",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "namakkal",
+   "district": "Namakkal",
+   "mandal": "Namakkal",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "namakkal",
+   "district": "Namakkal",
+   "mandal": "Sendamangalam",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "paramathi-velur",
+   "district": "Namakkal",
+   "mandal": "Kumarapalayam",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "paramathi-velur",
+   "district": "Namakkal",
+   "mandal": "Paramathi Velur",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "paramathi-velur",
+   "district": "Namakkal",
+   "mandal": "Thiruchengodu",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "tiruchengodu",
+   "district": "Namakkal",
+   "mandal": "Kumarapalayam",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "tiruchengodu",
+   "district": "Namakkal",
+   "mandal": "Thiruchengodu",
+   "pc": "Namakkal",
+   "pc_slug": "namakkal"
+  },
+  {
+   "ac_slug": "kumarapalayam",
+   "district": "Namakkal",
+   "mandal": "Kumarapalayam",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "kumarapalayam",
+   "district": "Namakkal",
+   "mandal": "Thiruchengodu",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "erode-east",
+   "district": "Erode",
+   "mandal": "Erode",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "erode-east",
+   "district": "Erode",
+   "mandal": "Modakurichi",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "erode-west",
+   "district": "Erode",
+   "mandal": "Erode",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "erode-west",
+   "district": "Erode",
+   "mandal": "Kodumudi",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "erode-west",
+   "district": "Erode",
+   "mandal": "Modakurichi",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "erode-west",
+   "district": "Erode",
+   "mandal": "Perundurai",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "modakkurichi",
+   "district": "Erode",
+   "mandal": "Erode",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "modakkurichi",
+   "district": "Erode",
+   "mandal": "Kodumudi",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "modakkurichi",
+   "district": "Erode",
+   "mandal": "Modakurichi",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "dharapuram-sc",
+   "district": "Tiruppur",
+   "mandal": "Dharapuram",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "kangayam",
+   "district": "Tiruppur",
+   "mandal": "Kangeyam",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "kangayam",
+   "district": "Tiruppur",
+   "mandal": "Perundurai",
+   "pc": "Erode",
+   "pc_slug": "erode"
+  },
+  {
+   "ac_slug": "perundurai",
+   "district": "Erode",
+   "mandal": "Perundurai",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "bhavani",
+   "district": "Erode",
+   "mandal": "Anthiyur",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "bhavani",
+   "district": "Erode",
+   "mandal": "Bhavani",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "anthiyur",
+   "district": "Erode",
+   "mandal": "Anthiyur",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "anthiyur",
+   "district": "Erode",
+   "mandal": "Bhavani",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "anthiyur",
+   "district": "Erode",
+   "mandal": "Gobichettipalayam",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "anthiyur",
+   "district": "Erode",
+   "mandal": "Nambiyur",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "gobichettipalayam",
+   "district": "Erode",
+   "mandal": "Gobichettipalayam",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "gobichettipalayam",
+   "district": "Erode",
+   "mandal": "Nambiyur",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "bhavanisagar-sc",
+   "district": "Erode",
+   "mandal": "Sathyamangalam",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "bhavanisagar-sc",
+   "district": "Erode",
+   "mandal": "Thalavadi",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "udhagamandalam",
+   "district": "Nilgiris",
+   "mandal": "Coonoor",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "udhagamandalam",
+   "district": "Nilgiris",
+   "mandal": "Kundah",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "udhagamandalam",
+   "district": "Nilgiris",
+   "mandal": "Udhagai",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "gudalur-sc",
+   "district": "Nilgiris",
+   "mandal": "Gudalur",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "gudalur-sc",
+   "district": "Nilgiris",
+   "mandal": "Pandalur",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "gudalur-sc",
+   "district": "Nilgiris",
+   "mandal": "Udhagai",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "coonoor",
+   "district": "Nilgiris",
+   "mandal": "Coonoor",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "coonoor",
+   "district": "Nilgiris",
+   "mandal": "Kotagiri",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "mettupalayam",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore North",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "mettupalayam",
+   "district": "Coimbatore",
+   "mandal": "Mettupalayam",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "avanashi-sc",
+   "district": "Tiruppur",
+   "mandal": "Annur",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "avanashi-sc",
+   "district": "Tiruppur",
+   "mandal": "Avinashi",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "avanashi-sc",
+   "district": "Tiruppur",
+   "mandal": "Coimbatore North",
+   "pc": "Nilgiris",
+   "pc_slug": "nilgiris"
+  },
+  {
+   "ac_slug": "tiruppur-north",
+   "district": "Tiruppur",
+   "mandal": "Tiruppur North",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "tiruppur-north",
+   "district": "Tiruppur",
+   "mandal": "Tiruppur South",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "tiruppur-south",
+   "district": "Tiruppur",
+   "mandal": "Tiruppur North",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "tiruppur-south",
+   "district": "Tiruppur",
+   "mandal": "Tiruppur South",
+   "pc": "Tiruppur",
+   "pc_slug": "tiruppur"
+  },
+  {
+   "ac_slug": "palladam",
+   "district": "Tiruppur",
+   "mandal": "Palladam",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "palladam",
+   "district": "Tiruppur",
+   "mandal": "Tiruppur North",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "palladam",
+   "district": "Tiruppur",
+   "mandal": "Tiruppur South",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "palladam",
+   "district": "Tiruppur",
+   "mandal": "Uthukuli",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "sulur",
+   "district": "Coimbatore",
+   "mandal": "Palladam",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "sulur",
+   "district": "Coimbatore",
+   "mandal": "Sulur",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "sulur",
+   "district": "Coimbatore",
+   "mandal": "Uthukuli",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "kavundampalayam",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore North",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "coimbatore-north",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore North",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "thondamuthur",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore South",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "thondamuthur",
+   "district": "Coimbatore",
+   "mandal": "Madukkarai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "thondamuthur",
+   "district": "Coimbatore",
+   "mandal": "Perur",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "coimbatore-south",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore South",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "singanallur",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore South",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "singanallur",
+   "district": "Coimbatore",
+   "mandal": "Sulur",
+   "pc": "Coimbatore",
+   "pc_slug": "coimbatore"
+  },
+  {
+   "ac_slug": "kinathukadavu",
+   "district": "Coimbatore",
+   "mandal": "Anaimalai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "kinathukadavu",
+   "district": "Coimbatore",
+   "mandal": "Coimbatore South",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "kinathukadavu",
+   "district": "Coimbatore",
+   "mandal": "Kinathukadavu",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "kinathukadavu",
+   "district": "Coimbatore",
+   "mandal": "Madukkarai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "kinathukadavu",
+   "district": "Coimbatore",
+   "mandal": "Perur",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "kinathukadavu",
+   "district": "Coimbatore",
+   "mandal": "Pollachi",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "pollachi",
+   "district": "Coimbatore",
+   "mandal": "Anaimalai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "pollachi",
+   "district": "Coimbatore",
+   "mandal": "Kinathukadavu",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "pollachi",
+   "district": "Coimbatore",
+   "mandal": "Pollachi",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "valparai-sc",
+   "district": "Coimbatore",
+   "mandal": "Anaimalai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "valparai-sc",
+   "district": "Coimbatore",
+   "mandal": "Kinathukadavu",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "valparai-sc",
+   "district": "Coimbatore",
+   "mandal": "Pollachi",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "valparai-sc",
+   "district": "Coimbatore",
+   "mandal": "Valparai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "udumalaipettai",
+   "district": "Tiruppur",
+   "mandal": "Anaimalai",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "udumalaipettai",
+   "district": "Tiruppur",
+   "mandal": "Kinathukadavu",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "udumalaipettai",
+   "district": "Tiruppur",
+   "mandal": "Madathukkulam",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "udumalaipettai",
+   "district": "Tiruppur",
+   "mandal": "Pollachi",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "madathukulam",
+   "district": "Tiruppur",
+   "mandal": "Madathukkulam",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "madathukulam",
+   "district": "Tiruppur",
+   "mandal": "Udumalpet",
+   "pc": "Pollachi",
+   "pc_slug": "pollachi"
+  },
+  {
+   "ac_slug": "palani",
+   "district": "Dindigul",
+   "mandal": "Kodaikanal",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "palani",
+   "district": "Dindigul",
+   "mandal": "Palani",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "oddanchatram",
+   "district": "Dindigul",
+   "mandal": "Oddanchatram",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "oddanchatram",
+   "district": "Dindigul",
+   "mandal": "Palani",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "athoor",
+   "district": "Dindigul",
+   "mandal": "Athoor",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "athoor",
+   "district": "Dindigul",
+   "mandal": "Dindigul East",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "athoor",
+   "district": "Dindigul",
+   "mandal": "Dindigul West",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "nilakottai-sc",
+   "district": "Dindigul",
+   "mandal": "Nilakkottai",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "natham",
+   "district": "Dindigul",
+   "mandal": "Dindigul East",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "natham",
+   "district": "Dindigul",
+   "mandal": "Dindigul West",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "natham",
+   "district": "Dindigul",
+   "mandal": "Natham",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "dindigul",
+   "district": "Dindigul",
+   "mandal": "Dindigul East",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "dindigul",
+   "district": "Dindigul",
+   "mandal": "Dindigul West",
+   "pc": "Dindigul",
+   "pc_slug": "dindigul"
+  },
+  {
+   "ac_slug": "vedasandur",
+   "district": "Dindigul",
+   "mandal": "Gujiliamparai",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "vedasandur",
+   "district": "Dindigul",
+   "mandal": "Vedasandur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "aravakurichi",
+   "district": "Karur",
+   "mandal": "Aravakurichi",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "aravakurichi",
+   "district": "Karur",
+   "mandal": "Karur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "aravakurichi",
+   "district": "Karur",
+   "mandal": "Manmangalam",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "aravakurichi",
+   "district": "Karur",
+   "mandal": "Pugalur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "karur",
+   "district": "Karur",
+   "mandal": "Karur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "karur",
+   "district": "Karur",
+   "mandal": "Manmangalam",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "karur",
+   "district": "Karur",
+   "mandal": "Pugalur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "krishnarayapuram-sc",
+   "district": "Karur",
+   "mandal": "Kadavur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "krishnarayapuram-sc",
+   "district": "Karur",
+   "mandal": "Karur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "krishnarayapuram-sc",
+   "district": "Karur",
+   "mandal": "Krishnarayapuram",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "krishnarayapuram-sc",
+   "district": "Karur",
+   "mandal": "Manmangalam",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "krishnarayapuram-sc",
+   "district": "Karur",
+   "mandal": "Pugalur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "kulithalai",
+   "district": "Karur",
+   "mandal": "Krishnarayapuram",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "kulithalai",
+   "district": "Karur",
+   "mandal": "Kulithalai",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "manapaarai",
+   "district": "Tiruchirappalli",
+   "mandal": "Manapparai",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "manapaarai",
+   "district": "Tiruchirappalli",
+   "mandal": "Marungapuri",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "srirangam",
+   "district": "Tiruchirappalli",
+   "mandal": "Manapparai",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "srirangam",
+   "district": "Tiruchirappalli",
+   "mandal": "Marungapuri",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "srirangam",
+   "district": "Tiruchirappalli",
+   "mandal": "Srirangam",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "tiruchirappalli-west",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruchirappalli East",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "tiruchirappalli-west",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruchirappalli West",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "tiruchirappalli-east",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruchirappalli East",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "tiruchirappalli-east",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruchirappalli West",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "thiruverumbur",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruchirappalli East",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "thiruverumbur",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruchirappalli West",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "thiruverumbur",
+   "district": "Tiruchirappalli",
+   "mandal": "Thiruverumbur",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "lalgudi",
+   "district": "Tiruchirappalli",
+   "mandal": "Lalgudi",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "manachanallur",
+   "district": "Tiruchirappalli",
+   "mandal": "Mannachanallur",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "manachanallur",
+   "district": "Tiruchirappalli",
+   "mandal": "Musiri",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "musiri",
+   "district": "Tiruchirappalli",
+   "mandal": "Musiri",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "musiri",
+   "district": "Tiruchirappalli",
+   "mandal": "Thottiam",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "thuraiyur-sc",
+   "district": "Tiruchirappalli",
+   "mandal": "Musiri",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "thuraiyur-sc",
+   "district": "Tiruchirappalli",
+   "mandal": "Thuraiyur",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "perambalur-sc",
+   "district": "Perambalur",
+   "mandal": "Alathur",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "perambalur-sc",
+   "district": "Perambalur",
+   "mandal": "Kunnam",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "perambalur-sc",
+   "district": "Perambalur",
+   "mandal": "Perambalur",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "perambalur-sc",
+   "district": "Perambalur",
+   "mandal": "Veppanthattai",
+   "pc": "Perambalur",
+   "pc_slug": "perambalur"
+  },
+  {
+   "ac_slug": "kunnam",
+   "district": "Perambalur",
+   "mandal": "Alathur",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "kunnam",
+   "district": "Perambalur",
+   "mandal": "Kunnam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "kunnam",
+   "district": "Perambalur",
+   "mandal": "Sendurai",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "ariyalur",
+   "district": "Ariyalur",
+   "mandal": "Andimadam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "ariyalur",
+   "district": "Ariyalur",
+   "mandal": "Ariyalur",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "ariyalur",
+   "district": "Ariyalur",
+   "mandal": "Udayarpalayam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "jayankondam",
+   "district": "Ariyalur",
+   "mandal": "Andimadam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "jayankondam",
+   "district": "Ariyalur",
+   "mandal": "Udayarpalayam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "tittakudi-sc",
+   "district": "Cuddalore",
+   "mandal": "Tittakudi",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "tittakudi-sc",
+   "district": "Cuddalore",
+   "mandal": "Veppur",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "virudhachalam",
+   "district": "Cuddalore",
+   "mandal": "Srimushnam",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "virudhachalam",
+   "district": "Cuddalore",
+   "mandal": "Vriddachalam",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "neyveli",
+   "district": "Cuddalore",
+   "mandal": "Panruti",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "panruti",
+   "district": "Cuddalore",
+   "mandal": "Panruti",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "cuddalore",
+   "district": "Cuddalore",
+   "mandal": "Cuddalore",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "kurinjipadi",
+   "district": "Cuddalore",
+   "mandal": "Cuddalore",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "kurinjipadi",
+   "district": "Cuddalore",
+   "mandal": "Kurinjipadi",
+   "pc": "Cuddalore",
+   "pc_slug": "cuddalore"
+  },
+  {
+   "ac_slug": "bhuvanagiri",
+   "district": "Cuddalore",
+   "mandal": "Bhuvanagiri",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "bhuvanagiri",
+   "district": "Cuddalore",
+   "mandal": "Chidambaram",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "bhuvanagiri",
+   "district": "Cuddalore",
+   "mandal": "Srimushnam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "bhuvanagiri",
+   "district": "Cuddalore",
+   "mandal": "Vriddachalam",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "chidambaram",
+   "district": "Cuddalore",
+   "mandal": "Bhuvanagiri",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "chidambaram",
+   "district": "Cuddalore",
+   "mandal": "Chidambaram",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "kattumannarkoil-sc",
+   "district": "Cuddalore",
+   "mandal": "Kattumannarkoil",
+   "pc": "Chidambaram",
+   "pc_slug": "chidambaram"
+  },
+  {
+   "ac_slug": "sirkazhi-sc",
+   "district": "Mayiladuthurai",
+   "mandal": "Sirkazhi",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "mayiladuthurai",
+   "district": "Mayiladuthurai",
+   "mandal": "Kuthalam",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "mayiladuthurai",
+   "district": "Mayiladuthurai",
+   "mandal": "Mayiladuthurai",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "poompuhar",
+   "district": "Mayiladuthurai",
+   "mandal": "Kuthalam",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "poompuhar",
+   "district": "Mayiladuthurai",
+   "mandal": "Sirkazhi",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "poompuhar",
+   "district": "Mayiladuthurai",
+   "mandal": "Tharangambadi",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "nagapattinam",
+   "district": "Nagapattinam",
+   "mandal": "Nagapattinam",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "kilvelur-sc",
+   "district": "Nagapattinam",
+   "mandal": "Kilvelur",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "kilvelur-sc",
+   "district": "Nagapattinam",
+   "mandal": "Nagapattinam",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "kilvelur-sc",
+   "district": "Nagapattinam",
+   "mandal": "Thirukkuvalai",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "vedaranyam",
+   "district": "Nagapattinam",
+   "mandal": "Thirukkuvalai",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "vedaranyam",
+   "district": "Nagapattinam",
+   "mandal": "Vedaranyam",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruthuraipoondi-sc",
+   "district": "Tiruvarur",
+   "mandal": "Koothanallur",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruthuraipoondi-sc",
+   "district": "Tiruvarur",
+   "mandal": "Mannargudi",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruthuraipoondi-sc",
+   "district": "Tiruvarur",
+   "mandal": "Tiruthuraipoondi",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruthuraipoondi-sc",
+   "district": "Tiruvarur",
+   "mandal": "Vedaranyam",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "mannargudi",
+   "district": "Tiruvarur",
+   "mandal": "Koothanallur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "mannargudi",
+   "district": "Tiruvarur",
+   "mandal": "Mannargudi",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "mannargudi",
+   "district": "Tiruvarur",
+   "mandal": "Needamangalam",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "thiruvarur",
+   "district": "Tiruvarur",
+   "mandal": "Kudavasal",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruvarur",
+   "district": "Tiruvarur",
+   "mandal": "Needamangalam",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruvarur",
+   "district": "Tiruvarur",
+   "mandal": "Tiruvarur",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "nannilam",
+   "district": "Tiruvarur",
+   "mandal": "Kudavasal",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "nannilam",
+   "district": "Tiruvarur",
+   "mandal": "Nannilam",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "nannilam",
+   "district": "Tiruvarur",
+   "mandal": "Valangaiman",
+   "pc": "Nagapattinam",
+   "pc_slug": "nagapattinam"
+  },
+  {
+   "ac_slug": "thiruvidaimarudur-sc",
+   "district": "Thanjavur",
+   "mandal": "Kumbakonam",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "thiruvidaimarudur-sc",
+   "district": "Thanjavur",
+   "mandal": "Thiruvidaimaruthur",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "kumbakonam",
+   "district": "Thanjavur",
+   "mandal": "Kumbakonam",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "papanasam",
+   "district": "Thanjavur",
+   "mandal": "Kumbakonam",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "papanasam",
+   "district": "Thanjavur",
+   "mandal": "Papanasam",
+   "pc": "Mayiladuthurai",
+   "pc_slug": "mayiladuthurai"
+  },
+  {
+   "ac_slug": "thiruvaiyaru",
+   "district": "Thanjavur",
+   "mandal": "Budalur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "thiruvaiyaru",
+   "district": "Thanjavur",
+   "mandal": "Thanjavur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "thiruvaiyaru",
+   "district": "Thanjavur",
+   "mandal": "Thiruvaiyaru",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "thanjavur",
+   "district": "Thanjavur",
+   "mandal": "Budalur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "thanjavur",
+   "district": "Thanjavur",
+   "mandal": "Thanjavur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "orathanadu",
+   "district": "Thanjavur",
+   "mandal": "Budalur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "orathanadu",
+   "district": "Thanjavur",
+   "mandal": "Orathanad",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "orathanadu",
+   "district": "Thanjavur",
+   "mandal": "Thanjavur",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "pattukkottai",
+   "district": "Thanjavur",
+   "mandal": "Pattukkottai",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "peravurani",
+   "district": "Thanjavur",
+   "mandal": "Orathanad",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "peravurani",
+   "district": "Thanjavur",
+   "mandal": "Pattukkottai",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "peravurani",
+   "district": "Thanjavur",
+   "mandal": "Peravurani",
+   "pc": "Thanjavur",
+   "pc_slug": "thanjavur"
+  },
+  {
+   "ac_slug": "gandarvakottai-sc",
+   "district": "Pudukkottai",
+   "mandal": "Gandarvakottai",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "gandarvakottai-sc",
+   "district": "Pudukkottai",
+   "mandal": "Karambakudi",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "gandarvakottai-sc",
+   "district": "Pudukkottai",
+   "mandal": "Kulathur",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "viralimalai",
+   "district": "Pudukkottai",
+   "mandal": "Illuppur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "viralimalai",
+   "district": "Pudukkottai",
+   "mandal": "Kulathur",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "viralimalai",
+   "district": "Pudukkottai",
+   "mandal": "Viralimalai",
+   "pc": "Karur",
+   "pc_slug": "karur"
+  },
+  {
+   "ac_slug": "pudukkottai",
+   "district": "Pudukkottai",
+   "mandal": "Karambakudi",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "pudukkottai",
+   "district": "Pudukkottai",
+   "mandal": "Pudukkottai",
+   "pc": "Tiruchirappalli",
+   "pc_slug": "tiruchirappalli"
+  },
+  {
+   "ac_slug": "thirumayam",
+   "district": "Pudukkottai",
+   "mandal": "Ponnamaravathi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "thirumayam",
+   "district": "Pudukkottai",
+   "mandal": "Tirumayam",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "alangudi",
+   "district": "Pudukkottai",
+   "mandal": "Alangudi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "alangudi",
+   "district": "Pudukkottai",
+   "mandal": "Aranthangi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "alangudi",
+   "district": "Pudukkottai",
+   "mandal": "Karambakudi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "aranthangi",
+   "district": "Pudukkottai",
+   "mandal": "Aranthangi",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "aranthangi",
+   "district": "Pudukkottai",
+   "mandal": "Avadaiyarkoil",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "aranthangi",
+   "district": "Pudukkottai",
+   "mandal": "Manamelkudi",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "karaikudi",
+   "district": "Sivaganga",
+   "mandal": "Devakottai",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "karaikudi",
+   "district": "Sivaganga",
+   "mandal": "Karaikudi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "karaikudi",
+   "district": "Sivaganga",
+   "mandal": "R. S. Mangalam",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "karaikudi",
+   "district": "Sivaganga",
+   "mandal": "Tiruvadanai",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Kalaiyarkovil",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Karaikudi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Manamadurai",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Sivagangai",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "sivaganga",
+   "district": "Sivaganga",
+   "mandal": "Tiruppuvanam",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "manamadurai-sc",
+   "district": "Sivaganga",
+   "mandal": "Ilayankudi",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "manamadurai-sc",
+   "district": "Sivaganga",
+   "mandal": "Manamadurai",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "manamadurai-sc",
+   "district": "Sivaganga",
+   "mandal": "Tiruppuvanam",
+   "pc": "Sivaganga",
+   "pc_slug": "sivaganga"
+  },
+  {
+   "ac_slug": "melur",
+   "district": "Madurai",
+   "mandal": "Melur",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-east",
+   "district": "Madurai",
+   "mandal": "Madurai East",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-east",
+   "district": "Madurai",
+   "mandal": "Madurai North",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "sholavandan-sc",
+   "district": "Madurai",
+   "mandal": "Madurai East",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "sholavandan-sc",
+   "district": "Madurai",
+   "mandal": "Madurai North",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "sholavandan-sc",
+   "district": "Madurai",
+   "mandal": "Vadipatti",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "madurai-north",
+   "district": "Madurai",
+   "mandal": "Madurai North",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-south",
+   "district": "Madurai",
+   "mandal": "Madurai South",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-central",
+   "district": "Madurai",
+   "mandal": "Madurai North",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-central",
+   "district": "Madurai",
+   "mandal": "Madurai South",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-west",
+   "district": "Madurai",
+   "mandal": "Madurai South",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-west",
+   "district": "Madurai",
+   "mandal": "Madurai West",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "madurai-west",
+   "district": "Madurai",
+   "mandal": "Thirupparankundram",
+   "pc": "Madurai",
+   "pc_slug": "madurai"
+  },
+  {
+   "ac_slug": "thiruparankundram",
+   "district": "Madurai",
+   "mandal": "Madurai South",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "thiruparankundram",
+   "district": "Madurai",
+   "mandal": "Madurai West",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "thiruparankundram",
+   "district": "Madurai",
+   "mandal": "Thirupparankundram",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "thirumangalam",
+   "district": "Madurai",
+   "mandal": "Kalligudi",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "thirumangalam",
+   "district": "Madurai",
+   "mandal": "Peraiyur",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "thirumangalam",
+   "district": "Madurai",
+   "mandal": "Thirumangalam",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "usilampatti",
+   "district": "Madurai",
+   "mandal": "Peraiyur",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "usilampatti",
+   "district": "Madurai",
+   "mandal": "Usilampatti",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "andipatti",
+   "district": "Theni",
+   "mandal": "Aundipatti",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "andipatti",
+   "district": "Theni",
+   "mandal": "Uthamapalayam",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "periyakulam-sc",
+   "district": "Theni",
+   "mandal": "Periyakulam",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "periyakulam-sc",
+   "district": "Theni",
+   "mandal": "Theni",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "bodinayakanur",
+   "district": "Theni",
+   "mandal": "Bodinayakanur",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "bodinayakanur",
+   "district": "Theni",
+   "mandal": "Theni",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "bodinayakanur",
+   "district": "Theni",
+   "mandal": "Uthamapalayam",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "cumbum",
+   "district": "Theni",
+   "mandal": "Uthamapalayam",
+   "pc": "Theni",
+   "pc_slug": "theni"
+  },
+  {
+   "ac_slug": "rajapalayam",
+   "district": "Virudhunagar",
+   "mandal": "Rajapalayam",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "srivilliputhur-sc",
+   "district": "Virudhunagar",
+   "mandal": "Srivilliputhur",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "srivilliputhur-sc",
+   "district": "Virudhunagar",
+   "mandal": "Watrap",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "sattur",
+   "district": "Virudhunagar",
+   "mandal": "Rajapalayam",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "sattur",
+   "district": "Virudhunagar",
+   "mandal": "Sattur",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "sattur",
+   "district": "Virudhunagar",
+   "mandal": "Sivakasi",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "sattur",
+   "district": "Virudhunagar",
+   "mandal": "Vembakkottai",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "sivakasi",
+   "district": "Virudhunagar",
+   "mandal": "Sivakasi",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "virudhunagar",
+   "district": "Virudhunagar",
+   "mandal": "Sivakasi",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "virudhunagar",
+   "district": "Virudhunagar",
+   "mandal": "Virudhunagar",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "aruppukkottai",
+   "district": "Virudhunagar",
+   "mandal": "Aruppukottai",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "aruppukkottai",
+   "district": "Virudhunagar",
+   "mandal": "Sattur",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "aruppukkottai",
+   "district": "Virudhunagar",
+   "mandal": "Vembakkottai",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "aruppukkottai",
+   "district": "Virudhunagar",
+   "mandal": "Virudhunagar",
+   "pc": "Virudhunagar",
+   "pc_slug": "virudhunagar"
+  },
+  {
+   "ac_slug": "tiruchuli",
+   "district": "Virudhunagar",
+   "mandal": "Aruppukottai",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruchuli",
+   "district": "Virudhunagar",
+   "mandal": "Kariyapatti",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruchuli",
+   "district": "Virudhunagar",
+   "mandal": "Manamadurai",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruchuli",
+   "district": "Virudhunagar",
+   "mandal": "Tiruchuli",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruchuli",
+   "district": "Virudhunagar",
+   "mandal": "Tiruppuvanam",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "paramakudi-sc",
+   "district": "Ramanathapuram",
+   "mandal": "Kamuthi",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "paramakudi-sc",
+   "district": "Ramanathapuram",
+   "mandal": "Paramakudi",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruvadanai",
+   "district": "Ramanathapuram",
+   "mandal": "Kilakarai",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruvadanai",
+   "district": "Ramanathapuram",
+   "mandal": "R. S. Mangalam",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruvadanai",
+   "district": "Ramanathapuram",
+   "mandal": "Ramanathapuram",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "tiruvadanai",
+   "district": "Ramanathapuram",
+   "mandal": "Tiruvadanai",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "ramanathapuram",
+   "district": "Ramanathapuram",
+   "mandal": "Kilakarai",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "ramanathapuram",
+   "district": "Ramanathapuram",
+   "mandal": "Ramanathapuram",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "ramanathapuram",
+   "district": "Ramanathapuram",
+   "mandal": "Rameswaram",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "mudhukulathur",
+   "district": "Ramanathapuram",
+   "mandal": "Kadaladi",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "mudhukulathur",
+   "district": "Ramanathapuram",
+   "mandal": "Kamuthi",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "mudhukulathur",
+   "district": "Ramanathapuram",
+   "mandal": "Mudukulathur",
+   "pc": "Ramanathapuram",
+   "pc_slug": "ramanathapuram"
+  },
+  {
+   "ac_slug": "vilathikulam",
+   "district": "Thoothukudi",
+   "mandal": "Ettayapuram",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "vilathikulam",
+   "district": "Thoothukudi",
+   "mandal": "Ottapidaram",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "vilathikulam",
+   "district": "Thoothukudi",
+   "mandal": "Vilathikulam",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "thoothukkudi",
+   "district": "Thoothukudi",
+   "mandal": "Thoothukudi",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "tiruchendur",
+   "district": "Thoothukudi",
+   "mandal": "Tiruchendur",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "srivaikuntam",
+   "district": "Thoothukudi",
+   "mandal": "Eral",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "srivaikuntam",
+   "district": "Thoothukudi",
+   "mandal": "Sathankulam",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "srivaikuntam",
+   "district": "Thoothukudi",
+   "mandal": "Srivaikundam",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "srivaikuntam",
+   "district": "Thoothukudi",
+   "mandal": "Tiruchendur",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "ottapidaram-sc",
+   "district": "Thoothukudi",
+   "mandal": "Eral",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "ottapidaram-sc",
+   "district": "Thoothukudi",
+   "mandal": "Ottapidaram",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "ottapidaram-sc",
+   "district": "Thoothukudi",
+   "mandal": "Srivaikundam",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "ottapidaram-sc",
+   "district": "Thoothukudi",
+   "mandal": "Thoothukudi",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "kovilpatti",
+   "district": "Thoothukudi",
+   "mandal": "Kayathar",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "kovilpatti",
+   "district": "Thoothukudi",
+   "mandal": "Kovilpatty",
+   "pc": "Thoothukkudi",
+   "pc_slug": "thoothukkudi"
+  },
+  {
+   "ac_slug": "sankarankovil-sc",
+   "district": "Tenkasi",
+   "mandal": "Sankarankovil",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "sankarankovil-sc",
+   "district": "Tenkasi",
+   "mandal": "Thiruvengadam",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "vasudevanallur-sc",
+   "district": "Tenkasi",
+   "mandal": "Sankarankovil",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "vasudevanallur-sc",
+   "district": "Tenkasi",
+   "mandal": "Sivagiri",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "vasudevanallur-sc",
+   "district": "Tenkasi",
+   "mandal": "Thiruvengadam",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "kadayanallur",
+   "district": "Tenkasi",
+   "mandal": "Kadayanallur",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "kadayanallur",
+   "district": "Tenkasi",
+   "mandal": "Shencottai",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "kadayanallur",
+   "district": "Tenkasi",
+   "mandal": "Tenkasi",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "tenkasi",
+   "district": "Tenkasi",
+   "mandal": "Kadayanallur",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "tenkasi",
+   "district": "Tenkasi",
+   "mandal": "Tenkasi",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "tenkasi",
+   "district": "Tenkasi",
+   "mandal": "V.K.Pudur",
+   "pc": "Tenkasi",
+   "pc_slug": "tenkasi"
+  },
+  {
+   "ac_slug": "alangulam",
+   "district": "Tenkasi",
+   "mandal": "Alangulam",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "alangulam",
+   "district": "Tenkasi",
+   "mandal": "Ambasamuduram",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "alangulam",
+   "district": "Tenkasi",
+   "mandal": "Cheranmahadevi",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "tirunelveli",
+   "district": "Tirunelveli",
+   "mandal": "Manur",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "tirunelveli",
+   "district": "Tirunelveli",
+   "mandal": "Tirunelveli",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "ambasamudram",
+   "district": "Tirunelveli",
+   "mandal": "Ambasamuduram",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "ambasamudram",
+   "district": "Tirunelveli",
+   "mandal": "Cheranmahadevi",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "palayamkottai",
+   "district": "Tirunelveli",
+   "mandal": "Palayamkottai",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "nanguneri",
+   "district": "Tirunelveli",
+   "mandal": "Nanguneri",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "nanguneri",
+   "district": "Tirunelveli",
+   "mandal": "Palayamkottai",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "radhapuram",
+   "district": "Tirunelveli",
+   "mandal": "Radhapuram",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "radhapuram",
+   "district": "Tirunelveli",
+   "mandal": "Tisaiyanvilai",
+   "pc": "Tirunelveli",
+   "pc_slug": "tirunelveli"
+  },
+  {
+   "ac_slug": "kanniyakumari",
+   "district": "Kanyakumari",
+   "mandal": "Agastheeswaram",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "kanniyakumari",
+   "district": "Kanyakumari",
+   "mandal": "Thovalai",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "nagercoil",
+   "district": "Kanyakumari",
+   "mandal": "Agastheeswaram",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "colachal",
+   "district": "Kanyakumari",
+   "mandal": "Kalkulam",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "colachal",
+   "district": "Kanyakumari",
+   "mandal": "Thiruvattar",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "padmanabhapuram",
+   "district": "Kanyakumari",
+   "mandal": "Kalkulam",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "padmanabhapuram",
+   "district": "Kanyakumari",
+   "mandal": "Thiruvattar",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "vilavancode",
+   "district": "Kanyakumari",
+   "mandal": "Killiyoor",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "vilavancode",
+   "district": "Kanyakumari",
+   "mandal": "Vilavancode",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "killiyoor",
+   "district": "Kanyakumari",
+   "mandal": "Killiyoor",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  },
+  {
+   "ac_slug": "killiyoor",
+   "district": "Kanyakumari",
+   "mandal": "Vilavancode",
+   "pc": "Kanniyakumari",
+   "pc_slug": "kanniyakumari"
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly",
+  "https://en.wikipedia.org/wiki/List_of_revenue_divisions_of_Tamil_Nadu",
+  "https://www.scribd.com/document/654445011/tn-taluks",
+  "https://raw.githubusercontent.com/datta07/INDIAN-SHAPEFILES/master/STATES/TAMIL%20NADU/TAMIL%20NADU_ASSEMBLY.geojson",
+  "https://raw.githubusercontent.com/datta07/INDIAN-SHAPEFILES/master/STATES/TAMIL%20NADU/TAMILNADU_SUBDISTRICTS.geojson",
+  "https://hindi.eci.gov.in/files/file/7277-tamil-nadu/",
+  "https://en.wikipedia.org/wiki/Department_of_Revenue_and_Disaster_Management_(Tamil_Nadu)"
+ ]
+}

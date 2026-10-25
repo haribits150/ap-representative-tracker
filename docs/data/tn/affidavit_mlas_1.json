@@ -1,0 +1,2068 @@
+{
+ "mlas": [
+  {
+   "name": "T. J. Govindarajan",
+   "constituency": "Gummidipoondi",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass",
+   "assets_current_inr": 74880993,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1089",
+   "notes": "Declared cases are pending matters, not convictions. Myneta records no education detail beyond the category for this candidate. Wikipedia's 2021 results table spells the name 'T. J. Govindrajan'."
+  },
+  {
+   "name": "Durai Chandrasekar",
+   "constituency": "Ponneri (SC)",
+   "total_cases": 1,
+   "serious_cases": 0,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 341, 188; Sec 7(1)(a) Criminal Law Amendment Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 535/2008, E5 Sholavaram Police Station"
+    }
+   ],
+   "education": "B.L., Law College, Chennai, 2001; B.Sc. Botany, Theyagaraya College, Chennai, 1994",
+   "assets_current_inr": 6671323,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1985",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Chandran",
+   "constituency": "Tiruttani",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "LL.B., Vivekananda Law College, Bangalore University, 1985-88; B.A. (History), Madras University (ICE), 1984",
+   "assets_current_inr": 44932385,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=728",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "V. G. Raajendran",
+   "constituency": "Thiruvallur",
+   "total_cases": null,
+   "serious_cases": null,
+   "non_serious_cases": null,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
+   "notes": "ADR's Sitting MLAs Report lists this MLA among the sitting members it could not analyse because the affidavit available on the ECI website was unclear; no myneta candidate data was available either. Figures are left null rather than estimated. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. Krishnaswamy",
+   "constituency": "Poonamallee (SC)",
+   "total_cases": 8,
+   "serious_cases": 0,
+   "non_serious_cases": 8,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 2576/2020, B7 Vellavedu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 815/2020, T-11 Thiruninravur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 51/2020, T-12 Poonamallee Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 12/2021, T-16 Nasarathpettai Police Station"
+    },
+    {
+     "ipc_sections": "No IPC sections recorded in the affidavit",
+     "severity": "non-serious",
+     "severity_basis": "No sections are recorded against this FIR in the affidavit or in ADR's annexure; classified non-serious as no serious-category section is recorded",
+     "case_description": "FIR 11/2021, T-16 Nasarathpettai Police Station"
+    },
+    {
+     "ipc_sections": "No IPC sections recorded in the affidavit",
+     "severity": "non-serious",
+     "severity_basis": "No sections are recorded against this FIR in the affidavit or in ADR's annexure; classified non-serious as no serious-category section is recorded",
+     "case_description": "FIR 762/2020, T-16 Nasarathpettai Police Station"
+    },
+    {
+     "ipc_sections": "No IPC sections recorded in the affidavit",
+     "severity": "non-serious",
+     "severity_basis": "No sections are recorded against this FIR in the affidavit or in ADR's annexure; classified non-serious as no serious-category section is recorded",
+     "case_description": "FIR 761/2020, T-16 Nasarathpettai Police Station"
+    },
+    {
+     "ipc_sections": "No IPC sections recorded in the affidavit",
+     "severity": "non-serious",
+     "severity_basis": "No sections are recorded against this FIR in the affidavit or in ADR's annexure; classified non-serious as no serious-category section is recorded",
+     "case_description": "FIR 714/2020, T-16 Nasarathpettai Police Station"
+    }
+   ],
+   "education": "B.A., B.L., Dr Ambedkar Govt Law College, Chennai, Madras University, 1991",
+   "assets_current_inr": 131317837,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=599",
+   "notes": "Declared cases are pending matters, not convictions. For FIRs 11/2021, 762/2020, 761/2020 and 714/2020 (all T-16 Nasarathpettai PS), the affidavit and ADR's annexure record no IPC sections; the only sections appearing anywhere in this candidate's declaration are IPC 143, 188 and 269."
+  },
+  {
+   "name": "S. M. Nasar",
+   "constituency": "Avadi",
+   "total_cases": 29,
+   "serious_cases": 1,
+   "non_serious_cases": 28,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 30/2021, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 27/2021, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 26/2021, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 24/2021, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 23/2021, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 03/2021, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 820/2020, Thiruninravur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 2576/2020, B7 Vellavedu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1295/2020, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1276/2020, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1246/2020, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1127/2020, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1066/2020, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1065/2020, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1061/2020, Thiruverkadu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 819/2020, Thiruninravur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 816/2020, Thiruninravur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 814/2020, Thiruninravur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 186, 269; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 761/2020, T-16 Nasarathpettai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 02/2020, District and Sessions Court, Tiruvallur (private complaint)"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 1/2020, District and Sessions Court, Tiruvallur (private complaint)"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1021/2019, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 366/2018, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 362/2018, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Sec 74(3) Tamil Nadu City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 274/2018, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 242/2018, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 235/2018, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 68/2018, Avadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 294B, 506(ii)",
+     "severity": "serious",
+     "severity_basis": "IPC 506(ii) (criminal intimidation) carries up to 7 years, meeting ADR's 5+ year serious criterion. Note: ADR's annexure tally of 'Serious IPC' excludes IPC 506 (its fixed serious-section list), but the classification here applies the published ADR criteria mechanically.",
+     "case_description": "FIR Cr. No. 805/2016, Avadi Police Station"
+    }
+   ],
+   "education": "S.S.L.C., Govt Higher Secondary School, Kamaraj Nagar, Avadi, Chennai, 1976",
+   "assets_current_inr": 113357880,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=367",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report."
+  },
+  {
+   "name": "K. Ganapathy",
+   "constituency": "Maduravoyal",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "8th Class, Lamech Middle School, Valasaravakkam, 1972-1973",
+   "assets_current_inr": 8530700,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=533",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Joseph Samuel",
+   "constituency": "Ambattur",
+   "total_cases": 1,
+   "serious_cases": 1,
+   "non_serious_cases": 0,
+   "charges": [
+    {
+     "ipc_sections": "IPC 342, 384, 323, 506(ii)",
+     "severity": "serious",
+     "severity_basis": "IPC 384 (extortion) carries up to 10 years and IPC 506(ii) up to 7 years, meeting ADR's 5+ year serious criterion",
+     "case_description": "Crime No. 789/2011, T-1 Ambattur Police Station"
+    }
+   ],
+   "education": "Bachelor of Arts (Economics), 1985-88",
+   "assets_current_inr": 13801888,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1828",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Sudharsanam",
+   "constituency": "Madavaram",
+   "total_cases": 22,
+   "serious_cases": 1,
+   "non_serious_cases": 21,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 47/2021, M1 Madhavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 5789/2020, H8 Thiruvottiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 3996/2020, M4 Redhills Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 3972/2020, M4 Redhills Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 3698/2020, M1 Madhavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 3535/2020, H6 R.K. Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1193/2019, H6 R.K. Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 209/2019, M1 Madhavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 147, 294B, 353; Sec 3(2) TNPPDL Act",
+     "severity": "serious",
+     "severity_basis": "Sec 3 of the Tamil Nadu Prevention of Damage to Public Property (TNPPDL) Act is punishable with up to 5 years' imprisonment; classified serious following the precedent applied to the same Act in the AP dataset. Borderline call: ADR's annexure tallies 'Serious IPC' from IPC sections only, so this case does not add to its serious count.",
+     "case_description": "FIR Cr. No. 40/2018, B3 Fort (Flower Bazaar) Police Station; the same FIR names several Chennai DMK leaders"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 268/2018, M3 Puzhal Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 318/2018, M1 Madhavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143; Sec 174A Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 446/2018, H8 Thiruvottiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 439/2018, H8 Thiruvottiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 270",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 431/2018, H8 Thiruvottiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1545/2017, P6 Kodungaiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 778/2017, T1 Ambattur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 537/2017, M1 Madhavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 164/2017, Ambattur Police Station (JM-II Ambattur)"
+    },
+    {
+     "ipc_sections": "IPC 341, 143; Sec 174A Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 80/2017, H4 Korukkupet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 754/2016, H4 Korukkupet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143; Sec 174A Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 862/2016, H4 Korukkupet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143; Sec 174A Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "CC 3634/2016, H4 Korukkupet Police Station"
+    }
+   ],
+   "education": "Post Graduate",
+   "assets_current_inr": 372661072,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1427",
+   "notes": "Declared cases are pending matters, not convictions. Case detail is from the annexure of ADR's Sitting MLAs Report (pp. 223-227), the candidate's myneta page being truncated; ADR's annexure reports Total Cases: 22, Serious IPC: 0. Only the education category is stated in the sources used; no detailed institution/year entry was available."
+  },
+  {
+   "name": "K. P. Shankar",
+   "constituency": "Thiruvottiyur",
+   "total_cases": 2,
+   "serious_cases": 0,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 82/2021, H-8 Thiruvottiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 5759/2020, H-8 Thiruvottiyur Police Station"
+    }
+   ],
+   "education": "9th Passed from Government High School Thiruvottiyur - 1986",
+   "assets_current_inr": 45420547,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2052",
+   "notes": "Declared cases are pending matters, not convictions. Myneta lists the education category as '8th Pass'; the affidavit's detailed entry states 9th passed."
+  },
+  {
+   "name": "J. John Ebenezer",
+   "constituency": "Dr. Radhakrishnan Nagar",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Master of Commerce, Annamalai University (2010)",
+   "assets_current_inr": 1580302,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1013",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "R. D. Sekar",
+   "constituency": "Perambur",
+   "total_cases": 10,
+   "serious_cases": 1,
+   "non_serious_cases": 9,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188, 147, 341, 323, 506(2)",
+     "severity": "serious",
+     "severity_basis": "IPC 506(ii) (criminal intimidation) carries up to 7 years, meeting ADR's 5+ year serious criterion. Note: ADR's annexure tally of 'Serious IPC' excludes IPC 506 (its fixed serious-section list), but the classification here applies the published ADR criteria mechanically.",
+     "case_description": "FIR Cr. No. 935, P-6 Kodungaiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 655/2018, P5 MKB Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 519/2018, P5 MKB Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 464/2018, P5 MKB Nagar Police Station"
+    },
+    {
+     "ipc_sections": "No IPC sections; Sec 151 CrPC; Sec 74 Tamil Nadu City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Preventive provision only (Sec 151 CrPC); no IPC offence charged",
+     "case_description": "FIR Cr. No. 372, P5 MKB Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 290/2018, P3 Vyasarpadi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1213/2020, P5 MKB Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 26/2021, N2 Kasimedu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 755/2017, P5 MKB Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 151/2018, P5 MKB Nagar Police Station"
+    }
+   ],
+   "education": "Bachelor of Law, Government Law College, Chennai, 2006; B.Com, Thiyagaraya College, Chennai, 1990",
+   "assets_current_inr": 12891842,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=580",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report. Name spelt 'R. D. Shekar' on myneta."
+  },
+  {
+   "name": "M. K. Stalin",
+   "constituency": "Kolathur",
+   "total_cases": 47,
+   "serious_cases": 8,
+   "non_serious_cases": 39,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 2576/2020, B-7 Vellavedu Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 270, 278",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 2019/2020, Marakanam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 270; Sec 51(b) Disaster Management Act; Sec 2 & 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1143/2020, Kitchipalayam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 151, 269; Sec 41(A) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 925/2020, J3 Guindy Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188, 269; Sec 41(VI) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 787/2020, F3 Nungambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 341; Sec 41(vi) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 921/2019, F2 Egmore Police Station"
+    },
+    {
+     "ipc_sections": "IPC 171F, 171C, 171(i)",
+     "severity": "serious",
+     "severity_basis": "Electoral offence under the IPC 171-series (and, where cited, the RP Act) - serious under ADR's published criteria",
+     "case_description": "FIR Cr. No. 346/2019, Ambur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 171G, 153A, 504, 505(2), 143, 341; Sec 125 RP Act 1951",
+     "severity": "serious",
+     "severity_basis": "IPC 171G is an electoral offence and IPC 153A (promoting enmity between groups) is in ADR's serious categories",
+     "case_description": "FIR Cr. No. 233/2019, Kunniamuthur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 171(G)",
+     "severity": "serious",
+     "severity_basis": "Electoral offence under the IPC 171-series (and, where cited, the RP Act) - serious under ADR's published criteria",
+     "case_description": "FIR Cr. No. 149/2019, Thiruvarur Town Police Station"
+    },
+    {
+     "ipc_sections": "IPC 153, 171G, 505(ii); Sec 125 RP Act 1951",
+     "severity": "serious",
+     "severity_basis": "Electoral offence under the IPC 171-series (and, where cited, the RP Act) - serious under ADR's published criteria",
+     "case_description": "FIR Cr. No. 49/2019, Pollachi Taluk Police Station"
+    },
+    {
+     "ipc_sections": "IPC 153A; Sec 125 RP Act 1951",
+     "severity": "serious",
+     "severity_basis": "IPC 153A (promoting enmity between groups) is in ADR's serious categories",
+     "case_description": "FIR Cr. No. 37/2019, Thondamuthur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 579/2018, J3 Guindy Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 286/2018, F2 Egmore Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143; Sec 151 CrPC; Sec 7(1)(a) Criminal Law Amendment Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 223/2018, F3 Nungambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 353, 506(i); Sec 41(VI) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Assault on a public servant and simple criminal intimidation (506(i), max 2 years); IPC 353 alone is not in ADR's serious categories",
+     "case_description": "FIR Cr. No. 210/2018, D1 Triplicane Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 96/2018, K5 Peravallur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 147, 294B, 353; Sec 3(ii) TNPPDL Act",
+     "severity": "serious",
+     "severity_basis": "Sec 3 of the Tamil Nadu Prevention of Damage to Public Property (TNPPDL) Act is punishable with up to 5 years' imprisonment; classified serious following the precedent applied to the same Act in the AP dataset. Borderline call: ADR's annexure tallies 'Serious IPC' from IPC sections only, so this case does not add to its serious count.",
+     "case_description": "FIR Cr. No. 40/2018, B3 Fort Police Station; the same FIR names several Chennai DMK leaders"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 36/2018, B3 Fort Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 20/2018, B3 Fort Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 591/2017, M4 Red Hills Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 425/2017, S15 Selaiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 328/2017, Karumathampatty Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 248/2017, E1 Mylapore Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143; Sec 174 Railways Act 1989",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 148/2017, R1 Mambalam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Sec 41 Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 140/2017, D5 Marina Police Station"
+    },
+    {
+     "ipc_sections": "Sec 151 CrPC only (no IPC sections)",
+     "severity": "non-serious",
+     "severity_basis": "Preventive provision only (Sec 151 CrPC); no IPC offence charged",
+     "case_description": "FIR Cr. No. 1260/2016, B1 North Beach Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341; Sec 147, 174 Railways Act 1989",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1148/2016, K1 Sembium Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188; Sec 37(XI) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 594/2016, J10 Semmancherry Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188, 143, 149, 341, 283, 290",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 11/2014, Alagapuram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188, 143, 149, 341, 282, 290",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 11/2014, Fairlands Police Station"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 12/2021, Principal District Court, Sivagangai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 2/2021, Special Court-I for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 46/2020, Special Court-I for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 44/2020, Special Court-I for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 18/2020, Special Court-I for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 17/2020, Special Court-I for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 11/2020, Special Court-I for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 171(G)",
+     "severity": "serious",
+     "severity_basis": "Electoral offence under the IPC 171-series (and, where cited, the RP Act) - serious under ADR's published criteria",
+     "case_description": "STC 1036/2019, Chief Judicial Magistrate Court, Thiruvarur"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 363, 506(i); Sec 41(vi) Chennai Police Act",
+     "severity": "serious",
+     "severity_basis": "IPC 363 (kidnapping) falls in ADR's serious categories (assault/murder/kidnap/rape)",
+     "case_description": "CC 67/2019, Special Court-III for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 4/2019, Special Court for MP/MLA cases, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 3/2020, Principal District Court, Madurai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 2/2019, Principal District Court, Madurai"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 2/2019, Principal District Court, Salem"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 1/2019, Principal District Court, Dindigul"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 1/2018, Principal District Court, Chengalpattu"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 1/2018, Principal District Court, Tiruchirappalli"
+    },
+    {
+     "ipc_sections": "IPC 499, 500",
+     "severity": "non-serious",
+     "severity_basis": "Defamation (IPC 499/500), maximum 2 years; not in ADR's serious categories",
+     "case_description": "CC 2/2013, Principal District Court, Dindigul"
+    }
+   ],
+   "education": "Graduate (B.Sc. in Political Science, 1973)",
+   "assets_current_inr": 88875339,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=504",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report. ADR's annexure reports 'Serious IPC: 6' for this candidate; this entry classifies 8 cases as serious, applying the published ADR criteria mechanically (all IPC 171-series electoral-offence cases and the TNPPDL Act case counted serious)."
+  },
+  {
+   "name": "A. Vetriazhagan",
+   "constituency": "Villivakkam",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "MBA, Annamalai University, 2009",
+   "assets_current_inr": 232762681,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1783",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "P. Sivakumar",
+   "constituency": "Thiru-Vi-Ka-Nagar (SC)",
+   "total_cases": 15,
+   "serious_cases": 1,
+   "non_serious_cases": 14,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 308/2017, K1 Sembium Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 148, 188, 286, 353; Sec 174 Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 579/2016, J1 Saidapet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 435/2016, P2 Otteri Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 1533/2017, P2 Otteri Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143; Sec 151 CrPC; Sec 7(1)(a) Criminal Law Amendment Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 223/2018, F3 Nungambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 4/2021, G1 Vepery Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 290; Sec 4(1) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 442/2019, B1 North Beach Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 290; Sec 4A(1b), 41, 71A(1) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 1739/2020, B1 North Beach Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 290; Sec 4A(1b), 41, 71A(1), 4(1) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 1891/2020, B1 North Beach Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 290; Sec 4A(1b), 41, 71A(1) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 1900/2020, B1 North Beach Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 290",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 50/2021, B1 North Beach Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Sec 7(1) Criminal Law Amendment Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 1021/2011, R6 Kumaran Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 147, 294B, 353; Sec 3(2) TNPPDL Act",
+     "severity": "serious",
+     "severity_basis": "Sec 3 of the Tamil Nadu Prevention of Damage to Public Property (TNPPDL) Act is punishable with up to 5 years' imprisonment; classified serious following the precedent applied to the same Act in the AP dataset. Borderline call: ADR's annexure tallies 'Serious IPC' from IPC sections only, so this case does not add to its serious count.",
+     "case_description": "FIR Crime No. 40/2018, B3 Fort Police Station; the same FIR names several Chennai DMK leaders"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 1813/2016, J1 Saidapet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 151; Sec 41(6) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Crime No. 85/2020, J1 Saidapet Police Station"
+    }
+   ],
+   "education": "M.A. Public Administration, Distance Education, Chennai University (2012)",
+   "assets_current_inr": 20516556,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1556",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report."
+  },
+  {
+   "name": "I. Paranthamen",
+   "constituency": "Egmore (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "B.A.B.L., Dr Ambedkar Govt Law College, Chennai, 1999",
+   "assets_current_inr": 11246806,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1025",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Idream R. Murthy",
+   "constituency": "Royapuram",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "10th Pass",
+   "assets_current_inr": 1121958217,
+   "source_url": "https://myneta.info/TamilNadu2021/index.php?action=summary&subAction=candidates_analyzed&sort=asset",
+   "notes": "Declared cases are pending matters, not convictions. The candidate does not appear on myneta's winners list; assets, education and nil declared cases are from myneta's candidates-analysed summary for Tamil Nadu 2021, corroborated by ADR's Sitting MLAs Report, which carries no criminal-case annexure entry for him."
+  },
+  {
+   "name": "P. K. Sekar Babu",
+   "constituency": "Harbour",
+   "total_cases": 25,
+   "serious_cases": 4,
+   "non_serious_cases": 21,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188, 269, 290",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 50/2021, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 290; Sec 41, 71A(1) TN City Police Act; Sec 4A(1b) TN Open Places (Prevention of Disfigurement) Act 1959",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1900/2020, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 290; Sec 41, 71A(1) TN City Police Act; Sec 4A(1b) TN Open Places (Prevention of Disfigurement) Act 1959",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1891/2020, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 290; Sec 41, 71A(1) TN City Police Act; Sec 4A(1b) TN Open Places (Prevention of Disfigurement) Act 1959",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1793/2020, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 290; Sec 41 TN City Police Act; Sec 4A(1b) TN Open Places (Prevention of Disfigurement) Act 1959",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 49/2020, C1 Flower Bazaar (Pookadai) Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 41 Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 787/2020, F3 Nungambakkam Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 385, 386, 387, 389, 395, 420, 506(ii), 34",
+     "severity": "serious",
+     "severity_basis": "IPC 386/387/389 (extortion) carry up to 10 years, IPC 395 (dacoity) up to life/10 years, IPC 420 (cheating) 7 years and IPC 506(ii) 7 years - ADR 5+ year criterion",
+     "case_description": "FIR Cr. No. 675/2019, C2 Elephant Gate Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188; Sec 41 City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 94/2019, J3 Guindy Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 341; Sec 41 City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 921/2019, F2 Egmore Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 290; Sec 41 TN City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 442/2019 (police station not stated in ADR's annexure)"
+    },
+    {
+     "ipc_sections": "IPC 147, 294B, 353; Sec 3(2) TNPPDL Act",
+     "severity": "serious",
+     "severity_basis": "Sec 3 of the Tamil Nadu Prevention of Damage to Public Property (TNPPDL) Act is punishable with up to 5 years' imprisonment; classified serious following the precedent applied to the same Act in the AP dataset. Borderline call: ADR's annexure tallies 'Serious IPC' from IPC sections only, so this case does not add to its serious count.",
+     "case_description": "FIR Cr. No. 40/2018, B3 Fort Police Station, Chennai; the same FIR names several Chennai DMK leaders"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 168/2018, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143; Sec 151 CrPC; Sec 7(1)(a) Criminal Law Amendment Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 223/2018, F3 Nungambakkam Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 194/2018, P2 Otteri Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 286/2018, F2 Egmore Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 290, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 187/2018, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 20/2018, B3 Fort Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 341, 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 36/2018, B3 Fort Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 486/2017, B1 North Beach Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Sec 174(a) Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 250/2017, F2 Egmore Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 989/2017, F2 Egmore Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 341; Sec 147, 174 Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1148/2016, K1 Sembium Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 171(E), 323, 294(b), 324, 354, 34, 149",
+     "severity": "serious",
+     "severity_basis": "IPC 171E (bribery at an election) is an electoral offence under ADR's criteria; IPC 354 (assault or criminal force to a woman) is a crime against women; IPC 324 is in ADR's serious-section list",
+     "case_description": "FIR Cr. No. 462/2011, P6 Kodungaiyur Police Station, Chennai; charges framed 30 Dec 2019"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 353, 286, 307, 120B, 34, 171F; Sec 5 Explosive Substances Act",
+     "severity": "serious",
+     "severity_basis": "IPC 307 (attempt to murder) and IPC 171F (electoral offence) are serious under ADR's criteria; the Explosive Substances Act charge also falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 775/2006, S1 St Thomas Mount Police Station, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 427",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 552/2006, H3 Tondiarpet Police Station, Chennai"
+    }
+   ],
+   "education": "Studied upto SSLC in 1979, Kotti Mu. Appuchettiyar High School, K.H. Road, Chennai",
+   "assets_current_inr": 21054762,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=422",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report."
+  },
+  {
+   "name": "Udhayanidhi Stalin",
+   "constituency": "Chepauk-Thiruvallikeni",
+   "total_cases": 22,
+   "serious_cases": 0,
+   "non_serious_cases": 22,
+   "charges": [
+    {
+     "ipc_sections": "IPC 153, 294B; Sec 67 IT (Amendment) Act",
+     "severity": "non-serious",
+     "severity_basis": "Promoting enmity/obscenity provisions as charged; no section carries 5+ years and none falls in ADR's serious categories as charged in this FIR",
+     "case_description": "FIR Cr. No. 10/2021, CCB-1, Chennai"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270, 271; Sec 3 Epidemic Diseases Act; Sec 134, 135 Tamil Nadu Health Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 2346/2020, Thiruverumbur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 271",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 2127/2020, Valangaiman Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270; Sec 51(b) Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1748/2020, Manapparai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270; Sec 51(b) Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1747/2020, Manapparai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269, 270; Sec 51(b) Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1746/2020, Manapparai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 270, 341",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1633/2020, Thiruvidaimaruthur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 270, 341",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1632/2020, Thiruvidaimaruthur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1464/2020, Thanjavur East Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1395/2020, Nachiyarkovil Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1380/2020, Ayyampettai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1276/2020, Nagapattinam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1275/2020, Kuthalam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1053/2020, Thoovakudi Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270, 341",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 957/2020, Nadukavery Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 151, 269; Sec 41A Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 925/2020, J3 Guindy Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 41 TN City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 663/2020, Nungambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 622/2020, Thirukuvalai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 270, 271; Sec 3 Epidemic Diseases Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 368/2020, BHEL Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270; Sec 51(b) Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 365/2020, Puthanatham Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 151, 283; Sec 41(6) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 526/2019, J1 Saidapet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 147, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 187/2019, Kallakurichi Police Station"
+    }
+   ],
+   "education": "Bachelor's Degree of Commerce, Loyola College, 1997",
+   "assets_current_inr": 290777932,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=256",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report."
+  },
+  {
+   "name": "Ezhilan Naganathan",
+   "constituency": "Thousand Lights",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "MD in General Medicine, Madras Medical College, Tamilnadu Dr M.G.R. Medical University, 2007",
+   "assets_current_inr": 11851770,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1563",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. K. Mohan",
+   "constituency": "Anna Nagar",
+   "total_cases": 4,
+   "serious_cases": 1,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 147, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "CC 98/2019, Addl. Special Court for MP/MLA cases, Chennai; FIR Cr. No. 547/2017, K8 Arumbakkam Police Station; charges framed 23 Jan 2020"
+    },
+    {
+     "ipc_sections": "IPC 143, 188; Sec 41(vi) TN City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "CC 4368/2020, V Metropolitan Magistrate, Egmore; FIR Cr. No. 57/2020, K8 Arumbakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1186/2020, K8 Arumbakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 166, 167, 197, 198, 199, 200, 203, 204, 418, 420, 423, 426, 427, 447, 465, 467, 468, 471, 474, 477, 120B",
+     "severity": "serious",
+     "severity_basis": "IPC 420 (7 years), IPC 467 (up to life/10 years), IPC 468 (7 years), IPC 474 and IPC 477 (7 years) - forgery and cheating offences meeting ADR's 5+ year criterion",
+     "case_description": "CC 1437/2017, II Metropolitan Magistrate, LB Nagar, Hyderabad; FIR Cr. No. 60/2012, CID Police, Hyderabad; the affidavit also lists sections of another Act (rendered as Sec 21, 23, 24, 25, 29, 34, 43, 44; Act name not legible in source)"
+    }
+   ],
+   "education": "8th Pass",
+   "assets_current_inr": 2112099843,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=297",
+   "notes": "Declared cases are pending matters, not convictions. Myneta's candidate page was truncated; case detail is from the annexure of ADR's Sitting MLAs Report (Total Cases: 4, Serious IPC: 5). Only the education category is stated in the sources used; no detailed institution/year entry was available."
+  },
+  {
+   "name": "A. M. V. Prabhakara Raja",
+   "constituency": "Virugampakkam",
+   "total_cases": 6,
+   "serious_cases": 1,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1219/2020, R-10 MGR Nagar Police Station; court: XXIII MM, Saidapet"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 669/2020; court: XXIII MM, Saidapet"
+    },
+    {
+     "ipc_sections": "IPC 171C, 171F; Sec 123(2)(a)(i) RP Act",
+     "severity": "serious",
+     "severity_basis": "Electoral offence under the IPC 171-series (and, where cited, the RP Act) - serious under ADR's published criteria",
+     "case_description": "FIR Cr. No. 164/2019, R-5 Virugambakkam Police Station; court: XXIII MM, Saidapet"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 245/2018, R-7 KK Nagar Police Station; court: XXIII MM, Saidapet"
+    },
+    {
+     "ipc_sections": "IPC 143, 341, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 798/2017; court: XXIII MM, Saidapet"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 341, 285",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1301/2016; court: XXIII MM, Saidapet"
+    }
+   ],
+   "education": "M.Tech, SRM University, 2011-13; MBA, University of Kerala, 2013-15",
+   "assets_current_inr": 22276366,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2112",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Ma. Subramanian",
+   "constituency": "Saidapet",
+   "total_cases": null,
+   "serious_cases": null,
+   "non_serious_cases": null,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
+   "notes": "ADR's Sitting MLAs Report lists this MLA among the sitting members it could not analyse because the affidavit available on the ECI website was unclear; no myneta candidate data was available either. Figures are left null rather than estimated. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "J. Karunanithi",
+   "constituency": "Thiyagarayanagar",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 209/2018, R1 Mambalam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 285",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 294/2018, R1 Mambalam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 930/2018, R1 Mambalam Police Station"
+    }
+   ],
+   "education": "9th Standard, Ramakrishna Mission HSS, T. Nagar, Chennai-17 (1984)",
+   "assets_current_inr": 34408856,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2054",
+   "notes": "Declared cases are pending matters, not convictions. Myneta lists the education category as '8th Pass'; the affidavit's detailed entry states 9th standard."
+  },
+  {
+   "name": "Dha. Velu",
+   "constituency": "Mylapore",
+   "total_cases": null,
+   "serious_cases": null,
+   "non_serious_cases": null,
+   "charges": [],
+   "education": null,
+   "assets_current_inr": null,
+   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
+   "notes": "ADR's Sitting MLAs Report lists this MLA among the sitting members it could not analyse because the affidavit available on the ECI website was unclear; no myneta candidate data was available either. Figures are left null rather than estimated. Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "JMH Aassan Maulaana",
+   "constituency": "Velachery",
+   "total_cases": 5,
+   "serious_cases": 1,
+   "non_serious_cases": 4,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 28/2021, F1 Chindadripet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 285",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1055/2019, D2 Anna Salai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 145",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 401/2019, J4 Kotturpuram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 353",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 238/2018, F1 Chintadripet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 417, 376, 498, 506(i); Sec 4 Tamil Nadu Prohibition of Harassment of Women Act",
+     "severity": "serious",
+     "severity_basis": "IPC 376 (rape) is a crime against women - serious under ADR's criteria",
+     "case_description": "FIR Cr. No. 04/2018, W20 Saidapet All Women Police Station; charge sheet not filed as per the affidavit"
+    }
+   ],
+   "education": "MBA, New College Institute of Management, Chennai, 2005",
+   "assets_current_inr": 117841833,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1726",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Aravind Ramesh",
+   "constituency": "Sholinganallur",
+   "total_cases": 22,
+   "serious_cases": 1,
+   "non_serious_cases": 21,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 44/2021, S16 Perumbakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 43/2021, S10 Pallikaranai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 11/2021, S7 Madipakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 14/2021, S10 Pallikaranai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 03/2021, S16 Perumbakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 02/2021, S10 Pallikaranai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1055/2020, S7 Madipakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1522/2020, S10 Pallikaranai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1521/2020, Pallikaranai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 341; Sec 41(6) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1483/2020, J1 Saidapet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 341, 143; Sec 3 Epidemic Disaster Management Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1527/2020, T4 Maduravoyal Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 151; Sec 41(6) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 746/2020, J9 Thoraipakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1219/2020, R10 MGR Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 285; Sec 41 TN City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 639/2019, S8 Adambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 14/2020, J8 Neelankarai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 952/2020, J10 Semmancherry Police Station"
+    },
+    {
+     "ipc_sections": "IPC 435",
+     "severity": "serious",
+     "severity_basis": "IPC 435 (mischief by fire or explosive substance) carries up to 7 years - ADR 5+ year criterion",
+     "case_description": "FIR Cr. No. 256/2019, J12 Kanathur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 383/2011, J8 Neelankarai Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1813/2016, J1 Saidapet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341; Sec 174 Railways Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1656/2020, J1 Saidapet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188; Sec 41(6) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 594/2016, J10 Semmancherry Police Station"
+    },
+    {
+     "ipc_sections": "IPC 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 430/2016, J10 Semmancherry Police Station"
+    }
+   ],
+   "education": "SSLC (not completed), Sholinganallur Govt Hr Sec School, 1983",
+   "assets_current_inr": 285905344,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2022",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report."
+  },
+  {
+   "name": "T. M. Anbarasan",
+   "constituency": "Alandur",
+   "total_cases": 10,
+   "serious_cases": 3,
+   "non_serious_cases": 7,
+   "charges": [
+    {
+     "ipc_sections": "IPC 109; Sec 13(2) r/w 13(1)(e) Prevention of Corruption Act",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act charges are serious under ADR's criteria",
+     "case_description": "Special Case 2/2020, District & Sessions Court-cum-Special Court, Chengalpattu; FIR DVAC Cr. No. 3/AC/2011/CC-III"
+    },
+    {
+     "ipc_sections": "IPC 171E",
+     "severity": "serious",
+     "severity_basis": "IPC 171E (bribery at an election) is an electoral offence - serious under ADR's criteria",
+     "case_description": "FIR Cr. No. 49/2019, Palur Police Station, Chengalpattu district; JM-I Chengalpattu"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 436, 109, 149; Sec 3(1) TNPPDL Act",
+     "severity": "serious",
+     "severity_basis": "IPC 436 (mischief by fire with intent to destroy a house) carries up to life/10 years - ADR 5+ year criterion",
+     "case_description": "CC 10/2020, Addl. Special Court for MP/MLA cases, Chennai; FIR Cr. No. 570/2005, R7 K.K. Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269, 283; Sec 41, 71A(1) TN City Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 69/2021, Tambaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 48/2021, Kundrathur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 47/2021, Pallavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 34/2021, Kundrathur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 145, 271",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 17/2021, Adambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 3/2021, Kundrathur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1534/2020, Kundrathur Police Station"
+    }
+   ],
+   "education": null,
+   "assets_current_inr": 82572457,
+   "source_url": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf",
+   "notes": "Declared cases are pending matters, not convictions. The candidate does not appear on myneta's winners list; assets and case detail are from ADR's Sitting MLAs Report (full-assets table and criminal annexure). Education is not stated in the sources used and is left null; his 2016 affidavit declared 10th Pass, which is not carried over as it is not a 2021 source."
+  },
+  {
+   "name": "K. Selvaperunthagai",
+   "constituency": "Sriperumbudur (SC)",
+   "total_cases": 3,
+   "serious_cases": 1,
+   "non_serious_cases": 2,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 151",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 1009/2019, Guindy Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 341",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 44/2018, Manalmedu Police Station, Nagapattinam"
+    },
+    {
+     "ipc_sections": "Sec 13(2) r/w 13(1)(e) Prevention of Corruption Act",
+     "severity": "serious",
+     "severity_basis": "Prevention of Corruption Act charges are serious under ADR's criteria",
+     "case_description": "CBI case RC 24(A)/2001, SPE/CBI/ACB Chennai; CC 20/2004, IX Addl. Special Judge for CBI Cases, Chennai; charges framed 03 May 2005"
+    }
+   ],
+   "education": "B.L., SV University, Tirupathi, Aug 2007; B.A., University of Madras, Chennai, 1988",
+   "assets_current_inr": 275457744,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2028",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "I. Karunanithi",
+   "constituency": "Pallavaram",
+   "total_cases": 12,
+   "serious_cases": 1,
+   "non_serious_cases": 11,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 269; Sec 41(VI) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 31/2021, S-5 Pallavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 427/2020, S-3 Meenambakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 147, 148, 436; Sec 3(1), 4 Prevention of Damage to Public Property Act 1984",
+     "severity": "serious",
+     "severity_basis": "IPC 436 (mischief by fire with intent to destroy a house) carries up to life/10 years - ADR 5+ year criterion",
+     "case_description": "CC 10/2020, Addl. Special Court for MP/MLA cases, Chennai; FIR Cr. No. 570/2005, R-7 K.K. Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1091/2020, S-5 Pallavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1094/2020, S-6 Sankar Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 586/2017, S-13 Chromepet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1093/2020, S-5 Pallavaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1095/2020, S-6 Sankar Nagar Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 83/2018, S-13 Chromepet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 269; Sec 3 Epidemic Diseases Act 1897",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1095/2020, S-5 Pallavaram Police Station (same FIR number as a Sankar Nagar PS case above, as printed in ADR's annexure)"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 1056/2020, S-7 Madipakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR Cr. No. 242/2018, S-13 Chromepet Police Station"
+    }
+   ],
+   "education": "SSLC, Government Higher Secondary School, Chennai-39 (1975-1976)",
+   "assets_current_inr": 10008315,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=209",
+   "notes": "Declared cases are pending matters, not convictions. Case detail as per the candidate's myneta page, cross-checked against the annexure of ADR's Sitting MLAs Report."
+  },
+  {
+   "name": "S. R. Raja",
+   "constituency": "Tambaram",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 283, 269",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 69/2021, S11 Tambaram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 42/2021, S15 Selaiyur Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 41/2021, S15 Selaiyur Police Station"
+    }
+   ],
+   "education": "9-Std, Corely High School, Tambaram, Chennai, 1975",
+   "assets_current_inr": 274169999,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=654",
+   "notes": "Declared cases are pending matters, not convictions. Myneta lists the education category as '8th Pass'; the affidavit's detailed entry states 9th standard. Charge sheets were not filed in these cases as per the affidavit."
+  },
+  {
+   "name": "M. Varalakshmi",
+   "constituency": "Chengalpattu",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "Others",
+   "assets_current_inr": 414445408,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=893",
+   "notes": "Declared cases are pending matters, not convictions. Myneta records the education category as 'Others'; no detailed entry was rendered on the candidate page."
+  },
+  {
+   "name": "S. S. Balaji",
+   "constituency": "Thiruporur",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 341, 353, 332, 324",
+     "severity": "serious",
+     "severity_basis": "Borderline call: IPC 332 and 324 each carry a maximum of 3 years, below the 5-year threshold, but both sections appear in ADR's published serious-section list and ADR's annexure counts this candidate's Serious IPC as 2; classified serious following ADR's own marking",
+     "case_description": "Crime No. 208/2018, D-1 Triplicane Police Station; CC 8051/2018, II MM Allikulam; charges framed 05 Aug 2019"
+    },
+    {
+     "ipc_sections": "IPC 143, 290, 149; Sec 7(1)(a) Criminal Law Amendment Act; Sec 41(6)(c) Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "Crime No. 206/2018, D1 Triplicane Police Station; CC 5950/2019, II MM Egmore; charges framed 08 Aug 2019"
+    }
+   ],
+   "education": "LL.B., Sri Venkateswara University, Andhra Pradesh, 2015; B.E., 1991",
+   "assets_current_inr": 31099633,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3846",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "M. Babu",
+   "constituency": "Cheyyur (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "B.A. (Public Administration), Tamilnadu Open University, 2009",
+   "assets_current_inr": 158917070,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=928",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "Maragatham Kumaravel",
+   "constituency": "Madurantakam (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "M.A., Tamilnadu Open University, 2017",
+   "assets_current_inr": 37609491,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=530",
+   "notes": "Declared cases are pending matters, not convictions. Name appears as 'Maragatham. K' on myneta."
+  },
+  {
+   "name": "K. Sundar",
+   "constituency": "Uthiramerur",
+   "total_cases": 3,
+   "serious_cases": 0,
+   "non_serious_cases": 3,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 1115/2020, Salavakkam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 136/2018, Madurantakam Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 188",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 37/2018, Uthiramerur Police Station"
+    }
+   ],
+   "education": "B.Sc., Pachaiyappa College, Chennai, 1972-75",
+   "assets_current_inr": 31557810,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=749",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "C. V. M. P. Ezhilarasan",
+   "constituency": "Kancheepuram",
+   "total_cases": 5,
+   "serious_cases": 0,
+   "non_serious_cases": 5,
+   "charges": [
+    {
+     "ipc_sections": "IPC 143, 341; Sec 41 Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 10/2020, Chintadripet Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 145; Sec 41 Chennai Police Act",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 436/2019, Kotturpuram Police Station"
+    },
+    {
+     "ipc_sections": "IPC 143, 147, 341, 353",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 438/2019, Kanchi Taluk Police Station"
+    },
+    {
+     "ipc_sections": "IPC 448, 294B, 352, 341, 353, 506(1)",
+     "severity": "non-serious",
+     "severity_basis": "House-trespass and assault pattern with simple criminal intimidation (506(1), max 2 years); no section carries 5+ years",
+     "case_description": "FIR 437/2019, Kanchi Taluk Police Station"
+    },
+    {
+     "ipc_sections": "IPC 147, 341, 353, 294B, 290, 506(1)",
+     "severity": "non-serious",
+     "severity_basis": "Rioting/assault pattern with simple criminal intimidation (506(1), max 2 years); no section carries 5+ years",
+     "case_description": "FIR 108/2019, Vishnu Kanchi Police Station"
+    }
+   ],
+   "education": "B.L., Dr Ambedkar Law University, Chennai, 2003",
+   "assets_current_inr": 71455672,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=453",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "S. Ravi",
+   "constituency": "Arakkonam (SC)",
+   "total_cases": 0,
+   "serious_cases": 0,
+   "non_serious_cases": 0,
+   "charges": [],
+   "education": "B.L., Madurai Law College, Kamaraj University, Madurai, 1989",
+   "assets_current_inr": 11574232,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=267",
+   "notes": "Declared cases are pending matters, not convictions."
+  },
+  {
+   "name": "A. M. Munirathinam",
+   "constituency": "Sholingur",
+   "total_cases": 2,
+   "serious_cases": 1,
+   "non_serious_cases": 1,
+   "charges": [
+    {
+     "ipc_sections": "IPC 147, 148, 324, 506(ii); Sec 3 TN Prevention of Damage to Public Property Act",
+     "severity": "serious",
+     "severity_basis": "IPC 506(ii) carries up to 7 years (ADR 5+ year criterion); IPC 324 is in ADR's serious-section list; also a public-property-damage charge",
+     "case_description": "FIR 100/2011, Sholinghur Police Station; SC 144/2019, Principal District Sessions Court, Vellore; charges framed 21 Jan 2020"
+    },
+    {
+     "ipc_sections": "IPC 143, 188, 269, 270",
+     "severity": "non-serious",
+     "severity_basis": "Unlawful assembly / public-order offences; no section carries 5+ years and none falls in ADR's serious categories",
+     "case_description": "FIR 621/2020, Sholinghur Police Station"
+    }
+   ],
+   "education": "S.S.L.C., Goodlet Hr. Sec. School, Sholinghur, 1973",
+   "assets_current_inr": 703268591,
+   "source_url": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3695",
+   "notes": "Declared cases are pending matters, not convictions."
+  }
+ ]
+}

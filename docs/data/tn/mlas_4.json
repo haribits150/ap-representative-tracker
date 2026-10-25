@@ -1,0 +1,5305 @@
+{
+ "mlas": [
+  {
+   "name": "M. Chinnadurai",
+   "constituency": "Gandarvakottai (SC)",
+   "party": "Communist Party of India (Marxist)",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 473200,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1851"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1851"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1851"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.23,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 12721,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 75.16,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Pudukkottai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "C. Vijayabaskar",
+   "constituency": "Viralimalai",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 615084428,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2109"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2109"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2109"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 52.83,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 23598,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 85.89,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Pudukkottai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "V. Muthuraja",
+   "constituency": "Pudukkottai",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 91218510,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1991"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1991"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1991"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.7,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 13001,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.04,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Pudukkottai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "S. Regupathy",
+   "constituency": "Thirumayam",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 153261761,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2041"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2041"
+    },
+    "criminal_cases_declared": {
+     "value": 23,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2041"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.0,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 1382,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 76.37,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Pudukkottai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Siva V. Meyyanathan",
+   "constituency": "Alangudi",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 13459578,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1827"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1827"
+    },
+    "criminal_cases_declared": {
+     "value": 29,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1827"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.17,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 25847,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 79.12,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Pudukkottai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "T. Ramachandran",
+   "constituency": "Aranthangi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 14251126,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3295"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3295"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=3295"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.7,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 30893,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.78,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Pudukkottai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "S. Mangudi",
+   "constituency": "Karaikudi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 53887265,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1211"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1211"
+    },
+    "criminal_cases_declared": {
+     "value": 9,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1211"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 35.75,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 21589,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 67.21,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Sivaganga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "K. R. Periyakaruppan",
+   "constituency": "Tiruppattur (Sivaganga)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 87031084,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2071"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2071"
+    },
+    "criminal_cases_declared": {
+     "value": 18,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=2071"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.19,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 37374,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.63,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Sivaganga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "P. R. Senthilnathan",
+   "constituency": "Sivaganga",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 72008344,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 40.66,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 11253,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 67.22,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Sivaganga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "A. Tamilarasi",
+   "constituency": "Manamadurai (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 21845568,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1540"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1540"
+    },
+    "criminal_cases_declared": {
+     "value": 8,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=1540"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.01,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 14091,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.88,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Sivaganga"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "P. Selvam",
+   "constituency": "Melur",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 19019770,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.6,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 35162,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.57,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "P. Moorthy",
+   "constituency": "Madurai East",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 113569676,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.59,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 49604,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.28,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "A. Venkatesan",
+   "constituency": "Sholavandan (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 16361245,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.04,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 17045,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 80.03,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "G. Thalapathi",
+   "constituency": "Madurai North",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 135925170,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 12,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.64,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 22916,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 64.27,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "M. Boominathan",
+   "constituency": "Madurai South",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 70007388,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 42.49,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 6515,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 64.2,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Palanivel Thiagarajan",
+   "constituency": "Madurai Central",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 388953333,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Doctorate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.99,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 34176,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 61.56,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Sellur K. Raju",
+   "constituency": "Madurai West",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 64904706,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=110"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=110"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=110"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.59,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 9121,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 65.69,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "V. V. Rajan Chellappa",
+   "constituency": "Thiruparankundram",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 65433366,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.96,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 29489,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 73.33,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "R. B. Udhaya Kumar",
+   "constituency": "Thirumangalam",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 18270625,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=162"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=162"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=162"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.51,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 14087,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.86,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "P. Ayyappan",
+   "constituency": "Usilampatti",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 5013217,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=746"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=746"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=746"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 33.53,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 7477,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.19,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Madurai"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Elected on the AIADMK ticket in 2021; he later sat as an independent. He resigned as MLA on 27 February 2026 and joined AIPTMMK; no by-election was held before the term ended, so the 2021 winner is retained as this term's member of record."
+   }
+  },
+  {
+   "name": "A. Maharajan",
+   "constituency": "Andipatti",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 155530084,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 44.64,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 8538,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 75.28,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Theni"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "K. S. Saravana Kumar",
+   "constituency": "Periyakulam (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 23285964,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 4,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.71,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 21321,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.69,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Theni"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "O. Panneerselvam",
+   "constituency": "Bodinayakanur",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 78246683,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.58,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 11021,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.02,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Theni"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "He resigned as MLA on 27 February 2026 and joined the DMK; no by-election was held before the term ended, so the 2021 winner is retained as this term's member of record."
+   }
+  },
+  {
+   "name": "N. Ramakrishnan",
+   "constituency": "Cumbum",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 73891559,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=285"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=285"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=285"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.81,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 42413,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.17,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Theni"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "S. Thangappandian",
+   "constituency": "Rajapalayam",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": null,
+     "source": null
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "ADR/MyNeta recorded this candidate's ECI affidavit as unclear and did not analyse it; no affidavit-derived figures could be sourced, so they are null."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.5,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 3898,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 74.63,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "E. M. Manraj",
+   "constituency": "Srivilliputhur (SC)",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 11024579,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.09,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 12738,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 73.83,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "A. R. R. Raghuraman",
+   "constituency": "Sattur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 18072721,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.68,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 11179,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 75.7,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "A. M. S. G. Ashokan",
+   "constituency": "Sivakasi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 494669749,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 42.66,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 17319,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.77,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "A. R. R. Seenivasan",
+   "constituency": "Virudhunagar",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 9629516,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 45.32,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 21699,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.16,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "K. K. S. S. R. Ramachandran",
+   "constituency": "Aruppukkottai",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 42708308,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=306"
+    },
+    "education": {
+     "value": "8th Pass",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=306"
+    },
+    "criminal_cases_declared": {
+     "value": 9,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=306"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 53.18,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 39034,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 76.68,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Thangam Thennarasu",
+   "constituency": "Tiruchuli",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 118761867,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.15,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 60992,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.05,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Virudhunagar"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "S. Murugesan",
+   "constituency": "Paramakudi (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 18040919,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "5th Pass",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.59,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 13285,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 71.7,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ramanathapuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "R. M. Karumanikam",
+   "constituency": "Tiruvadanai",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 31130586,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.33,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 13852,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 69.32,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ramanathapuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Katharbatcha Muthuramalingam",
+   "constituency": "Ramanathapuram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 10260895,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.88,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 50479,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 69.39,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ramanathapuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "R. S. Raja Kannappan",
+   "constituency": "Mudhukulathur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 14007776,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.06,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 20721,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 71.12,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Ramanathapuram"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "G. V. Markandayan",
+   "constituency": "Vilathikulam",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 62295991,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 5,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 54.05,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 38549,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 77.3,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Thoothukudi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "P. Geetha Jeevan",
+   "constituency": "Thoothukkudi",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 98276048,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 15,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.0,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 50310,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 66.02,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Thoothukudi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Anitha R. Radhakrishnan",
+   "constituency": "Tiruchendur",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 52870844,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "10th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 16,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 50.58,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 25263,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 71.18,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Thoothukudi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Oorvasi S. Amirtharaj",
+   "constituency": "Srivaikuntam",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 692572391,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.75,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 17372,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 73.56,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Thoothukudi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "M. C. Shunmugaiah",
+   "constituency": "Ottapidaram (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 14258275,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 10,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.11,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 8510,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.67,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Thoothukudi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Kadambur C. Raju",
+   "constituency": "Kovilpatti",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 21506562,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 2,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 37.89,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 12403,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 68.13,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Thoothukudi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "E. Raja",
+   "constituency": "Sankarankovil (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 63156370,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 38.92,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 5297,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.09,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tenkasi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "T. Sadhan Tirumalaikumar",
+   "constituency": "Vasudevanallur (SC)",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 83285025,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.08,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 2367,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.75,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tenkasi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "C. Krishnamurali",
+   "constituency": "Kadayanallur",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 31480837,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.08,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 24349,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.82,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tenkasi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "S. Palani Nadar",
+   "constituency": "Tenkasi",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 11,
+     "source": "https://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Annexure_1_-_TN_INC_Format_C7.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Criminal-case count from the Indian National Congress's Format C7 affidavit compilation; ADR/MyNeta did not analyse this candidate's ECI affidavit (recorded as unclear), and assets/education could not be sourced, so those fields are null."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 41.71,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 370,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 73.19,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tenkasi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "P. H. Manoj Pandian",
+   "constituency": "Alangulam",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 169567880,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=293"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=293"
+    },
+    "criminal_cases_declared": {
+     "value": 3,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=293"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 36.44,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 3539,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 78.05,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tenkasi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "Elected on the AIADMK ticket in 2021; expelled from the party in 2022, he sat as an independent. He resigned as MLA on 4 November 2025 after joining the DMK; no by-election was held, so the 2021 winner is retained as this term's member of record."
+   }
+  },
+  {
+   "name": "Nainar Nagendran",
+   "constituency": "Tirunelveli",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 267772882,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 46.7,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 23107,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 67.57,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirunelveli"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "E. Subaya",
+   "constituency": "Ambasamudram",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2467620574,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Doctorate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 47.96,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 16915,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 72.67,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirunelveli"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "M. Abdul Wahab",
+   "constituency": "Palayamkottai",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 22718035,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 26,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 55.32,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 52141,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 58.91,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirunelveli"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Ruby R. Manoharan",
+   "constituency": "Nanguneri",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": null,
+     "source": null
+    },
+    "education": {
+     "value": null,
+     "source": null
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "https://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Annexure_1_-_TN_INC_Format_C7.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Criminal-case count from the Indian National Congress's Format C7 affidavit compilation; ADR/MyNeta did not analyse this candidate's ECI affidavit (recorded as unclear), and assets/education could not be sourced, so those fields are null."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 39.43,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 16486,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 69.27,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirunelveli"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "M. Appavu",
+   "constituency": "Radhapuram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 25354570,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "12th Pass",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 7,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 43.95,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 5925,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 69.1,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Tirunelveli"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "N. Thalavai Sundaram",
+   "constituency": "Kanniyakumari",
+   "party": "All India Anna Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 19970097,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Graduate Professional",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 1,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.8,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 16213,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 76.28,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kanyakumari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "M. R. Gandhi",
+   "constituency": "Nagercoil",
+   "party": "Bharatiya Janata Party",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 5050000,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "education": {
+     "value": "Graduate",
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/index.php?action=show_winners&sort=default"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 48.21,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 11669,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 68.02,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kanyakumari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "J. G. Prince",
+   "constituency": "Colachal",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 6872055,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 73,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 49.56,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 24832,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 67.95,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kanyakumari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "T. Mano Thangaraj",
+   "constituency": "Padmanabhapuram",
+   "party": "Dravida Munnetra Kazhagam",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 2339869,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 29,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 51.57,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 26885,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 70.65,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kanyakumari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  },
+  {
+   "name": "Tharahai Cuthbert",
+   "constituency": "Vilavancode",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2024",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 20785893,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=4349"
+    },
+    "education": {
+     "value": "Doctorate",
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=4349"
+    },
+    "criminal_cases_declared": {
+     "value": 0,
+     "source": "https://myneta.info/tamilnadu2021/candidate.php?candidate_id=4349"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021 (affidavit filed for the 2024 Vilavancode by-election)."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 57.72,
+     "source": "https://en.wikipedia.org/wiki/Vilavancode_Assembly_constituency"
+    },
+    "margin_votes": {
+     "value": 40174,
+     "source": "https://en.wikipedia.org/wiki/Vilavancode_Assembly_constituency"
+    },
+    "turnout_pct": {
+     "value": 65.4,
+     "source": "https://en.wikipedia.org/wiki/Vilavancode_Assembly_constituency"
+    },
+    "group_notes": "By-election held on 19 April 2024 following the resignation of the 2021 winner (see meta notes); figures are for the by-election, from Election Commission of India data via Wikipedia's Vilavancode Assembly constituency page. (In the 2021 general election this constituency recorded 67.11% turnout.)"
+   },
+   "district_context": {
+    "districts": [
+     "Kanyakumari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "S. Vijayadharani (INC), the 2021 winner, resigned on 24 February 2024; Tharahai Cuthbert (INC) won the by-election held on 19 April 2024 and served the remainder of the term. Election figures in this entry are from the 2024 by-election."
+   }
+  },
+  {
+   "name": "S. Rajesh Kumar",
+   "constituency": "Killiyoor",
+   "party": "Indian National Congress",
+   "house": "assembly",
+   "term_start": "2021",
+   "legislative": {
+    "attendance_pct": {
+     "value": null,
+     "source": null
+    },
+    "questions_asked": {
+     "value": null,
+     "source": null
+    },
+    "debates_participated": {
+     "value": null,
+     "source": null
+    },
+    "private_member_bills": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu Legislative Assembly publishes no per-MLA attendance, questions, debates or private-member-bills dataset in the public sources checked; figures not available."
+   },
+   "funds": {
+    "entitlement_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilized_inr": {
+     "value": null,
+     "source": null
+    },
+    "utilization_pct": {
+     "value": null,
+     "source": null
+    },
+    "works_recommended": {
+     "value": null,
+     "source": null
+    },
+    "works_completed": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Tamil Nadu's MLA Constituency Development Scheme publishes no per-MLA utilisation data in the public sources checked; figures not available."
+   },
+   "disclosure": {
+    "assets_current_inr": {
+     "value": 21018347,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "education": {
+     "value": "Post Graduate",
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "criminal_cases_declared": {
+     "value": 52,
+     "source": "http://d2dqzm0c5v10mw.cloudfront.net/sites/default/files/Tamil_Nadu_Assembly_Election_2021_Sitting_MLAs_Report_Finalver_Eng.pdf"
+    },
+    "asset_growth_pct": {
+     "value": null,
+     "source": null
+    },
+    "group_notes": "Affidavit figures from myneta.info (ADR), Tamil Nadu 2021."
+   },
+   "election": {
+    "vote_share_pct": {
+     "value": 59.76,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "margin_votes": {
+     "value": 55400,
+     "source": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+    },
+    "turnout_pct": {
+     "value": 66.56,
+     "source": "https://des.tn.gov.in/sites/default/files/2025-07/30.%20LEGISLATURE%20AND%20ELECTION.pdf"
+    },
+    "group_notes": "2021 Tamil Nadu Legislative Assembly election result (Election Commission of India figures, via Wikipedia's 2021 Tamil Nadu Legislative Assembly election results table). Turnout: Tamil Nadu Statistical Handbook 2022-23, Table 30.2 (Chief Electoral Officer, Tamil Nadu data)."
+   },
+   "district_context": {
+    "districts": [
+     "Kanyakumari"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly"
+   },
+   "meta": {
+    "last_verified": "2026-10-24",
+    "notes": "2021 winner; no by-election was held for this constituency during the 2021-26 Assembly term, so the 2021 winner remained the sitting MLA for the term."
+   }
+  }
+ ]
+}
