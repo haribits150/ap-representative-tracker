@@ -88,7 +88,8 @@ const initials = n => (n||'?').split(/\s+/).map(w=>w[0]).slice(0,2).join('').toU
 function photoOf(mp, house){
   if(LITE || !PHOTOS) return null;
   const p = PHOTOS[`${house}/${slugOf(mp)}`];
-  return p ? `data/${STATE}/${p}` : null;
+  if(!p) return null;
+  return p.startsWith('data:') ? p : `data/${STATE}/${p}`;
 }
 function avatarHtml(mp, house, big){
   const src = photoOf(mp, house);
