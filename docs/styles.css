@@ -109,3 +109,18 @@ label.fld textarea{width:100%;padding:10px;border:1px solid var(--line);border-r
 .state-pill{opacity:.55}
 .state-pill.active{opacity:1}
 .state-pill:disabled{opacity:.35;cursor:not-allowed}
+
+/* representative photos (election affidavit via MyNeta; initials fallback) */
+div.avatar{width:44px;height:44px;border-radius:50%;background:var(--accent-soft);color:var(--accent);
+  display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.1rem}
+img.avatar{width:44px;height:44px;border-radius:50%;object-fit:cover;display:block;background:var(--accent-soft)}
+.mp-card img.avatar{margin-bottom:8px}
+div.avatar.avatar-lg{width:96px;height:96px;font-size:2rem}
+img.avatar.avatar-lg{width:96px;height:96px}
+.profile-head .ph-top{display:flex;gap:18px;align-items:flex-start}
+.profile-head .ph-main{flex:1;min-width:0}
+.profile-head .ph-photo{flex:0 0 auto;text-align:center}
+.photo-credit{font-size:.68rem;color:var(--muted);margin-top:6px;max-width:96px;line-height:1.35}
+.photo-credit a{color:var(--muted)}
+@media (max-width:640px){div.avatar.avatar-lg{width:72px;height:72px;font-size:1.5rem}
+  img.avatar.avatar-lg{width:72px;height:72px}.photo-credit{max-width:72px}}

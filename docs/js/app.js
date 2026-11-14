@@ -4,6 +4,7 @@ let MLA = [];
 let DIST = {districts: []};
 let AFF = {mps: []};
 let NEWS = {news: {}};
+let PHOTOS = {};
 let GEO = null;
 let CONTACTS = {contacts: {}};
 let CHANGELOG = {entries: []};
@@ -79,6 +80,40 @@ function fmtINR(n){
 const srcLink = s => s ? ` <a class="src" href="${s}" target="_blank" rel="noopener">[${t('source')}]</a>` : '';
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const initials = n => (n||'?').split(/\s+/).map(w=>w[0]).slice(0,2).join('').toUpperCase();
+
+/* Representative photo: the candidate's election-affidavit photo via MyNeta
+   (photos.json manifest, keyed like NEWS: "house/slug"). Affidavit photos
+   only — no substitute sources. Missing manifest entry = initials avatar.
+   Lite mode never loads photos. */
+function photoOf(mp, house){
+  if(LITE || !PHOTOS) return null;
+  const p = PHOTOS[`${house}/${slugOf(mp)}`];
+  return p ? `data/${STATE}/${p}` : null;
+}
+function avatarHtml(mp, house, big){
+  const src = photoOf(mp, house);
+  const lg = big ? ' avatar-lg' : '';
+  if(src) return `<img class="avatar avatar-photo${lg}" src="${src}" alt="${esc(mp.name)}" loading="lazy">`;
+  return `<div class="avatar${lg}">${initials(mp.name)}</div>`;
+}
+/* The MyNeta candidate page the photo came from, for the photo credit.
+   (Some affidavit entries cite an ADR/PRS source instead — the credit must
+   point at the photo's own source, so non-MyNeta URLs are skipped.) */
+function affSource(mp){
+  const all = (AFF.mps || []).concat(AFF.mlas || []);
+  const exact = all.find(a => a.name === mp.name && a.constituency === mp.constituency);
+  if(exact && exact.source_url && exact.source_url.includes('myneta')) return exact.source_url;
+  const a = affOf(mp);
+  if(a && a.source_url && a.source_url.includes('myneta') && a.constituency === mp.constituency) return a.source_url;
+  const D = mp.disclosure || {};
+  let prev = null;
+  for(const k of Object.keys(D)){ const m = M(D,k); if(m.source && m.source.includes('myneta')){ if(k !== 'assets_prev_inr') return m.source; prev = prev || m.source; } }
+  return prev;
+}
+function photoCredit(mp){
+  const src = affSource(mp);
+  return src ? `<div class="photo-credit"><a href="${src}" target="_blank" rel="noopener">${t('photo_credit')}</a></div>` : '';
+}
 
 function setLang(l){
   PREF = l;
@@ -278,11 +313,16 @@ function viewProfile(slug, house){
   return `
   <p><a href="#/">${t('back')}</a></p>
   <div class="profile-head">
+    <div class="ph-top">
+      <div class="ph-photo">${avatarHtml(mp, house, true)}${photoOf(mp, house) ? photoCredit(mp) : ''}</div>
+      <div class="ph-main">
     <h1>${esc(mp.name)}<span class="badge">${esc(mp.party||'')}</span></h1>
     <p class="sub">${esc(mp.constituency)} \u00b7 ${houseLbl} \u00b7 ${t('last_verified')}: ${esc(lastV||'\u2014')} \u00b7 ${vc.ok}/${vc.total} ${t('fields_verified')}</p>
     <p><a class="share-btn" href="https://wa.me/?text=${waText}" target="_blank" rel="noopener">${t('share_whatsapp')}</a>
     <button class="share-btn" onclick="shareCard('${house}','${slugOf(mp)}')">${t('share_card')}</button>
     <button class="correct-btn" onclick="openCorrection('${house}','${slugOf(mp)}')">${t('correct_title')}</button></p>
+      </div>
+    </div>
     <div class="kpis">${kpis}</div>
   </div>
 
@@ -551,8 +591,8 @@ function viewCompare(params){
       ${row(t('m_margin'), M(mp.election,'margin_votes'), fmtN)}
       ${row(t('m_turnout'), M(mp.election,'turnout_pct'), fmtPct)}`;
     return `
-    <div class="profile-head"><h1 style="font-size:1.1rem"><a href="#/${route}/${slugOf(mp)}">${esc(mp.name)}</a></h1>
-    <p class="sub">${esc(mp.constituency)} \u00b7 ${esc(mp.party||'')}</p></div>
+    <div class="profile-head"><div class="ph-top"><div class="ph-photo">${avatarHtml(mp, route)}</div><div class="ph-main"><h1 style="font-size:1.1rem"><a href="#/${route}/${slugOf(mp)}">${esc(mp.name)}</a></h1>
+    <p class="sub">${esc(mp.constituency)} \u00b7 ${esc(mp.party||'')}</p></div></div>
     <section class="panel"><table class="metrics">${rows}
     </table></section>`;
   };
@@ -690,7 +730,7 @@ function viewDistrict(slug){
   <section class="panel"><h2>${t('mps_in_district')}</h2>
     <div class="mp-grid">
       ${mps.map(mp=>`<a class="mp-card" href="#/mp/${slugOf(mp)}">
-        <div class="avatar">${initials(mp.name)}</div><h3>${esc(mp.name)}</h3>
+        ${avatarHtml(mp,'mp')}<h3>${esc(mp.name)}</h3>
         <div class="cons">${esc(mp.constituency)}</div><span class="party">${esc(mp.party||'')}</span>
       </a>`).join('') || `<p>${t('data_pending')}</p>`}
     </div>
@@ -698,7 +738,7 @@ function viewDistrict(slug){
   <section class="panel"><h2>${t('mlas_in_district')}</h2>
     <div class="mp-grid">
       ${districtMLAs(d).map(mp=>`<a class="mp-card" href="#/mla/${slugOf(mp)}">
-        <div class="avatar">${initials(mp.name)}</div><h3>${esc(mp.name)}</h3>
+        ${avatarHtml(mp,'mla')}<h3>${esc(mp.name)}</h3>
         <div class="cons">${esc(mp.constituency)}</div><span class="party">${esc(mp.party||'')}</span>
       </a>`).join('') || `<p>${t('data_pending')}</p>`}
     </div>
@@ -777,7 +817,7 @@ window.renderFindMandal = mandal => {
   const note = m.note ? `<p class="disclaimer">${esc(m.note)}</p>` : '';
   const card = (r, route) => r ? `
     <a class="mp-card" href="#/${route}/${slugOf(r)}">
-      <div class="avatar">${initials(r.name)}</div><h3>${esc(r.name)}</h3>
+      ${avatarHtml(r, route)}<h3>${esc(r.name)}</h3>
       <div class="cons">${esc(r.constituency)}</div><span class="party">${esc(r.party||'')}</span>
     </a>` : `<p><span class="pending">${t('data_pending')}</span></p>`;
   box.innerHTML = `
@@ -795,7 +835,7 @@ window.renderFind = d => {
   const mps = districtMPs(d), mlas = districtMLAs(d);
   const card = (mp, route) => `
     <a class="mp-card" href="#/${route}/${slugOf(mp)}">
-      <div class="avatar">${initials(mp.name)}</div><h3>${esc(mp.name)}</h3>
+      ${avatarHtml(mp, route)}<h3>${esc(mp.name)}</h3>
       <div class="cons">${esc(mp.constituency)}</div><span class="party">${esc(mp.party||'')}</span>
     </a>`;
   box.innerHTML = `
@@ -973,6 +1013,7 @@ async function load(){
     const nchunks = await Promise.all([1,2,3,4].map(i=>get(`${D}news_${i}.json`)));
     for(const c of nchunks){ if(c && c.news) Object.assign(NEWS.news, c.news); }
   }
+  PHOTOS = LITE ? {} : (await get(D+'photos.json') || {});
   try{ const r = LITE ? {ok:false} : await fetch(D+'districts.geojson'); GEO = r.ok ? await r.json() : null; }catch(e){ GEO = null; }
 }
 const houseOf = mp => (mp.house==='assembly' || MLA.includes(mp)) ? 'mla' : 'mp';
